@@ -6,7 +6,7 @@
 
 html,
 body {
-	background-color: #eee;
+	background-color: #fff;
 
 	color: #333;
 	fill: #333;
@@ -44,10 +44,14 @@ h1::before {
 	width: 128px;
 	height: 128px;
 
-	background-image: url('../images/vocal.svg');
+	background-image: url('../images/application-default-icon.svg');
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+}
+
+.com-github-vocalapp-vocal h1::before {
+	background-image: url('../images/com.github.vocalapp.vocal.svg');
 }
 
 h1 + p {
@@ -55,6 +59,15 @@ h1 + p {
 
 	font-size: 112.5%;
 	font-weight: 200;
+}
+
+a {
+	color: #08c;
+	text-decoration: none;
+}
+
+a:not(.button):hover {
+	text-decoration: underline;
 }
 
 header {
