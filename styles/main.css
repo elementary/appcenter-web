@@ -1,0 +1,24 @@
+html,
+body {
+	background-color: #333;
+
+	color: #eee;
+	font-family: "Open Sans", "Droid Sans", "Roboto", sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+}
+
+body {
+	margin: 1rem auto 0;
+	max-width: 900px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: "Raleway", "Open Sans", "Droid Sans", "Roboto", sans-serif;
+	font-weight: 200;
+}
