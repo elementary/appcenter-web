@@ -51,7 +51,7 @@ h1::before {
 }
 
 .com-github-vocalapp-vocal h1::before {
-	background-image: url('../images/com.github.vocalapp.vocal.svg');
+	background-image: url('../images/com.github.needle-and-thread.vocal.svg');
 }
 
 h1 + p {
