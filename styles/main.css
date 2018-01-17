@@ -1,201 +1,64 @@
-*,
-*:before,
-*:after {
-	box-sizing: inherit;
-}
-
 html,
 body {
-	background-color: #fff;
-
-	color: #333;
-	fill: #333;
-	font-family: "Open Sans", "Droid Sans", "Roboto", sans-serif;
-	font-size: 16px;
-	font-weight: 400;
-
-	box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
-body {
-	margin: 1rem auto 0;
-	padding: 0 1em;
-	max-width: 1000px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-	font-family: "Raleway", "Open Sans", "Droid Sans", "Roboto", sans-serif;
-	font-weight: 200;
-}
-
-h1 {
-	margin-bottom: 0;
-}
-
-h1::before {
-	content: "";
-	display: block;
-	margin: 0 auto;
-	width: 128px;
-	height: 128px;
-
-	background-image: url('../images/application-default-icon.svg');
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: contain;
-}
-
-.com-github-vocalapp-vocal h1::before {
-	background-image: url('../images/com.github.needle-and-thread.vocal.svg');
-}
-
-h1 + p {
-	margin-top: 0.25em;
-
-	font-size: 112.5%;
-	font-weight: 200;
-}
-
-a {
-	color: #08c;
-	text-decoration: none;
-}
-
-a:not(.button):hover {
-	text-decoration: underline;
+body {  
+  text-align: center;
+  font-family: "Open Sans", "Droid Sans", sans-serif;
 }
 
 header {
-	margin-bottom: 2em;
+  margin: 0 auto;
 
-	text-align: center;
+  background-color: #603461;
+
+  color: #fff;
+  text-align: left;
+
+  clear: both;
 }
 
-header img {
-	display: block;
-	margin: 0 auto;
-	max-width: 100%;
+h1 {
+  margin-top: 0.85em;
+  margin-bottom: 0;
+  font-family: "Raleway", "Open Sans", "Droid Sans", sans-serif;
+  font-weight: 200;
+  width: 100%;
 }
 
-button.install::before,
-.button.install::before {
-	content: "";
-	display: inline-block;
-	width: 1em;
-	height: 1em;
-	margin-right: 0.5em;
-	position: relative;
-	top: 0.125em;
-	background-image: url('../images/system-software-install-symbolic.svg');
-
-	-webkit-filter: brightness(10)
-	                drop-shadow(0 1px rgba(0, 0, 0, 0.3));
-	filter: brightness(10)
-	        drop-shadow(0 1px rgba(0, 0, 0, 0.3));
+h2 {
+  width: 100%;
+  margin: 0 auto;
+  font-weight: 200;
+  font-size: 1.25em;
 }
 
-.e .get {
-	display: none;
+.constrained {
+  display: flex;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
-
-/* Buttons */
-
-button,
-.button {
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    background-color: transparent;
-    background-image: linear-gradient(to bottom, transparent, transparent 50%, rgba(0, 0, 0, 0.04));
-    border: 1px solid rgba(0, 0, 0, 0.2);
-    border-radius: 3px;
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.45),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.15),
-                0 1px 0 0 rgba(255, 255, 255, 0.15);
-    color: #333;
-	fill: #333;
-    cursor: pointer;
-    display: inline-block;
-    font-family: inherit;
-    font-size: inherit;
-    margin: 12px 6px;
-    outline: none;
-    padding: 6px 12px;
-    text-align: center;
-    text-decoration: none;
-    text-shadow: 0 1px rgba(255, 255, 255, 0.4);
-    transition: all 100ms ease-in;
+figure,
+img {
+  margin: 0 auto;
+  max-width: 900px;
 }
 
-/*button i,
-.button i {
-	margin-right: 0.25em;
-}*/
-
-button:focus,
-.button:focus {
-    border-color: rgba(77, 156, 209, 0.8);
-    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.05),
-                inset 0 1px 0 0 rgba(255, 255, 255, 0.45),
-                inset 0 -1px 0 0 rgba(255, 255, 255, 0.15),
-                0 3px 6px rgba(12, 128, 200, 0.16),
-                0 3px 6px rgba(12, 128, 200, 0.23);
-    text-decoration: none;
+figure.icon {
+  width: 128px;
+  padding: 1em;
 }
 
-button:active,
-.button:active,
-button.active,
-.button.active,
-.target-amount.checked {
-    background-color: rgba(0, 0, 0, 0.05);
-    background-image: none;
-    border-color: rgba(0, 0, 0, 0.25);
-    box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.05),
-                0 1px 0 0 rgba(255, 255, 255, 0.3);
+a.get-it {
+  width: 164px;
+  margin-top: 3em;
 }
 
-button.suggested-action,
-.button.suggested-action {
-    background-color: #64b9f1;
-    background-image: linear-gradient(to bottom, #75c6fd, #53abe5);
-    border-color: #4d9cd1;
-    color: #fff;
-	fill: #fff;
-    text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-}
-
-.button.flat {
-    background: none;
-    border-width: 2px;
-    box-shadow: none;
-    font-weight: bold;
-    margin-bottom: 10px;
-    margin-left: 0;
-    margin-top: 10px;
-    min-width: 250px;
-    padding: 7px;
-    text-shadow: none;
-}
-
-.light .button.flat,
-.light .button.flat .svg {
-    border-color: #fff;
-    box-shadow: none;
-    color: #fff;
-    fill: #fff;
-}
-
-.light .button.flat.active,
-.light .button.flat.active .svg {
-    background-color: #fff;
-    box-shadow: none;
-    color: #333;
-    fill: #333;
+.description {
+  margin: 0 auto;
+  max-width: 600px;
+  text-align: left;
 }
