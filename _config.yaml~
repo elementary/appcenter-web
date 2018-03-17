@@ -1,0 +1,16 @@
+---
+title: elementary AppCenter
+
+baseurl: ''
+
+collections:
+  apps:
+    title: Apps
+    output: true
+    permalink: /:path/
+
+markdown: kramdown
+
+permalink: pretty
+sass:
+  style: compressed

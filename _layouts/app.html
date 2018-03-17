@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<header style="background-color: {{page.color.primary}}; color: {{page.color.primary-text}}">
+  <h1>{{page.title}} <small>on elementary AppCenter</small></h1>
+  <p>{{page.developer}}</p>
+  <a href="appstream://{{page.slug}}.desktop">Install</a>
+</header>
+
+<section class="screenshots">
+  {% for screenshot in page.screenshots limit:1 %}
+    <img alt="screenshot" src="{{screenshot}}" />
+  {% endfor %}
+</section>
+
+<section class="description">
+  <h2>{{page.summary}}</h2>
+  {{content}}
+</section>

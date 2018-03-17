@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+{!-- % assign categories = site.cookies | group_by: "category" | sort: "name" % --}
+{% for category in categories %}
+<h2>{{ category.name }}</h2>
+
+<div class="columns">
+  {% for cookie in category.items %}
+    {% if cookie.hidden != true %}
+      <div class="cookie {{cookie.id | replace_first: '/', ''}} {{cookie.modifiers}}">
+        <picture>
+          {% if cookie.photo-coming-soon %}
+            <img src="/images/cookies/photo-coming-soon.svg" alt="Sight Unseen Discount!" />
+          {% else %}
+            {% for static_file in site.static_files %}
+              {% assign image = '/images/cookies' | append: cookie.id | append: '.png' %}
+              {% assign image350 = '/images/cookies' | append: cookie.id | append: '_350.png' %}
+              {% assign image700 = '/images/cookies' | append: cookie.id | append: '_700.png' %}
+              {% if static_file.path == image %}
+                {% assign has_image = true %}
+              {% endif %}
+              {% if static_file.path == image350 %}
+                {% assign has_image350 = true %}
+              {% endif %}
+              {% if static_file.path == image700 %}
+                {% assign has_image700 = true %}
+              {% endif %}
+            {% endfor %}
+
+            {% if has_image and has_image350 and has_image700 %}
+              <source srcset="/images/cookies{{cookie.id}}_700.png" media="
+                (-webkit-min-device-pixel-ratio: 2),
+                (min-resolution: 2dppx),
+                (min-resolution: 192dpi)">
+              <source srcset="/images/cookies{{cookie.id}}_350.png">
+              <img src="/images/cookies{{cookie.id}}_350.png" alt="Photo of {{cookie.title}} cookie" />
+            {% else %}
+              <img src="/images/cookies/sight-unseen-discount.svg" alt="Sight Unseen Discount!" />
+            {% endif %}
+          {% endif %}
+        </picture>
+
+        <h3>{{cookie.title}}</h3>
+
+        {% if cookie.description %}
+          <p>{{cookie.description}}</p>
+        {% endif %}
+      </div>
+    {% endif %}
+    {% assign has_image = false %}
+    {% assign has_image350 = false %}
+    {% assign has_image700 = false %}
+  {% endfor %}
+</div>
+
+{% endfor %}
+
