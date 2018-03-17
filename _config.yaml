@@ -5,8 +5,6 @@ color:
   primary: "#4c158a"
   primary-text: "#fff"
 
-baseurl: ''
-
 collections:
   apps:
     title: Apps
