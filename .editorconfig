@@ -13,3 +13,4 @@ tab_width = 2
 [*.rb]
 indent_style = tab
 tab_width = 4
+

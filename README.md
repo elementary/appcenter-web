@@ -18,3 +18,4 @@ Thanks to [@gamerlv](https://github.com/gamerlv) for [the script](https://gist.g
 - A better homepage
 - Automate updating the app list
 - Footer with homepage, Git repo, etc.
+

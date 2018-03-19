@@ -73,3 +73,4 @@ YAML.load_stream(componentsData) do |doc|
 		file.write(appFile)
 	end
 end
+

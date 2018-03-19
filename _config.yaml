@@ -23,3 +23,4 @@ markdown: kramdown
 permalink: pretty
 sass:
   style: compressed
+
