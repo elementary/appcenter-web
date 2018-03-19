@@ -3,9 +3,17 @@ layout: default
 ---
 
 <header style="background-color: {{page.color.primary}}; color: {{page.color.primary-text}}">
-  <h1>{{page.title}} <small>on elementary AppCenter</small></h1>
-  <p>{{page.developer}}</p>
-  <a href="appstream://{{page.slug}}.desktop">Install</a>
+  <div class="constrain">
+    {% for icon in page.icons %}
+      {% if icon[0] == "64@2" %}
+        <img alt="icon" src="{{icon[1]}}" />
+      {% endif %}
+    {% endfor %}
+
+    <h1>{{page.title}}</h1>
+    <p>{{page.developer}}</p>
+    <a href="appstream://{{page.slug}}.desktop">Install</a>
+  </div>
 </header>
 
 <section class="screenshots">
@@ -14,7 +22,7 @@ layout: default
   {% endfor %}
 </section>
 
-<section class="description">
+<section class="description constrain">
   <h2>{{page.summary}}</h2>
   {{content}}
 </section>
