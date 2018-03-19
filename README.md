@@ -7,6 +7,8 @@ To rebuild the app list, run:
 ruby appage.rb
 ```
 
+Thanks to [@gamerlv](https://github.com/gamerlv) for [the script](https://gist.github.com/gamerlv/4bb5e59415f239e8c79ff1d473e54520)!
+
 ## TODO:
 
 - Icons
@@ -15,4 +17,4 @@ ruby appage.rb
 - Figure out multiple screenshots
 - A better homepage
 - Automate updating the app list
-
+- Footer with homepage, Git repo, etc.
