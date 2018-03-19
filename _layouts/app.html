@@ -12,18 +12,27 @@ layout: default
 
     <h1>{{page.title}}</h1>
     <p>{{page.developer}}</p>
-    <a href="appstream://{{page.slug}}.desktop">Install</a>
+    <!--a href="appstream://{{page.slug}}.desktop">Install</a-->
   </div>
 </header>
 
-<section class="screenshots">
-  {% for screenshot in page.screenshots limit:1 %}
-    <img alt="screenshot" src="{{screenshot}}" />
-  {% endfor %}
-</section>
+<div class="main">
+  <section class="screenshots constrain">
+    {% for screenshot in page.screenshots limit:1 %}
+      <img alt="screenshot" src="{{screenshot}}" />
+    {% endfor %}
+  </section>
 
-<section class="description constrain">
-  <h2>{{page.summary}}</h2>
-  {{content}}
-</section>
+  <section class="description constrain">
+    <h2>{{page.summary}}</h2>
+    {{content}}
+  </section>
+</div>
 
+<footer>
+  <div class="constrain">
+    {% if page.homepage %}
+      <a href="{{page.homepage}}">Homepage</a>
+    {% endif %}
+  </div>
+</footer>

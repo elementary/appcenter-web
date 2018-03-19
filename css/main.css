@@ -24,17 +24,18 @@ body {
   margin: 0 auto;
 }
 
-.screenshots img {
-  display: block;
-  width: 900px;
-  max-width: 100%;
-  margin: 0 auto;
+.main {
+  padding: 2em 1em;
 }
 
-header h1 {
-  display: inline;
-  margin-top: 0;
-  vertical-align: middle;
+.screenshots {
+  background: #eee;
+}
+
+.screenshots img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
 }
 
 header {
@@ -53,11 +54,39 @@ header img {
   width: 64px;
 }
 
-a {
-  color: inherit;
+header h1 {
+  display: inline;
+  margin-left: 0.25em;
+  margin-top: 0;
+  vertical-align: middle;
 }
 
-section.description {
-  padding: 0 1em;
+header p {
+  display: inline;
+  margin-left: 0.5em;
+  vertical-align: sub;
+}
+
+header p::before {
+  display: inline;
+  content: "by ";
+}
+
+a {
+  border-radius: 0.25em;
+  color: inherit;
+  display: inline-block;
+  font-weight: bold;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}
+
+footer {
+  text-align: right;
+  padding: 2em 0;
 }
 
