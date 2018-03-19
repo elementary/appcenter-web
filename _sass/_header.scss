@@ -1,0 +1,34 @@
+header {
+  background-color: #485a6c;
+  background-image: linear-gradient(
+    to bottom right, 
+    rgba(255, 255, 255, 0.05), 
+    rgba(0, 0, 0, 0.05)
+  );
+  color: #fff;
+  padding: 1em;
+
+  img {
+    vertical-align: middle;
+    width: 64px;
+  }
+
+  h1 {
+    display: inline;
+    margin-left: 0.25em;
+    margin-top: 0;
+    vertical-align: middle;
+  }
+
+  p {
+    display: inline;
+    margin-left: 0.5em;
+    vertical-align: sub;
+
+    &::before {
+      display: inline;
+      content: "by ";
+    }
+  }
+}
+
