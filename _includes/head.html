@@ -25,6 +25,18 @@
   
   <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
   <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  
+  {% if page.icons %}
+    {% for icon in page.icons %}
+      {% if icon[0] == "64@2" %}
+        <meta property="og:image" content="{{icon[1]}}" />
+        <meta itemprop="image" content="{{icon[1]}}" />
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+    <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  {% endif %}
 
   <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,300italic,400italic|Roboto+Mono&subset=latin,greek,vietnamese,greek-ext,latin-ext,cyrillic,cyrillic-ext">
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: site.time }}">
