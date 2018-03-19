@@ -13,9 +13,12 @@ Thanks to [@gamerlv](https://github.com/gamerlv) for [the script](https://gist.g
 
 - [x] Icons
 - [ ] Combining with the redirect so the experience on elementary OS stays the same
-- [ ] Clean up styling to more closely match the AppCenter client
+- [ ] Clean up fonts to more closely match the AppCenter client
 - [ ] Figure out multiple screenshots
-- [ ] A better homepage
+- [x] A better homepage
 - [ ] Automate updating the app list
-- [ ] Footer with homepage, Git repo, etc.
-
+- [ ] Footer with 
+  - [x] Homepage 
+  - [ ] Git repo
+  - [ ] Help
+  - [ ] etc.
