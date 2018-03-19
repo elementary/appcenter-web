@@ -18,9 +18,30 @@ layout: default
 
 <div class="main">
   <section class="screenshots constrain">
-    {% for screenshot in page.screenshots limit:1 %}
-      <img alt="screenshot" src="{{screenshot}}" />
-    {% endfor %}
+    <div class="screenshotsview">
+      {% for screenshot in page.screenshots %}
+        <img alt="Screenshot" src="{{screenshot}}" />
+      {% endfor %}
+    </div>
+    <div id="tns-nav" style="display:none">
+      {% for screenshot in page.screenshots %}
+      <span style="background-color: {{page.color.primary}};">&nbsp;</span>
+      {% endfor %}
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
+    <script type="text/javascript">
+      // Show nav if Js is supported
+      document.querySelector("#tns-nav").style.display = "";
+      tns({
+        speed: 375,
+        container: '.screenshotsview',
+        autoplay: true,
+        autoplayHoverPause: true,
+        autoplayButtonOutput: false,
+        controls: false,
+        navContainer: "#tns-nav"
+      });
+    </script>
   </section>
 
   <section class="description constrain">
