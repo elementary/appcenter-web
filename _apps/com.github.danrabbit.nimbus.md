@@ -5,7 +5,10 @@ developer: Daniel Foré
 homepage: http://danielfore.com
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.nimbus.desktop/2BDD9962045D455350B16207C3318335/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.nimbus.desktop/2BDD9962045D455350B16207C3318335/icons/64x64/com.github.danrabbit.nimbus_com.github.danrabbit.nimbus.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.nimbus.desktop/2BDD9962045D455350B16207C3318335/icons/128x128/com.github.danrabbit.nimbus_com.github.danrabbit.nimbus.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.nimbus.desktop/2BDD9962045D455350B16207C3318335/icons/64x64@2/com.github.danrabbit.nimbus_com.github.danrabbit.nimbus.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"

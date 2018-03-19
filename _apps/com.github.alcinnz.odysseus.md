@@ -8,7 +8,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/screenshots/image-4_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/78CDA3FA8B8C3636F464AE377F22A83E/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"

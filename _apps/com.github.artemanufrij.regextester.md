@@ -5,7 +5,10 @@ developer: Artem Anufrij
 homepage: https://github.com/artemanufrij/regextester
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/icons/64x64/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/icons/128x128/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/icons/64x64@2/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
 color:
   primary: "#3a9104"
   primary-text: "rgb(255,255,255)"

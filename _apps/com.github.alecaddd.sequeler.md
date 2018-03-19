@@ -8,7 +8,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-4_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"

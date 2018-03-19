@@ -8,7 +8,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/screenshots/image-4_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/icons/64x64/com.github.bitseater.weather_com.github.bitseater.weather.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/icons/128x128/com.github.bitseater.weather_com.github.bitseater.weather.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/F7665EB1F87C718D792A3855A04047AF/icons/64x64@2/com.github.bitseater.weather_com.github.bitseater.weather.png
 color:
   primary: "#660066"
   primary-text: "rgb(189, 253, 255)"

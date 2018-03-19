@@ -5,7 +5,10 @@ developer: Aleksandar Stefanović
 homepage: https://github.com/aleksandar-stefanovic/urmsimulator/
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/64x64/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/128x128/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/64x64@2/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
 color:
   primary: "#8b7793"
   primary-text: "#FAFAFA"

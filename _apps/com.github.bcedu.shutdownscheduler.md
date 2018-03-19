@@ -6,7 +6,10 @@ homepage: https://github.com/bcedu/ShutdownScheduler
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/21AC5D9EA8E21A8256D75BD4D0AC9768/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/21AC5D9EA8E21A8256D75BD4D0AC9768/screenshots/image-2_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/21AC5D9EA8E21A8256D75BD4D0AC9768/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/21AC5D9EA8E21A8256D75BD4D0AC9768/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/21AC5D9EA8E21A8256D75BD4D0AC9768/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"

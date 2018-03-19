@@ -1,5 +1,6 @@
 require 'zlib'
 require 'yaml'
+require "uri"
 require "open-uri"
 
 # HTTPS doesn't work
@@ -13,6 +14,8 @@ developer: ((dev))
 homepage: ((site))
 screenshots:
 ((screenshots))
+icons:
+((icons))
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
@@ -61,16 +64,34 @@ YAML.load_stream(componentsData) do |doc|
 		appFile.sub!('((price))', price)
 	end
 
+	mediaBase = "https://appstream.elementary.io/appcenter/media/xenial"
+
 	screenshots = ""
+	releaseHash = ""
 	unless doc['Screenshots'].nil?
 		doc['Screenshots'].each do |screenshot|
-			screenshots += "  - https://appstream.elementary.io/appcenter/media/xenial/#{screenshot['source-image']['url']}\n"
+			screenshots += "  - " + URI::encode("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
+			releaseHash = screenshot['source-image']['url'].split("/")[0..3].join("/") if releaseHash.empty?
 		end
 	end
-	appFile.sub!('((screenshots))', screenshots)
+	appFile.sub!('((screenshots))', screenshots.rstrip)
+
+	icons = ""
+	unless doc['Icon'].nil? or doc['Icon']['cached'].nil?
+		doc['Icon']['cached'].each do |icon|
+			if not icon['scale'].nil?
+				key = icon['height'].to_s + "@" + icon['scale'].to_s
+			else
+				key = icon['height'].to_s
+			end
+			icons += "  #{key}: " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
+		end
+	end
+	appFile.sub!('((icons))', icons.rstrip)
+
+
 
 	File.open("_apps/#{doc['Package']}.md", "w+") do |file|
 		file.write(appFile)
 	end
 end
-

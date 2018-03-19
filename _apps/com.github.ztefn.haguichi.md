@@ -9,7 +9,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-4_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-5_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
 color:
   primary: "#FF4444"
   primary-text: "#FFFFFF"

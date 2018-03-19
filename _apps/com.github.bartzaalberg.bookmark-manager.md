@@ -5,7 +5,10 @@ developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/bookmark-manager
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/785D60B15993C5978E00FBB7843F8AE3/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/785D60B15993C5978E00FBB7843F8AE3/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/785D60B15993C5978E00FBB7843F8AE3/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/785D60B15993C5978E00FBB7843F8AE3/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "rgb(224,247,255)"
   primary-text: "#000"

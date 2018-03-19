@@ -7,7 +7,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/screenshots/image-3_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/icons/64x64/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/icons/128x128/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/icons/64x64@2/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
 color:
   primary: "#96A8C8"
   primary-text: "#000000"

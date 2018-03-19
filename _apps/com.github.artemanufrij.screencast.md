@@ -6,7 +6,10 @@ homepage: https://artemanufrij.github.io
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/B24F06B2918B22135C93E0423EA79696/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/B24F06B2918B22135C93E0423EA79696/screenshots/image-2_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/B24F06B2918B22135C93E0423EA79696/icons/64x64/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/B24F06B2918B22135C93E0423EA79696/icons/128x128/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/B24F06B2918B22135C93E0423EA79696/icons/64x64@2/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
 color:
   primary: "#3A1412"
   primary-text: "rgb(255,244,230)"

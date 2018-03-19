@@ -7,7 +7,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/screenshots/image-3_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/icons/64x64/com.github.georgekap1an.chores_com.github.georgekap1an.chores.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/icons/128x128/com.github.georgekap1an.chores_com.github.georgekap1an.chores.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/icons/64x64@2/com.github.georgekap1an.chores_com.github.georgekap1an.chores.png
 color:
   primary: "rgb(130, 67, 9)"
   primary-text: "rgb(255, 255, 255)"
