@@ -19,7 +19,7 @@ body {
   box-sizing: inherit;
 }
 
-img {
+.screenshots img {
   display: block;
   width: 900px;
   max-width: 100%;
@@ -31,6 +31,13 @@ h1 {
 }
 
 header {
+  background-color: #485a6c;
+  background-image: linear-gradient(
+    to bottom right, 
+    rgba(255, 255, 255, 0.05), 
+    rgba(0, 0, 0, 0.05)
+  );
+  color: #fff;
   padding: 1em;
 }
 
