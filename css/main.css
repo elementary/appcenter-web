@@ -85,21 +85,36 @@ header p::before {
   content: "by ";
 }
 
-a {
-  border-radius: 0.25em;
+a,
+.button {
   color: inherit;
-  display: inline-block;
   font-weight: bold;
-  padding: 0.5em 1em;
   text-decoration: none;
 }
 
 a:hover {
+  text-decoration: underline;
+}
+
+.button {
+  border-radius: 0.25em;
+  display: inline-block;
+  padding: 0.5em 1em;
+}
+
+.button:hover {
   background-color: rgba(0, 0, 0, 0.05);
 }
 
 footer {
   text-align: right;
   padding: 2em 0;
+}
+
+.infobar {
+  background: #eee;
+  color: #333;
+  padding: 1em 0.5em;
+  text-align: center;
 }
 

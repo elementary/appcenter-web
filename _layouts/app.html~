@@ -1,9 +1,0 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <title>elementary AppCenter</title>
-  </head>
-  <body>
-    {{ content }}
-  </body>
-</html>

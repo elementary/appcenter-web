@@ -10,9 +10,12 @@ layout: default
 </header>
 
 <div class="home main constrain">
+  <h2>Made for elementary OS</h2>
+  <p>Get these apps on AppCenter, the open, pay-what-you-want app store for indie developers. Each app has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+  
   {% assign apps = site.apps | sort: 'title' %}
   {% for app in apps %}
-    <a class="app" href="{{site.baseurl}}/{{app.slug}}">
+    <a class="app button" href="{{site.baseurl}}/{{app.slug}}">
       {% for icon in app.icons %}
         {% if icon[0] == "64@2" %}
           <img alt="icon" src="{{icon[1]}}" />
@@ -26,6 +29,7 @@ layout: default
 
 <footer>
   <div class="constrain">
-    <a href="https://developer.elementary.io" target="_blank">Developers</a>
+    <a class="button" href="https://developer.elementary.io" target="_blank">Publish in AppCenter</a>
+    <a class="button" href="https://elementary.io/" target="_blank">Get elementary OS</a>
   </div>
 </footer>
