@@ -21,6 +21,7 @@ body {
 
 img {
   display: block;
+  width: 900px;
   max-width: 100%;
   margin: 0 auto;
 }
