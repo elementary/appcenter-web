@@ -1,0 +1,23 @@
+---
+title: Pushy
+summary: Pushbullet client
+developer: Haris Sulaiman
+homepage: https://github.com/harisvsulaiman/Pushy
+screenshots:
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/harisvsulaiman.pushy.desktop/4F8F77DC5C43DD18CF9F419AC7AD962B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/harisvsulaiman.pushy.desktop/4F8F77DC5C43DD18CF9F419AC7AD962B/screenshots/image-2_orig.png
+
+color:
+  primary: "#e9f4fc"
+  primary-text: "#000000"
+price: 0
+---
+
+<p>A Pushbullet client</p>
+<ul>
+  <li>Send Pushes to devices as note</li>
+  <li>Send Pushes to devices as link</li>
+  <li>Send files to devices</li>
+  <li>Quit with the handy shortcut Ctrl + Q</li>
+</ul>
+<p>Devices include Android, iOS, macOS, and browsers supporting the pushbullet extenstion.</p>

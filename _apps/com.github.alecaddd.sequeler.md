@@ -1,0 +1,25 @@
+---
+title: Sequeler
+summary: Friendly SQL Client
+developer: Alessandro Castellani
+homepage: https://github.com/Alecaddd/sequeler
+screenshots:
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/89376197F08AA0A10AAF0718CEB672F0/screenshots/image-4_orig.png
+
+color:
+  primary: "#3f3f3f"
+  primary-text: "#ffffff"
+price: 5
+---
+
+<p>Easily connect to your local or remote database</p>
+<p>Store your Database Connections in the built-in library, type and execute SQL commands directly in the App, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Features Include:</p>
+<ul>
+  <li>Test Connections before saving them</li>
+  <li>Switch between light and dark mode</li>
+  <li>Handy keyboard shortcuts to quit (ctrl+q), access library (ctrl+l), create new connection (ctrl+n), and open preferences
+(ctrl+,)</li> </ul>

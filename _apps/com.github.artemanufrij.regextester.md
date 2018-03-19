@@ -1,0 +1,16 @@
+---
+title: Regex Tester
+summary: A simple app for testing regular expressions
+developer: Artem Anufrij
+homepage: https://github.com/artemanufrij/regextester
+screenshots:
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/screenshots/image-1_orig.png
+
+color:
+  primary: "#3a9104"
+  primary-text: "rgb(255,255,255)"
+price: 1
+---
+
+<p>A regular expression is a special text string that describes a search pattern.</p>
+<p>Regex Tester shows all matches of search pattern in a string.</p>
