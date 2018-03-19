@@ -2,13 +2,30 @@
 layout: default
 ---
 
-<h1>elementary AppCenter</h1>
+<header style="background-color: #4c158a;">
+  <div class="constrain">
+    <img alt="icon" src="https://elementary.io/images/icons/apps/64/system-software-install.svg" />
+    <h1>elementary AppCenter</h1>
+  </div>
+</header>
 
-<h2>Apps:</h2>
-
-<ul>
-  {% for app in site.apps %}
-    <li><a href="{{site.baseurl}}/{{app.slug}}">{{app.title}}</a></li>
+<div class="home main constrain">
+  {% assign apps = site.apps | sort: 'title' %}
+  {% for app in apps %}
+    <a class="app" href="{{site.baseurl}}/{{app.slug}}">
+      {% for icon in app.icons %}
+        {% if icon[0] == "64@2" %}
+          <img alt="icon" src="{{icon[1]}}" />
+        {% endif %}
+      {% endfor %}
+      
+      {{app.title}}
+    </a>
   {% endfor %}
-</ul>
+</div>
 
+<footer>
+  <div class="constrain">
+    <a href="https://developer.elementary.io" target="_blank">Developers</a>
+  </div>
+</footer>

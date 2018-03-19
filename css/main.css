@@ -24,6 +24,19 @@ body {
   margin: 0 auto;
 }
 
+.home .app {
+  margin: 1em 0.5em;
+  text-align: center;
+  vertical-align: top;
+  width: 128px;
+}
+
+.home .app img {
+  display: block;
+  margin: 0 auto 0.5em;
+  width: 64px;
+}
+
 .main {
   padding: 2em 1em;
 }
