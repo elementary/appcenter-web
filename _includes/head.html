@@ -15,13 +15,16 @@
 
   <meta name="theme-color" content="{% if page.color.primary %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %}">
 
-  <meta name="twitter:card" content="summary">
+  <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@elementary">
 
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta itemprop="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  
+  <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
 
   <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,300italic,400italic|Roboto+Mono&subset=latin,greek,vietnamese,greek-ext,latin-ext,cyrillic,cyrillic-ext">
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: site.time }}">
