@@ -5,7 +5,10 @@ developer: Zach Burnham
 homepage: https://burnsoftware.wordpress.com/dayjournal/
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.dayjournal.desktop/ED8479A18BF041E393A546D01ED1487F/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.dayjournal.desktop/ED8479A18BF041E393A546D01ED1487F/icons/64x64/com.github.thejambi.dayjournal_com.github.thejambi.dayjournal.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.dayjournal.desktop/ED8479A18BF041E393A546D01ED1487F/icons/128x128/com.github.thejambi.dayjournal_com.github.thejambi.dayjournal.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.dayjournal.desktop/ED8479A18BF041E393A546D01ED1487F/icons/64x64@2/com.github.thejambi.dayjournal_com.github.thejambi.dayjournal.png
 color:
   primary: "#285151"
   primary-text: "rgb(255, 255, 255)"

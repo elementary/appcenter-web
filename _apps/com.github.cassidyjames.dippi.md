@@ -8,7 +8,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/screenshots/image-4_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/9F6926B3F8BDC8A67C2721B86B63FD48/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
 color:
   primary: "#525"
   primary-text: "#fffffc"

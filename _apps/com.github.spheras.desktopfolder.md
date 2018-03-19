@@ -7,7 +7,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/screenshots/image-3_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"

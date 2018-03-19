@@ -5,7 +5,11 @@ developer: Robert San
 homepage: https://robertsanseries.github.io/ciano/
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/icons/64x64/com.github.robertsanseries.ciano_com.github.robertsanseries.ciano.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/icons/128x128/com.github.robertsanseries.ciano_com.github.robertsanseries.ciano.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/icons/64x64@2/com.github.robertsanseries.ciano_com.github.robertsanseries.ciano.png
+  128@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/icons/128x128@2/com.github.robertsanseries.ciano_com.github.robertsanseries.ciano.png
 color:
   primary: "#52D3D2"
   primary-text: "#000000"

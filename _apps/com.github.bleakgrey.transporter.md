@@ -7,7 +7,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/screenshots/image-3_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/icons/64x64/com.github.bleakgrey.transporter_com.github.bleakgrey.transporter.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/icons/128x128/com.github.bleakgrey.transporter_com.github.bleakgrey.transporter.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/5B9C16B55385AA4D0154B50839D0F3AE/icons/64x64@2/com.github.bleakgrey.transporter_com.github.bleakgrey.transporter.png
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"

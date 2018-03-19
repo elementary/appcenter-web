@@ -5,7 +5,10 @@ developer: Dane Henson
 homepage: http://brainofdane.com
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda.desktop/577F421A0F173A4563FF2AF9E86137EA/screenshots/image-1_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda.desktop/577F421A0F173A4563FF2AF9E86137EA/icons/64x64/com.github.dahenson.agenda_com.github.dahenson.agenda.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda.desktop/577F421A0F173A4563FF2AF9E86137EA/icons/128x128/com.github.dahenson.agenda_com.github.dahenson.agenda.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda.desktop/577F421A0F173A4563FF2AF9E86137EA/icons/64x64@2/com.github.dahenson.agenda_com.github.dahenson.agenda.png
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"

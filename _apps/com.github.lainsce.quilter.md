@@ -7,7 +7,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/screenshots/image-3_orig.png
-
+icons:
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/ECD9096E61B47825E25887553FF26F38/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
