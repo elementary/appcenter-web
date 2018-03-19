@@ -12,7 +12,9 @@ layout: default
 
     <h1>{{page.title}}</h1>
     <p>{{page.developer}}</p>
-    <!--a href="appstream://{{page.slug}}.desktop">Install</a-->
+    <noscript id="install">
+      <a href="appstream://{{page.slug}}.desktop"><img src="https://appcenter.elementary.io/badge.svg" alt="Get it on AppCenter" /></a>
+    </noscript>
   </div>
 </header>
 
@@ -36,3 +38,18 @@ layout: default
     {% endif %}
   </div>
 </footer>
+
+<script defer>
+  // Going to an diffrent location opens a popup, delay this a tiny bit to not suprise the user
+  setTimeout(function () {
+    var title = document.getElementsByTagName('main')[0]
+    var userAgent = navigator.userAgent.toLowerCase()
+
+    var isLinux = (userAgent.indexOf('linux') !== -1 || userAgent.indexOf('elementary') !== -1)
+    var isAndroid = (userAgent.indexOf('android') !== -1)
+
+    if (isLinux && isAndroid === false) {
+      window.location = 'appstream://{{page.slug}}.desktop'
+    }
+  }, 1100);
+</script>

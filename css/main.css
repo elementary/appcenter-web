@@ -103,3 +103,9 @@ footer {
   padding: 2em 0;
 }
 
+#install {
+  float: right;
+}
+#install img {
+  width: auto;
+}
