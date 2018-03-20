@@ -20,7 +20,9 @@ layout: default
   <section class="screenshots constrain">
     <div class="screenshotsview">
       {% for screenshot in page.screenshots %}
-        <img alt="Screenshot" src="{{screenshot}}" />
+        <div>
+          <img alt="Screenshot" src="{{screenshot}}" />
+        </div>
       {% endfor %}
     </div>
     <div id="tns-nav" style="display:none">
