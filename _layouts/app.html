@@ -19,11 +19,7 @@ layout: default
 </header>
 
 <div class="main">
-  <section class="screenshots constrain">
-    {% for screenshot in page.screenshots limit:1 %}
-      <img alt="screenshot" src="{{screenshot}}" />
-    {% endfor %}
-  </section>
+  {% include screenshots.html %}
 
   <section class="description constrain">
     <h2>{{page.summary}}</h2>
