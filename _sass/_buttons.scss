@@ -1,0 +1,13 @@
+.button {
+  border-radius: 0.25em;
+  color: inherit;
+  display: inline-block;
+  font-size: 0.8em;
+  font-weight: normal;
+  padding: 0.5em 1em;
+  text-decoration: none;
+}
+
+.button:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+}

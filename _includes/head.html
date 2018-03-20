@@ -7,22 +7,38 @@
   <meta name="twitter:title" content="{% if page.title %}Get {{ page.title }} on {% endif %}{{ site.title }}">
 
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
 
-  <link rel="icon" sizes="256x256" href="{{ '/favicon.png' | prepend: site.baseurl }}">
-  <meta itemprop="logo" content="{{ '/favicon.png' | prepend: site.baseurl }}">
+  <link rel="shortcut icon" href="https://elementary.io/favicon.ico">
+  <link rel="apple-touch-icon" href="https://elementary.io/images/launcher-icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="https://elementary.io/images/favicon.png" sizes="256x256">
 
   <meta name="theme-color" content="{% if page.color.primary %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %}">
 
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:site" content="{{ site.twitter }}">
-  <meta name="twitter:creator" content="{% if page.twitter %}{{ page.twitter }}{% else %}{{ site.twitter }}{% endif %}">
+  <meta name="twitter:site" content="@elementary">
 
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta itemprop="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta itemprop="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  
+  <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  
+  {% if page.icons %}
+    {% for icon in page.icons %}
+      {% if icon[0] == "64@2" %}
+        <meta property="og:image" content="{{icon[1]}}" />
+        <meta itemprop="image" content="{{icon[1]}}" />
+      {% endif %}
+    {% endfor %}
+  {% else %}
+    <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+    <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  {% endif %}
 
+  <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,300italic,400italic|Roboto+Mono&subset=latin,greek,vietnamese,greek-ext,latin-ext,cyrillic,cyrillic-ext">
   <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: site.time }}">
 </head>
 

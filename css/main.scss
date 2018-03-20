@@ -1,0 +1,40 @@
+---
+---
+@charset "utf-8";
+
+@import "typography";
+@import "buttons";
+@import "infobars";
+
+@import "header";
+@import "footer";
+
+@import "apps";
+@import "home";
+
+html,
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  font-family: "Open Sans", "Droid Sans", sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.constrain {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.main {
+  padding: 2em 1em;
+}
+
