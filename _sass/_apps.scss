@@ -15,3 +15,24 @@
     width: auto;
   }
 }
+
+.pager {
+  display:flex;
+  justify-content: center;
+  padding: 12px 0;
+
+  span {
+    display: block;
+    width: 0.75em;
+    height: 0.75em;
+    background: #666;
+    border-radius: 50%;
+    margin: 0 8px;
+    cursor: pointer;
+    opacity: 0.5;
+  }
+  
+  .tns-nav-active {
+    opacity: 1;
+  }
+}
