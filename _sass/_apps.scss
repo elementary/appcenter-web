@@ -8,18 +8,24 @@
   margin: 0 auto;
 }
 
-#tns-nav {
+.pager {
   display:flex;
   justify-content: center;
   padding: 12px 0;
 
   span {
     display: block;
-    width: 50px;
-    height: 12px;
-    background: #4c158a;
-    border-radius: 6px;
+    width: 0.75em;
+    height: 0.75em;
+    background: #666;
+    border-radius: 50%;
     margin: 0 8px;
     cursor: pointer;
+    opacity: 0.5;
+  }
+  
+  .tns-nav-active {
+    opacity: 1;
   }
 }
+
