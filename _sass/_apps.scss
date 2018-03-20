@@ -1,0 +1,25 @@
+.screenshots {
+  background: #eee;
+}
+
+.screenshots img {
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+}
+
+#tns-nav {
+  display:flex;
+  justify-content: center;
+  padding: 12px 0;
+
+  span {
+    display: block;
+    width: 50px;
+    height: 12px;
+    background: #4c158a;
+    border-radius: 6px;
+    margin: 0 8px;
+    cursor: pointer;
+  }
+}
