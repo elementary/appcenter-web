@@ -8,6 +8,14 @@
   margin: 0 auto;
 }
 
+#install {
+  float: right;
+  
+  img {
+    width: auto;
+  }
+}
+
 .pager {
   display:flex;
   justify-content: center;
@@ -28,4 +36,3 @@
     opacity: 1;
   }
 }
-
