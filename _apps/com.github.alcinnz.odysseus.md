@@ -4,14 +4,14 @@ summary: Surf knowledge, entertainment, and services on The Web
 developer: Adrian Cochrane
 homepage: https://alcinnz.github.io/Odysseus
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/screenshots/image-4_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/7C8A4F9A3546FA7A19F429EC775CE1C0/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/DD4D9C8C0A4FC7B46879610A4038AB7B/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"
