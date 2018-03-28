@@ -8,23 +8,28 @@
   </div>
 </section>
 
-<div class="pager" style="display:none">
-  {% for screenshot in page.screenshots %}
-  <span>&nbsp;</span>
-  {% endfor %}
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
-<script type="text/javascript">
-  // Show nav if Js is supported
-  document.querySelector(".pager").style.display = "";
-  tns({
-    speed: 375,
-    container: '.carousel',
-    autoplay: true,
-    autoplayHoverPause: true,
-    autoplayButtonOutput: false,
-    controls: false,
-    navContainer: ".pager"
-  });
-</script>  
+{% if page.screenshots[1] %}
+  {% comment %}
+    Only load JS and show screenshots pager if more than one screenshot exists.
+  {% endcomment %}
+  
+  <div class="pager" style="display:none">
+    {% for screenshot in page.screenshots %}
+    <span>&nbsp;</span>
+    {% endfor %}
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/min/tiny-slider.js"></script>
+  <script type="text/javascript">
+    // Show nav if Js is supported
+    document.querySelector(".pager").style.display = "";
+    tns({
+      speed: 375,
+      container: '.carousel',
+      autoplay: true,
+      autoplayHoverPause: true,
+      autoplayButtonOutput: false,
+      controls: false,
+      navContainer: ".pager"
+    });
+  </script>  
+{% endif %}
