@@ -4,11 +4,11 @@ summary: Never miss out on the monetary value of a virtual currency with this ha
 developer: Lains
 homepage: https://github.com/lainsce/coin/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/264A790BED4E0C03B79802F4E94B8014/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/4F8277199E5C8DFD67BEAF0C0C36C222/screenshots/image-1_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/264A790BED4E0C03B79802F4E94B8014/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/264A790BED4E0C03B79802F4E94B8014/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/264A790BED4E0C03B79802F4E94B8014/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/4F8277199E5C8DFD67BEAF0C0C36C222/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/4F8277199E5C8DFD67BEAF0C0C36C222/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/4F8277199E5C8DFD67BEAF0C0C36C222/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
 color:
   primary: "#badbad"
   primary-text: "#212121"

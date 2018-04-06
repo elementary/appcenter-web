@@ -4,18 +4,18 @@ summary: A modern audio book player
 developer: Julian Geywitz
 homepage: https://github.com/geigi/cozy
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-4_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/E6F5279212EA2CCA46B0D72CD30325F0/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
 color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
-price: 4
+price: 2
 ---
 
 <p>You like audio books? Then lets get cozy!</p>
