@@ -4,14 +4,14 @@ summary: Calculate display info like DPI and aspect ratio
 developer: Cassidy James Blaede
 homepage: https://cassidyjames.com/dippi/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/screenshots/image-4_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/949DDB15561C6B5884D4093E1F434885/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/DB0196003E2C584087933743C929DE4C/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
 color:
   primary: "#525"
   primary-text: "#fffffc"
