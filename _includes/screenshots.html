@@ -23,11 +23,12 @@
     // Show nav if Js is supported
     document.querySelector(".pager").style.display = "";
     tns({
-      speed: 375,
+      speed: 350,
       container: '.carousel',
       autoplay: true,
       autoplayHoverPause: true,
       autoplayButtonOutput: false,
+      autoplayTimeout: 10000,
       controls: false,
       navContainer: ".pager"
     });
