@@ -7,6 +7,11 @@ header {
   );
   color: #fff;
   padding: 1em;
+  text-align: center;
+  
+  @media (min-width: 720px) {
+    text-align: left;
+  }
 
   img.icon {
     vertical-align: middle;
@@ -30,10 +35,14 @@ header {
       content: "by ";
     }
   }
-  
+
   .badge {
-    float: right;
+    display: block;
     margin: 0.5em 0;
+    
+    @media (min-width: 720px) {
+      float: right;
+    }
   }
 }
 
