@@ -6,13 +6,15 @@ layout: default
   <div class="constrain">
     {% for icon in page.icons %}
       {% if icon[0] == "64@2" %}
-        <img alt="icon" src="{{icon[1]}}" />
+        <img class="icon" alt="icon" src="{{icon[1]}}" />
       {% endif %}
     {% endfor %}
 
     <h1>{{page.title}}</h1>
     <p>{{page.developer}}</p>
-    <!--a href="appstream://{{page.slug}}.desktop">Install</a-->
+
+    <a class="badge" href="https://appcenter.elementary.io/{{page.slug}}"><img src="https://appcenter.elementary.io/badge.svg" alt="Get it on AppCenter"></a>
+
   </div>
 </header>
 

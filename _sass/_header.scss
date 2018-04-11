@@ -8,7 +8,7 @@ header {
   color: #fff;
   padding: 1em;
 
-  img {
+  img.icon {
     vertical-align: middle;
     width: 64px;
   }
@@ -29,6 +29,11 @@ header {
       display: inline;
       content: "by ";
     }
+  }
+  
+  .badge {
+    float: right;
+    margin: 0.5em 0;
   }
 }
 
