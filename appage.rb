@@ -84,7 +84,7 @@ YAML.load_stream(componentsData) do |doc|
 			else
 				key = icon['height'].to_s
 			end
-			icons += "  #{key}: " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
+			icons += "  \"#{key}\": " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
 		end
 	end
 	appFile.sub!('((icons))', icons.rstrip)

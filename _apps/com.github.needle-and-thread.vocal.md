@@ -8,9 +8,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/screenshots/image-3_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/12C80C93A80FD0203660048A281A8C32/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
 color:
   primary: "#603461"
   primary-text: "#fff"

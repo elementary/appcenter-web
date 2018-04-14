@@ -6,9 +6,9 @@ homepage: https://github.com/Philip-Scott
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/screenshots/image-1_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/128x128/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64@2/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/128x128/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64@2/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
 color:
   primary: "#D0F3FF"
   primary-text: "#004B66"

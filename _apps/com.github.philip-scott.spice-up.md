@@ -10,9 +10,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-4_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-5_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"

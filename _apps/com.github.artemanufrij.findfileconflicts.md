@@ -7,7 +7,7 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-2_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
 color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"

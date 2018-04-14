@@ -7,9 +7,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/screenshots/image-2_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/1C4CB09D6E389ED19A68915A6B366140/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
 color:
   primary: "#A3FF91"
   primary-text: "#333333"

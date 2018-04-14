@@ -8,10 +8,10 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-3_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/64x64/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/128x128/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/64x64@2/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
-  128@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/128x128@2/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/64x64/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/128x128/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/64x64@2/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
+  "128@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/icons/128x128@2/com.github.luizaugustomm.tomato_com.github.luizaugustomm.tomato.png
 color:
   primary: "#fff"
   primary-text: "#000"

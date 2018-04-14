@@ -10,9 +10,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/screenshots/image-4_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/screenshots/image-5_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/64x64/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/128x128/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/64x64@2/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/64x64/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/128x128/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/icons/64x64@2/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
 color:
   primary: "#60caee"
   primary-text: "#ffffff"

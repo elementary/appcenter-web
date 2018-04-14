@@ -9,9 +9,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/screenshots/image-4_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/64x64/com.github.bitseater.weather_com.github.bitseater.weather.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/128x128/com.github.bitseater.weather_com.github.bitseater.weather.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/64x64@2/com.github.bitseater.weather_com.github.bitseater.weather.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/64x64/com.github.bitseater.weather_com.github.bitseater.weather.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/128x128/com.github.bitseater.weather_com.github.bitseater.weather.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/7AA05653642AF00CBFBF7BD2D4C3E9A3/icons/64x64@2/com.github.bitseater.weather_com.github.bitseater.weather.png
 color:
   primary: "#660066"
   primary-text: "rgb(189, 253, 255)"

@@ -8,9 +8,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-2_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-3_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"

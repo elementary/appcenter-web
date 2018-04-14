@@ -7,9 +7,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/screenshots/image-2_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/D18F35D484B3C49A96840719A7B04774/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"

@@ -6,9 +6,9 @@ homepage: https://burnsoftware.wordpress.com/p-s-notes/
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/screenshots/image-1_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/64x64/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/128x128/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/64x64@2/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/64x64/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/128x128/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/icons/64x64@2/com.github.thejambi.psnotes_com.github.thejambi.psnotes.png
 color:
   primary: "#285151"
   primary-text: "rgb(255, 255, 255)"

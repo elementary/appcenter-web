@@ -6,9 +6,9 @@ homepage: https://github.com/bharatkalluri/gifup
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/screenshots/image-1_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/64x64/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/128x128/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/64x64@2/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/64x64/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/128x128/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/CFCC73D8F2533F530A4EE23B6F32DF8A/icons/64x64@2/com.github.bharatkalluri.gifup_com.github.bharatkalluri.gifup.png
 color:
   primary: "#C64A89"
   primary-text: "#fff"

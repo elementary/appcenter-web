@@ -7,9 +7,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/screenshots/image-2_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64/com.github.bcedu.museic_com.github.bcedu.museic.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/128x128/com.github.bcedu.museic_com.github.bcedu.museic.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64@2/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/128x128/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64@2/com.github.bcedu.museic_com.github.bcedu.museic.png
 color:
   primary: "#ffffff"
   primary-text: "rgb(0,0,0)"

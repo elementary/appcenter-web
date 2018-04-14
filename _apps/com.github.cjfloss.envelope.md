@@ -10,9 +10,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-4_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-5_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/64x64/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/128x128/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/64x64@2/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/64x64/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/128x128/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/icons/64x64@2/com.github.cjfloss.envelope_com.github.cjfloss.envelope.png
 color:
   primary: "#226324"
   primary-text: "rgb(255, 255, 255)"

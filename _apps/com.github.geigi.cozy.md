@@ -9,9 +9,9 @@ screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-3_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/screenshots/image-4_orig.png
 icons:
-  64: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
-  128: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
-  64@2: https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/FA3526C18327A6DDA79287A4CC985C7A/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
 color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
