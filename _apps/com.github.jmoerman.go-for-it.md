@@ -4,11 +4,11 @@ summary: A stylish to-do list with built-in productivity timer
 developer: The Go For It! developers
 homepage: http://manuel-kehl.de/projects/go-for-it/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/D7C1770B57F3AC2021E3784B347CA2F9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/4A4530968094A09D39610759D156F8D4/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/D7C1770B57F3AC2021E3784B347CA2F9/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/D7C1770B57F3AC2021E3784B347CA2F9/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/D7C1770B57F3AC2021E3784B347CA2F9/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/4A4530968094A09D39610759D156F8D4/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/4A4530968094A09D39610759D156F8D4/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/4A4530968094A09D39610759D156F8D4/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
