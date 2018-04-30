@@ -4,15 +4,15 @@ summary: Easily manage your Wine bottles
 developer: Mirko Brombin
 homepage: https://github.com/mirkobrombin/bottles
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/icons/64x64/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/icons/128x128/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/9EB4BC9F402D88CD2E70BA15124532C2/icons/64x64@2/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/icons/64x64/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/icons/128x128/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/icons/64x64@2/com.github.mirkobrombin.bottles_com.github.mirkobrombin.bottles.png
 color:
   primary: "#F0E5F2"
   primary-text: "#95005D"

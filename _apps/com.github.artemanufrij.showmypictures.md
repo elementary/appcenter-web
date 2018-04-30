@@ -4,13 +4,13 @@ summary: Manage local image files
 developer: Artem Anufrij
 homepage: http://anufrij.org/memories/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/C92B5BFC90F12D9B0EF1B67E697253BE/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/1633BA9CA6B045DC37C7E9425130FB8E/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
 color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
