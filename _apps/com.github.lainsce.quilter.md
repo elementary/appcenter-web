@@ -4,13 +4,13 @@ summary: Focus on your writing
 developer: Lains
 homepage: https://github.com/lainsce/quilter/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/FAB9734B26CCF060816619D4F73B9A3D/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
