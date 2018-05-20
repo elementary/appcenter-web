@@ -4,15 +4,16 @@ summary: A graphical frontend for Hamachi
 developer: Stephen Brandt
 homepage: https://www.haguichi.net/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/5207124537D903D15D4FB7A70676DBF1/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
 color:
   primary: "#FF4444"
   primary-text: "#FFFFFF"
@@ -28,17 +29,3 @@ price: 0
   <li>Fully customizable commands</li>
   <li>Simple method to backup and/or restore your Hamachi configuration folder</li>
 </ul>
-<p>Shortcuts:
-F2				Show client information in sidebar
-Ctrl+O			Connect
-Ctrl+D			Disconnect
-Ctrl+J			Join a network
-Ctrl+N			Create a network
-F5 or Ctrl+R		Refresh the network list
-Ctrl+F			Search the network list
-Ctrl+M			Toggle show/hide offline members
-Ctrl+P			Show preferences
-Ctrl+[			Expand all networks
-Ctrl+]			Collapse all networks
-Ctrl+1 to Ctrl+9	Execute available commands by corresponding number
-Ctrl+Q			Quit</p>
