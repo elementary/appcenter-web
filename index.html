@@ -6,7 +6,7 @@ layout: default
   <h2>Made for elementary OS</h2>
   <p>Get these apps on AppCenter, the open, pay-what-you-want app store for indie developers. Each app has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
   
-  {% assign apps = site.apps | sort: 'title' %}
+  {% assign apps = site.apps | sort_natural: 'title' %}
   {% for app in apps %}
     <a class="app button" href="{{site.baseurl}}/{{app.slug}}">
       {% if app.screenshots %}
