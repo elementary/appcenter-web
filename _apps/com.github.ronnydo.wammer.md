@@ -4,12 +4,12 @@ summary: Jamming your WiFi network
 developer: Ronny Dobra
 homepage: https://github.com/RonnyDo/Wammer
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/5B7C558327B3AE5E1EB859564CBDD6A2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/5B7C558327B3AE5E1EB859564CBDD6A2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/5B7C558327B3AE5E1EB859564CBDD6A2/icons/64x64/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/5B7C558327B3AE5E1EB859564CBDD6A2/icons/128x128/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/5B7C558327B3AE5E1EB859564CBDD6A2/icons/64x64@2/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/64x64/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/128x128/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/64x64@2/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
 color:
   primary: "#BB0000"
   primary-text: "#FFCF00"
