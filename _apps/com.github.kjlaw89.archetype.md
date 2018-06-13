@@ -4,12 +4,12 @@ summary: Start developing apps with just a few clicks!
 developer: KJ Lawrence
 homepage: https://kjlaw89.github.io/archetype/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/9B5454E7D12347407E1C057CE3136BAC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/9B5454E7D12347407E1C057CE3136BAC/icons/64x64/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/9B5454E7D12347407E1C057CE3136BAC/icons/128x128/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/9B5454E7D12347407E1C057CE3136BAC/icons/64x64@2/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
-  "128@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/9B5454E7D12347407E1C057CE3136BAC/icons/128x128@2/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/icons/64x64/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/icons/128x128/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/icons/64x64@2/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
+  "128@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/icons/128x128@2/com.github.kjlaw89.archetype_com.github.kjlaw89.archetype.png
 color:
   primary: "#D4D4D4"
   primary-text: "#7A36B1"
