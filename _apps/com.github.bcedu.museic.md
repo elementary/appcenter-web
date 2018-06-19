@@ -1,15 +1,19 @@
 ---
 title: MuseIC
-summary: Simple and fast music player
+summary: Simple and fast music player with remote control
 developer: Eduard Berloso Clarà
 homepage: https://github.com/bcedu/MuseIC
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64/com.github.bcedu.museic_com.github.bcedu.museic.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/128x128/com.github.bcedu.museic_com.github.bcedu.museic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/FAD2D81A241B6CCFDA5EF7EE7C73B737/icons/64x64@2/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/icons/64x64/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/icons/128x128/com.github.bcedu.museic_com.github.bcedu.museic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/icons/64x64@2/com.github.bcedu.museic_com.github.bcedu.museic.png
 color:
   primary: "#ffffff"
   primary-text: "rgb(0,0,0)"
