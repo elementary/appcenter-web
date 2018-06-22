@@ -4,14 +4,14 @@ summary: Lightning fast client for Mastodon
 developer: bleak_grey
 homepage: https://github.com/bleakgrey
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/icons/64x64/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/icons/128x128/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/21EBB81DBF125D5B7E3153276A927904/icons/64x64@2/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/64x64/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/128x128/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/64x64@2/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
 color:
   primary: "#F5F8FF"
   primary-text: "#413F58"
