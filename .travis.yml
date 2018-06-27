@@ -1,0 +1,11 @@
+language: ruby
+rvm:
+  - 2.5
+script: appage.rb
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: gh-pages
