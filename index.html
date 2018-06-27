@@ -5,11 +5,12 @@ color:
   primary-text: "#fff"
 ---
 
+{% assign apps = site.apps | sort: 'title' %}
+
 <div class="home main constrain">
   <h2>Made for elementary OS</h2>
-  <p>Get these apps on AppCenter, the open, pay-what-you-want app store for indie developers. Each app has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+  <p>Get these {{apps | size}} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 
-  {% assign apps = site.apps | sort: 'title' %}
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
     <a class="app button" href="{{site.baseurl}}/{{app.slug}}" style="" title="{{app.summary}}" id="{{id}}">
@@ -33,8 +34,8 @@ color:
 
     <style>
       .app[id="{{id}}"]:hover {
-        background-color: {% if app.color.primary != "((color_primary))" %}{{ app.color.primary }}{% else %}{{ site.color.primary }}{% endif %};
-        color: {% if app.color.primary-text != "((color_primary_text))" %}{{ app.color.primary-text }}{% else %}{{ site.color.primary-text }}{% endif %};
+        background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
+        color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
       }
     </style>
   {% endfor %}

@@ -1,10 +1,10 @@
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title %}Get {{ page.title }} on {% endif %}{{ site.title }}</title>
-  <meta property="og:title" content="{% if page.title %}Get {{ page.title }} on {% endif %}{{ site.title }}">
-  <meta itemprop="name" content="{% if page.title %}Get {{ page.title }} on {% endif %}{{ site.title }}">
-  <meta name="twitter:title" content="{% if page.title %}Get {{ page.title }} on {% endif %}{{ site.title }}">
+  <title>{% if page.title %}Get {{page.title}} on {% endif %}{{site.title}}</title>
+  <meta property="og:title" content="{% if page.title %}Get {{page.title}} on {% endif %}{{site.title}}">
+  <meta itemprop="name" content="{% if page.title %}Get {{page.title}} on {% endif %}{{site.title}}">
+  <meta name="twitter:title" content="{% if page.title %}Get {{page.title}} on {% endif %}{{site.title}}">
 
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
@@ -13,18 +13,18 @@
   <link rel="apple-touch-icon" href="https://elementary.io/images/launcher-icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="https://elementary.io/images/favicon.png" sizes="256x256">
 
-  <meta name="theme-color" content="{% if page.color.primary != "((color_primary))" %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %}">
+  <meta name="theme-color" content="{% if page.color.primary != "((color_primary))" %}{{page.color.primary}}{% else %}{{site.color.primary}}{% endif %}">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@elementary">
 
-  <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
-  <meta property="og:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
-  <meta itemprop="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+  <meta name="description" content="{% if page.summary %}{{page.summary}}{% else %}{{site.summary}}{% endif %}">
+  <meta property="og:description" content="{% if page.summary %}{{page.summary}}{% else %}{{site.summary}}{% endif %}">
+  <meta itemprop="description" content="{% if page.summary %}{{page.summary}}{% else %}{{site.summary}}{% endif %}">
+  <meta name="twitter:description" content="{% if page.summary %}{{page.summary}}{% else %}{{site.summary}}{% endif %}">
 
-  <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
-  <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+  <meta property="og:image" content="{% if page.screenshots %}{{page.screenshots[0]}}{% else %}{{site.image}}{% endif %}" />
+  <meta itemprop="image" content="{% if page.screenshots %}{{page.screenshots[0]}}{% else %}{{site.image}}{% endif %}" />
 
   {% if page.icons %}
     {% for icon in page.icons %}
@@ -34,12 +34,12 @@
       {% endif %}
     {% endfor %}
   {% else %}
-    <meta property="og:image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
-    <meta itemprop="image" content="{% if page.screenshots %}{{ page.screenshots[0] }}{% else %}{{ site.image }}{% endif %}" />
+    <meta property="og:image" content="{% if page.screenshots %}{{page.screenshots[0]}}{% else %}{{site.image}}{% endif %}" />
+    <meta itemprop="image" content="{% if page.screenshots %}{{page.screenshots[0]}}{% else %}{{site.image}}{% endif %}" />
   {% endif %}
 
   <link rel="stylesheet" type="text/css" media="all" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,300italic,400italic|Roboto+Mono&subset=latin,greek,vietnamese,greek-ext,latin-ext,cyrillic,cyrillic-ext">
-  <link rel="stylesheet" type="text/css" media="all" href="{{ '/css/main.css' | prepend: site.baseurl | append: '?v=' | append: site.time }}">
+  <link rel="stylesheet" type="text/css" media="all" href="{{'/css/main.css' | prepend: site.baseurl | append: '?v=' | append: site.time}}">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.6.0/tiny-slider.css">
 
 </head>

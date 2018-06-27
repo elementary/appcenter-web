@@ -46,7 +46,8 @@ layout: default
 
 <style>
   header {
-    background-color: {% if page.color.primary != "((color_primary))" %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %};
-    color: {% if page.color.primary-text != "((color_primary_text))" %}{{ page.color.primary-text }}{% else %}{{ site.color.primary-text }}{% endif %}
+    background-color: {% if page.color.primary != "((color_primary))" %}{{page.color.primary}}{% else %}{{site.color.primary}}{% endif %};
+    color: {% if page.color.primary-text != "((color_text))" %}{{page.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %}
   }
 </style>
+
