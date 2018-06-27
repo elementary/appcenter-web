@@ -1,14 +1,12 @@
 header {
-  background-color: #485a6c;
   background-image: linear-gradient(
-    to bottom right, 
-    rgba(255, 255, 255, 0.05), 
+    to bottom right,
+    rgba(255, 255, 255, 0.05),
     rgba(0, 0, 0, 0.05)
   );
-  color: #fff;
   padding: 1em;
   text-align: center;
-  
+
   @media (min-width: 720px) {
     text-align: left;
   }
@@ -39,7 +37,7 @@ header {
   .badge {
     display: block;
     margin-top: 0.5em;
-    
+
     @media (min-width: 720px) {
       float: right;
     }
