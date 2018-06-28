@@ -5,7 +5,7 @@ color:
   primary-text: "#fff"
 ---
 
-{% assign apps = site.apps | sort: 'title' %}
+{% assign apps = site.apps | sort_natural: 'title' %}
 
 <div class="home main constrain">
   <h2>Made for elementary OS</h2>
