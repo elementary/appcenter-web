@@ -4,7 +4,7 @@ summary: Get apps on AppCenter, the open, pay-what-you-want app store for indie 
 image: "https://elementary.io/images/screenshots/appcenter.jpg"
 separator: "&sdot;"
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 
 collections:

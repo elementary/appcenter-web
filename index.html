@@ -1,30 +1,43 @@
 ---
 layout: default
+color:
+  primary: "#4c158a"
+  primary-text: "#fff"
 ---
+
+{% assign apps = site.apps | sort_natural: 'title' %}
 
 <div class="home main constrain">
   <h2>Made for elementary OS</h2>
-  <p>Get these apps on AppCenter, the open, pay-what-you-want app store for indie developers. Each app has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
-  
-  {% assign apps = site.apps | sort_natural: 'title' %}
+  <p>Get these {{apps | size}} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+
   {% for app in apps %}
-    <a class="app button" href="{{site.baseurl}}/{{app.slug}}">
+    {% assign id = app.id | remove: '/' %}
+    <a class="app button" href="{{site.baseurl}}/{{app.slug}}" style="" title="{{app.summary}}" id="{{id}}">
       {% if app.screenshots %}
         <img
-          {% for icon in app.icons %} 
+          {% for icon in app.icons %}
             {% if icon[0] == "64@2" %}
               srcset="{{icon[1]}} 2x"
             {% elsif icon[0] == "64" %}
               src="{{icon[1]}}"
             {% endif %}
-          {% endfor %} 
+          {% endfor %}
         alt="{{app.title}} icon" />
       {% else %}
         <img src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg" alt="No icon" />
       {% endif %}
-      
-      {{app.title}}
+
+      <span class="title">{{app.title}}</span>
+      <span class="summary">{{app.summary}}</span>
     </a>
+
+    <style>
+      .app[id="{{id}}"]:hover {
+        background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
+        color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
+      }
+    </style>
   {% endfor %}
 </div>
 
@@ -34,3 +47,4 @@ layout: default
     <a class="button" href="https://elementary.io/" target="_blank">Get elementary OS</a>
   </div>
 </footer>
+
