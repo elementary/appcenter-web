@@ -36,7 +36,10 @@ header {
 
   .badge {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
     margin-top: 0.5em;
+    max-width: 225px;
 
     @media (min-width: 720px) {
       float: right;
