@@ -4,11 +4,11 @@ summary: A music player for listening local music files, online radios and Audio
 developer: Artem Anufrij
 homepage: http://anufrij.org/melody/
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/985B59D75E5F72480218486F4F01F160/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/985B59D75E5F72480218486F4F01F160/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/985B59D75E5F72480218486F4F01F160/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/985B59D75E5F72480218486F4F01F160/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
 color:
   primary: "#004988"
   primary-text: "rgb(255,255,255)"
