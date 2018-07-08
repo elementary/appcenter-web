@@ -1,21 +1,25 @@
 .dialog {
   background-color: #fff;
-  background-image: url("../appcenter.png");
-  background-repeat: no-repeat;
-  background-position: 12px 12px;
-  background-size: 64px;
   border-radius: 6px;
   box-shadow:
     0 10px 38px rgba(0, 0, 0, 0.30),
     0 8px 12px rgba(0, 0, 0, 0.22);
   left: 50%;
   max-width: 95vw;
-  padding: 0 1em 1em 88px;
+  padding: 0 1em 1em;
   position: fixed;
   top: 40%;
   transform: translate(-50%, -50%);
   width: 540px;
   z-index: 2;
+
+  .content {
+    background-image: url("../appcenter.png");
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 64px;
+    padding-left: 76px;
+  }
 
   h3 {
     margin-bottom: 0.5em;
@@ -26,8 +30,13 @@
     margin-top: 0;
   }
 
-  .action-area {
-    text-align: right;
+  .action {
+    display: flex;
+    justify-content: flex-end;
+
+    .button.suggested {
+      margin-left: 0.5em;
+    }
   }
 }
 
