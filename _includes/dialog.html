@@ -1,7 +1,10 @@
-<div class="appstream hidden">
-  <h3>Opening in AppCenter…</h3>
-  <p>This app is available in AppCenter, the open, pay-what-you-want app store for elementary OS. You can safely hit back or close this tab.</p>
-  <p>Not on elementary OS? <a href="https://elementary.io">Download it now</a>, or <a id="close" href="#">view the app listing</a>.</p>
+<div class="dialog hidden">
+  <h3>Open in AppCenter</h3>
+  <p>You can view and install this app from AppCenter if you’re using elementary OS, or you can preview the listing here.</p>
+  <div class="action-area">
+    <a class="button" id="close" href="#">Preview App Listing</a>
+    <a class="button suggested" href="appstream://{{page.slug}}.desktop">Open in AppCenter</a>
+  </div>
 </div>
 
 <div class="backdrop hidden"></div>
@@ -14,22 +17,17 @@
     document.querySelector('header').classList.add('blur');
     document.querySelector('.main').classList.add('blur');
     document.querySelector('footer').classList.add('blur');
-    document.querySelector('.appstream').classList.remove('hidden');
+    document.querySelector('.dialog').classList.remove('hidden');
     document.querySelector('.backdrop').classList.remove('hidden');
-    setTimeout(function(){
-      // Attempt to allow images to load before bailing to appstream://
-      window.location = 'appstream://{{page.slug}}.desktop';
-    }, 250);
-  } else {
-
   }
 
   document.querySelector('#close').addEventListener("click", function(e){
     document.querySelector('header').classList.remove('blur');
     document.querySelector('.main').classList.remove('blur');
     document.querySelector('footer').classList.remove('blur');
-    document.querySelector('.appstream').classList.add('hidden');
+    document.querySelector('.dialog').classList.add('hidden');
     document.querySelector('.backdrop').classList.add('hidden');
     e.preventDefault ();
   });
 </script>
+
