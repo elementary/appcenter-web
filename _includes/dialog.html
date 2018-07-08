@@ -28,7 +28,7 @@
     var isFedora = (userAgent.indexOf('fedora') !== -1);
 
     if (
-      window.localStorage.remember === "false" &&
+      window.localStorage.remember !== "true" &&
       isLinux &&
       isAndroid === false &&
       isFedora === false
