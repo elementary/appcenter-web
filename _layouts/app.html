@@ -31,11 +31,10 @@ layout: default
 
   <section class="description constrain">
     <h2>{{page.summary}}</h2>
+
     {{content}}
 
-    {% if page.dist == 'juno' %}
-      <p><strong>Note:</strong> This app is only available for the pre-release version of elementary OS Juno. If you’re on elementary OS Loki, it will not appear in AppCenter.</p>
-    {% endif %}
+    {% include juno.html %}
   </section>
 </div>
 
