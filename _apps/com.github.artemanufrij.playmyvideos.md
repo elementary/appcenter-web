@@ -3,6 +3,7 @@ title: Cinema
 summary: A video player for watching local video files.
 developer: Artem Anufrij
 homepage: http://anufrij.org/cinema/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmyvideos.desktop/C3FED80688C31B6275CA93F80E8A001D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmyvideos.desktop/C3FED80688C31B6275CA93F80E8A001D/screenshots/image-2_orig.png

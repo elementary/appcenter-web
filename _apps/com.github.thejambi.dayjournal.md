@@ -3,6 +3,7 @@ title: DayJournal
 summary: A future-proof journal.
 developer: Zach Burnham
 homepage: https://burnsoftware.wordpress.com/dayjournal/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.dayjournal.desktop/ED8479A18BF041E393A546D01ED1487F/screenshots/image-1_orig.png
 icons:

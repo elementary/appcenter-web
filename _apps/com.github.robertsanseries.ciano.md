@@ -3,6 +3,7 @@ title: Ciano
 summary: A multimedia file converter
 developer: Robert San
 homepage: https://robertsanseries.github.io/ciano/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/screenshots/image-1_orig.png
 icons:

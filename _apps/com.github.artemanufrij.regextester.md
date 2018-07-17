@@ -3,6 +3,7 @@ title: Regex Tester
 summary: A simple app for testing regular expressions
 developer: Artem Anufrij
 homepage: https://github.com/artemanufrij/regextester
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.regextester.desktop/B3E8ED5CA40FD7E06150E0FFDC1EC6A5/screenshots/image-1_orig.png
 icons:

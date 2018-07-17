@@ -3,6 +3,7 @@ title: Clipped
 summary: Manage your clipboard with ease
 developer: David Hewitt
 homepage: https://github.com/davidmhewitt/clipped
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.clipped.desktop/BDBD3F29DDE265CD7E1C8F26BE09FD71/screenshots/image-1_orig.png
 icons:

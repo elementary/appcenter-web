@@ -3,6 +3,7 @@ title: MuseIC
 summary: Simple and fast music player with remote control
 developer: Eduard Berloso Clarà
 homepage: https://github.com/bcedu/MuseIC
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.museic.desktop/619BBDC33CB83AAB8DCC647F52B91C81/screenshots/image-2_orig.png

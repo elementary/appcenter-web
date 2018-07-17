@@ -3,6 +3,7 @@ title: Hash It
 summary: Generate and verify file hashes
 developer: Artem Anufrij
 homepage: https://artemanufrij.github.io
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.hashit.desktop/99A58C78F86F55E766FA81098B09FC5A/screenshots/image-1_orig.png
 icons:

@@ -3,6 +3,7 @@ title: Wammer
 summary: Jamming your WiFi network
 developer: Ronny Dobra
 homepage: https://github.com/RonnyDo/Wammer
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-2_orig.png

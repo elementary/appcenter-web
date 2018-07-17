@@ -3,6 +3,7 @@ title: Tomato
 summary: Keep focused on your work
 developer: Tomato Team
 homepage: https://github.com/luizaugustomm/tomato
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-2_orig.png

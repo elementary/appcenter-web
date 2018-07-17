@@ -13,7 +13,7 @@ color:
 
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
-    <a class="app button" href="{{site.baseurl}}/{{app.slug}}" style="" title="{{app.summary}}" id="{{id}}">
+    <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
       {% if app.screenshots %}
         <img
           {% for icon in app.icons %}

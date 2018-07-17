@@ -3,6 +3,7 @@ title: Spice-Up
 summary: Create simple and beautiful presentations
 developer: Felipe Escoto
 homepage: https://github.com/Philip-Scott/Spice-up
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-2_orig.png

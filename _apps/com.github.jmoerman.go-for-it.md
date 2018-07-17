@@ -3,6 +3,7 @@ title: Go For It!
 summary: A stylish to-do list with built-in productivity timer
 developer: The Go For It! developers
 homepage: http://manuel-kehl.de/projects/go-for-it/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/jmoerman.go-for-it.desktop/4A4530968094A09D39610759D156F8D4/screenshots/image-1_orig.png
 icons:

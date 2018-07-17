@@ -3,6 +3,7 @@ title: Monitor
 summary: Manage processes and monitor system resources
 developer: Stanisław Dac
 homepage: https://github.com/stsdc/monitor
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/stsdc.monitor.desktop/D632C328153741E57C5683732C1302CA/screenshots/image-1_orig.png
 icons:

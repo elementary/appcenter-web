@@ -3,6 +3,7 @@ title: Date Countdown
 summary: A date countdown applet
 developer: Ricky Bassom
 homepage: https://github.com/rickybas/date-countdown
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rickybas.date-countdown/7815397FF494C4DCFDE8FAEA24D97346/screenshots/image-1_orig.png
 icons:

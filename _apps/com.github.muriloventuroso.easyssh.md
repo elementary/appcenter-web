@@ -3,6 +3,7 @@ title: EasySSH
 summary: SSH Connection Manager
 developer: Murilo Venturoso
 homepage: https://github.com/muriloventuroso/easyssh
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/muriloventuroso.easyssh.desktop/61360065F7717E6F9C561392019186B1/screenshots/image-1_orig.png
 icons:

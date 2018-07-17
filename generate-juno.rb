@@ -3,8 +3,12 @@ require 'yaml'
 require "uri"
 require "open-uri"
 
+########
+# JUNO #
+########
+
 # HTTPS doesn't work
-componentsDataGz = open("http://packages.elementary.io/appcenter/dists/xenial/main/dep11/Components-amd64.yml.gz")
+componentsDataGz = open("http://packages.elementary.io/appcenter/dists/bionic/main/dep11/Components-amd64.yml.gz")
 componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
@@ -12,6 +16,7 @@ title: ((title))
 summary: ((summary))
 developer: ((dev))
 homepage: ((site))
+dist: juno
 screenshots:
 ((screenshots))
 icons:
@@ -35,11 +40,11 @@ YAML.load_stream(componentsData) do |doc|
 	appFile.sub!('((summary))', doc['Summary']['C'])
 	appFile.sub!('((dev))', doc['DeveloperName']['C'])
 	appFile.sub!('((description))', doc['Description']['C'])
-	
+
 	if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
-		site = doc['Url']['homepage'] 
+		site = doc['Url']['homepage']
 	else
-		site = "https://dev.elementary.io"
+		site = "#"
 	end
 	appFile.sub!('((site))', site)
 
@@ -64,7 +69,7 @@ YAML.load_stream(componentsData) do |doc|
 		appFile.sub!('((price))', price)
 	end
 
-	mediaBase = "https://appstream.elementary.io/appcenter/media/xenial"
+	mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
 
 	screenshots = ""
 	releaseHash = ""

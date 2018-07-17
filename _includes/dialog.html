@@ -2,6 +2,9 @@
   <div class="content">
     <h3>Open in AppCenter</h3>
     <p>You can view and install this app from AppCenter on elementary OS, or you can preview the listing here.</p>
+    {% if page.dist == 'juno' %}
+      <p><strong>Note:</strong> This app is only available for the pre-release version of elementary OS Juno. If you’re on elementary OS Loki, it will not appear in AppCenter.</p>
+    {% endif %}
   </div>
   <div class="action">
     <a class="button incidental" id="never" href="#">Not on elementary OS</a>

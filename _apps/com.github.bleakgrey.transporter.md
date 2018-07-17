@@ -3,6 +3,7 @@ title: Transporter
 summary: Hassle-free file sharing
 developer: bleak_grey
 homepage: https://github.com/bleakgrey
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/screenshots/image-2_orig.png

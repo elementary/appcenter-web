@@ -3,6 +3,7 @@ title: Pushy
 summary: Pushbullet client
 developer: Haris Sulaiman
 homepage: https://github.com/harisvsulaiman/Pushy
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/harisvsulaiman.pushy.desktop/4F8F77DC5C43DD18CF9F419AC7AD962B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/harisvsulaiman.pushy.desktop/4F8F77DC5C43DD18CF9F419AC7AD962B/screenshots/image-2_orig.png

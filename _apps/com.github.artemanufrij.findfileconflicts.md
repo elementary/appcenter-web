@@ -3,6 +3,7 @@ title: File Conflicts Finder
 summary: Solve possible file conflicts.
 developer: Artem Anufrij
 homepage: http://anufrij.org
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-2_orig.png

@@ -3,6 +3,7 @@ title: Image Optimizer
 summary: Simple lossless image compression
 developer: Gijs Goudzwaard
 homepage: https://github.com/gijsgoudzwaard/image-optimizer
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/screenshots/image-2_orig.png

@@ -3,6 +3,7 @@ title: Memories
 summary: Manage local image files
 developer: Artem Anufrij
 homepage: http://anufrij.org/memories/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-2_orig.png

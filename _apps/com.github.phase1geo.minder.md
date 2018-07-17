@@ -3,6 +3,7 @@ title: Minder
 summary: Create, develop, visualize, organize and manage your ideas
 developer: Trevor Williams
 homepage: https://github.com/phase1geo/minder/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder.desktop/CB19784542504387B96320CC1F53A3C4/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder.desktop/CB19784542504387B96320CC1F53A3C4/screenshots/image-2_orig.png

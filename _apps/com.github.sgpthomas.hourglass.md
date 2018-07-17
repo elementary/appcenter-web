@@ -3,6 +3,7 @@ title: Hourglass
 summary: A simple clock application that provides stopwatches, alarms, and timers.
 developer: Sam Thomas
 homepage: https://github.com/sgpthomas/hourglass
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/sgpthomas.hourglass.desktop/1801C2BFBD046D2829943C32D765C7B0/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/sgpthomas.hourglass.desktop/1801C2BFBD046D2829943C32D765C7B0/screenshots/image-2_orig.png

@@ -3,6 +3,7 @@ title: Harvey
 summary: The hero that Gotham needs right now
 developer: Daniel Foré
 homepage: http://danielfore.com
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.harvey.desktop/1D4748F3FF6DC057593113C32C950FA1/screenshots/image-1_orig.png
 icons:

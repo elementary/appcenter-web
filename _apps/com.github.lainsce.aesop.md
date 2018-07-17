@@ -3,6 +3,7 @@ title: Aesop
 summary: The simplest PDF viewer around
 developer: Lains
 homepage: https://github.com/lainsce/aesop/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.aesop.desktop/B7BFCBC8275614ABB0F62E633CF58FC3/screenshots/image-1_orig.png
 icons:

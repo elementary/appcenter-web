@@ -3,6 +3,7 @@ title: Timer
 summary: The ultimate tea timer
 developer: Peter Arnold
 homepage: https://github.com/parnold-x/timer
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.timer.desktop/4928CE6C3856006A35A3F66DDB0CAFB5/screenshots/image-1_orig.png
 icons:

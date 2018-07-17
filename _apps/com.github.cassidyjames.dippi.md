@@ -3,6 +3,7 @@ title: Dippi
 summary: Calculate display info like DPI and aspect ratio
 developer: Cassidy James Blaede
 homepage: https://cassidyjames.com/dippi/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-2_orig.png

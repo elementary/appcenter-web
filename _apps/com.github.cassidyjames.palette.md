@@ -3,6 +3,7 @@ title: Palette
 summary: View and copy colors from the elementary brand palette
 developer: Cassidy James Blaede
 homepage: https://cassidyjames.com
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.palette.desktop/D154F2B56A2813341CD210C643E60DB8/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.palette.desktop/D154F2B56A2813341CD210C643E60DB8/screenshots/image-2_orig.png

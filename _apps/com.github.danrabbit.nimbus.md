@@ -3,6 +3,7 @@ title: Nimbus
 summary: See outside without going there
 developer: Daniel Foré
 homepage: http://danielfore.com
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/danrabbit.nimbus.desktop/2BDD9962045D455350B16207C3318335/screenshots/image-1_orig.png
 icons:

@@ -3,6 +3,7 @@ title: Tootle
 summary: Lightning fast client for Mastodon
 developer: bleak_grey
 homepage: https://github.com/bleakgrey
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-2_orig.png

@@ -3,6 +3,7 @@ title: Comic Sticks
 summary: Browse xkcd comics
 developer: Ryan Koesters
 homepage: https://github.com/rkoesters/xkcd-gtk
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rkoesters.xkcd-gtk.desktop/C5BB2314184220A0267870BB6591773F/screenshots/image-2_orig.png

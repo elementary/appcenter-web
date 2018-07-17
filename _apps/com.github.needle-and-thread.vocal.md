@@ -3,6 +3,7 @@ title: Vocal
 summary: A Great Podcast Client for the Modern Free Desktop
 developer: Needle & Thread
 homepage: http://github.com/needle-and-thread/vocal
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-2_orig.png

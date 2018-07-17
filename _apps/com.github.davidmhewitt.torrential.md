@@ -3,6 +3,7 @@ title: Torrential
 summary: Download torrents in style
 developer: David Hewitt
 homepage: https://github.com/davidmhewitt/torrential
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.torrential.desktop/BF56D7CD1616F290E965170C14561A68/screenshots/image-1_orig.png
 icons:

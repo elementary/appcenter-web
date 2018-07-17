@@ -3,6 +3,7 @@ title: quickDocs
 summary: Quickly Read Developer Docs
 developer: Matt Harris
 homepage: https://github.com/mdh34/quickDocs
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-2_orig.png

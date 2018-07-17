@@ -3,6 +3,7 @@ title: Resizer
 summary: Quickly resize images from the context menu.
 developer: Peter Uithoven
 homepage: https://github.com/peteruithoven/resizer
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/peteruithoven.resizer.desktop/B3D4D3D67DE1EF97D951BCA041888544/screenshots/image-2_orig.png

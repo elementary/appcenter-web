@@ -3,6 +3,7 @@ title: Notejot
 summary: Jot your ideas
 developer: Lains
 homepage: https://github.com/lainsce/notejot/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.notejot.desktop/08516A9FD557EDDC34DCC14240C087C3/screenshots/image-1_orig.png
 icons:

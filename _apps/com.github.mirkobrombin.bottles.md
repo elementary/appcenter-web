@@ -3,6 +3,7 @@ title: Bottles
 summary: Easily manage your Wine bottles
 developer: Mirko Brombin
 homepage: https://github.com/mirkobrombin/bottles
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.bottles.desktop/5449A4A86FE8355FBD3106F8A8F0E050/screenshots/image-2_orig.png

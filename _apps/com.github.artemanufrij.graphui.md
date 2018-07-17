@@ -3,6 +3,7 @@ title: GraphUI
 summary: Graph Visualization
 developer: Artem Anufrij
 homepage: https://artemanufrij.github.io
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.graphui.desktop/E18E3D7AF95FE19D535D16F39E3556C4/screenshots/image-1_orig.png
 icons:

@@ -3,6 +3,7 @@ title: Nutty
 summary: A simple utility for network information
 developer: Siddhartha Das
 homepage: https://babluboy.github.io/nutty
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.nutty.desktop/D19B5CF110AF267C28CF738A0F5C82B3/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.nutty.desktop/D19B5CF110AF267C28CF738A0F5C82B3/screenshots/image-2_orig.png

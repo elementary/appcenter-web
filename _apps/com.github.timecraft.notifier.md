@@ -3,6 +3,7 @@ title: Notifier
 summary: Never forget to do something
 developer: Timecraft
 homepage: https://github.com/Timecraft/notifier
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-2_orig.png

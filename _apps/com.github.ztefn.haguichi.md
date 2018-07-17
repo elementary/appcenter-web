@@ -3,6 +3,7 @@ title: Haguichi
 summary: A graphical frontend for Hamachi
 developer: Stephen Brandt
 homepage: https://www.haguichi.net/
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ztefn.haguichi.desktop/74C70F7EF1E71238BA796C2F0B5CA67C/screenshots/image-2_orig.png

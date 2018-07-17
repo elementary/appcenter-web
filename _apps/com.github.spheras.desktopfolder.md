@@ -3,6 +3,7 @@ title: Desktop Folder
 summary: Bring your desktop back to life
 developer: DesktopFolder Developers
 homepage: https://github.com/spheras/desktopfolder
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder.desktop/CE8234DDAC407F4CC6E0F3F60FC9FC96/screenshots/image-2_orig.png

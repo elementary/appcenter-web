@@ -3,6 +3,7 @@ title: Gnonograms
 summary: Create and solve gnonogram puzzles
 developer: Jeremy P Wootten
 homepage: https://github.com/jeremypw/gnonograms
+dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/jeremypw.gnonograms.desktop/7116578EDDFC71807206E4F7F5584B6C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/jeremypw.gnonograms.desktop/7116578EDDFC71807206E4F7F5584B6C/screenshots/image-2_orig.png
