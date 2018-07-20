@@ -14,6 +14,8 @@ color:
   primary: "rgb(56,56,56)"
   primary-text: "rgb(213,213,213)"
 price: 1
+redirect_from:
+  - /com.github.brandonlujan.exchange.desktop/
 ---
 
 <p>Application that uses Fixer.io API to download daily rates of currency exchange.</p>

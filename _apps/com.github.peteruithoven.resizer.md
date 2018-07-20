@@ -18,6 +18,8 @@ color:
   primary: "#60caee"
   primary-text: "#ffffff"
 price: 0
+redirect_from:
+  - /com.github.peteruithoven.resizer.desktop/
 ---
 
 <p>Simple image resizer</p>

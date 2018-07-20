@@ -16,6 +16,8 @@ color:
   primary: "rgb(204,75,20)"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+redirect_from:
+  - /com.github.mubitosh.qrshare.desktop/
 ---
 
 <p>Share files and folders as below:</p>

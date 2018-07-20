@@ -14,6 +14,8 @@ color:
   primary: "#A3907C"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.graphui.desktop/
 ---
 
 <p>Graph visualization based on graphviz.</p>

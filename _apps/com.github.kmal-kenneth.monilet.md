@@ -14,6 +14,8 @@ color:
   primary: "#292B37"
   primary-text: "#DCDFE4"
 price: 0
+redirect_from:
+  - /com.github.kmal-kenneth.monilet.desktop/
 ---
 
 <p>See percentage of use your CPU and number of cores. Also percentage used memory, amount of memory used and total memory.</p>

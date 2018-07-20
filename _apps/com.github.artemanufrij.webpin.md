@@ -15,6 +15,8 @@ color:
   primary: "#399cd2"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.webpin.desktop/
 ---
 
 <p>Create your own WebApps. Pin your any favorite website on Applications Menu or Plank like a regular desktop app.</p>

@@ -14,6 +14,8 @@ color:
   primary: "#4d4d4d"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.translit.desktop/
 ---
 
 <p>Supported languages:</p>

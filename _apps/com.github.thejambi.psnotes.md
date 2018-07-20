@@ -14,6 +14,8 @@ color:
   primary: "#285151"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+redirect_from:
+  - /com.github.thejambi.psnotes.desktop/
 ---
 
 <p>Note-taking and writing app designed to work with minimal plain-text mobile apps.</p>

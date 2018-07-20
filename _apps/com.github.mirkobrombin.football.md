@@ -14,6 +14,8 @@ color:
   primary: "#216200"
   primary-text: "#FFF"
 price: 0
+redirect_from:
+  - /com.github.mirkobrombin.football.desktop/
 ---
 
 <p>An application for tracking Football scores.</p>

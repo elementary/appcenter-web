@@ -16,6 +16,8 @@ color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
 price: 0
+redirect_from:
+  - /com.github.spheras.desktopfolder.desktop/
 ---
 
 <p>Organize your desktop with panels that hold your things.</p>

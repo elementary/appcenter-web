@@ -17,6 +17,8 @@ color:
   primary: "#660066"
   primary-text: "rgb(189, 253, 255)"
 price: 1
+redirect_from:
+  - /com.github.bitseater.weather.desktop/
 ---
 
 <p>Current weather, with information about temperature, pressure,

@@ -16,6 +16,8 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+redirect_from:
+  - /com.github.plugarut.pwned-checker.desktop/
 ---
 
 <p>Simple application for checking if a password has appeared in a leak. haveibeenpwned.com database is used.</p>

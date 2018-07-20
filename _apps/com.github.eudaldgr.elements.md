@@ -15,6 +15,8 @@ color:
   primary: "rgba(135, 203, 195, 256)"
   primary-text: "#333333"
 price: 2
+redirect_from:
+  - /com.github.eudaldgr.elements.desktop/
 ---
 
 <p>A viewer of the elements</p>

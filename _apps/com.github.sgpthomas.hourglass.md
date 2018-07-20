@@ -17,6 +17,8 @@ color:
   primary: "#4ea87c"
   primary-text: "#fff"
 price: 0
+redirect_from:
+  - /com.github.sgpthomas.hourglass.desktop/
 ---
 
 <p>Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.</p>

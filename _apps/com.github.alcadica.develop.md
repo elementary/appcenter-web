@@ -15,6 +15,8 @@ color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
+redirect_from:
+  - /com.github.alcadica.develop.desktop/
 ---
 
 <p>A simple tool to help elementary OS developers to develop their own apps and widgets.</p>

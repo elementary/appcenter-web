@@ -15,6 +15,8 @@ color:
   primary: "#fff"
   primary-text: "#333"
 price: 10
+redirect_from:
+  - /com.github.danrabbit.lookbook.desktop/
 ---
 
 <p>Browse system icons by category or search by icon name. See icons at different sizes and get a quick code snippet to use in your apps.</p>

@@ -14,6 +14,8 @@ color:
   primary: "#d1ff82"
   primary-text: "rgb(0,0,0)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.metronome.desktop/
 ---
 
 <p>A simple metronome for all musicians</p>

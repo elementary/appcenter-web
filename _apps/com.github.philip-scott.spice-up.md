@@ -18,6 +18,8 @@ color:
   primary: "#C2D5FF"
   primary-text: "#223b69"
 price: 0
+redirect_from:
+  - /com.github.philip-scott.spice-up.desktop/
 ---
 
 <p>Everything you need to create simple and beautiful presentations with text, images, and shapes. Add some spice to your presentations with a wide variety of background patterns and beautiful color palette.</p>

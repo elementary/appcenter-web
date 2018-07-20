@@ -14,6 +14,8 @@ color:
   primary: "#C44786"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+redirect_from:
+  - /com.github.nick92.tranqil.desktop/
 ---
 
 <p>Relieve stress or help concentration with Tranqil</p>

@@ -17,6 +17,8 @@ color:
   primary: "#fff"
   primary-text: "#000"
 price: 0
+redirect_from:
+  - /com.github.luizaugustomm.tomato.desktop/
 ---
 
 <p>Tomato is a clean, easy-to-use time manager based on Pomodoro technique. It breaks down work into intervals to keep you focused and allows you to rest during strategic periods to reward your progress. It is a must-have app if you need to avoid procrastination.</p>

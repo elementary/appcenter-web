@@ -18,6 +18,8 @@ color:
   primary: "#F0E5F2"
   primary-text: "#95005D"
 price: 0
+redirect_from:
+  - /com.github.mirkobrombin.bottles.desktop/
 ---
 
 <p>Easily manage your Wine bottles (wineprefix)</p>

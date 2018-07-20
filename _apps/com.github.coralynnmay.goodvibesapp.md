@@ -15,6 +15,8 @@ color:
   primary: "#9ddbff"
   primary-text: "#000"
 price: 1
+redirect_from:
+  - /com.github.coralynnmay.goodvibesapp.desktop/
 ---
 
 <p>An app to send and receive good vibes anonymously</p>

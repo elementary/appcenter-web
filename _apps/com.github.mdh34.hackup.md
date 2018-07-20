@@ -15,6 +15,8 @@ color:
   primary: "#000"
   primary-text: "#FFFFFF"
 price: 2
+redirect_from:
+  - /com.github.mdh34.hackup.desktop/
 ---
 
 <p>Read Hacker News stories and comments distraction-free from the desktop</p>

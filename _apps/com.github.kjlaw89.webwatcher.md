@@ -16,6 +16,8 @@ color:
   primary: "#667885"
   primary-text: "#FFF"
 price: 3
+redirect_from:
+  - /com.github.kjlaw89.webwatcher.desktop/
 ---
 
 <p>A simple way to monitor your favorite sites uptime and their performance.</p>

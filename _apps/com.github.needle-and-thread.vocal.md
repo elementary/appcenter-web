@@ -17,6 +17,8 @@ color:
   primary: "#603461"
   primary-text: "#fff"
 price: 5
+redirect_from:
+  - /com.github.needle-and-thread.vocal.desktop/
 ---
 
 <p>Vocal is the best way to find interesting new podcasts, maintain a growing library,

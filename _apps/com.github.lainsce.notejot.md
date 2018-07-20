@@ -14,6 +14,8 @@ color:
   primary: "#fff3ae"
   primary-text: "#555864"
 price: 0
+redirect_from:
+  - /com.github.lainsce.notejot.desktop/
 ---
 
 <p>A stupidly-simple sticky notes application for any type of short term notes or ideas.</p>

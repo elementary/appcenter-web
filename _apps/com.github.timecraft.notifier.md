@@ -17,6 +17,8 @@ color:
   primary: "#ffe16b"
   primary-text: "#000000"
 price: 0
+redirect_from:
+  - /com.github.timecraft.notifier.desktop/
 ---
 
 <p>Get notified of what to do and when to do it. Reminders as you expect them, where you expect them.</p>

@@ -17,6 +17,8 @@ color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 5
+redirect_from:
+  - /com.github.phase1geo.minder.desktop/
 ---
 
 <p>Use the power of mind-mapping to make your ideas come to life.</p>

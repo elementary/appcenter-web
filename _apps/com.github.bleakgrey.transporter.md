@@ -16,6 +16,8 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+redirect_from:
+  - /com.github.bleakgrey.transporter.desktop/
 ---
 
 <p>Share your files between computers, fast and safe.</p>

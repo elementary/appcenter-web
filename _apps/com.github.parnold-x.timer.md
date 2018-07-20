@@ -14,6 +14,8 @@ color:
   primary: "rgb(234, 255, 198)"
   primary-text: "rgb(23, 107, 0)"
 price: 0
+redirect_from:
+  - /com.github.parnold-x.timer.desktop/
 ---
 
 <p>The ultimate tea timer you searched for.</p>

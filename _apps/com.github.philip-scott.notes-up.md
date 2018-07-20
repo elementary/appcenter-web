@@ -14,6 +14,8 @@ color:
   primary: "#D0F3FF"
   primary-text: "#004B66"
 price: 0
+redirect_from:
+  - /com.github.philip-scott.notes-up.desktop/
 ---
 
 <p>Write beautiful notes fast and easy using Markdown</p>

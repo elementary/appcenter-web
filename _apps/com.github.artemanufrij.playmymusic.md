@@ -14,6 +14,8 @@ color:
   primary: "#004988"
   primary-text: "rgb(255,255,255)"
 price: 3
+redirect_from:
+  - /com.github.artemanufrij.playmymusic.desktop/
 ---
 
 <p>A very fast music player designed extra for large local libraries.</p>

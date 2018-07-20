@@ -15,6 +15,8 @@ color:
   primary: "#D4D4D4"
   primary-text: "#7A36B1"
 price: 2.5
+redirect_from:
+  - /com.github.kjlaw89.archetype.desktop/
 ---
 
 <p>Archetype is a vala app generator that comes with 5 customizable templates to get you building apps in minutes!</p>

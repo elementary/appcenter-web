@@ -14,6 +14,8 @@ color:
   primary: "#dee8bc"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.lainsce.yishu.desktop/
 ---
 
 <p>Write a to-do list that will be easy to sync with most known Todo.txt clients</p>

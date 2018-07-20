@@ -14,6 +14,8 @@ color:
   primary: "#6F8A91"
   primary-text: "#121212"
 price: 1
+redirect_from:
+  - /com.github.alonsoenrique.quotes.desktop/
 ---
 
 <p>Get random quotes for daily inspiration.</p>

@@ -14,6 +14,8 @@ color:
   primary: "#f20050"
   primary-text: "#FFF"
 price: 0
+redirect_from:
+  - /com.github.allen-b1.news.desktop/
 ---
 
 <p>Read the contents of RSS feeds.</p>

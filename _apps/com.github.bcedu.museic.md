@@ -19,6 +19,8 @@ color:
   primary: "#ffffff"
   primary-text: "rgb(0,0,0)"
 price: 0
+redirect_from:
+  - /com.github.bcedu.museic.desktop/
 ---
 
 <p>MuseIC is a fast and simple music player with remote control from any device through internet browser.</p>

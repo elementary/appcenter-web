@@ -16,6 +16,8 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+redirect_from:
+  - /com.github.bcedu.shutdownscheduler.desktop/
 ---
 
 <p>Shutdown Scheduler is a very simple program that allows you schedule the shutdown of your computer with a simple and clear interface.</p>

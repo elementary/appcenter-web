@@ -16,6 +16,8 @@ color:
   primary: "#9BDB4D"
   primary-text: "#260063"
 price: 1
+redirect_from:
+  - /com.github.babluboy.nutty.desktop/
 ---
 
 <p>Nutty provides an intuitive user interface for some commonly used network related command line tools</p>

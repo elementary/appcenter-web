@@ -13,6 +13,8 @@ color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.findfileconflicts.desktop/
 ---
 
 <p>Helps to find file names which could have conflicts on Windows.</p>

@@ -16,6 +16,8 @@ color:
   primary: "#fff394"
   primary-text: "#000328"
 price: 0
+redirect_from:
+  - /com.github.alainm23.planner.desktop/
 ---
 
 <p>Do not waste time managing projects, tasks and deadlines. Use Planner</p>

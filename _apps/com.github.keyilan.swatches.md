@@ -14,6 +14,8 @@ color:
   primary: "#ffcb5c"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.keyilan.swatches.desktop/
 ---
 
 <p>Swatches lets you quickly grab variations of any hexadecimal or RGB colour you enter, and then quickly copy any shade to the clipboard with the click of a button.</p>

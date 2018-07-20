@@ -14,6 +14,8 @@ color:
   primary: "#ddbdbd"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.lainsce.palaura.desktop/
 ---
 
 <p>Find any word&apos;s definition, and details about it, with this handy dictionary by your side</p>

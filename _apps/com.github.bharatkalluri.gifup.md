@@ -14,6 +14,8 @@ color:
   primary: "#C64A89"
   primary-text: "#fff"
 price: 0
+redirect_from:
+  - /com.github.bharatkalluri.gifup.desktop/
 ---
 
 <p>Gifup is a simple and effective way to create GIFs from video files.</p>

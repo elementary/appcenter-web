@@ -14,6 +14,8 @@ color:
   primary: "#28619F"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+redirect_from:
+  - /com.github.rapidfingers.translator.desktop/
 ---
 
 <p>Simple and fast translator</p>

@@ -17,6 +17,8 @@ color:
   primary: "#f7785b"
   primary-text: "#000"
 price: 1
+redirect_from:
+  - /com.github.alcinnz.odysseus.desktop/
 ---
 
 <p>Surf the Web with the controls you’re already familiar with from apps like Files and Scratch. With everything where you already expect them it is seamless to switch between Odysseus and other apps.</p>

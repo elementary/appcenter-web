@@ -16,6 +16,8 @@ color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#fe2e56"
 price: 0
+redirect_from:
+  - /com.github.bartzaalberg.lottery.desktop/
 ---
 
 <p>A tool to determine who will be the winner.</p>

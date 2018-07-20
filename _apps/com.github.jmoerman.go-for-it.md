@@ -14,6 +14,8 @@ color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+redirect_from:
+  - /com.github.jmoerman.go-for-it.desktop/
 ---
 
 <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.</p>

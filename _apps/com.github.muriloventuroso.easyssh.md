@@ -14,6 +14,8 @@ color:
   primary: "#ffe16b"
   primary-text: "#000"
 price: 4
+redirect_from:
+  - /com.github.muriloventuroso.easyssh.desktop/
 ---
 
 <p>A complete, efficient and easy-to-use manager. Create and edit connections, groups, customize the terminal, with multiple instances of the same connection.</p>

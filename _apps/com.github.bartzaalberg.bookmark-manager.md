@@ -16,6 +16,8 @@ color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
 price: 3
+redirect_from:
+  - /com.github.bartzaalberg.bookmark-manager.desktop/
 ---
 
 <p>A simple tool to manage your SSH bookmarks from the .ssh/config file. Add, edit, and remove straight from the application. Start in a terminal inside the app, or use your own favorite terminal. You can even add your bookmarks to your app launcher as shortcuts!</p>

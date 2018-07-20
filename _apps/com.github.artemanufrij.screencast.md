@@ -15,6 +15,8 @@ color:
   primary: "#3A1412"
   primary-text: "rgb(255,244,230)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.screencast.desktop/
 ---
 
 <p>Screencast makes it simple to record your screen.</p>

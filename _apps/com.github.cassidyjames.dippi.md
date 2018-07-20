@@ -17,6 +17,8 @@ color:
   primary: "#525"
   primary-text: "#fffffc"
 price: 4
+redirect_from:
+  - /com.github.cassidyjames.dippi.desktop/
 ---
 
 <p>Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.</p>

@@ -14,6 +14,8 @@ color:
   primary: "#ffed6b"
   primary-text: "#692b00"
 price: 0
+redirect_from:
+  - /com.github.santileortiz.iconoscope.desktop/
 ---
 
 <p>View icons installed in your system and their properties.</p>

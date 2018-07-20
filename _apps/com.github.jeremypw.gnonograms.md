@@ -16,6 +16,8 @@ color:
   primary: "#d4d4d4"
   primary-text: "#180297"
 price: 0
+redirect_from:
+  - /com.github.jeremypw.gnonograms.desktop/
 ---
 
 <p>An implementation of the Japanese logic puzzle &quot;Nonograms&quot;</p>

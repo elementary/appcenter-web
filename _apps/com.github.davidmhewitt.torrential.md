@@ -14,6 +14,8 @@ color:
   primary: "rgb(224,247,255)"
   primary-text: "#000"
 price: 0
+redirect_from:
+  - /com.github.davidmhewitt.torrential.desktop/
 ---
 
 <p>A speedy, no-frills torrent client. Comes with a sane set of default options and none of the overwhelming information you don&apos;t need.</p>

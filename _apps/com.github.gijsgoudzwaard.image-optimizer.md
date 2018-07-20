@@ -15,6 +15,8 @@ color:
   primary: "#687ddb"
   primary-text: "#ffffff"
 price: 2
+redirect_from:
+  - /com.github.gijsgoudzwaard.image-optimizer.desktop/
 ---
 
 <p>Compress your images with ease using JpegOptim and OptiPng</p>

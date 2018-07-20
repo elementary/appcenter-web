@@ -15,6 +15,8 @@ color:
   primary: "#BB0000"
   primary-text: "#FFCF00"
 price: 1
+redirect_from:
+  - /com.github.ronnydo.wammer.desktop/
 ---
 
 <p>Wammer lets you kick out all clients in your WiFi network, so you can enjoy its full bandwidth. Best part of the story: everything works fully automatically!</p>

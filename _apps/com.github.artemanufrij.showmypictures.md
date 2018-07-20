@@ -16,6 +16,8 @@ color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 2
+redirect_from:
+  - /com.github.artemanufrij.showmypictures.desktop/
 ---
 
 <p>A very fast image viewer designed extra for large local libraries.</p>

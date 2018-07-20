@@ -14,6 +14,8 @@ color:
   primary: "#FCEDC5"
   primary-text: "#482C4B"
 price: 0
+redirect_from:
+  - /com.github.philip-scott.wallpaperize.desktop/
 ---
 
 <p>Turn your oddly sized wallpapers into a piece of beauty. Simply right click on your picture&apos;s file, and select &quot;Wallpaperize&quot; from the drop down menu, or open the app and drag-and-drop the images you wish to wallpaperize.</p>

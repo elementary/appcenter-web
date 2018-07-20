@@ -14,6 +14,8 @@ color:
   primary: "#2196f3"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+redirect_from:
+  - /com.github.stsdc.monitor.desktop/
 ---
 
 <p>Display usage of system resources, filter and manage processes.</p>

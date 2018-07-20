@@ -14,6 +14,8 @@ color:
   primary: "#3a9104"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.regextester.desktop/
 ---
 
 <p>A regular expression is a special text string that describes a search pattern.</p>

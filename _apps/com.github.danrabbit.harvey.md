@@ -14,6 +14,8 @@ color:
   primary: "#fff"
   primary-text: "#333"
 price: 3
+redirect_from:
+  - /com.github.danrabbit.harvey.desktop/
 ---
 
 <p>Calculate and visualize color contrast. Harvey checks a given set of colors for WCAG contrast compliance.</p>

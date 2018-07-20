@@ -14,6 +14,8 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+redirect_from:
+  - /com.github.dahenson.agenda.desktop/
 ---
 
 <p>Agenda is a simple, slick, speedy and no-nonsense task manager. Use it to keep track of the tasks that matter most.</p>

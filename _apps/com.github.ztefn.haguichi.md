@@ -19,6 +19,8 @@ color:
   primary: "#FF4444"
   primary-text: "#FFFFFF"
 price: 0
+redirect_from:
+  - /com.github.ztefn.haguichi.desktop/
 ---
 
 <p>Join, create and manage Hamachi networks in a breeze.</p>

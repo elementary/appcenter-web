@@ -14,6 +14,8 @@ color:
   primary: "#badbad"
   primary-text: "#212121"
 price: 0
+redirect_from:
+  - /com.github.lainsce.coin.desktop/
 ---
 
 <p>Track the virtual currencies in real world currency value with this handy applet</p>

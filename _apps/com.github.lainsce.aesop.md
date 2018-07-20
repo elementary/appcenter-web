@@ -14,6 +14,8 @@ color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.lainsce.aesop.desktop/
 ---
 
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>

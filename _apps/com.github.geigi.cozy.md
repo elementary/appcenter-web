@@ -17,6 +17,8 @@ color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
 price: 2
+redirect_from:
+  - /com.github.geigi.cozy.desktop/
 ---
 
 <p>You like audio books? Then lets get cozy!</p>

@@ -15,6 +15,8 @@ color:
   primary: "#e9f4fc"
   primary-text: "#000000"
 price: 0
+redirect_from:
+  - /com.github.harisvsulaiman.pushy.desktop/
 ---
 
 <p>A Pushbullet client</p>

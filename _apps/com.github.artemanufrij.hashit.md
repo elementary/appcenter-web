@@ -14,6 +14,8 @@ color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.artemanufrij.hashit.desktop/
 ---
 
 <p>A tool that allows you to ensure a file hasn&apos;t become corrupted.</p>

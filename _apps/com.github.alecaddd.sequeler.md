@@ -17,6 +17,8 @@ color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 5
+redirect_from:
+  - /com.github.alecaddd.sequeler.desktop/
 ---
 
 <p>Easily connect to your local or remote database</p>

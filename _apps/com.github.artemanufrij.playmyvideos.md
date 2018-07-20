@@ -13,6 +13,8 @@ color:
   primary: "#202020"
   primary-text: "rgb(255,255,255)"
 price: 2
+redirect_from:
+  - /com.github.artemanufrij.playmyvideos.desktop/
 ---
 
 <p>A very fast video player designed extra for large local libraries.</p>

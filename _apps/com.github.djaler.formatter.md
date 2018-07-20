@@ -14,6 +14,8 @@ color:
   primary: "#3E9AD6"
   primary-text: "rgb(255,255,255)"
 price: 1
+redirect_from:
+  - /com.github.djaler.formatter.desktop/
 ---
 
 <p>Format your removable devices like usb disk or sd card</p>

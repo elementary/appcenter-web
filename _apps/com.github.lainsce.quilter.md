@@ -16,6 +16,8 @@ color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.lainsce.quilter.desktop/
 ---
 
 <p>Focus on your writing and write beautiful solid stories with the Focus Mode in tow in this Markdown editor</p>

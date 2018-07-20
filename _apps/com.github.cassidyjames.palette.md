@@ -15,6 +15,8 @@ color:
   primary: "#ffe16b"
   primary-text: "#000"
 price: 4
+redirect_from:
+  - /com.github.cassidyjames.palette.desktop/
 ---
 
 <p>elementary uses a set of bright and friendly colors. Easily access the entire palette on your local device, plus copy any variation of each color to paste into your own projects.</p>

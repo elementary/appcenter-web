@@ -18,6 +18,8 @@ color:
   primary: "#226324"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+redirect_from:
+  - /com.github.cjfloss.envelope.desktop/
 ---
 
 <p>Maintain your personal budget by using the tried-and-true envelope system.</p>

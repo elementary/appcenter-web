@@ -16,6 +16,8 @@ color:
   primary: "#b30033"
   primary-text: "#f2f2f2"
 price: 0
+redirect_from:
+  - /com.github.donadigo.eddy.desktop/
 ---
 
 <p>Install, uninstall and view information about debian packages.</p>

@@ -16,6 +16,8 @@ color:
   primary: "#96A8C8"
   primary-text: "#000000"
 price: 0
+redirect_from:
+  - /com.github.rkoesters.xkcd-gtk.desktop/
 ---
 
 <p>Comic Sticks lets you view xkcd comics and cache them offline.</p>

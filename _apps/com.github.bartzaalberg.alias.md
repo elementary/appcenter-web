@@ -17,6 +17,8 @@ color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#1DB5FF"
 price: 0
+redirect_from:
+  - /com.github.bartzaalberg.alias.desktop/
 ---
 
 <p>A tool to manage your bash aliases</p>

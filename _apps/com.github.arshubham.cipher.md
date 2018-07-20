@@ -16,6 +16,8 @@ color:
   primary: "#BA635C"
   primary-text: "#ECF0F1"
 price: 0
+redirect_from:
+  - /com.github.arshubham.cipher.desktop/
 ---
 
 <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>

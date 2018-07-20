@@ -14,6 +14,8 @@ color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
 price: 0
+redirect_from:
+  - /com.github.danrabbit.nimbus.desktop/
 ---
 
 <p>See the current temperature and weather conditions for your location with this minimal color-changing applet.</p>

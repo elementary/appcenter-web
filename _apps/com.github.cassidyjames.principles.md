@@ -17,6 +17,8 @@ color:
   primary: "#fff"
   primary-text: "#000"
 price: 2
+redirect_from:
+  - /com.github.cassidyjames.principles.desktop/
 ---
 
 <p>According to Dieter Rams, good design is innovative, makes a product useful, is aesthetic, makes a product understandable, is unobtrusive, is honest, is long-lasting, is thorough down to the last detail, is environmentally-friendly, and is as little design as possible.</p>

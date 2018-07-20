@@ -14,6 +14,8 @@ color:
   primary: "#e3bab1"
   primary-text: "#2b313d"
 price: 0
+redirect_from:
+  - /com.github.davidmhewitt.clipped.desktop/
 ---
 
 <p>Keep and search your clipboard history and paste old items quickly and easily.</p>

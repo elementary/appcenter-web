@@ -15,6 +15,8 @@ color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
 price: 0
+redirect_from:
+  - /com.github.bartzaalberg.php-tester.desktop/
 ---
 
 <p>A simple tool to test your PHP code.</p>

@@ -15,6 +15,8 @@ color:
   primary: "#e29ffc"
   primary-text: "#260063"
 price: 2
+redirect_from:
+  - /com.github.babluboy.bookworm.desktop/
 ---
 
 <p>Read the books you love without having to worry about the different format complexities like epub, pdf, mobi, cbr, etc.</p>

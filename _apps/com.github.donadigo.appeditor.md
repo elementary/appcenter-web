@@ -14,6 +14,8 @@ color:
   primary: "#32e3ca"
   primary-text: "#0A332D"
 price: 0
+redirect_from:
+  - /com.github.donadigo.appeditor.desktop/
 ---
 
 <p>Edit application entries shown in application menu and their properties.</p>

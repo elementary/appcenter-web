@@ -15,6 +15,8 @@ color:
   primary: "#A3FF91"
   primary-text: "#333333"
 price: 0
+redirect_from:
+  - /com.github.ronnydo.colorpicker.desktop/
 ---
 
 <p>One Color Picker to rule them all! No overhelming menus or settings. An easy tool with the features you need.</p>

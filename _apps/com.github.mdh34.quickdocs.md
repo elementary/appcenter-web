@@ -18,6 +18,8 @@ color:
   primary: "#4c158a"
   primary-text: "rgb(255, 255, 255)"
 price: 2
+redirect_from:
+  - /com.github.mdh34.quickdocs.desktop/
 ---
 
 <p>A fast developer docs reader</p>

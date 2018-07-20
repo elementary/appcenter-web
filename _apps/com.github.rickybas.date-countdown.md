@@ -14,6 +14,8 @@ color:
   primary: "#f5f5f5"
   primary-text: "#044b6c"
 price: 0
+redirect_from:
+  - /com.github.rickybas.date-countdown.desktop/
 ---
 
 <p>Add multiple countdown timers for specific days</p>
