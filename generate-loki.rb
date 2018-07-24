@@ -16,6 +16,7 @@ title: ((title))
 summary: ((summary))
 developer: ((dev))
 homepage: ((site))
+help_page: ((help))
 dist: loki
 screenshots:
 ((screenshots))
@@ -50,6 +51,13 @@ YAML.load_stream(componentsData) do |doc|
 		site = "#"
 	end
 	appFile.sub!('((site))', site)
+
+  if not doc['Url'].nil? and not doc['Url']['help'].nil?
+    help = doc['Url']['help']
+  else
+    help = "#"
+  end
+  appFile.sub!('((help))', help)
 
 	unless doc['Custom'].nil?
 		if not doc['Custom']['x-appcenter-color-primary'].nil?
