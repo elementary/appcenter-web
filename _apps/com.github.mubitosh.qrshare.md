@@ -3,6 +3,7 @@ title: QR Share
 summary: Quick and easy file sharing
 developer: Santosh Heigrujam
 homepage: https://github.com/mubitosh/qrshare
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mubitosh.qrshare.desktop/6FE9AEF7DA173286F22261553978AB4B/screenshots/image-1_orig.png

@@ -3,6 +3,7 @@ title: ValaCompiler
 summary: A Simple GUI for valac
 developer: Basem Kheyar
 homepage: https://github.com/basjam/ValaCompiler/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/basjam.valacompiler.desktop/7922B9F6433EC579E80AF0BD703CCD8B/screenshots/image-1_orig.png

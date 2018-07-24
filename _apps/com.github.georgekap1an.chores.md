@@ -3,6 +3,7 @@ title: Chores
 summary: Keep track of recurring chores
 developer: Jonathan Hebert
 homepage: #
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/georgekap1an.chores.desktop/8377510F66037DCA4AB8E2B27F7EAC96/screenshots/image-1_orig.png

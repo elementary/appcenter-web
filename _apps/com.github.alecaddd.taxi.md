@@ -3,6 +3,7 @@ title: Taxi
 summary: The FTP Client that drives you anywhere
 developer: Alessandro Castellani
 homepage: https://github.com/Alecaddd/sequeler
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.taxi.desktop/44A65467852452000768F94FBB962557/screenshots/image-1_orig.png

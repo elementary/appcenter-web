@@ -3,6 +3,7 @@ title: Quilter
 summary: Focus on your writing
 developer: Lains
 homepage: https://github.com/lainsce/quilter/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter.desktop/6B81DAF3B38650B9815EB5916B8C955F/screenshots/image-1_orig.png

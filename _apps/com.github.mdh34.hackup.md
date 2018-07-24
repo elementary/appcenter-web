@@ -3,6 +3,7 @@ title: HackUp
 summary: Read Hacker News from the desktop
 developer: Matt Harris
 homepage: https://github.com/mdh34/hackup
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup.desktop/97BAA254BBE2D580DC0BF8919945E0BA/screenshots/image-1_orig.png

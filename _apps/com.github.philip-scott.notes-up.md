@@ -3,6 +3,7 @@ title: Notes-Up
 summary: Your New Notebook
 developer: Felipe Escoto
 homepage: https://github.com/Philip-Scott
+help_page: https://github.com/Philip-Scott/Notes-up/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/screenshots/image-1_orig.png

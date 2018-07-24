@@ -3,6 +3,7 @@ title: Pwned Checker
 summary: Check if your password has beed leaked.
 developer: Tudor Plugaru
 homepage: https://github.com/PlugaruT/pwned-checker
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/screenshots/image-1_orig.png

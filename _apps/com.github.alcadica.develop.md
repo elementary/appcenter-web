@@ -3,6 +3,7 @@ title: Develop
 summary: Creates elementary OS apps and widgets
 developer: Alcadica
 homepage: http://www.alcadica.com/
+help_page: https://github.com/alcadica/develop/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/screenshots/image-1_orig.png

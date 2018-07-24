@@ -3,6 +3,7 @@ title: Odysseus
 summary: Surf knowledge, entertainment, and services on The Web
 developer: Adrian Cochrane
 homepage: https://alcinnz.github.io/Odysseus
+help_page: https://alcinnz.github.io/Odysseus-support
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus.desktop/513D840EAC537293560BCA00D118E410/screenshots/image-1_orig.png

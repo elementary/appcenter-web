@@ -3,6 +3,7 @@ title: Color Picker
 summary: The most intuitive Color Picker to speed up your workflow
 developer: Ronny Dobra
 homepage: https://github.com/RonnyDo/ColorPicker
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/screenshots/image-1_orig.png

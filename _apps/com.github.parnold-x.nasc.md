@@ -3,6 +3,7 @@ title: NaSC
 summary: Do maths like a normal person
 developer: Peter Arnold
 homepage: https://github.com/parnold-x/nasc
+help_page: https://github.com/parnold-x/nasc/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.nasc.desktop/658DC34894BE2AEE0C69DEA7F5C74A26/screenshots/image-1_orig.png

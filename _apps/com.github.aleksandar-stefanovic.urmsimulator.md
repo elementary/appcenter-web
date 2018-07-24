@@ -3,6 +3,7 @@ title: URM Simulator
 summary: Simple URM simulations
 developer: Aleksandar Stefanović
 homepage: https://github.com/aleksandar-stefanovic/urmsimulator/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/screenshots/image-1_orig.png

@@ -3,6 +3,7 @@ title: Quotes
 summary: Quotes for daily inspiration
 developer: Alonso Enrique
 homepage: https://github.com/AlonsoEnrique
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alonsoenrique.quotes.desktop/22C0BFD09C7BB50FD947483514E4446C/screenshots/image-1_orig.png

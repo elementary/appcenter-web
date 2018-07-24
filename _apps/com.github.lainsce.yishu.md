@@ -3,6 +3,7 @@ title: Yishu
 summary: A bespoke and simple Todo.txt client
 developer: Lains
 homepage: https://github.com/lainsce/yishu/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.yishu.desktop/9E299DFE5AC79C13FAEF7D8730758773/screenshots/image-1_orig.png

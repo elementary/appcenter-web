@@ -3,6 +3,7 @@ title: Principles
 summary: Remember Dieter Rams' ten principles of good design
 developer: Cassidy James Blaede
 homepage: https://github.com/cassidyjames/principles
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.principles.desktop/5C1374AA9D42E850945738C5149E04EB/screenshots/image-1_orig.png

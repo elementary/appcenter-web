@@ -3,6 +3,7 @@ title: Snaptastic
 summary: A manager for snaps
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/snaptastic
+help_page: https://github.com/bartzaalberg/snaptastic/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-1_orig.png

@@ -3,6 +3,7 @@ title: Agenda
 summary: Get things done
 developer: Dane Henson
 homepage: http://brainofdane.com
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda.desktop/577F421A0F173A4563FF2AF9E86137EA/screenshots/image-1_orig.png

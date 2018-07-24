@@ -3,6 +3,7 @@ title: Image Burner
 summary: Inspired by Etcher's UI
 developer: Artem Anufrij
 homepage: https://artemanufrij.github.io
+help_page: https://github.com/artemanufrij/imageburner/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.imageburner.desktop/474396D80CA40FF28EF991394B91479A/screenshots/image-1_orig.png

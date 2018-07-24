@@ -3,6 +3,7 @@ title: Sudoku
 summary: The number that is alone
 developer: Peter Arnold
 homepage: https://github.com/parnold-x/sudoku
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.sudoku.desktop/081D0B3A42444413680ACDD32322CA7A/screenshots/image-1_orig.png

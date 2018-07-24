@@ -3,6 +3,7 @@ title: Eddy
 summary: Install and Manage .deb Files
 developer: Adam Bieńkowski
 homepage: https://github.com/donadigo/eddy
+help_page: https://github.com/donadigo/eddy
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-1_orig.png

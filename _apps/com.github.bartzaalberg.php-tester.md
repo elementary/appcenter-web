@@ -3,6 +3,7 @@ title: PHP Tester
 summary: Test some PHP code!
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/php-tester
+help_page: https://github.com/bartzaalberg/php-tester/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/screenshots/image-1_orig.png

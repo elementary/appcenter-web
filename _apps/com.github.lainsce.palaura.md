@@ -3,6 +3,7 @@ title: Palaura
 summary: Find any word's definition with this handy dictionary
 developer: Lains
 homepage: https://github.com/lainsce/palaura/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.palaura.desktop/95F7FDC30DF349F7E029D6078A7F3863/screenshots/image-1_orig.png

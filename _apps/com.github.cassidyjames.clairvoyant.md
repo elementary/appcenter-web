@@ -3,6 +3,7 @@ title: Clairvoyant
 summary: Ask questions and get psychic answers from this fortune teller
 developer: Cassidy James Blaede
 homepage: https://cassidyjames.com
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant.desktop/9F81919B644A3CA6C71375487F81BA88/screenshots/image-1_orig.png

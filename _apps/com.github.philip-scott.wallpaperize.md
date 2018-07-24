@@ -3,6 +3,7 @@ title: Wallpaperize
 summary: Beautify your oddly-sized wallpapers
 developer: Felipe Escoto
 homepage: https://github.com/Philip-Scott
+help_page: https://github.com/Philip-Scott/wallpaperize/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.wallpaperize.desktop/A58975F654B292F0C9992067760ACC1B/screenshots/image-1_orig.png

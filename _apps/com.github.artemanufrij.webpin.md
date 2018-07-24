@@ -3,6 +3,7 @@ title: Webpin
 summary: A simple app to pin websites on the desktop
 developer: Artem Anufrij
 homepage: https://artemanufrij.github.io
+help_page: https://github.com/artemanufrij/webpin/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/screenshots/image-1_orig.png

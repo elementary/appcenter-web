@@ -3,6 +3,7 @@ title: Alias
 summary: Simplify your commands
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/alias
+help_page: https://github.com/bartzaalberg/alias/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.alias.desktop/D4A905ADB1025483EA29D70109D1B132/screenshots/image-1_orig.png

@@ -3,6 +3,7 @@ title: Sequeler
 summary: Friendly SQL Client
 developer: Alessandro Castellani
 homepage: https://github.com/Alecaddd/sequeler
+help_page: https://github.com/Alecaddd/sequeler/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-1_orig.png

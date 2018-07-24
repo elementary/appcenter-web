@@ -3,6 +3,7 @@ title: Gifup
 summary: Create GIFs from Videos quickly!
 developer: Bharat Kalluri
 homepage: https://github.com/bharatkalluri/gifup
+help_page: https://github.com/bharatkalluri/gifup/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bharatkalluri.gifup.desktop/1C1200AD4D146EE398F87087FA56828E/screenshots/image-1_orig.png

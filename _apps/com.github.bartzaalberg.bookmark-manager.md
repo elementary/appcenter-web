@@ -3,6 +3,7 @@ title: Bookmark Manager
 summary: Manage your SSH bookmarks
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/bookmark-manager
+help_page: https://github.com/bartzaalberg/bookmark-manager/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-1_orig.png

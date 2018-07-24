@@ -3,6 +3,7 @@ title: Elements
 summary: All the elements of the universe!
 developer: Eudald Gubert i Roldan
 homepage: https://github.com/eudaldgr/elements
+help_page: https://github.com/eudaldgr/elements/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/eudaldgr.elements.desktop/0B87EFD55AA02E9321514763D338AB04/screenshots/image-1_orig.png

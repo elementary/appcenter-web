@@ -3,6 +3,7 @@ title: Iconoscope
 summary: Simple icon visualizer
 developer: Santiago León O.
 homepage: https://github.com/santileortiz/Iconoscope
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope.desktop/CFF2CE03E0638D66ED8CC1157220163A/screenshots/image-1_orig.png

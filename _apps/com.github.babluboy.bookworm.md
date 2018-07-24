@@ -3,6 +3,7 @@ title: Bookworm
 summary: A focused eBook reader
 developer: Siddhartha Das
 homepage: https://babluboy.github.io/bookworm
+help_page: https://github.com/babluboy/bookworm/wiki
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/screenshots/image-1_orig.png

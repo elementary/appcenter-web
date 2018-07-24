@@ -3,6 +3,7 @@ title: Cipher
 summary: Encode and decode text
 developer: Shubham Arora
 homepage: https://github.com/arshubham/cipher
+help_page: shubhamarora.in
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/arshubham.cipher.desktop/2E8F3BE59B8A3DFDA656A5D203AEC0FA/screenshots/image-1_orig.png

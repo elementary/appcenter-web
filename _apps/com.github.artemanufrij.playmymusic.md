@@ -3,6 +3,7 @@ title: Melody
 summary: A music player for listening local music files, online radios and Audio CD's.
 developer: Artem Anufrij
 homepage: http://anufrij.org/melody/
+help_page: https://github.com/artemanufrij/playmymusic/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-1_orig.png

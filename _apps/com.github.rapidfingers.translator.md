@@ -3,6 +3,7 @@ title: Translator
 summary: Translator
 developer: RapidFingers
 homepage: https://rapidfingers.github.io/Translator/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/rapidfingers.translator.desktop/A3A1A5FEA71ADE932783710780C0E4D5/screenshots/image-1_orig.png

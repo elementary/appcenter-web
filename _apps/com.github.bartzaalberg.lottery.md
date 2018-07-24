@@ -3,6 +3,7 @@ title: Lottery
 summary: Who will be the winner?
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/lottery
+help_page: https://github.com/bartzaalberg/lottery/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/screenshots/image-1_orig.png

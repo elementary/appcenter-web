@@ -3,6 +3,7 @@ title: GoodVibes
 summary: Send and recieve good vibes!
 developer: Coralynn May Colombe
 homepage: #
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/coralynnmay.goodvibesapp.desktop/67FBF30C77C16472436537D4A81C0C1C/screenshots/image-1_orig.png

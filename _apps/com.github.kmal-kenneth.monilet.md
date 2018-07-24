@@ -3,6 +3,7 @@ title: Monilet
 summary: A monitor widget.
 developer: Kenet Acuña
 homepage: http://github.com/kmal-kenneth
+help_page: #
 dist: loki
 screenshots:
 

@@ -3,6 +3,7 @@ title: Screencast
 summary: A simple screen recorder
 developer: Artem Anufrij
 homepage: https://artemanufrij.github.io
+help_page: https://github.com/artemanufrij/screencast/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.screencast.desktop/CB4071CE4428FF2316A74A65F70F990B/screenshots/image-1_orig.png

@@ -3,6 +3,7 @@ title: Cozy
 summary: A modern audio book player
 developer: Julian Geywitz
 homepage: https://github.com/geigi/cozy
+help_page: https://github.com/geigi/cozy/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/screenshots/image-1_orig.png

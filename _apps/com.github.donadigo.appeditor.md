@@ -3,6 +3,7 @@ title: AppEditor
 summary: Edit application menu
 developer: Adam Bieńkowski
 homepage: https://github.com/donadigo/appeditor
+help_page: https://github.com/donadigo/appeditor
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.appeditor.desktop/011E290055635F7F5BE25E3255C2A248/screenshots/image-1_orig.png

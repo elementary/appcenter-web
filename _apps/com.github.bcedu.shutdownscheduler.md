@@ -3,6 +3,7 @@ title: Shutdown Scheduler
 summary: Schedule your computer's shutdown easily
 developer: Eduard Berloso Clarà
 homepage: https://github.com/bcedu/ShutdownScheduler
+help_page: https://github.com/bcedu/ShutdownScheduler/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bcedu.shutdownscheduler.desktop/4C5C44C9008A139CDA9BB6A1B59434E2/screenshots/image-1_orig.png

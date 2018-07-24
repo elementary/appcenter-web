@@ -3,6 +3,7 @@ title: Formatter
 summary: A simple device formatter
 developer: Kirill Romanov
 homepage: https://github.com/djaler/formatter
+help_page: https://github.com/djaler/formatter/issues
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/djaler.formatter.desktop/BAA9FC8D8F98BB5EEA2B91AFAF6498DA/screenshots/image-1_orig.png

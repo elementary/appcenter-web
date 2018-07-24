@@ -3,6 +3,7 @@ title: Coin
 summary: Never miss out on the monetary value of a virtual currency with this handy applet
 developer: Lains
 homepage: https://github.com/lainsce/coin/
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/screenshots/image-1_orig.png
