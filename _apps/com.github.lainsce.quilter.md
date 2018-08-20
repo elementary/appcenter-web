@@ -6,15 +6,15 @@ homepage: https://github.com/lainsce/quilter/
 help_page: #
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/DCDC109CCB64A7BCBEA681EA1EFD1072/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
