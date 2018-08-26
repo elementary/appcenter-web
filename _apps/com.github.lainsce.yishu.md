@@ -1,4 +1,5 @@
 ---
+app_id: com.github.lainsce.yishu.desktop
 title: Yishu
 summary: A bespoke and simple Todo.txt client
 developer: Lains

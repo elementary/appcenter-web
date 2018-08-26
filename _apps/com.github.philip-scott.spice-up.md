@@ -1,4 +1,5 @@
 ---
+app_id: com.github.philip-scott.spice-up.desktop
 title: Spice-Up
 summary: Create simple and beautiful presentations
 developer: Felipe Escoto

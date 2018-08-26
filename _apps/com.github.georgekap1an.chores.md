@@ -1,4 +1,5 @@
 ---
+app_id: com.github.georgekap1an.chores.desktop
 title: Chores
 summary: Keep track of recurring chores
 developer: Jonathan Hebert

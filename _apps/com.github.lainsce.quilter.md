@@ -1,4 +1,5 @@
 ---
+app_id: com.github.lainsce.quilter
 title: Quilter
 summary: Focus on your writing
 developer: Lains

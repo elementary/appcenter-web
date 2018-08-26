@@ -1,4 +1,5 @@
 ---
+app_id: com.github.lainsce.aesop.desktop
 title: Aesop
 summary: The simplest PDF viewer around
 developer: Lains

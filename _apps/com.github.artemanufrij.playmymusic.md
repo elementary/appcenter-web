@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.playmymusic.desktop
 title: Melody
 summary: A music player for listening local music files, online radios and Audio CD's.
 developer: Artem Anufrij

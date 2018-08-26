@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bartzaalberg.bookmark-manager.desktop
 title: Bookmark Manager
 summary: Manage your SSH bookmarks
 developer: Bart Zaalberg

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.gijsgoudzwaard.image-optimizer.desktop
 title: Image Optimizer
 summary: Simple lossless image compression
 developer: Gijs Goudzwaard

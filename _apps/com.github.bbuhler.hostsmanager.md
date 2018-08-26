@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bbuhler.hostsmanager
 title: HostsManager
 summary: Manage your /etc/hosts file
 developer: Benjamin Buhler

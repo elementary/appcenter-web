@@ -1,4 +1,5 @@
 ---
+app_id: com.github.philip-scott.notes-up.desktop
 title: Notes-Up
 summary: Your New Notebook
 developer: Felipe Escoto

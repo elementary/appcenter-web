@@ -1,4 +1,5 @@
 ---
+app_id: com.github.lainsce.palaura.desktop
 title: Palaura
 summary: Find any word's definition with this handy dictionary
 developer: Lains

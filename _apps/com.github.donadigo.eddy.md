@@ -1,4 +1,5 @@
 ---
+app_id: com.github.donadigo.eddy.desktop
 title: Eddy
 summary: Install and Manage .deb Files
 developer: Adam Bieńkowski

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.translit.desktop
 title: Translit
 summary: Translit is a simple method of encoding Cyrillic letters with Latin ones
 developer: Artem Anufrij

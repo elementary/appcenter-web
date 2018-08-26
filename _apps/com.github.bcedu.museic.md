@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bcedu.museic.desktop
 title: MuseIC
 summary: Simple and fast music player with remote control
 developer: Eduard Berloso Clarà

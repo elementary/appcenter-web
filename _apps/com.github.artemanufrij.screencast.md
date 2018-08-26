@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.screencast.desktop
 title: Screencast
 summary: A simple screen recorder
 developer: Artem Anufrij

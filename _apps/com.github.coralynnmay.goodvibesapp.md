@@ -1,4 +1,5 @@
 ---
+app_id: com.github.coralynnmay.goodvibesapp.desktop
 title: GoodVibes
 summary: Send and recieve good vibes!
 developer: Coralynn May Colombe

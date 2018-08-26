@@ -1,4 +1,5 @@
 ---
+app_id: com.github.eudaldgr.elements.desktop
 title: Elements
 summary: All the elements of the universe!
 developer: Eudald Gubert i Roldan

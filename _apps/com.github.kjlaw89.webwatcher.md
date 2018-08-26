@@ -1,4 +1,5 @@
 ---
+app_id: com.github.kjlaw89.webwatcher.desktop
 title: Web Watcher
 summary: Know when your websites are misbehaving!
 developer: KJ Lawrence

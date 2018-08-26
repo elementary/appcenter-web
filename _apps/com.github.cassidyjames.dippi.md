@@ -1,4 +1,5 @@
 ---
+app_id: com.github.cassidyjames.dippi.desktop
 title: Dippi
 summary: Calculate display info like DPI and aspect ratio
 developer: Cassidy James Blaede

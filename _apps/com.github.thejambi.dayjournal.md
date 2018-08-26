@@ -1,4 +1,5 @@
 ---
+app_id: com.github.thejambi.dayjournal.desktop
 title: DayJournal
 summary: A future-proof journal.
 developer: Zach Burnham

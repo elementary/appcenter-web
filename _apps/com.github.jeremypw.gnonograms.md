@@ -1,4 +1,5 @@
 ---
+app_id: com.github.jeremypw.gnonograms.desktop
 title: Gnonograms
 summary: Create and solve gnonogram puzzles
 developer: Jeremy P Wootten

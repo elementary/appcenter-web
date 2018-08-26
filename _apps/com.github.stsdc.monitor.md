@@ -1,4 +1,5 @@
 ---
+app_id: com.github.stsdc.monitor.desktop
 title: Monitor
 summary: Manage processes and monitor system resources
 developer: Stanisław Dac

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.ztefn.haguichi.desktop
 title: Haguichi
 summary: A graphical frontend for Hamachi
 developer: Stephen Brandt

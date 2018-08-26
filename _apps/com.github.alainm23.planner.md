@@ -1,4 +1,5 @@
 ---
+app_id: com.github.alainm23.planner.desktop
 title: Planner
 summary: The most intuitive project and task management tool
 developer: Alain M.

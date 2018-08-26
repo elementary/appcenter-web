@@ -1,4 +1,5 @@
 ---
+app_id: com.github.muriloventuroso.easyssh.desktop
 title: EasySSH
 summary: SSH Connection Manager
 developer: Murilo Venturoso

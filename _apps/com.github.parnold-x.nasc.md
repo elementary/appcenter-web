@@ -1,4 +1,5 @@
 ---
+app_id: com.github.parnold-x.nasc.desktop
 title: NaSC
 summary: Do maths like a normal person
 developer: Peter Arnold

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.djaler.formatter
 title: Formatter
 summary: A simple device formatter
 developer: Kirill Romanov

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.rkoesters.xkcd-gtk.desktop
 title: Comic Sticks
 summary: Browse xkcd comics
 developer: Ryan Koesters

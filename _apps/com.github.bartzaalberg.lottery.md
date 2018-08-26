@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bartzaalberg.lottery.desktop
 title: Lottery
 summary: Who will be the winner?
 developer: Bart Zaalberg

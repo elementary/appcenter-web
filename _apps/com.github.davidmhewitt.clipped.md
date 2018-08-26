@@ -1,4 +1,5 @@
 ---
+app_id: com.github.davidmhewitt.clipped.desktop
 title: Clipped
 summary: Manage your clipboard with ease
 developer: David Hewitt

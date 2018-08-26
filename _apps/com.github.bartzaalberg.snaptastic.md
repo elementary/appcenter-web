@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bartzaalberg.snaptastic.desktop
 title: Snaptastic
 summary: A manager for snaps
 developer: Bart Zaalberg

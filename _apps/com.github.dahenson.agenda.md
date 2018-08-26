@@ -1,4 +1,5 @@
 ---
+app_id: com.github.dahenson.agenda
 title: Agenda
 summary: Get things done
 developer: Dane Henson

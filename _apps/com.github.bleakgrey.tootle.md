@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bleakgrey.tootle.desktop
 title: Tootle
 summary: Lightning fast client for Mastodon
 developer: bleak_grey

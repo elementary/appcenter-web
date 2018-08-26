@@ -1,4 +1,5 @@
 ---
+app_id: com.github.basjam.valacompiler.desktop
 title: ValaCompiler
 summary: A Simple GUI for valac
 developer: Basem Kheyar

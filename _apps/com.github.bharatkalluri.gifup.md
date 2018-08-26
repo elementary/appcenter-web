@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bharatkalluri.gifup.desktop
 title: Gifup
 summary: Create GIFs from Videos quickly!
 developer: Bharat Kalluri

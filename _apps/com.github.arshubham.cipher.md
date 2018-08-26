@@ -1,4 +1,5 @@
 ---
+app_id: com.github.arshubham.cipher.desktop
 title: Cipher
 summary: Encode and decode text
 developer: Shubham Arora

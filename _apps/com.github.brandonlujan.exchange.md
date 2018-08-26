@@ -1,4 +1,5 @@
 ---
+app_id: com.github.brandonlujan.exchange.desktop
 title: Exchange
 summary: Convert currencies with no hassle
 developer: Brandon Luján

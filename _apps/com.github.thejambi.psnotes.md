@@ -1,4 +1,5 @@
 ---
+app_id: com.github.thejambi.psnotes.desktop
 title: P.S. Notes.
 summary: Notes, plain and simple.
 developer: Zach Burnham

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.needle-and-thread.vocal.desktop
 title: Vocal
 summary: A Great Podcast Client for the Modern Free Desktop
 developer: Needle & Thread

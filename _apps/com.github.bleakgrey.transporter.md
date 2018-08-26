@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bleakgrey.transporter.desktop
 title: Transporter
 summary: Hassle-free file sharing
 developer: bleak_grey

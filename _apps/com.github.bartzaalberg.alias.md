@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bartzaalberg.alias.desktop
 title: Alias
 summary: Simplify your commands
 developer: Bart Zaalberg

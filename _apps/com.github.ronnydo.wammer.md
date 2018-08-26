@@ -1,4 +1,5 @@
 ---
+app_id: com.github.ronnydo.wammer.desktop
 title: Wammer
 summary: Jamming your WiFi network
 developer: Ronny Dobra

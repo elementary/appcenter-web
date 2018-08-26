@@ -1,4 +1,5 @@
 ---
+app_id: com.github.parnold-x.timer.desktop
 title: Timer
 summary: The ultimate tea timer
 developer: Peter Arnold

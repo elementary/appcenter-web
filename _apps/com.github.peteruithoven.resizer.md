@@ -1,4 +1,5 @@
 ---
+app_id: com.github.peteruithoven.resizer
 title: Resizer
 summary: Quickly resize images from the context menu
 developer: Peter Uithoven

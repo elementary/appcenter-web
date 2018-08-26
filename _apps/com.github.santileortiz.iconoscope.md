@@ -1,4 +1,5 @@
 ---
+app_id: com.github.santileortiz.iconoscope.desktop
 title: Iconoscope
 summary: Simple icon visualizer
 developer: Santiago León O.

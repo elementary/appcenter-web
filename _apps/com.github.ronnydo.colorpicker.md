@@ -1,4 +1,5 @@
 ---
+app_id: com.github.ronnydo.colorpicker.desktop
 title: Color Picker
 summary: The most intuitive Color Picker to speed up your workflow
 developer: Ronny Dobra

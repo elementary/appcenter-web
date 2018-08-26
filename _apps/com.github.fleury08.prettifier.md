@@ -1,4 +1,5 @@
 ---
+app_id: com.github.fleury08.prettifier
 title: Prettifier
 summary: Prettify your JSON/XML outputs
 developer: Jaroslav Staněk

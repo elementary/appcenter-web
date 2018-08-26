@@ -1,4 +1,5 @@
 ---
+app_id: com.github.davidmhewitt.torrential
 title: Torrential
 summary: Download torrents in style
 developer: David Hewitt

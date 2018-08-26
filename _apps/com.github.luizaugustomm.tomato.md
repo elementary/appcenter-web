@@ -1,4 +1,5 @@
 ---
+app_id: com.github.luizaugustomm.tomato.desktop
 title: Tomato
 summary: Keep focused on your work
 developer: Tomato Team

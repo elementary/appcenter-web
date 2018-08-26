@@ -1,4 +1,5 @@
 ---
+app_id: com.github.mubitosh.qrshare.desktop
 title: QR Share
 summary: Quick and easy file sharing
 developer: Santosh Heigrujam

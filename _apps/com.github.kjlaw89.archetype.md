@@ -1,4 +1,5 @@
 ---
+app_id: com.github.kjlaw89.archetype.desktop
 title: Archetype
 summary: Start developing apps with just a few clicks!
 developer: KJ Lawrence

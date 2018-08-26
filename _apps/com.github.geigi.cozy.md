@@ -1,4 +1,5 @@
 ---
+app_id: com.github.geigi.cozy.desktop
 title: Cozy
 summary: A modern audio book player
 developer: Julian Geywitz

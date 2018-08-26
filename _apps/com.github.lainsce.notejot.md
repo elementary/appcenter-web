@@ -1,4 +1,5 @@
 ---
+app_id: com.github.lainsce.notejot.desktop
 title: Notejot
 summary: Jot your ideas
 developer: Lains

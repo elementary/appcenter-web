@@ -1,4 +1,5 @@
 ---
+app_id: com.github.harisvsulaiman.pushy.desktop
 title: Pushy
 summary: Pushbullet client
 developer: Haris Sulaiman

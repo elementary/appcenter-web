@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.metronome.desktop
 title: Metronome
 summary: A simple click
 developer: Artem Anufrij

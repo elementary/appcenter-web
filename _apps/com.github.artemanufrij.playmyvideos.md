@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.playmyvideos.desktop
 title: Cinema
 summary: A video player for watching local video files.
 developer: Artem Anufrij

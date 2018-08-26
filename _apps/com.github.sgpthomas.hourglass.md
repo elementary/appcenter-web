@@ -1,4 +1,5 @@
 ---
+app_id: com.github.sgpthomas.hourglass.desktop
 title: Hourglass
 summary: A simple clock application that provides stopwatches, alarms, and timers.
 developer: Sam Thomas

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.alecaddd.sequeler.desktop
 title: Sequeler
 summary: Friendly SQL Client
 developer: Alessandro Castellani

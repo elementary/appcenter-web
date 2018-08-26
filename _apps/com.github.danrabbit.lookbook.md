@@ -1,4 +1,5 @@
 ---
+app_id: com.github.danrabbit.lookbook.desktop
 title: LookBook
 summary: Browse and find system icons
 developer: Daniel Foré

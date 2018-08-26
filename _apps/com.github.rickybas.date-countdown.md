@@ -1,4 +1,5 @@
 ---
+app_id: com.github.rickybas.date-countdown
 title: Date Countdown
 summary: A date countdown applet
 developer: Ricky Bassom

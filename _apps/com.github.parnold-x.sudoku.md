@@ -1,4 +1,5 @@
 ---
+app_id: com.github.parnold-x.sudoku.desktop
 title: Sudoku
 summary: The number that is alone
 developer: Peter Arnold

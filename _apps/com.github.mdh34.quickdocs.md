@@ -1,4 +1,5 @@
 ---
+app_id: com.github.mdh34.quickdocs.desktop
 title: quickDocs
 summary: Quickly Read Developer Docs
 developer: Matt Harris

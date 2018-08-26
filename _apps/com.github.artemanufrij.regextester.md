@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.regextester.desktop
 title: Regex Tester
 summary: A simple app for testing regular expressions
 developer: Artem Anufrij

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.babluboy.nutty.desktop
 title: Nutty
 summary: A simple utility for network information
 developer: Siddhartha Das

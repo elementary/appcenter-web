@@ -1,4 +1,5 @@
 ---
+app_id: com.github.spheras.desktopfolder.desktop
 title: Desktop Folder
 summary: Bring your desktop back to life
 developer: DesktopFolder Developers

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bitseater.weather.desktop
 title: Meteo
 summary: Know the forecast of the next hours and days with data and maps
 developer: Carlos Suárez

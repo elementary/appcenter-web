@@ -1,4 +1,5 @@
 ---
+app_id: com.github.robertsanseries.ciano.desktop
 title: Ciano
 summary: A multimedia file converter
 developer: Robert San

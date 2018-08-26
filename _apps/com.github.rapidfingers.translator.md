@@ -1,4 +1,5 @@
 ---
+app_id: com.github.rapidfingers.translator.desktop
 title: Translator
 summary: Translator
 developer: RapidFingers

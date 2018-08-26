@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.hashit.desktop
 title: Hash It
 summary: Generate and verify file hashes
 developer: Artem Anufrij

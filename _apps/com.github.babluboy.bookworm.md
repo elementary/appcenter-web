@@ -1,4 +1,5 @@
 ---
+app_id: com.github.babluboy.bookworm.desktop
 title: Bookworm
 summary: A focused eBook reader
 developer: Siddhartha Das

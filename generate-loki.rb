@@ -12,6 +12,7 @@ componentsDataGz = open("http://packages.elementary.io/appcenter/dists/xenial/ma
 componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
+app_id: ((id))
 title: ((title))
 summary: ((summary))
 developer: ((dev))
@@ -27,7 +28,7 @@ color:
   primary-text: "((color_text))"
 price: ((price))
 redirect_from:
-  - /((id)).desktop/
+  - /((package)).desktop/
 ---
 
 ((description))'
@@ -43,7 +44,8 @@ YAML.load_stream(componentsData) do |doc|
 	appFile.sub!('((summary))', doc['Summary']['C'])
 	appFile.sub!('((dev))', doc['DeveloperName']['C'])
 	appFile.sub!('((description))', doc['Description']['C'])
-	appFile.sub!('((id))', doc['Package'])
+	appFile.sub!('((package))', doc['Package'])
+	appFile.sub!('((id))', doc['ID'])
 
 	if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
 		site = doc['Url']['homepage']

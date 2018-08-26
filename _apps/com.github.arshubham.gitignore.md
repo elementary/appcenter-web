@@ -1,4 +1,5 @@
 ---
+app_id: com.github.arshubham.gitignore
 title: Gitignore
 summary: Gitignore reference for various languages
 developer: Shubham Arora

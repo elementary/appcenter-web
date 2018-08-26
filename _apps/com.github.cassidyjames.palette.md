@@ -1,4 +1,5 @@
 ---
+app_id: com.github.cassidyjames.palette.desktop
 title: Palette
 summary: View and copy colors from the elementary brand palette
 developer: Cassidy James Blaede

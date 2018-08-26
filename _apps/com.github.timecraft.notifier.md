@@ -1,4 +1,5 @@
 ---
+app_id: com.github.timecraft.notifier.desktop
 title: Notifier
 summary: Never forget to do something
 developer: Timecraft

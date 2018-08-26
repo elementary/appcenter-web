@@ -1,4 +1,5 @@
 ---
+app_id: com.github.cassidyjames.principles.desktop
 title: Principles
 summary: Remember Dieter Rams' ten principles of good design
 developer: Cassidy James Blaede

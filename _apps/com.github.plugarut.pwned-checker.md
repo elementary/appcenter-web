@@ -1,4 +1,5 @@
 ---
+app_id: com.github.plugarut.pwned-checker.desktop
 title: Pwned Checker
 summary: Check if your password has beed leaked.
 developer: Tudor Plugaru

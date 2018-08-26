@@ -1,4 +1,5 @@
 ---
+app_id: com.github.alonsoenrique.quotes.desktop
 title: Quotes
 summary: Quotes for daily inspiration
 developer: Alonso Enrique

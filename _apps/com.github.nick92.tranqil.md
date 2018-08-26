@@ -1,4 +1,5 @@
 ---
+app_id: com.github.nick92.tranqil.desktop
 title: Tranqil
 summary: Relax to soothing sounds of nature
 developer: Nick Wilkins

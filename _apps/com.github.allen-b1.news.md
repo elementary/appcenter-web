@@ -1,4 +1,5 @@
 ---
+app_id: com.github.allen-b1.news.desktop
 title: News
 summary: Read RSS feeds
 developer: Allen B

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.mirkobrombin.bottles.desktop
 title: Bottles
 summary: Easily manage your Wine bottles
 developer: Mirko Brombin

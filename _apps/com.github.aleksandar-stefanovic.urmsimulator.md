@@ -1,4 +1,5 @@
 ---
+app_id: com.github.aleksandar-stefanovic.urmsimulator.desktop
 title: URM Simulator
 summary: Simple URM simulations
 developer: Aleksandar Stefanović

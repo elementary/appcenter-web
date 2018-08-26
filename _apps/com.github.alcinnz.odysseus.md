@@ -1,4 +1,5 @@
 ---
+app_id: com.github.alcinnz.odysseus.desktop
 title: Odysseus
 summary: Surf knowledge, entertainment, and services on The Web
 developer: Adrian Cochrane

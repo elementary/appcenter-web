@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.findfileconflicts.desktop
 title: File Conflicts Finder
 summary: Solve possible file conflicts.
 developer: Artem Anufrij

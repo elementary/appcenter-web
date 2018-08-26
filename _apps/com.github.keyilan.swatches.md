@@ -1,4 +1,5 @@
 ---
+app_id: com.github.keyilan.swatches
 title: Swatches
 summary: Colour variation tool
 developer: 柯禕藍

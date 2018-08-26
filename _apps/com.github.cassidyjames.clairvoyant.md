@@ -1,4 +1,5 @@
 ---
+app_id: com.github.cassidyjames.clairvoyant.desktop
 title: Clairvoyant
 summary: Ask questions and get psychic answers from this fortune teller
 developer: Cassidy James Blaede

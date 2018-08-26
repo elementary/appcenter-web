@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bcedu.shutdownscheduler.desktop
 title: Shutdown Scheduler
 summary: Schedule your computer's shutdown easily
 developer: Eduard Berloso Clarà

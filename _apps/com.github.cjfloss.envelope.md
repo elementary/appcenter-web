@@ -1,4 +1,5 @@
 ---
+app_id: com.github.cjfloss.envelope.desktop
 title: Envelope
 summary: Personal budget manager
 developer: Cleiton Floss

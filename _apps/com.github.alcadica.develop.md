@@ -1,4 +1,5 @@
 ---
+app_id: com.github.alcadica.develop.desktop
 title: Develop
 summary: Creates elementary OS apps and widgets
 developer: Alcadica

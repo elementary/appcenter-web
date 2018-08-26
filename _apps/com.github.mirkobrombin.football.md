@@ -1,4 +1,5 @@
 ---
+app_id: com.github.mirkobrombin.football
 title: Football
 summary: Check Football competitions status
 developer: Mirko Brombin

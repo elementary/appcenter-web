@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.imageburner.desktop
 title: Image Burner
 summary: Inspired by Etcher's UI
 developer: Artem Anufrij

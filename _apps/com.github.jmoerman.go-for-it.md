@@ -1,4 +1,5 @@
 ---
+app_id: com.github.jmoerman.go-for-it.desktop
 title: Go For It!
 summary: A stylish to-do list with built-in productivity timer
 developer: The Go For It! developers

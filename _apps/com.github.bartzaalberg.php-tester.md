@@ -1,4 +1,5 @@
 ---
+app_id: com.github.bartzaalberg.php-tester.desktop
 title: PHP Tester
 summary: Test some PHP code!
 developer: Bart Zaalberg

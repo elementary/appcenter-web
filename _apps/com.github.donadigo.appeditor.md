@@ -1,4 +1,5 @@
 ---
+app_id: com.github.donadigo.appeditor
 title: AppEditor
 summary: Edit application menu
 developer: Adam Bieńkowski

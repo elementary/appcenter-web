@@ -1,4 +1,5 @@
 ---
+app_id: com.github.philip-scott.wallpaperize.desktop
 title: Wallpaperize
 summary: Beautify your oddly-sized wallpapers
 developer: Felipe Escoto

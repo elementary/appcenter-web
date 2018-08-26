@@ -1,4 +1,5 @@
 ---
+app_id: com.github.tkashkin.boiler
 title: Boiler
 summary: Control your kettle remotely
 developer: Anatoliy Kashkin

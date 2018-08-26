@@ -1,4 +1,5 @@
 ---
+app_id: com.github.danrabbit.nimbus.desktop
 title: Nimbus
 summary: See outside without going there
 developer: Daniel Foré

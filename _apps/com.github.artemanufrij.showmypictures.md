@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.showmypictures.desktop
 title: Memories
 summary: Manage local image files
 developer: Artem Anufrij

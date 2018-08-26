@@ -1,4 +1,5 @@
 ---
+app_id: com.github.calo001.fondo
 title: Fondo
 summary: Find the most beautiful wallpapers for your desktop.
 developer: Calo001

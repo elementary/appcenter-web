@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.graphui.desktop
 title: GraphUI
 summary: Graph Visualization
 developer: Artem Anufrij

@@ -1,4 +1,5 @@
 ---
+app_id: com.github.artemanufrij.webpin.desktop
 title: Webpin
 summary: A simple app to pin websites on the desktop
 developer: Artem Anufrij

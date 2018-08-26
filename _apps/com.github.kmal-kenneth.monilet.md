@@ -1,4 +1,5 @@
 ---
+app_id: com.github.kmal-kenneth.monilet.desktop
 title: Monilet
 summary: A monitor widget.
 developer: Kenet Acuña
