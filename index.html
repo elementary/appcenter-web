@@ -8,9 +8,12 @@ color:
 {% assign apps = site.apps | sort_natural: 'title' %}
 
 <div class="home main constrain">
+  <h1>AppCenter</h1>
   <h2>Made for elementary OS</h2>
   <p>Get these {{apps | size}} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+</div>
 
+<div class="home apps">
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
     <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">

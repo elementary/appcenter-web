@@ -1,0 +1,27 @@
+---
+layout: default
+color:
+  primary: "#4c158a"
+  primary-text: "#fff"
+permalink: /404.html
+---
+
+{% assign apps = site.apps | sort_natural: 'title' %}
+
+<div class="home main constrain">
+  <h1>AppCenter</h1>
+  <h2>Not Found</h2>
+  <p>The app or page you’re looking for isn’t here. You can try browsing for it among the {{apps | size}} curated apps in AppCenter on the homepage.</p>
+  <div class="action">
+    <a class="button suggested" href="/">Visit Homepage</a>
+  </div>
+</div>
+
+<footer>
+  <div class="constrain">
+    <a class="button go-home" href="/">All Apps</a>
+    <a class="button" href="https://developer.elementary.io" target="_blank">Publish in AppCenter</a>
+    <a class="button" href="https://elementary.io/" target="_blank">Get elementary OS</a>
+  </div>
+</footer>
+
