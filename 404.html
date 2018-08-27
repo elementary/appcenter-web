@@ -11,8 +11,9 @@ permalink: /404.html
 <div class="home main constrain">
   <h1>AppCenter</h1>
   <h2>Not Found</h2>
-  <p>The app or page you’re looking for isn’t here. You can try browsing for it among the {{apps | size}} curated apps in AppCenter on the homepage.</p>
+  <p>The app or page you’re looking for isn’t here. You can try browsing for it among the {{apps | size}} curated apps in AppCenter on the homepage, or if you’re on elementary OS, try searching in AppCenter.</p>
   <div class="action">
+    <a id="open-appcenter" class="button" href="appstream://">Search AppCenter</a> 
     <a class="button suggested" href="/">Visit Homepage</a>
   </div>
 </div>
@@ -25,3 +26,6 @@ permalink: /404.html
   </div>
 </footer>
 
+<script>
+  document.getElementById("open-appcenter").href += window.location.pathname.replace("/", "");
+</script>
