@@ -7,12 +7,12 @@ homepage: https://github.com/ChristopherNugent/Locksmith
 help_page: https://github.com/ChristopherNugent/Locksmith/issues
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/33F1016AC052C5A0AAF4EAC9B4C7D9E7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/33F1016AC052C5A0AAF4EAC9B4C7D9E7/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/D437A02F108D150DB473DE298E23D0EB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/D437A02F108D150DB473DE298E23D0EB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/33F1016AC052C5A0AAF4EAC9B4C7D9E7/icons/64x64/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/33F1016AC052C5A0AAF4EAC9B4C7D9E7/icons/128x128/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/33F1016AC052C5A0AAF4EAC9B4C7D9E7/icons/64x64@2/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/D437A02F108D150DB473DE298E23D0EB/icons/64x64/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/D437A02F108D150DB473DE298E23D0EB/icons/128x128/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/christophernugent.locksmith/D437A02F108D150DB473DE298E23D0EB/icons/64x64@2/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
 color:
   primary: "#FFFFFF"
   primary-text: "#000000"
