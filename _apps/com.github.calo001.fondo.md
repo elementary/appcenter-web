@@ -7,15 +7,15 @@ homepage: https://github.com/calo001/fondo
 help_page: https://github.com/calo001/fondo/issues
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/E153D262A4ACB5F53BABF7C6F9C76630/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/calo001.fondo/7FC309B7FAB6DE166CEFA5CECF838D9C/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
