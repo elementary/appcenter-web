@@ -1,20 +1,20 @@
 ---
-app_id: com.github.geigi.cozy.desktop
+app_id: com.github.geigi.cozy
 title: Cozy
 summary: A modern audio book player
 developer: Julian Geywitz
-homepage: https://github.com/geigi/cozy
+homepage: https://cozy.geigi.de
 help_page: https://github.com/geigi/cozy/issues
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy.desktop/73F8C2CB5B55B3CEF6254D81FDC7B466/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
 color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
