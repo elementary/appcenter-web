@@ -1,5 +1,5 @@
 ---
-app_id: com.github.babluboy.bookworm.desktop
+app_id: com.github.babluboy.bookworm
 title: Bookworm
 summary: A focused eBook reader
 developer: Siddhartha Das
@@ -7,12 +7,12 @@ homepage: https://babluboy.github.io/bookworm
 help_page: https://github.com/babluboy/bookworm/wiki
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/A46AD1E0BFBA8C521688E563F8799401/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/A46AD1E0BFBA8C521688E563F8799401/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/icons/64x64/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/icons/128x128/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm.desktop/0150C4B83CCAD9897F76147ED4407A6A/icons/64x64@2/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/A46AD1E0BFBA8C521688E563F8799401/icons/64x64/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/A46AD1E0BFBA8C521688E563F8799401/icons/128x128/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/A46AD1E0BFBA8C521688E563F8799401/icons/64x64@2/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
 color:
   primary: "#e29ffc"
   primary-text: "#260063"
