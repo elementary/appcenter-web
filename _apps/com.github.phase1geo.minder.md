@@ -7,14 +7,14 @@ homepage: https://github.com/phase1geo/minder/
 help_page: #
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/731213C290FCB38811B573E88ACAA27C/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/phase1geo.minder/675A960FEAD5224BB5CA6C58E74D5E87/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
