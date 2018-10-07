@@ -1,0 +1,9 @@
+{% if page.dist == 'loki' %}
+  <p>
+    <strong>Note:</strong> This app is only available for elementary OS Loki. If you’re on elementary OS Juno, it will not appear in AppCenter.
+    {% if page.help_page %}
+      You can <a href="{{page.help_page}}" target="_blank">reach out to the developer</a> and ask that they update it for Juno.
+    {% endif %}
+  </p>
+{% endif %}
+

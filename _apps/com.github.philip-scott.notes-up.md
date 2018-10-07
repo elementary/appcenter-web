@@ -1,21 +1,19 @@
 ---
-app_id: com.github.philip-scott.notes-up.desktop
+app_id: com.github.philip-scott.notes-up
 title: Notes-Up
 summary: Your New Notebook
 developer: Felipe Escoto
 homepage: https://github.com/Philip-Scott
 help_page: https://github.com/Philip-Scott/Notes-up/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/E307015D96C425C62F346BF047AF8491/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/128x128/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.notes-up.desktop/23E3918C7FB15EF32CB8B648674680A4/icons/64x64@2/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/E307015D96C425C62F346BF047AF8491/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
 color:
   primary: "#D0F3FF"
   primary-text: "#004B66"
-price: 0
+price: 12
 redirect_from:
   - /com.github.philip-scott.notes-up.desktop/
 ---

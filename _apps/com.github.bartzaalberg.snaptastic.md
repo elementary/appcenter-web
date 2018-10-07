@@ -1,19 +1,19 @@
 ---
-app_id: com.github.bartzaalberg.snaptastic.desktop
+app_id: com.github.bartzaalberg.snaptastic
 title: Snaptastic
 summary: A manager for snaps
 developer: Bart Zaalberg
 homepage: https://github.com/bartzaalberg/snaptastic
 help_page: https://github.com/bartzaalberg/snaptastic/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/C91F6461874796E2393CBAE1E27006FB/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
