@@ -8,7 +8,7 @@ color:
 {% comment %}
   Currently just showing Juno apps until a better sorting system or something is implemented.
 {% endcomment %}
-{% assign apps = site.apps | sort_natural: 'title' | where: "dist","juno" %}
+{% assign apps = site.apps | sort_natural: 'title' | sort: 'dist' %}
 
 <div class="home main constrain">
   <h1>AppCenter</h1>
