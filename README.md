@@ -12,7 +12,7 @@ AppCenter Web is a simple Jekyll-powered site hosted by GitHub Pages. To run it 
 
 - `ruby`
 - `ruby-dev`
-- `bundler` (install with 'sudo gem install bundler' after installing Ruby)
+- `bundler` (install with `sudo gem install bundler` after installing Ruby)
 
 ### Updating Apps
 
