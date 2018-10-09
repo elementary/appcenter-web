@@ -4,7 +4,7 @@ branches:
 language: ruby
 rvm:
   - 2.5
-script: ruby ./generate-juno.rb; ruby ./generate-loki.rb
+script: ruby ./generate-loki.rb; ruby ./generate-juno.rb
 deploy:
   provider: pages
   skip-cleanup: true

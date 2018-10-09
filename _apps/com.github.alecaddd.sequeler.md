@@ -1,24 +1,24 @@
 ---
-app_id: com.github.alecaddd.sequeler.desktop
+app_id: com.github.alecaddd.sequeler
 title: Sequeler
 summary: Friendly SQL Client
 developer: Alessandro Castellani
 homepage: https://github.com/Alecaddd/sequeler
 help_page: https://github.com/Alecaddd/sequeler/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/32C14ABF08070F84C7D01002D4164078/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
-price: 5
+price: 15
 redirect_from:
   - /com.github.alecaddd.sequeler.desktop/
 ---
@@ -28,6 +28,8 @@ redirect_from:
 <p>Features Include:</p>
 <ul>
   <li>Test Connections before saving them</li>
+  <li>View Table structure, content, and relations</li>
+  <li>Write multiple custom SQL Queries</li>
   <li>Switch between light and dark mode</li>
-  <li>Handy keyboard shortcuts to quit (ctrl+q), access library (ctrl+l), create new connection (ctrl+n), and open preferences
-(ctrl+,)</li> </ul>
+  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), multiple instances (ctrl+n)</li>
+</ul>

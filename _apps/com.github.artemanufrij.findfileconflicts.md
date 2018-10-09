@@ -5,12 +5,12 @@ summary: Solve possible file conflicts.
 developer: Artem Anufrij
 homepage: http://anufrij.org
 help_page: https://github.com/artemanufrij/findfileconflicts/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts.desktop/0616C1AA9C90685F932953C64B618913/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts.desktop/0616C1AA9C90685F932953C64B618913/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.findfileconflicts.desktop/4CCACAE7A9F8FD4924347BDDED4A582B/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts.desktop/0616C1AA9C90685F932953C64B618913/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
 color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"

@@ -5,16 +5,16 @@ summary: A simple and performant yet powerful window onto the open decentralized
 developer: Adrian Cochrane
 homepage: https://alcinnz.github.io/Odysseus
 help_page: https://alcinnz.github.io/Odysseus-support
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/C8B6F337ABF1CC4CB0407B10AE30CF9F/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"

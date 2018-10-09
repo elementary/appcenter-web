@@ -1,25 +1,25 @@
 ---
-app_id: com.github.philip-scott.spice-up.desktop
+app_id: com.github.philip-scott.spice-up
 title: Spice-Up
 summary: Create simple and beautiful presentations
 developer: Felipe Escoto
 homepage: https://github.com/Philip-Scott/Spice-up
 help_page: https://github.com/Philip-Scott/Spice-up/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/82E18498FDD9BBE69DFB86EB83CF4F48/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"
-price: 0
+price: 20
 redirect_from:
   - /com.github.philip-scott.spice-up.desktop/
 ---

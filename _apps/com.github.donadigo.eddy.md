@@ -5,15 +5,15 @@ summary: Install and Manage .deb Files
 developer: Adam Bieńkowski
 homepage: https://github.com/donadigo/eddy
 help_page: https://github.com/donadigo/eddy
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"

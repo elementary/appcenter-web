@@ -5,12 +5,12 @@ summary: A video player for watching local video files.
 developer: Artem Anufrij
 homepage: http://anufrij.org/cinema/
 help_page: https://github.com/artemanufrij/playmyvideos/issues
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmyvideos.desktop/C3FED80688C31B6275CA93F80E8A001D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmyvideos.desktop/C3FED80688C31B6275CA93F80E8A001D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos.desktop/D63640223E8D01E5063C011AC0A42035/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos.desktop/D63640223E8D01E5063C011AC0A42035/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmyvideos.desktop/C3FED80688C31B6275CA93F80E8A001D/icons/64x64/com.github.artemanufrij.playmyvideos_com.github.artemanufrij.playmyvideos.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos.desktop/D63640223E8D01E5063C011AC0A42035/icons/64x64/com.github.artemanufrij.playmyvideos_com.github.artemanufrij.playmyvideos.png
 color:
   primary: "#202020"
   primary-text: "rgb(255,255,255)"
