@@ -8,10 +8,18 @@ Web frontend for viewing AppCenter apps
 
 AppCenter Web is a simple Jekyll-powered site hosted by GitHub Pages. To run it locally, see [the GitHub docs](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/).
 
+### Dependencies
+
+- `ruby`
+- `ruby-dev`
+- `bundler` (install with 'sudo gem install bundler' after installing Ruby)
+
+### Updating Apps
+
 The list of apps is generated with a simple Ruby script. To rebuild the app list, run:
 
 ```shell
-ruby generate-juno.rb; ruby generate-loki.rb
+ruby generate-loki.rb; ruby generate-juno.rb
 ```
 
 This is automatically run daily by Travis CI.
