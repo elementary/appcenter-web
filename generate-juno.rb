@@ -13,11 +13,11 @@ componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
 app_id: ((id))
-title: ((title))
-summary: ((summary))
-developer: ((dev))
-homepage: ((site))
-help_page: ((help))
+title: "((title))"
+summary: "((summary))"
+developer: "((dev))"
+homepage: "((site))"
+help_page: "((help))"
 dist: juno
 screenshots:
 ((screenshots))
