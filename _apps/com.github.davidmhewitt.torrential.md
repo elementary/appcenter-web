@@ -1,10 +1,10 @@
 ---
 app_id: com.github.davidmhewitt.torrential
-title: Torrential
-summary: Download torrents in style
-developer: David Hewitt
-homepage: https://github.com/davidmhewitt/torrential
-help_page: https://github.com/davidmhewitt/torrential/issues
+title: "Torrential"
+summary: "Download torrents in style"
+developer: "David Hewitt"
+homepage: "https://github.com/davidmhewitt/torrential"
+help_page: "https://github.com/davidmhewitt/torrential/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.jeremypw.gnonograms
-title: Gnonograms
-summary: Create and solve gnonogram puzzles
-developer: Jeremy Paul Wootten
-homepage: https://github.com/jeremypw/gnonograms
-help_page: https://github.com/jeremypw/gnonograms
+title: "Gnonograms"
+summary: "Create and solve gnonogram puzzles"
+developer: "Jeremy Paul Wootten"
+homepage: "https://github.com/jeremypw/gnonograms"
+help_page: "https://github.com/jeremypw/gnonograms"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/screenshots/image-1_orig.png

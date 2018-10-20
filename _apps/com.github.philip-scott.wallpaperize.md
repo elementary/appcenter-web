@@ -1,10 +1,10 @@
 ---
 app_id: com.github.philip-scott.wallpaperize
-title: Wallpaperize
-summary: Beautify your oddly-sized wallpapers
-developer: Felipe Escoto
-homepage: https://github.com/Philip-Scott
-help_page: https://github.com/Philip-Scott/wallpaperize/issues
+title: "Wallpaperize"
+summary: "Beautify your oddly-sized wallpapers"
+developer: "Felipe Escoto"
+homepage: "https://github.com/Philip-Scott"
+help_page: "https://github.com/Philip-Scott/wallpaperize/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/2573055161BCCA878B2329EE932E1BDE/screenshots/image-1_orig.png

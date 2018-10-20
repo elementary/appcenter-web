@@ -1,10 +1,10 @@
 ---
 app_id: com.github.plugarut.pwned-checker
-title: Pwned Checker
-summary: Check if your password has beed leaked.
-developer: Tudor Plugaru
-homepage: https://github.com/PlugaruT/pwned-checker
-help_page: #
+title: "Pwned Checker"
+summary: "Check if your password has beed leaked."
+developer: "Tudor Plugaru"
+homepage: "https://github.com/PlugaruT/pwned-checker"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/screenshots/image-1_orig.png

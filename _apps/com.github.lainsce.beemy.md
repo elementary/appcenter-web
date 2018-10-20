@@ -1,10 +1,10 @@
 ---
 app_id: com.github.lainsce.beemy
-title: Beemy
-summary: A cute little Body Mass Index calculator
-developer: Lains
-homepage: https://github.com/lainsce/beemy/
-help_page: #
+title: "Beemy"
+summary: "A cute little Body Mass Index calculator"
+developer: "Lains"
+homepage: "https://github.com/lainsce/beemy/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/8A02FBF8A1B7A2BAF2E9AAA6C4581D64/screenshots/image-1_orig.png

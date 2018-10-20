@@ -1,10 +1,10 @@
 ---
 app_id: com.github.babluboy.bookworm
-title: Bookworm
-summary: A focused eBook reader
-developer: Siddhartha Das
-homepage: https://babluboy.github.io/bookworm
-help_page: https://github.com/babluboy/bookworm/wiki
+title: "Bookworm"
+summary: "A focused eBook reader"
+developer: "Siddhartha Das"
+homepage: "https://babluboy.github.io/bookworm"
+help_page: "https://github.com/babluboy/bookworm/wiki"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/screenshots/image-1_orig.png

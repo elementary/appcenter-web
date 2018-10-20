@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bartzaalberg.php-tester
-title: PHP Tester
-summary: Test some PHP code!
-developer: Bart Zaalberg
-homepage: https://github.com/bartzaalberg/php-tester
-help_page: https://github.com/bartzaalberg/php-tester/issues
+title: "PHP Tester"
+summary: "Test some PHP code!"
+developer: "Bart Zaalberg"
+homepage: "https://github.com/bartzaalberg/php-tester"
+help_page: "https://github.com/bartzaalberg/php-tester/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.cjfloss.envelope.desktop
-title: Envelope
-summary: Personal budget manager
-developer: Cleiton Floss
-homepage: https://github.com/cjfloss/envelope
-help_page: https://github.com/cjfloss/envelope/issues
+title: "Envelope"
+summary: "Personal budget manager"
+developer: "Cleiton Floss"
+homepage: "https://github.com/cjfloss/envelope"
+help_page: "https://github.com/cjfloss/envelope/issues"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-1_orig.png

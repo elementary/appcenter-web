@@ -1,10 +1,10 @@
 ---
 app_id: com.github.calo001.luna
-title: Luna
-summary: An amazing calendar widget
-developer: Carlos Lopez
-homepage: https://github.com/calo001/luna
-help_page: https://github.com/calo001/luna/issues
+title: "Luna"
+summary: "An amazing calendar widget"
+developer: "Carlos Lopez"
+homepage: "https://github.com/calo001/luna"
+help_page: "https://github.com/calo001/luna/issues"
 dist: juno
 screenshots:
 

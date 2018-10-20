@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bleakgrey.tootle.desktop
-title: Tootle
-summary: Lightning fast client for Mastodon
-developer: bleak_grey
-homepage: https://github.com/bleakgrey
-help_page: #
+title: "Tootle"
+summary: "Lightning fast client for Mastodon"
+developer: "bleak_grey"
+homepage: "https://github.com/bleakgrey"
+help_page: "#"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-1_orig.png

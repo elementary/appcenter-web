@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.metronome.desktop
-title: Metronome
-summary: A simple click
-developer: Artem Anufrij
-homepage: https://github.com/artemanufrij/metronome
-help_page: https://github.com/artemanufrij/metronome/issues
+title: "Metronome"
+summary: "A simple click"
+developer: "Artem Anufrij"
+homepage: "https://github.com/artemanufrij/metronome"
+help_page: "https://github.com/artemanufrij/metronome/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.metronome.desktop/FBF3325E7C3504023E960D53B4810A4A/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.lainsce.quilter
-title: Quilter
-summary: Focus on your writing
-developer: Lains
-homepage: https://github.com/lainsce/quilter/
-help_page: #
+title: "Quilter"
+summary: "Focus on your writing"
+developer: "Lains"
+homepage: "https://github.com/lainsce/quilter/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9CBFF1414A361634A6E877CDF490C306/screenshots/image-1_orig.png

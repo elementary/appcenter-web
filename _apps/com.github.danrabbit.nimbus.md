@@ -1,10 +1,10 @@
 ---
 app_id: com.github.danrabbit.nimbus
-title: Nimbus
-summary: See outside without going there
-developer: Daniel Foré
-homepage: http://danielfore.com
-help_page: #
+title: "Nimbus"
+summary: "See outside without going there"
+developer: "Daniel Foré"
+homepage: "http://danielfore.com"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.nimbus/CE52828F7F5DCB246833F75E1DE0EC58/screenshots/image-1_orig.png

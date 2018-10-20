@@ -1,10 +1,10 @@
 ---
 app_id: com.github.lainsce.notejot
-title: Notejot
-summary: Jot your ideas
-developer: Lains
-homepage: https://github.com/lainsce/notejot/
-help_page: #
+title: "Notejot"
+summary: "Jot your ideas"
+developer: "Lains"
+homepage: "https://github.com/lainsce/notejot/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/B87BF782A8EE1248D3171859DF962127/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.stsdc.monitor.desktop
-title: Monitor
-summary: Manage processes and monitor system resources
-developer: Stanisław Dac
-homepage: https://github.com/stsdc/monitor
-help_page: https://github.com/stsdc/monitor/issues
+title: "Monitor"
+summary: "Manage processes and monitor system resources"
+developer: "Stanisław Dac"
+homepage: "https://github.com/stsdc/monitor"
+help_page: "https://github.com/stsdc/monitor/issues"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/stsdc.monitor.desktop/D632C328153741E57C5683732C1302CA/screenshots/image-1_orig.png

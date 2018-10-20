@@ -1,10 +1,10 @@
 ---
 app_id: com.github.donadigo.eddy.desktop
-title: Eddy
-summary: Install and Manage .deb Files
-developer: Adam Bieńkowski
-homepage: https://github.com/donadigo/eddy
-help_page: https://github.com/donadigo/eddy
+title: "Eddy"
+summary: "Install and Manage .deb Files"
+developer: "Adam Bieńkowski"
+homepage: "https://github.com/donadigo/eddy"
+help_page: "https://github.com/donadigo/eddy"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.translit
-title: Translit
-summary: Translit is a simple method of encoding Cyrillic letters with Latin ones
-developer: Artem Anufrij
-homepage: https://github.com/artemanufrij/translit
-help_page: https://github.com/artemanufrij/translit/issues
+title: "Translit"
+summary: "Translit is a simple method of encoding Cyrillic letters with Latin ones"
+developer: "Artem Anufrij"
+homepage: "https://github.com/artemanufrij/translit"
+help_page: "https://github.com/artemanufrij/translit/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.translit/C9B00621D3C5A1951B6D73A36E4EF564/screenshots/image-1_orig.png

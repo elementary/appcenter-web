@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bleakgrey.transporter.desktop
-title: Transporter
-summary: Hassle-free file sharing
-developer: bleak_grey
-homepage: https://github.com/bleakgrey
-help_page: #
+title: "Transporter"
+summary: "Hassle-free file sharing"
+developer: "bleak_grey"
+homepage: "https://github.com/bleakgrey"
+help_page: "#"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/screenshots/image-1_orig.png

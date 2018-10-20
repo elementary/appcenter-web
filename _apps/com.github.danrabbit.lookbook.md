@@ -1,10 +1,10 @@
 ---
 app_id: com.github.danrabbit.lookbook.desktop
-title: LookBook
-summary: Browse and find system icons
-developer: Daniel Foré
-homepage: http://danielfore.com
-help_page: #
+title: "LookBook"
+summary: "Browse and find system icons"
+developer: "Daniel Foré"
+homepage: "http://danielfore.com"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.lookbook.desktop/87EE73B89A904C568A9A70B62C7DDD34/screenshots/image-1_orig.png

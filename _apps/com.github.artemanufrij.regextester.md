@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.regextester.desktop
-title: Regex Tester
-summary: A simple app for testing regular expressions
-developer: Artem Anufrij
-homepage: https://github.com/artemanufrij/regextester
-help_page: https://github.com/artemanufrij/regextester/issues
+title: "Regex Tester"
+summary: "A simple app for testing regular expressions"
+developer: "Artem Anufrij"
+homepage: "https://github.com/artemanufrij/regextester"
+help_page: "https://github.com/artemanufrij/regextester/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester.desktop/6C9062D344B389AAFC0034307EB5E1C2/screenshots/image-1_orig.png

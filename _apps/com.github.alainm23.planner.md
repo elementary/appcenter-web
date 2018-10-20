@@ -1,10 +1,10 @@
 ---
 app_id: com.github.alainm23.planner.desktop
-title: Planner
-summary: The most intuitive project and task management tool
-developer: Alain M.
-homepage: https://github.com/alainm23/planner
-help_page: #
+title: "Planner"
+summary: "The most intuitive project and task management tool"
+developer: "Alain M."
+homepage: "https://github.com/alainm23/planner"
+help_page: "#"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/alainm23.planner.desktop/624E2EFC09BA8E06D5B73DF3559667C3/screenshots/image-1_orig.png

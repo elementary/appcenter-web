@@ -1,10 +1,10 @@
 ---
 app_id: com.github.lainsce.coin
-title: Coin
-summary: Never miss out on the monetary value of a virtual currency with this handy applet
-developer: Lains
-homepage: https://github.com/lainsce/coin/
-help_page: #
+title: "Coin"
+summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
+developer: "Lains"
+homepage: "https://github.com/lainsce/coin/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/6AA95BFAA0A04BBA9C4A2522BDC0B5B5/screenshots/image-1_orig.png

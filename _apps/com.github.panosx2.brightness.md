@@ -1,10 +1,10 @@
 ---
 app_id: com.github.panosx2.brightness
-title: Dimmer Switch
-summary: Change screen's brightness
-developer: Panos P.
-homepage: #
-help_page: #
+title: "Dimmer Switch"
+summary: "Change screen's brightness"
+developer: "Panos P."
+homepage: "#"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/100EF8F50032920A00B581C27E1E3655/screenshots/image-1_orig.png

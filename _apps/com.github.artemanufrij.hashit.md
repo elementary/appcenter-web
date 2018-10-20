@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.hashit.desktop
-title: Hash It
-summary: Generate and verify file hashes
-developer: Artem Anufrij
-homepage: https://artemanufrij.github.io
-help_page: https://github.com/artemanufrij/hashit/issues
+title: "Hash It"
+summary: "Generate and verify file hashes"
+developer: "Artem Anufrij"
+homepage: "https://artemanufrij.github.io"
+help_page: "https://github.com/artemanufrij/hashit/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit.desktop/469951222712EA11F39D11E7E3441779/screenshots/image-1_orig.png

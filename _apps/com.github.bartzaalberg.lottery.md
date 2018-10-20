@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bartzaalberg.lottery
-title: Lottery
-summary: Who will be the winner?
-developer: Bart Zaalberg
-homepage: https://github.com/bartzaalberg/lottery
-help_page: https://github.com/bartzaalberg/lottery/issues
+title: "Lottery"
+summary: "Who will be the winner?"
+developer: "Bart Zaalberg"
+homepage: "https://github.com/bartzaalberg/lottery"
+help_page: "https://github.com/bartzaalberg/lottery/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A00BFDD6A0A45D6529977E4B75A33F70/screenshots/image-1_orig.png

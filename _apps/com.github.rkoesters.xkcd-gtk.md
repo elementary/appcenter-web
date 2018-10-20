@@ -1,10 +1,10 @@
 ---
 app_id: com.github.rkoesters.xkcd-gtk
-title: Comic Sticks
-summary: Read xkcd: a webcomic of romance, sarcasm, math, and language
-developer: Ryan Koesters
-homepage: https://github.com/rkoesters/xkcd-gtk
-help_page: #
+title: "Comic Sticks"
+summary: "Read xkcd: a webcomic of romance, sarcasm, math, and language"
+developer: "Ryan Koesters"
+homepage: "https://github.com/rkoesters/xkcd-gtk"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E79F3D39171434BA0EF81778AE0AF055/screenshots/image-1_orig.png

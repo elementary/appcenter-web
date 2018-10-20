@@ -1,10 +1,10 @@
 ---
 app_id: com.github.cassidyjames.palette
-title: Palette
-summary: View and copy colors from the elementary brand palette
-developer: Cassidy James Blaede
-homepage: https://cassidyjames.com
-help_page: #
+title: "Palette"
+summary: "View and copy colors from the elementary brand palette"
+developer: "Cassidy James Blaede"
+homepage: "https://cassidyjames.com"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/4CBC0EA970A9E5B3FA3FD92324437F4F/screenshots/image-1_orig.png

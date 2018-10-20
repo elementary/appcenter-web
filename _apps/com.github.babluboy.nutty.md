@@ -1,10 +1,10 @@
 ---
 app_id: com.github.babluboy.nutty
-title: Nutty
-summary: A simple utility for network information
-developer: Siddhartha Das
-homepage: https://babluboy.github.io/nutty
-help_page: https://github.com/babluboy/nutty/wiki
+title: "Nutty"
+summary: "A simple utility for network information"
+developer: "Siddhartha Das"
+homepage: "https://babluboy.github.io/nutty"
+help_page: "https://github.com/babluboy/nutty/wiki"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.nutty/8F99F1C2C78E13443562BE9D46B2EFF3/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.alcadica.develop
-title: Develop
-summary: Creates elementary OS apps and widgets
-developer: Alcadica
-homepage: http://www.alcadica.com/
-help_page: https://github.com/alcadica/develop/issues
+title: "Develop"
+summary: "Creates elementary OS apps and widgets"
+developer: "Alcadica"
+homepage: "http://www.alcadica.com/"
+help_page: "https://github.com/alcadica/develop/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.gijsgoudzwaard.image-optimizer
-title: Image Optimizer
-summary: Simple lossless image compression
-developer: Gijs Goudzwaard
-homepage: https://github.com/gijsgoudzwaard/image-optimizer
-help_page: https://github.com/gijsgoudzwaard/image-optimizer/issues
+title: "Image Optimizer"
+summary: "Simple lossless image compression"
+developer: "Gijs Goudzwaard"
+homepage: "https://github.com/gijsgoudzwaard/image-optimizer"
+help_page: "https://github.com/gijsgoudzwaard/image-optimizer/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/screenshots/image-1_orig.png

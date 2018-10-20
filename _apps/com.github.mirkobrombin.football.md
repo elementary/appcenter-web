@@ -1,10 +1,10 @@
 ---
 app_id: com.github.mirkobrombin.football
-title: Football
-summary: Check Football competitions status
-developer: Mirko Brombin
-homepage: https://github.com/mirkobrombin/Football
-help_page: https://github.com/mirkobrombin/Football/issues/new
+title: "Football"
+summary: "Check Football competitions status"
+developer: "Mirko Brombin"
+homepage: "https://github.com/mirkobrombin/Football"
+help_page: "https://github.com/mirkobrombin/Football/issues/new"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.football/8CF94DDB6ED972D3654DA9E65DF80100/screenshots/image-1_orig.png

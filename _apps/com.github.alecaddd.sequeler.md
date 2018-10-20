@@ -1,10 +1,10 @@
 ---
 app_id: com.github.alecaddd.sequeler
-title: Sequeler
-summary: Friendly SQL Client
-developer: Alessandro Castellani
-homepage: https://github.com/Alecaddd/sequeler
-help_page: https://github.com/Alecaddd/sequeler/issues
+title: "Sequeler"
+summary: "Friendly SQL Client"
+developer: "Alessandro Castellani"
+homepage: "https://github.com/Alecaddd/sequeler"
+help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/B6DD975E68D635F812F7BE9110E2D7F7/screenshots/image-1_orig.png

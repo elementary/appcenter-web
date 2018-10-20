@@ -1,10 +1,10 @@
 ---
 app_id: com.github.philip-scott.spice-up
-title: Spice-Up
-summary: Create simple and beautiful presentations
-developer: Felipe Escoto
-homepage: https://github.com/Philip-Scott/Spice-up
-help_page: https://github.com/Philip-Scott/Spice-up/issues
+title: "Spice-Up"
+summary: "Create simple and beautiful presentations"
+developer: "Felipe Escoto"
+homepage: "https://github.com/Philip-Scott/Spice-up"
+help_page: "https://github.com/Philip-Scott/Spice-up/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-1_orig.png

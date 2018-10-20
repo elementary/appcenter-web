@@ -1,10 +1,10 @@
 ---
 app_id: com.github.calo001.fondo
-title: Fondo
-summary: Find the most beautiful wallpapers
-developer: Carlos Lopez
-homepage: https://github.com/calo001/fondo
-help_page: https://github.com/calo001/fondo/issues
+title: "Fondo"
+summary: "Find the most beautiful wallpapers"
+developer: "Carlos Lopez"
+homepage: "https://github.com/calo001/fondo"
+help_page: "https://github.com/calo001/fondo/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/1BB97751CF543864E87A86B5040942FF/screenshots/image-1_orig.png

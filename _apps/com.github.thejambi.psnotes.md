@@ -1,10 +1,10 @@
 ---
 app_id: com.github.thejambi.psnotes.desktop
-title: P.S. Notes.
-summary: Notes, plain and simple.
-developer: Zach Burnham
-homepage: https://burnsoftware.wordpress.com/p-s-notes/
-help_page: #
+title: "P.S. Notes."
+summary: "Notes, plain and simple."
+developer: "Zach Burnham"
+homepage: "https://burnsoftware.wordpress.com/p-s-notes/"
+help_page: "#"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/screenshots/image-1_orig.png

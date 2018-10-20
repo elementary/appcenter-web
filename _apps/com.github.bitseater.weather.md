@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bitseater.weather.desktop
-title: Meteo
-summary: Know the forecast of the next hours and days with data and maps
-developer: Carlos Suárez
-homepage: https://github.com/bitseater/weather
-help_page: #
+title: "Meteo"
+summary: "Know the forecast of the next hours and days with data and maps"
+developer: "Carlos Suárez"
+homepage: "https://github.com/bitseater/weather"
+help_page: "#"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bitseater.weather.desktop/E832DAF04D1B5C8B0CDBECFD370E199A/screenshots/image-1_orig.png

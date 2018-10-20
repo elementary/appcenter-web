@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.imageburner
-title: Image Burner
-summary: Inspired by Etcher's UI
-developer: Artem Anufrij
-homepage: https://artemanufrij.github.io
-help_page: https://github.com/artemanufrij/imageburner/issues
+title: "Image Burner"
+summary: "Inspired by Etcher's UI"
+developer: "Artem Anufrij"
+homepage: "https://artemanufrij.github.io"
+help_page: "https://github.com/artemanufrij/imageburner/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/1C67913AD520DC6BB4AE3B8DFDBBB286/screenshots/image-1_orig.png

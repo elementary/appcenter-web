@@ -1,10 +1,10 @@
 ---
 app_id: com.github.allen-b1.news.desktop
-title: News
-summary: Read RSS feeds
-developer: Allen B
-homepage: https://github.com/allen-b1/news
-help_page: https://github.com/allen-b1/news/issues/new
+title: "News"
+summary: "Read RSS feeds"
+developer: "Allen B"
+homepage: "https://github.com/allen-b1/news"
+help_page: "https://github.com/allen-b1/news/issues/new"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/allen-b1.news.desktop/422193662D12479E323B929735B5DFC5/screenshots/image-1_orig.png

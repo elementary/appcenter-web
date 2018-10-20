@@ -1,10 +1,10 @@
 ---
 app_id: com.github.dahenson.agenda
-title: Agenda
-summary: Get things done
-developer: Dane Henson
-homepage: http://brainofdane.com
-help_page: #
+title: "Agenda"
+summary: "Get things done"
+developer: "Dane Henson"
+homepage: "http://brainofdane.com"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.screencast.desktop
-title: Screencast
-summary: A simple screen recorder
-developer: Artem Anufrij
-homepage: https://artemanufrij.github.io
-help_page: https://github.com/artemanufrij/screencast/issues
+title: "Screencast"
+summary: "A simple screen recorder"
+developer: "Artem Anufrij"
+homepage: "https://artemanufrij.github.io"
+help_page: "https://github.com/artemanufrij/screencast/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/screenshots/image-1_orig.png

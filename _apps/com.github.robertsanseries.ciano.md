@@ -1,10 +1,10 @@
 ---
 app_id: com.github.robertsanseries.ciano.desktop
-title: Ciano
-summary: A multimedia file converter
-developer: Robert San
-homepage: https://robertsanseries.github.io/ciano/
-help_page: https://github.com/robertsanseries/ciano/issues
+title: "Ciano"
+summary: "A multimedia file converter"
+developer: "Robert San"
+homepage: "https://robertsanseries.github.io/ciano/"
+help_page: "https://github.com/robertsanseries/ciano/issues"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/robertsanseries.ciano.desktop/7FD6E5438F7B21F5F6949A686DE1D559/screenshots/image-1_orig.png

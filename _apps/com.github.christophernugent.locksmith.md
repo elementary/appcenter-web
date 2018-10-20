@@ -1,10 +1,10 @@
 ---
 app_id: com.github.christophernugent.locksmith
-title: Locksmith
-summary: Generate strong, secure passwords
-developer: Christopher Nugent
-homepage: https://github.com/ChristopherNugent/Locksmith
-help_page: https://github.com/ChristopherNugent/Locksmith/issues
+title: "Locksmith"
+summary: "Generate strong, secure passwords"
+developer: "Christopher Nugent"
+homepage: "https://github.com/ChristopherNugent/Locksmith"
+help_page: "https://github.com/ChristopherNugent/Locksmith/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/78774D9221CFAD4B364D7C9298644F4F/screenshots/image-1_orig.png

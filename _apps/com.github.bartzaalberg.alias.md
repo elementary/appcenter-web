@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bartzaalberg.alias
-title: Alias
-summary: Simplify your commands
-developer: Bart Zaalberg
-homepage: https://github.com/bartzaalberg/alias
-help_page: https://github.com/bartzaalberg/alias/issues
+title: "Alias"
+summary: "Simplify your commands"
+developer: "Bart Zaalberg"
+homepage: "https://github.com/bartzaalberg/alias"
+help_page: "https://github.com/bartzaalberg/alias/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/167E095B3489566C249FBF57A1044856/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.cassidyjames.dippi.desktop
-title: Dippi
-summary: Calculate display info like DPI and aspect ratio
-developer: Cassidy James Blaede
-homepage: https://cassidyjames.com
-help_page: #
+title: "Dippi"
+summary: "Calculate display info like DPI and aspect ratio"
+developer: "Cassidy James Blaede"
+homepage: "https://cassidyjames.com"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/screenshots/image-1_orig.png

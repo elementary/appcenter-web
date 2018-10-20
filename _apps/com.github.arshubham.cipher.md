@@ -1,10 +1,10 @@
 ---
 app_id: com.github.arshubham.cipher
-title: Cipher
-summary: Encode and decode text
-developer: Shubham Arora
-homepage: https://github.com/arshubham/cipher
-help_page: https://shubhamarora.in
+title: "Cipher"
+summary: "Encode and decode text"
+developer: "Shubham Arora"
+homepage: "https://github.com/arshubham/cipher"
+help_page: "https://shubhamarora.in"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-1_orig.png

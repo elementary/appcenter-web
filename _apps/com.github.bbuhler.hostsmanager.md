@@ -1,10 +1,10 @@
 ---
 app_id: com.github.bbuhler.hostsmanager
-title: HostsManager
-summary: Manage your /etc/hosts file
-developer: Benjamin Buhler
-homepage: https://github.com/bbuhler/HostsManager
-help_page: https://github.com/bbuhler/HostsManager/issues
+title: "HostsManager"
+summary: "Manage your /etc/hosts file"
+developer: "Benjamin Buhler"
+homepage: "https://github.com/bbuhler/HostsManager"
+help_page: "https://github.com/bbuhler/HostsManager/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/10C8A874784A2AA4B03C4A75310C0459/screenshots/image-1_orig.png

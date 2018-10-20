@@ -1,10 +1,10 @@
 ---
 app_id: com.github.luizaugustomm.tomato.desktop
-title: Tomato
-summary: Keep focused on your work
-developer: Tomato Team
-homepage: https://github.com/luizaugustomm/tomato
-help_page: https://github.com/luizaugustomm/tomato/issues
+title: "Tomato"
+summary: "Keep focused on your work"
+developer: "Tomato Team"
+homepage: "https://github.com/luizaugustomm/tomato"
+help_page: "https://github.com/luizaugustomm/tomato/issues"
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-1_orig.png

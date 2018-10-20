@@ -1,10 +1,10 @@
 ---
 app_id: com.github.geigi.cozy
-title: Cozy
-summary: A modern audio book player
-developer: Julian Geywitz
-homepage: https://cozy.geigi.de
-help_page: https://github.com/geigi/cozy/issues
+title: "Cozy"
+summary: "A modern audio book player"
+developer: "Julian Geywitz"
+homepage: "https://cozy.geigi.de"
+help_page: "https://github.com/geigi/cozy/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/73EFD63359D7EE46BC08E7BFE50F51AA/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.mdh34.quickdocs
-title: quickDocs
-summary: Quickly Read Developer Docs
-developer: Matt Harris
-homepage: https://github.com/mdh34/quickDocs
-help_page: #
+title: "quickDocs"
+summary: "Quickly Read Developer Docs"
+developer: "Matt Harris"
+homepage: "https://github.com/mdh34/quickDocs"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/18D3FE7129978AEE01B84A55B25D5B8B/screenshots/image-1_orig.png

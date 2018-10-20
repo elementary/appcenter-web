@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.findfileconflicts.desktop
-title: File Conflicts Finder
-summary: Solve possible file conflicts.
-developer: Artem Anufrij
-homepage: http://anufrij.org
-help_page: https://github.com/artemanufrij/findfileconflicts/issues
+title: "File Conflicts Finder"
+summary: "Solve possible file conflicts."
+developer: "Artem Anufrij"
+homepage: "http://anufrij.org"
+help_page: "https://github.com/artemanufrij/findfileconflicts/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts.desktop/0616C1AA9C90685F932953C64B618913/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.playmymusic
-title: Melody
-summary: A music player for listening local music files, online radios and Audio CD's
-developer: Artem Anufrij
-homepage: http://anufrij.org/melody/
-help_page: https://github.com/artemanufrij/playmymusic/issues
+title: "Melody"
+summary: "A music player for listening local music files, online radios and Audio CD's"
+developer: "Artem Anufrij"
+homepage: "http://anufrij.org/melody/"
+help_page: "https://github.com/artemanufrij/playmymusic/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/1549118D64FFD4BE7A6FF24DE803897E/screenshots/image-1_orig.png

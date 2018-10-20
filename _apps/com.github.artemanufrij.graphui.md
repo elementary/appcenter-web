@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.graphui.desktop
-title: GraphUI
-summary: Graph Visualization
-developer: Artem Anufrij
-homepage: https://artemanufrij.github.io
-help_page: https://github.com/artemanufrij/graphui/issues
+title: "GraphUI"
+summary: "Graph Visualization"
+developer: "Artem Anufrij"
+homepage: "https://artemanufrij.github.io"
+help_page: "https://github.com/artemanufrij/graphui/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui.desktop/36D2CA0EE57C3DFEA46DA8595675A7D6/screenshots/image-1_orig.png

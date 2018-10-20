@@ -1,10 +1,10 @@
 ---
 app_id: com.github.artemanufrij.playmyvideos
-title: Cinema
-summary: A video player for watching local video files
-developer: Artem Anufrij
-homepage: http://anufrij.org/cinema/
-help_page: https://github.com/artemanufrij/playmyvideos/issues
+title: "Cinema"
+summary: "A video player for watching local video files"
+developer: "Artem Anufrij"
+homepage: "http://anufrij.org/cinema/"
+help_page: "https://github.com/artemanufrij/playmyvideos/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/368A5E658693A45FEC2EAC53C00E9AD8/screenshots/image-1_orig.png

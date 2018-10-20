@@ -1,10 +1,10 @@
 ---
 app_id: com.github.muriloventuroso.easyssh
-title: EasySSH
-summary: SSH Connection Manager
-developer: Murilo Venturoso
-homepage: https://github.com/muriloventuroso/easyssh
-help_page: #
+title: "EasySSH"
+summary: "SSH Connection Manager"
+developer: "Murilo Venturoso"
+homepage: "https://github.com/muriloventuroso/easyssh"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BD41D507F7502087E243A60961914866/screenshots/image-1_orig.png

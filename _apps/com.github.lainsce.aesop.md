@@ -1,10 +1,10 @@
 ---
 app_id: com.github.lainsce.aesop
-title: Aesop
-summary: The simplest PDF viewer around
-developer: Lains
-homepage: https://github.com/lainsce/aesop/
-help_page: #
+title: "Aesop"
+summary: "The simplest PDF viewer around"
+developer: "Lains"
+homepage: "https://github.com/lainsce/aesop/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/36CE9F3F91ECBB50F7EDDFAA2D1C4047/screenshots/image-1_orig.png

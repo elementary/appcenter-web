@@ -1,10 +1,10 @@
 ---
 app_id: com.github.spheras.desktopfolder
-title: Desktop Folder
-summary: Bring your desktop back to life
-developer: DesktopFolder Developers
-homepage: https://github.com/spheras/desktopfolder
-help_page: #
+title: "Desktop Folder"
+summary: "Bring your desktop back to life"
+developer: "DesktopFolder Developers"
+homepage: "https://github.com/spheras/desktopfolder"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/screenshots/image-1_orig.png

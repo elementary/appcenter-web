@@ -1,10 +1,10 @@
 ---
 app_id: com.github.davidmhewitt.clipped
-title: Clipped
-summary: Manage your clipboard with ease
-developer: David Hewitt
-homepage: https://github.com/davidmhewitt/clipped
-help_page: https://github.com/davidmhewitt/clipped/issues
+title: "Clipped"
+summary: "Manage your clipboard with ease"
+developer: "David Hewitt"
+homepage: "https://github.com/davidmhewitt/clipped"
+help_page: "https://github.com/davidmhewitt/clipped/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_orig.png

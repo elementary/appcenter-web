@@ -1,10 +1,10 @@
 ---
 app_id: com.github.phase1geo.minder
-title: Minder
-summary: Create, develop and visualize your ideas
-developer: Trevor Williams
-homepage: https://github.com/phase1geo/minder/
-help_page: #
+title: "Minder"
+summary: "Create, develop and visualize your ideas"
+developer: "Trevor Williams"
+homepage: "https://github.com/phase1geo/minder/"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/screenshots/image-1_orig.png

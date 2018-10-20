@@ -1,10 +1,10 @@
 ---
 app_id: com.github.jmoerman.go-for-it
-title: Go For It!
-summary: A stylish to-do list with built-in productivity timer
-developer: The Go For It! developers
-homepage: http://manuel-kehl.de/projects/go-for-it/
-help_page: https://github.com/JMoerman/Go-For-It/blob/master/README.md
+title: "Go For It!"
+summary: "A stylish to-do list with built-in productivity timer"
+developer: "The Go For It! developers"
+homepage: "http://manuel-kehl.de/projects/go-for-it/"
+help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CA13FF90EA9ADB9CCC72D685F09C63E1/screenshots/image-1_orig.png

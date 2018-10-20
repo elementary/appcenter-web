@@ -1,10 +1,10 @@
 ---
 app_id: com.github.arshubham.gitignore
-title: Gitignore
-summary: Gitignore reference for various languages
-developer: Shubham Arora
-homepage: https://shubhamarora.in
-help_page: https://github.com/arshubham/gitignore/issues
+title: "Gitignore"
+summary: "Gitignore reference for various languages"
+developer: "Shubham Arora"
+homepage: "https://shubhamarora.in"
+help_page: "https://github.com/arshubham/gitignore/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/7AD6EF5B4612C4EC7929BD87B01A6284/screenshots/image-1_orig.png

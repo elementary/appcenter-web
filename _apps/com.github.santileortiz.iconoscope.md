@@ -1,10 +1,10 @@
 ---
 app_id: com.github.santileortiz.iconoscope
-title: Iconoscope
-summary: Simple icon visualizer
-developer: Santiago León O.
-homepage: https://github.com/santileortiz/Iconoscope
-help_page: #
+title: "Iconoscope"
+summary: "Simple icon visualizer"
+developer: "Santiago León O."
+homepage: "https://github.com/santileortiz/Iconoscope"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/4DEF5558AD9317B8AA86515FD95E4FC1/screenshots/image-1_orig.png

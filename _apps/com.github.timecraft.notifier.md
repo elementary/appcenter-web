@@ -1,10 +1,10 @@
 ---
 app_id: com.github.timecraft.notifier
-title: Notifier
-summary: Never forget to do something
-developer: Timecraft
-homepage: https://github.com/Timecraft/notifier
-help_page: https://github.com/Timecraft/notifier/issues
+title: "Notifier"
+summary: "Never forget to do something"
+developer: "Timecraft"
+homepage: "https://github.com/Timecraft/notifier"
+help_page: "https://github.com/Timecraft/notifier/issues"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-1_orig.png

@@ -1,10 +1,10 @@
 ---
 app_id: com.github.tkashkin.boiler
-title: Boiler
-summary: Control your kettle remotely
-developer: Anatoliy Kashkin
-homepage: https://github.com/tkashkin/Boiler
-help_page: #
+title: "Boiler"
+summary: "Control your kettle remotely"
+developer: "Anatoliy Kashkin"
+homepage: "https://github.com/tkashkin/Boiler"
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tkashkin.boiler/DCA9DF619E474A9BDFABE435E4E888F1/screenshots/image-1_orig.png
