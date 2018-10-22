@@ -7,11 +7,11 @@ homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/78CFDC9B45C72E5CE4D281BD841ADF7A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/8FBE47F107CBCEA3AAD0215A22E67F21/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/78CFDC9B45C72E5CE4D281BD841ADF7A/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/78CFDC9B45C72E5CE4D281BD841ADF7A/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/78CFDC9B45C72E5CE4D281BD841ADF7A/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/8FBE47F107CBCEA3AAD0215A22E67F21/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/8FBE47F107CBCEA3AAD0215A22E67F21/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/8FBE47F107CBCEA3AAD0215A22E67F21/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
