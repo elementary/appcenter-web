@@ -7,11 +7,11 @@ homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D17EC36E7C4A7DC7C0CF594E9FC8C764/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D758CEE1A535B2A7002C91028D1BFE22/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D17EC36E7C4A7DC7C0CF594E9FC8C764/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D17EC36E7C4A7DC7C0CF594E9FC8C764/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D17EC36E7C4A7DC7C0CF594E9FC8C764/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D758CEE1A535B2A7002C91028D1BFE22/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D758CEE1A535B2A7002C91028D1BFE22/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/D758CEE1A535B2A7002C91028D1BFE22/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
 color:
   primary: "#dee8bc"
   primary-text: "#333333"
