@@ -7,13 +7,13 @@ homepage: "https://github.com/rkoesters/xkcd-gtk"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/icons/64x64/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/icons/128x128/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/57A58837A5BA8DB4830E720D2D456211/icons/64x64@2/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/icons/64x64/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/icons/128x128/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/08338082FE43CFDA20B9F7CFA6D0E50D/icons/64x64@2/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
 color:
   primary: "#96a8c8"
   primary-text: "#1a1a1a"
