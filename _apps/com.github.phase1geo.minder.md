@@ -7,14 +7,14 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/685D7E16DEAEE9321FB72BB8D4F46B24/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
