@@ -7,12 +7,12 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/AD1CD29709EC30F4FBCF4FCBC10D139E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/AD1CD29709EC30F4FBCF4FCBC10D139E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/E04B03BCF533ACBAD2EC6F289DCB0A6D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/E04B03BCF533ACBAD2EC6F289DCB0A6D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/AD1CD29709EC30F4FBCF4FCBC10D139E/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/AD1CD29709EC30F4FBCF4FCBC10D139E/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/AD1CD29709EC30F4FBCF4FCBC10D139E/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/E04B03BCF533ACBAD2EC6F289DCB0A6D/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/E04B03BCF533ACBAD2EC6F289DCB0A6D/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/E04B03BCF533ACBAD2EC6F289DCB0A6D/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
 color:
   primary: "#399cd2"
   primary-text: "rgb(255,255,255)"
