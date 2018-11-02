@@ -7,10 +7,10 @@ homepage: "http://anufrij.org"
 help_page: "https://github.com/artemanufrij/findfileconflicts/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/EDAB533DD7BF6C173FD78FD7A2709E21/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/EDAB533DD7BF6C173FD78FD7A2709E21/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/EDAB533DD7BF6C173FD78FD7A2709E21/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
 color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"

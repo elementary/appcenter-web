@@ -7,9 +7,9 @@ homepage: "https://github.com/artemanufrij/regextester"
 help_page: "https://github.com/artemanufrij/regextester/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/8C07157404033E44C0F3D3B0D47A25A6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/D97540DF8AD56B97861947692A53C389/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/8C07157404033E44C0F3D3B0D47A25A6/icons/64x64/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/D97540DF8AD56B97861947692A53C389/icons/64x64/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
 color:
   primary: "#3a9104"
   primary-text: "rgb(255,255,255)"
