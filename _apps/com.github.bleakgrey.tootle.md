@@ -1,20 +1,20 @@
 ---
-app_id: com.github.bleakgrey.tootle.desktop
+app_id: com.github.bleakgrey.tootle
 title: "Tootle"
 summary: "Lightning fast client for Mastodon"
 developer: "bleak_grey"
 homepage: "https://github.com/bleakgrey"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/64x64/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/128x128/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.tootle.desktop/0C464A4A22FC9CD00286ED4ECEAF824F/icons/64x64@2/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/icons/64x64/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/icons/128x128/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/icons/64x64@2/com.github.bleakgrey.tootle_com.github.bleakgrey.tootle.png
 color:
   primary: "#F5F8FF"
   primary-text: "#413F58"
