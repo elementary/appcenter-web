@@ -7,13 +7,13 @@ homepage: "https://github.com/spheras/desktopfolder"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/41C796EEF2AD59BEDF8AEBFBB26FC1AF/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
