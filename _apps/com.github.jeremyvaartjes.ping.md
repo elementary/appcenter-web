@@ -7,15 +7,15 @@ homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/icons/64x64/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/icons/128x128/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/D89FC7EE8852AF94F74C6FF989742E6A/icons/64x64@2/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/icons/64x64/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/icons/128x128/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/7A2BED25E5F51097892DAF66745EFF2B/icons/64x64@2/com.github.jeremyvaartjes.ping_com.github.jeremyvaartjes.ping.png
 color:
   primary: "#1c2a3d"
   primary-text: "#6be3c3"
