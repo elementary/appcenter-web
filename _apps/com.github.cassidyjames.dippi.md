@@ -1,5 +1,5 @@
 ---
-app_id: com.github.cassidyjames.dippi.desktop
+app_id: com.github.cassidyjames.dippi
 title: "Dippi"
 summary: "Calculate display info like DPI and aspect ratio"
 developer: "Cassidy James Blaede"
@@ -7,14 +7,14 @@ homepage: "https://cassidyjames.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi.desktop/2302759DE92641A3FCF65F4DD7BEDB6B/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
 color:
   primary: "#525"
   primary-text: "#fffffc"

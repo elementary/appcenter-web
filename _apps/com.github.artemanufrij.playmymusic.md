@@ -7,11 +7,11 @@ homepage: "http://anufrij.org/melody/"
 help_page: "https://github.com/artemanufrij/playmymusic/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/502441A8F36E6106A5F53EF8A58F0026/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/502441A8F36E6106A5F53EF8A58F0026/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/502441A8F36E6106A5F53EF8A58F0026/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/502441A8F36E6106A5F53EF8A58F0026/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
 color:
   primary: "#004988"
   primary-text: "rgb(255,255,255)"

@@ -7,10 +7,10 @@ homepage: "http://anufrij.org/cinema/"
 help_page: "https://github.com/artemanufrij/playmyvideos/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/368A5E658693A45FEC2EAC53C00E9AD8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/368A5E658693A45FEC2EAC53C00E9AD8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/C5F37365BB8D6161FEE2D48E7A8656F4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/C5F37365BB8D6161FEE2D48E7A8656F4/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/368A5E658693A45FEC2EAC53C00E9AD8/icons/64x64/com.github.artemanufrij.playmyvideos_com.github.artemanufrij.playmyvideos.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/C5F37365BB8D6161FEE2D48E7A8656F4/icons/64x64/com.github.artemanufrij.playmyvideos_com.github.artemanufrij.playmyvideos.png
 color:
   primary: "#202020"
   primary-text: "rgb(255,255,255)"
