@@ -7,13 +7,13 @@ homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/C8BA3DF1B21C7CF99B11195E1C5A132E/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"

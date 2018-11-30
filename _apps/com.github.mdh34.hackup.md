@@ -7,13 +7,13 @@ homepage: "https://github.com/mdh34/hackup"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/icons/64x64/com.github.mdh34.hackup_com.github.mdh34.hackup.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/icons/128x128/com.github.mdh34.hackup_com.github.mdh34.hackup.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/0B12D45771A4764BC45A1DF8B7D64D03/icons/64x64@2/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/icons/64x64/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/icons/128x128/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/3C8AE08C642F5DF3214B4654ECAD5445/icons/64x64@2/com.github.mdh34.hackup_com.github.mdh34.hackup.png
 color:
   primary: "#000"
   primary-text: "#FFFFFF"
