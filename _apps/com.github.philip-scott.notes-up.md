@@ -7,9 +7,9 @@ homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/Notes-up/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/E307015D96C425C62F346BF047AF8491/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/0A0D6F0CE146F4E5811FFCD4A519A9D9/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/E307015D96C425C62F346BF047AF8491/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/0A0D6F0CE146F4E5811FFCD4A519A9D9/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
 color:
   primary: "#D0F3FF"
   primary-text: "#004B66"
