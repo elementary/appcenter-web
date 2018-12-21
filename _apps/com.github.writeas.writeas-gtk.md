@@ -7,14 +7,14 @@ homepage: "https://write.as/"
 help_page: "https://write.as/contact"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/icons/64x64/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/icons/128x128/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/357A6F54442A1C631C6C6F00B18D0111/icons/64x64@2/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/64x64/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/128x128/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/64x64@2/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
