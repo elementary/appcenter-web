@@ -7,11 +7,11 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/D3AF647D26991CD8750747292A1D9991/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/48AFEAB7C875E4A3C68ECA48EF2137FB/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/D3AF647D26991CD8750747292A1D9991/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/D3AF647D26991CD8750747292A1D9991/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/D3AF647D26991CD8750747292A1D9991/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/48AFEAB7C875E4A3C68ECA48EF2137FB/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/48AFEAB7C875E4A3C68ECA48EF2137FB/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/48AFEAB7C875E4A3C68ECA48EF2137FB/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
