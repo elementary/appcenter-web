@@ -16,6 +16,18 @@ color:
   <p>Get these {{apps | size}} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 </div>
 
+<div class="home banner">
+  <a class="app" href="com.github.cassidyjames.dippi">
+    <div>
+      <h4>Dippi</h4>
+      <h5>Calculate display info like DPI and aspect ratio</h5>
+      <p>Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.</p>
+    </div>
+  </a>
+</div>
+
+<h3 class="divider">All Apps</h3>
+
 <div class="home apps">
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
@@ -54,3 +66,87 @@ color:
   </div>
 </footer>
 
+<style>
+
+  h3 {
+    font-size: 1rem;
+    color: #666;
+    margin: 4em auto 1em;
+    text-align: center;
+  }
+
+  .banner a.app {
+    background-color: #525;
+    background-image: linear-gradient(
+      to bottom right,
+      rgba(255, 255, 255, 0.05),
+      rgba(0, 0, 0, 0.05)
+    );
+    border-radius: 0.25em;
+    color: #fff;
+    display: flex;
+    /*height: 300px;*/
+    justify-content: center;
+    margin: 0 auto 1em;
+    max-width: 1200px;
+    padding: 3em 0.5em;
+    width: 90%;
+  }
+
+  .banner a.app::before {
+    background-image: url('https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/8F59540C75257AF3AA83748E87FE89AC/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 128px 128px;
+    content: "";
+    display: inline-block;
+    flex-shrink: 0;
+    min-height: 100%;
+    margin-right: 1em;
+    width: 128px;
+  }
+
+  .banner a.app div {
+    align-self: center;
+    max-width: 600px;
+  }
+
+  .banner a.app h4 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin: 0;
+  }
+
+  .banner a.app h5 {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin: 0;
+  }
+
+  .banner a.app p {
+    font-weight: normal;
+  }
+
+  .banner a.app::after {
+    clear: left;
+    content: "";
+  }
+
+  .banner a.app:hover {
+    text-decoration: none;
+  }
+</style>
+
+<script>
+  // https://developer.elementary.io/api/newest/project
+  const API = "https://cors-anywhere.herokuapp.com/https://developer.elementary.io/api";
+  const FEATURED = "/newest/project";
+
+  fetch (API + FEATURED)
+    .then (function (response) {
+      return response.json ();
+    })
+    .then (function (myJson) {
+      console.log (JSON.stringify (myJson));
+    });
+</script>
