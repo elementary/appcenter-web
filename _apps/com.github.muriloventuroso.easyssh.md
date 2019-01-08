@@ -7,12 +7,12 @@ homepage: "https://github.com/muriloventuroso/easyssh"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BA8C6CFA5D22E4441904A22DFC9DF05B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BA8C6CFA5D22E4441904A22DFC9DF05B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/A7B2BDE36081A24981CC97C142982CBC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/A7B2BDE36081A24981CC97C142982CBC/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BA8C6CFA5D22E4441904A22DFC9DF05B/icons/64x64/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BA8C6CFA5D22E4441904A22DFC9DF05B/icons/128x128/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/BA8C6CFA5D22E4441904A22DFC9DF05B/icons/64x64@2/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/A7B2BDE36081A24981CC97C142982CBC/icons/64x64/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/A7B2BDE36081A24981CC97C142982CBC/icons/128x128/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/A7B2BDE36081A24981CC97C142982CBC/icons/64x64@2/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
 color:
   primary: "#ffe16b"
   primary-text: "#000"

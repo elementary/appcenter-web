@@ -4,17 +4,17 @@ title: "Palette"
 summary: "View and copy colors from the elementary brand palette"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
-help_page: "#"
+help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/BF51729C6F2ADFFBF28E5F83BE630A7F/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/2FE0B394C4EA69F61915FF99BFD656B6/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
 color:
   primary: "@BANANA_300"
   primary-text: "@BLACK_500"
