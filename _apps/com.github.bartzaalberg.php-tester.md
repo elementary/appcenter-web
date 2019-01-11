@@ -7,12 +7,12 @@ homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/4CEEB5B7EEF2629AB9C7A132ECF8EFF4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/4CEEB5B7EEF2629AB9C7A132ECF8EFF4/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/2DA87B3F12CF24DAF01D382F3FC1D0D3/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/4CEEB5B7EEF2629AB9C7A132ECF8EFF4/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/4CEEB5B7EEF2629AB9C7A132ECF8EFF4/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/4CEEB5B7EEF2629AB9C7A132ECF8EFF4/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
