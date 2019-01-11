@@ -7,12 +7,12 @@ homepage: "http://github.com/bernardodsanderson/vido"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/AF115B0A767CECA2B1D45C5BF863EB83/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/AF115B0A767CECA2B1D45C5BF863EB83/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/AF115B0A767CECA2B1D45C5BF863EB83/icons/64x64/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/AF115B0A767CECA2B1D45C5BF863EB83/icons/128x128/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/AF115B0A767CECA2B1D45C5BF863EB83/icons/64x64@2/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/icons/64x64/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/icons/128x128/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/icons/64x64@2/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
 color:
   primary: "#F2C94C"
   primary-text: "#333"
