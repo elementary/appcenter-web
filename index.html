@@ -16,6 +16,8 @@ color:
   <p>Get these {{apps | size}} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 </div>
 
+<button id="forget" class="forget button suggested">On elementary OS?</button>
+
 <div class="home apps">
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
@@ -54,3 +56,26 @@ color:
   </div>
 </footer>
 
+<script>
+  function ready (fn) {
+    if (document.attachEvent ? document.readyState === "complete" : document.readyState !== "loading"){
+      fn()
+    } else {
+      document.addEventListener ('DOMContentLoaded', fn);
+    }
+  }
+
+  ready(function () {
+    if (window.localStorage.remember === "true") {
+      document.querySelector('#forget').classList.remove('hidden')
+    } else {
+      document.querySelector('#forget').classList.add('hidden')
+    }
+
+    document.querySelector('#forget').addEventListener("click", function(e){
+      window.localStorage.remember = false
+      document.querySelector('#forget').classList.add('hidden')
+      e.preventDefault ()
+    })
+  })
+</script>
