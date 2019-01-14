@@ -7,14 +7,14 @@ homepage: "https://cozy.geigi.de"
 help_page: "https://github.com/geigi/cozy/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
 color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
