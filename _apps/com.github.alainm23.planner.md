@@ -7,14 +7,14 @@ homepage: "https://github.com/alainm23/planner"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/2339076A892FA761B54A2F62A8FCACAE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffe16b"
   primary-text: "#000"
@@ -26,7 +26,7 @@ redirect_from:
 <p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
 <p>How Planner works</p>
 <p>1. Collect your Ideas - The Inbox is your default task list in Planner. When you add a task, it goes straight to your Inbox unless you specify that the task goes into a project.</p>
-<p>2. Get Organized - Create a project for each of your goqnals, then add the steps to reach them. Review these regularly to stay on top of things.</p>
+<p>2. Get Organized - Create a project for each of your goals, then add the steps to reach them. Review these regularly to stay on top of things.</p>
 <p>3. Calendar and Events - See your calendar events and plan your time effectively. Planner will remind you on the right day.</p>
 <p>4. Be even more organized - Add a deadline to your tasks, create labels, use checklists.</p>
 <p>5. Share your progress - Share all the progress of your project or some special task, all this in Markdown.</p>
