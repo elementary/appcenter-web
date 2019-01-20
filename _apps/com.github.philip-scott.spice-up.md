@@ -7,15 +7,15 @@ homepage: "https://github.com/Philip-Scott/Spice-up"
 help_page: "https://github.com/Philip-Scott/Spice-up/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4CCAF355047D0C5E361BE1D14751A6CA/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"
