@@ -7,11 +7,11 @@ homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DA5CE1D6CC75632EFA6AC9B950D238EE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DA5CE1D6CC75632EFA6AC9B950D238EE/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DA5CE1D6CC75632EFA6AC9B950D238EE/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DA5CE1D6CC75632EFA6AC9B950D238EE/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
