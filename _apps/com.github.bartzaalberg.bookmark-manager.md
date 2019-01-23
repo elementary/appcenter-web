@@ -7,13 +7,13 @@ homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/57A02F1F445F8A657A48D305F76DC670/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
