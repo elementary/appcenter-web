@@ -21,6 +21,33 @@ color:
   primary: "#1a1a1a"
   primary-text: "#f9c440"
 price: 0
+releases:
+- version: 1.0.0
+  unix-timestamp: 1538524800
+  description: |-
+    <p>Initial 1.0.0 release!</p>
+- version: 1.0.1
+  unix-timestamp: 1539993600
+  description: |-
+    <p>Fixes</p>
+
+    <ul>
+
+      <li>Delete &quot;label-today&quot; class when you are not in the current date</li>
+
+      <li>A new more elemtary native look</li>
+
+    </ul>
+- version: 1.0.2
+  unix-timestamp: 1541030400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>New teal color theme!</li>
+
+    </ul>
 redirect_from:
   - /com.github.calo001.luna.desktop/
 ---

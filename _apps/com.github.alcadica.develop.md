@@ -17,6 +17,83 @@ color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
+releases:
+- version: 0.0.7
+  unix-timestamp: 1538265600
+  description: |-
+    <ul>
+
+      <li>Publish the app on Juno</li>
+
+    </ul>
+- version: 0.0.6
+  unix-timestamp: 1529712000
+  description: |-
+    <ul>
+
+      <li>Fills generated README.md files with installing and compiling instructions</li>
+
+    </ul>
+- version: 0.0.5
+  unix-timestamp: 1527897600
+  description: |-
+    <ul>
+
+      <li>Adds a small disclaimer about user data consumption (they are not saved on a server)</li>
+
+    </ul>
+- version: 0.0.4
+  unix-timestamp: 1527552000
+  description: |-
+    <ul>
+
+      <li>Fixes a small bug</li>
+
+    </ul>
+- version: 0.0.3
+  unix-timestamp: 1527206400
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Opens a folder on success</li>
+
+    </ul>
+
+    <p>Bug fixes:</p>
+
+    <ul>
+
+      <li>Don&apos;t create folders in home directory</li>
+
+      <li>Use &quot;office-contact&quot; instead of &quot;vcard&quot; icon</li>
+
+      <li>Welcome View is too big</li>
+
+    </ul>
+- version: 0.0.2
+  unix-timestamp: 1526774400
+  description: |-
+    <ul>
+
+      <li>Improves first run screen</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1526688000
+  description: |-
+    <p>Features</p>
+
+    <ul>
+
+      <li>Creates elementary OS app template</li>
+
+      <li>Creates elementary OS switchboard plug template</li>
+
+      <li>Creates elementary OS wingpanel indicator template</li>
+
+    </ul>
 redirect_from:
   - /com.github.alcadica.develop.desktop/
 ---

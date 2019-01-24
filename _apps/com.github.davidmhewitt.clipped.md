@@ -16,6 +16,15 @@ color:
   primary: "#e3bab1"
   primary-text: "#2b313d"
 price: 0
+releases:
+- version: 1.0.0
+  unix-timestamp: 1500076800
+  description: |-
+    <ul>
+
+      <li>Initial release</li>
+
+    </ul>
 redirect_from:
   - /com.github.davidmhewitt.clipped.desktop/
 ---

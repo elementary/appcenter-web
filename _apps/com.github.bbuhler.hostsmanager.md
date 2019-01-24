@@ -16,6 +16,9 @@ color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
+releases:
+- version: 1.0.0
+  unix-timestamp: 1534118400
 redirect_from:
   - /com.github.bbuhler.hostsmanager.desktop/
 ---

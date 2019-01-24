@@ -27,6 +27,8 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+releases:
+((releases))
 redirect_from:
   - /((package)).desktop/
 ---
@@ -106,6 +108,25 @@ YAML.load_stream(componentsData) do |doc|
 		end
 	end
 	appFile.sub!('((icons))', icons.rstrip)
+
+	releases = ""
+	unless doc['Releases'].nil?
+		doc['Releases'].each do |release|
+			unless release['version'].nil?
+				releases += "- version: " + release['version'].to_s + "\n"
+			end
+			unless release['unix-timestamp'].nil?
+				releases += "  unix-timestamp: " + release['unix-timestamp'].to_s + "\n"
+			end
+			unless release['description'].nil?
+				releases += "  description: |-\n"
+				release['description']['C'].each_line do |line|
+					releases += "    " + line + "\n"
+				end
+			end
+		end
+	end
+	appFile.sub!('((releases))', releases.rstrip)
 
 
 

@@ -19,6 +19,81 @@ color:
   primary: "#525"
   primary-text: "#d1ff82"
 price: 6
+releases:
+- version: 1.5.5
+  unix-timestamp: 1544486400
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>Download from web stream base.</li>
+
+      <li>Change find folder from icon location.</li>
+
+      <li>Change switch to button.</li>
+
+      <li>Status download and converting.</li>
+
+      <li>Icon input.</li>
+
+    </ul>
+- version: 1.4.1
+  unix-timestamp: 1543276800
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>Info Location converted.</li>
+
+      <li>Fix close warning.</li>
+
+      <li>Fix stop warning.</li>
+
+      <li>Add silent notify.</li>
+
+      <li>Find location converted.</li>
+
+      <li>Ask converter location.</li>
+
+      <li>Fix input name as output name.</li>
+
+      <li>Change spiner to Progress.</li>
+
+    </ul>
+- version: 1.2.5
+  unix-timestamp: 1543104000
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>Fix input name as output name.</li>
+
+      <li>Change spiner to Progress.</li>
+
+    </ul>
+- version: 1.2.1
+  unix-timestamp: 1542672000
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>Save last audio selected.</li>
+
+      <li>Remove unfinished file.</li>
+
+      <li>Cancel option.</li>
+
+      <li>Add file audio.</li>
+
+    </ul>
+- version: 1.0.5
+  unix-timestamp: 1541548800
+  description: |-
+    <p>Hello Juno!</p>
 redirect_from:
   - /com.github.torikulhabib.mindi.desktop/
 ---

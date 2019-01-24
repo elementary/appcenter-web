@@ -16,6 +16,15 @@ color:
   primary: "#C64A89"
   primary-text: "#fff"
 price: 0
+releases:
+- version: 0.0.21
+  unix-timestamp: 1531872000
+  description: |-
+    <ul>
+
+      <li>UI Revamp, Changed screenshot!</li>
+
+    </ul>
 redirect_from:
   - /com.github.bharatkalluri.gifup.desktop/
 ---

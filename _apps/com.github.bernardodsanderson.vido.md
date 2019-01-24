@@ -17,6 +17,11 @@ color:
   primary: "#F2C94C"
   primary-text: "#333"
 price: 1
+releases:
+- version: 1.2.2
+  unix-timestamp: 1547078400
+  description: |-
+    <p>Fix audio download issues</p>
 redirect_from:
   - /com.github.bernardodsanderson.vido.desktop/
 ---

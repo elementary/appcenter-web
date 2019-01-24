@@ -17,6 +17,31 @@ color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
+releases:
+- version: 0.1.7
+  unix-timestamp: 1547164800
+  description: |-
+    <p>Convert JPG to PDF</p>
+
+    <p>Split pages by color (Black-White / Colored)</p>
+- version: 0.1.5
+  unix-timestamp: 1546560000
+  description: |-
+    <p>Convert PDF</p>
+
+    <p>Bugfix</p>
+- version: 0.1.4
+  unix-timestamp: 1546300800
+  description: |-
+    <p>Bugfix</p>
+- version: 0.1.2
+  unix-timestamp: 1545609600
+  description: |-
+    <p>Compress File</p>
+
+    <p>Split File</p>
+
+    <p>Merge File</p>
 redirect_from:
   - /com.github.muriloventuroso.pdftricks.desktop/
 ---

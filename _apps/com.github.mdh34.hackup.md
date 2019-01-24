@@ -18,6 +18,49 @@ color:
   primary: "#000"
   primary-text: "#FFFFFF"
 price: 2
+releases:
+- version: 1.1.6
+  unix-timestamp: 1543363200
+  description: |-
+    <p>UI tweaks and translation updates</p>
+- version: 1.1.5
+  unix-timestamp: 1540684800
+  description: |-
+    <p>Added Dutch, French and Japanese translations</p>
+- version: 1.1.4
+  unix-timestamp: 1540252800
+  description: |-
+    <p>Added a dark mode toggle</p>
+- version: 1.1.3
+  unix-timestamp: 1537660800
+  description: |-
+    <p>UI Tweaks and AppData amendment</p>
+- version: 1.1.2
+  unix-timestamp: 1531699200
+  description: |-
+    <p>Update banner contrast</p>
+- version: 1.1.1
+  unix-timestamp: 1530662400
+  description: |-
+    <p>Update appdata</p>
+- version: 1.1.0
+  unix-timestamp: 1530576000
+  description: |-
+    <p>Comments can now be browsed natively instead of using a WebView</p>
+
+    <p>Portuguese Translation</p>
+- version: 1.0.3
+  unix-timestamp: 1529193600
+  description: |-
+    <p>Fix a bug opening external links</p>
+- version: 1.0.2
+  unix-timestamp: 1528588800
+  description: |-
+    <p>UI tweaks</p>
+- version: 1.0.1
+  unix-timestamp: 1528329600
+  description: |-
+    <p>Initial release</p>
 redirect_from:
   - /com.github.mdh34.hackup.desktop/
 ---

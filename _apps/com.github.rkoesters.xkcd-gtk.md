@@ -18,6 +18,81 @@ color:
   primary: "#96a8c8"
   primary-text: "#1a1a1a"
 price: 0
+releases:
+- version: 1.1.3
+  unix-timestamp: 1547424000
+  description: |-
+    <p>Fix for changes to xkcd API encoding.</p>
+- version: 1.1.2
+  unix-timestamp: 1542326400
+  description: |-
+    <ul>
+
+      <li>Fix restoring of window state when maximized</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1541289600
+  description: |-
+    <ul>
+
+      <li>Add keyboard shortcut for dark mode</li>
+
+      <li>Fix saving of properties window state</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1540857600
+  description: |-
+    <p>The dark mode update!</p>
+
+    <ul>
+
+      <li>Add dark mode that inverts the comic image to improve readability in the dark</li>
+
+      <li>Add buttons to titlebar for jumping to the first comic and the newest comic</li>
+
+      <li>Fix issue with encoding of comic metadata (fixes display of special characters and emojis)</li>
+
+      <li>Fix memory leak when closing additional comic windows</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1540166400
+  description: |-
+    <p>Update app metadata to pass appstream-util validate-relax</p>
+- version: 1.0.3
+  unix-timestamp: 1540080000
+  description: |-
+    <p>Revert fuzzy searching due to regressions</p>
+- version: 1.0.2
+  unix-timestamp: 1540080000
+  description: |-
+    <p>Minor fixes</p>
+
+    <ul>
+
+      <li>Use fuzzy searching</li>
+
+      <li>Only show alt text when hovering directly over the comic image</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1539907200
+  description: |-
+    <p>Update OARS metadata.</p>
+- version: 1.0.0
+  unix-timestamp: 1539820800
+  description: |-
+    <p>First stable release</p>
+
+    <ul>
+
+      <li>Improve startup time</li>
+
+      <li>Add keyboard shortcuts for faster navigation</li>
+
+    </ul>
 redirect_from:
   - /com.github.rkoesters.xkcd-gtk.desktop/
 ---

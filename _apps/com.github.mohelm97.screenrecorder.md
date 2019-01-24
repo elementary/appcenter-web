@@ -17,6 +17,17 @@ color:
   primary: "#c6262e"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+releases:
+- version: 0.1.0
+  unix-timestamp: 1545004800
+  description: |-
+    <ul>
+
+      <li>Initial release
+
+    See AppData</li>
+
+    </ul>
 redirect_from:
   - /com.github.mohelm97.screenrecorder.desktop/
 ---

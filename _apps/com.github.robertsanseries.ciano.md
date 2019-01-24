@@ -17,6 +17,23 @@ color:
   primary: "#8AE4FF"
   primary-text: "#000000"
 price: 3
+releases:
+- version: 0.1.8
+  unix-timestamp: 1514851200
+  description: |-
+    <p>Icons in the HIG standard and Inclusion/Update of languages</p>
+
+    <ul>
+
+      <li>The icons follow the HIG (@lainsce)</li>
+
+      <li>Language: Inclusion of the French (@nvivant)</li>
+
+      <li>Language: Inclusion of Chinese simplified (@trampover)</li>
+
+      <li>Language: pdate in Lithuanian (@welaq)</li>
+
+    </ul>
 redirect_from:
   - /com.github.robertsanseries.ciano.desktop/
 ---

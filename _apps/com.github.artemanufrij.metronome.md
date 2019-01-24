@@ -16,6 +16,9 @@ color:
   primary: "#d1ff82"
   primary-text: "rgb(0,0,0)"
 price: 1
+releases:
+- version: 0.3.0
+  unix-timestamp: 1532390400
 redirect_from:
   - /com.github.artemanufrij.metronome.desktop/
 ---

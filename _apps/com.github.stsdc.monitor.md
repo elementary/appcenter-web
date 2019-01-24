@@ -16,6 +16,15 @@ color:
   primary: "#2196f3"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+releases:
+- version: 0.3.7
+  unix-timestamp: 1548201600
+  description: |-
+    <ul>
+
+      <li>Update French translation</li>
+
+    </ul>
 redirect_from:
   - /com.github.stsdc.monitor.desktop/
 ---

@@ -19,6 +19,11 @@ color:
   primary: "#fff"
   primary-text: "#000"
 price: 1
+releases:
+- version: 0.1.1
+  unix-timestamp: 1543881600
+  description: |-
+    <p>Initial release</p>
 redirect_from:
   - /com.github.naaando.lyrics.desktop/
 ---

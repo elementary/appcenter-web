@@ -17,6 +17,49 @@ color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 3
+releases:
+- version: 1.0.11
+  unix-timestamp: 1533859200
+  description: |-
+    <p>Visual updates and code fixes</p>
+
+    <ul>
+
+      <li>Cleaned up the list icons to only show on hover or select</li>
+
+      <li>Tweaks to the overall visual style.</li>
+
+      <li>General code cleanup</li>
+
+    </ul>
+- version: 1.0.9
+  unix-timestamp: 1511740800
+  description: |-
+    <p>Small bugfixes and a new icon</p>
+
+    <ul>
+
+      <li>Updated the icon with a fresh new look (Thanks, Harvey)</li>
+
+      <li>Pressing Esc no longer closes Agenda while editing a task</li>
+
+      <li>Pressing Delete no longer crashes Agenda while editing a task</li>
+
+      <li>Metadata installs to the correct folder</li>
+
+    </ul>
+- version: 1.0.8
+  unix-timestamp: 1496880000
+  description: |-
+    <p>Small Fixes</p>
+
+    <ul>
+
+      <li>Fixed style issues for dark and light variants</li>
+
+      <li>Looks good, and feels good!</li>
+
+    </ul>
 redirect_from:
   - /com.github.dahenson.agenda.desktop/
 ---

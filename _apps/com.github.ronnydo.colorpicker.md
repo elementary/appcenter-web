@@ -17,6 +17,173 @@ color:
   primary: "#A3FF91"
   primary-text: "#333333"
 price: 0
+releases:
+- version: 1.1.2
+  unix-timestamp: 1546387200
+  description: |-
+    <ul>
+
+      <li>Juno Release!!1! (finally)</li>
+
+      <li>&quot;Olá em português&quot; (Translation by @drom98)</li>
+
+    </ul>
+- version: 1.0.5
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>Implement &apos;close with right-mouse-button&apos; feature (issue #27)</li>
+
+      <li>Update icon</li>
+
+      <li>Add French, Spanish and Catalan translation</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>fix version conflict</li>
+
+    </ul>
+- version: 1.0.3
+  unix-timestamp: 1524700800
+  description: |-
+    <ul>
+
+      <li>Implement &apos;close with right-mouse-button&apos; feature (issue #27)</li>
+
+      <li>Update icon</li>
+
+      <li>Add French, Spanish and Catalan translation</li>
+
+    </ul>
+- version: 1.0.2
+  unix-timestamp: 1503187200
+  description: |-
+    <ul>
+
+      <li>Implement &quot;Don&apos;t add the same color to color history twice&quot; (issue #24)</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1499904000
+  description: |-
+    <ul>
+
+      <li>Improvements to avoid issue #19</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1499385600
+  description: |-
+    <ul>
+
+      <li>Main Release!</li>
+
+      <li>Implement magnifier (issue #12)</li>
+
+      <li>Use your mousewheel to zoom the magnifier in and out.</li>
+
+      <li>Invalid AppData file (issue #17)</li>
+
+      <li>Code cleanup</li>
+
+    </ul>
+- version: 0.9.5
+  unix-timestamp: 1498521600
+  description: |-
+    <ul>
+
+      <li>Fix dark color scheme bug (issue #13)</li>
+
+      <li>Enhance project description</li>
+
+    </ul>
+- version: 0.9.4
+  unix-timestamp: 1498435200
+  description: |-
+    <ul>
+
+      <li>Fix build bug (issue #16)</li>
+
+    </ul>
+- version: 0.9.3
+  unix-timestamp: 1498435200
+  description: |-
+    <ul>
+
+      <li>Color Picker now restores your recent window position, color format and color history! (issue #10, issue #11 and
+
+    issue #15)</li>
+
+      <li>Minor icon changes</li>
+
+    </ul>
+- version: 0.9.2
+  unix-timestamp: 1498176000
+  description: |-
+    <ul>
+
+      <li>Fix issue #8</li>
+
+    </ul>
+- version: 0.9.1
+  unix-timestamp: 1498176000
+  description: |-
+    <ul>
+
+      <li>Fix issue #8</li>
+
+    </ul>
+- version: 0.9.0
+  unix-timestamp: 1498089600
+  description: |-
+    <ul>
+
+      <li>Beta release</li>
+
+      <li>Fix issue #4</li>
+
+      <li>Fix issue #5</li>
+
+      <li>Fix issue #6</li>
+
+      <li>Fix issue #7</li>
+
+      <li>Update icons</li>
+
+      <li>Add German translation</li>
+
+    </ul>
+- version: 0.1.2
+  unix-timestamp: 1498003200
+  description: |-
+    <ul>
+
+      <li>Fix build information</li>
+
+    </ul>
+- version: 0.1.1
+  unix-timestamp: 1497830400
+  description: |-
+    <ul>
+
+      <li>Added debian files and logo files</li>
+
+    </ul>
+- version: 0.1.0
+  unix-timestamp: 1497484800
+  description: |-
+    <ul>
+
+      <li>First official release</li>
+
+    </ul>
+- version: 1.0
+  unix-timestamp: 1345939200
 redirect_from:
   - /com.github.ronnydo.colorpicker.desktop/
 ---

@@ -16,6 +16,51 @@ color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
+releases:
+- version: 1.0.2
+  unix-timestamp: 1547942400
+  description: |-
+    <ul>
+
+      <li>Save and restore settings</li>
+
+      <li>Support both do-not-ask-where-to-save flow and ask-where-to-save flow</li>
+
+      <li>Organized UI</li>
+
+      <li>Some small bug fixes</li>
+
+      <li>Add French translation (by NathanBnm)</li>
+
+      <li>Update Japanese translation</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1545782400
+  description: |-
+    <ul>
+
+      <li>Allow to set recording length</li>
+
+      <li>Fix the countdown is weird when recording more than twice</li>
+
+      <li>Localization improvement</li>
+
+      <li>Update Japanese translation</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1544313600
+  description: |-
+    <ul>
+
+      <li>Support recording with AAC, FLAC, Ogg Vorbis, Opus and MP3 formats</li>
+
+      <li>Show a notification after recorded successfully</li>
+
+      <li>Add Japanese translation</li>
+
+    </ul>
 redirect_from:
   - /com.github.ryonakano.reco.desktop/
 ---

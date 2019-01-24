@@ -18,6 +18,29 @@ color:
   primary: "#525"
   primary-text: "#d1ff82"
 price: 6
+releases:
+- version: 1.2.0
+  unix-timestamp: 1542412800
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>Change switch to button.</li>
+
+      <li>Add Lock position miniwindow.</li>
+
+      <li>Add close on miniwindow.</li>
+
+      <li>Fix lock position widget.</li>
+
+      <li>Only Miniwindow and Close Widget.</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1541548800
+  description: |-
+    <p>Hello Juno!</p>
 redirect_from:
   - /com.github.torikulhabib.nino.desktop/
 ---

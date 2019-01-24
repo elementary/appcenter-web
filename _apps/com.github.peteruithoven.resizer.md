@@ -20,6 +20,101 @@ color:
   primary: "#60caee"
   primary-text: "#ffffff"
 price: 0
+releases:
+- version: 1.0.6
+  unix-timestamp: 1536883200
+  description: |-
+    <ul>
+
+      <li>Improved page transition</li>
+
+      <li>Added clearer finished state</li>
+
+      <li>Republishing for Juno</li>
+
+    </ul>
+- version: 1.0.5
+  unix-timestamp: 1536883200
+  description: |-
+    <ul>
+
+      <li>Improved page transition</li>
+
+      <li>Added clearer finished state</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1532390400
+  description: |-
+    <ul>
+
+      <li>Lithuanian translation (Thanks welaq)</li>
+
+      <li>Fixed issue where files with a . in their path couldn&apos;t be resized (Thanks inhji)</li>
+
+      <li>Release for Loki</li>
+
+    </ul>
+- version: 1.0.3
+  unix-timestamp: 1532304000
+  description: |-
+    <ul>
+
+      <li>Lithuanian translation (Thanks welaq)</li>
+
+      <li>Fixed issue where files with a . in their path couldn&apos;t be resized (Thanks inhji)</li>
+
+      <li>More appdata file fixes</li>
+
+    </ul>
+- version: 1.0.2
+  unix-timestamp: 1532131200
+  description: |-
+    <ul>
+
+      <li>Lithuanian translation (Thanks welaq)</li>
+
+      <li>Fixed issue where files with a . in their path couldn&apos;t be resized (Thanks inhji)</li>
+
+      <li>Appdata file fixes</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1532131200
+  description: |-
+    <ul>
+
+      <li>Lithuanian translation (Thanks welaq)</li>
+
+      <li>Fixed issue where files with a . in their path couldn&apos;t be resized (Thanks inhji)</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1518134400
+  description: |-
+    <ul>
+
+      <li>Improved icon thanks to TraumaD</li>
+
+      <li>Clarified that it resizes within size using labels</li>
+
+    </ul>
+- version: 0.10.0
+  unix-timestamp: 1517961600
+  description: |-
+    <ul>
+
+      <li>Progress indication</li>
+
+      <li>Proper error messages</li>
+
+      <li>Switched to GPL-3.0</li>
+
+    </ul>
+- version: 0.8.0
+  unix-timestamp: 1517356800
+  description: |-
+    <p>Initial release</p>
 redirect_from:
   - /com.github.peteruithoven.resizer.desktop/
 ---

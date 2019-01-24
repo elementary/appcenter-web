@@ -16,6 +16,17 @@ color:
   primary: "#6F8A91"
   primary-text: "#121212"
 price: 1
+releases:
+- version: 0.5.6
+  unix-timestamp: 1507680000
+  description: |-
+    <p>Release: Fix AppStream data</p>
+
+    <ul>
+
+      <li>Fix AppStream screenshot reference</li>
+
+    </ul>
 redirect_from:
   - /com.github.alonsoenrique.quotes.desktop/
 ---

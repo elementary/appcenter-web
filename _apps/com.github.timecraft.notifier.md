@@ -19,6 +19,37 @@ color:
   primary: "#ffe16b"
   primary-text: "#000000"
 price: 0
+releases:
+- version: 2.1.1
+  unix-timestamp: 1539648000
+  description: |-
+    <p>Icons now install properly!</p>
+- version: 2.1.0
+  unix-timestamp: 1539475200
+  description: |-
+    <p>Hello Juno.</p>
+- version: 2.0.0
+  unix-timestamp: 1529971200
+  description: |-
+    <p>Now using Granite Widgets</p>
+
+    <p>Many UI changes</p>
+
+    <p>Reminders are now editable</p>
+
+    <p>Better support for AM/PM</p>
+
+    <p>Another new icon. This time it is one that Daniel Foré made for the app</p>
+
+    <p>Daemon runs every 15 seconds instead of every 60 seconds</p>
+
+    <ul>
+
+      <li>This allows for more accurately timed notifications so that they are not late</li>
+
+      <li>Please note that this will require a restart</li>
+
+    </ul>
 redirect_from:
   - /com.github.timecraft.notifier.desktop/
 ---

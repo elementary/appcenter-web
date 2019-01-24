@@ -14,6 +14,43 @@ color:
   primary: "#3a9104"
   primary-text: "rgb(255,255,255)"
 price: 1
+releases:
+- version: 1.0.2
+  unix-timestamp: 1541030400
+- version: 1.0.1
+  unix-timestamp: 1540339200
+  description: |-
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Restore correct window size</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+    </ul>
+- version: 0.2.0
+  unix-timestamp: 1532390400
+- version: 0.1.7
+  unix-timestamp: 1519084800
+- version: 0.1.6
+  unix-timestamp: 1517875200
+- version: 0.1.5
+  unix-timestamp: 1510272000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Group support</li>
+
+    </ul>
 redirect_from:
   - /com.github.artemanufrij.regextester.desktop/
 ---
