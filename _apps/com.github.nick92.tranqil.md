@@ -16,6 +16,8 @@ color:
   primary: "#C44786"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+releases:
+
 redirect_from:
   - /com.github.nick92.tranqil.desktop/
 ---

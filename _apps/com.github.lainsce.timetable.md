@@ -16,6 +16,59 @@ color:
   primary: "#267ec6"
   primary-text: "#ffffff"
 price: 0
+releases:
+- version: 1.0.2
+  unix-timestamp: 1540512000
+  description: |-
+    <p>Release: All-Day Bonanza</p>
+
+    <ul>
+
+      <li>New: Tasks can now be set to be an all-day task.</li>
+
+      <li>New: Tasks&apos; colors can be changed between 3 themes.</li>
+
+      <li>Fix: Tasks have been rejigged to not expand the app as well as make each task look nicer.</li>
+
+      <li>Fix: Daycolumns have been rejigged to be less wide.</li>
+
+      <li>Fix: General theme coloring support in the custom widgets.</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1539907200
+  description: |-
+    <p>Release: Weekend Taskin&apos;</p>
+
+    <ul>
+
+      <li>New: Weekend column to plot tasks, show it or not.</li>
+
+      <li>Fix: Tasks are now by start time instead of haphazardly placed.</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1539561600
+  description: |-
+    <p>Release: Tasks Have Time</p>
+
+    <ul>
+
+      <li>New: Set tasks times from and to.</li>
+
+      <li>Fix: Task clear color button, for when you want no color in your task.</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1539561600
+  description: |-
+    <p>Release: Initial Plotting</p>
+
+    <ul>
+
+      <li>First stable release.</li>
+
+    </ul>
 redirect_from:
   - /com.github.lainsce.timetable.desktop/
 ---

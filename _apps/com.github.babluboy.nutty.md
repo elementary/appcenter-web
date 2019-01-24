@@ -18,6 +18,24 @@ color:
   primary: "#9BDB4D"
   primary-text: "#260063"
 price: 1
+releases:
+- version: 1.1.1
+  unix-timestamp: 1547942400
+  description: |-
+    <p>Display IPv6 address and better configuration options
+
+                        View IPv6 along with IPv4 addressConfigure commands for non elementary OS distrosFix a bug which
+
+    prevented re-size of the disclaimer screenImprove obtaining network details with use of ip command instead of the ifconfig one</p>
+- version: 1.0.0
+  description: |-
+    <p>Ability to edit and remove discovered devices
+
+                        Support for editing and removing discovered devicesA shiny new icon and brandingNew shortcuts (check
+
+    homepage for details)</p>
+- version: 0.9
+  unix-timestamp: 1495843200
 redirect_from:
   - /com.github.babluboy.nutty.desktop/
 ---

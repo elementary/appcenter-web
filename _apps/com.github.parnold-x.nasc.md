@@ -16,6 +16,8 @@ color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.parnold-x.nasc.desktop/
 ---

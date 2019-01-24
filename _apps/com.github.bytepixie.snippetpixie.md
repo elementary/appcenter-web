@@ -17,6 +17,39 @@ color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
+releases:
+- version: 1.0.0
+  unix-timestamp: 1547510400
+  description: |-
+    <ul>
+
+      <li>1.0 Release!</li>
+
+      <li>Added Snippet Pixie to login startup items by default.</li>
+
+      <li>Added --autostart={on|off|status} option to CLI for turning autostart on, off, or getting settings status.</li>
+
+      <li>Changed body field to select all text when tabbed into.</li>
+
+    </ul>
+- version: 0.9.3
+  unix-timestamp: 1544227200
+  description: |-
+    <ul>
+
+      <li>Fixed crash when an application with a large number of controls was activated.</li>
+
+      <li>Fixed problem with snippets sometimes not expanding when returning to an application.</li>
+
+      <li>Added a splash of colour to the window header.</li>
+
+      <li>Added a new application icon.</li>
+
+    </ul>
+- version: 0.9.2
+  unix-timestamp: 1543622400
+  description: |-
+    <p>Initial pre-release.</p>
 redirect_from:
   - /com.github.bytepixie.snippetpixie.desktop/
 ---

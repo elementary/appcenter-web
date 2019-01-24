@@ -18,6 +18,15 @@ color:
   primary: "#1c2a3d"
   primary-text: "#6be3c3"
 price: 3
+releases:
+- version: 0.1.0
+  unix-timestamp: 1541030400
+  description: |-
+    <ul>
+
+      <li>This is the initial release.</li>
+
+    </ul>
 redirect_from:
   - /com.github.jeremyvaartjes.ping.desktop/
 ---

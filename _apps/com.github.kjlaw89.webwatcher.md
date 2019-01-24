@@ -18,6 +18,27 @@ color:
   primary: "#667885"
   primary-text: "#FFF"
 price: 3
+releases:
+- version: 1.1.0
+  unix-timestamp: 1525910400
+  description: |-
+    <ul>
+
+      <li>Added ability to delete a site</li>
+
+      <li>Added app preferences</li>
+
+      <li>Minor tweaks/adjustments</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1525392000
+  description: |-
+    <p>Fixed an issue where tray does not appear on first load making it hard to close app</p>
+- version: 1.0.0
+  unix-timestamp: 1525392000
+  description: |-
+    <p>Initial 1.0.0 release!</p>
 redirect_from:
   - /com.github.kjlaw89.webwatcher.desktop/
 ---

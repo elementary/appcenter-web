@@ -16,6 +16,11 @@ color:
   primary: "rgb(234, 255, 198)"
   primary-text: "rgb(23, 107, 0)"
 price: 0
+releases:
+- version: 0.2.0
+  unix-timestamp: 1512086400
+  description: |-
+    <p>This release adds float parsing. So now you can also enter e.g. 3.5 for 3 minutes and 30 seconds</p>
 redirect_from:
   - /com.github.parnold-x.timer.desktop/
 ---

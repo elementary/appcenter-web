@@ -16,6 +16,27 @@ color:
   primary: "@BANANA_100"
   primary-text: "@BLACK_500"
 price: 2
+releases:
+- version: 1.1.4
+  unix-timestamp: 1546560000
+  description: |-
+    <p>Happy new year! This release contains AppData fixes.</p>
+- version: 1.1.3
+  unix-timestamp: 1542326400
+  description: |-
+    <p>More reliable styling</p>
+- version: 1.1.2
+  unix-timestamp: 1542153600
+  description: |-
+    <p>ℹ More descriptive in-app copy and a yellow accent color.</p>
+- version: 1.0.1
+  unix-timestamp: 1539993600
+  description: |-
+    <p>⌨ Set a default keyboard shortcut (⌘+E).</p>
+- version: 1.0.0
+  unix-timestamp: 1539820800
+  description: |-
+    <p>🎉 Initial release for AppCenter</p>
 redirect_from:
   - /com.github.cassidyjames.ideogram.desktop/
 ---

@@ -15,6 +15,75 @@ color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"
 price: 1
+releases:
+- version: 1.1.2
+  unix-timestamp: 1541116800
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Theme switcher</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Possible crash when reorder result</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1540339200
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Sort result table by filename or modified date</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Restore correct window size</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1532390400
+- version: 1.0.6
+  unix-timestamp: 1523750400
+  description: |-
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Performance for high number of files</li>
+
+    </ul>
+- version: 1.0.5
+  unix-timestamp: 1522627200
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Enable/Disable some rules in Preferences dialog</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1522368000
 redirect_from:
   - /com.github.artemanufrij.findfileconflicts.desktop/
 ---

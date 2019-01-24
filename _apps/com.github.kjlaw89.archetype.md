@@ -17,6 +17,19 @@ color:
   primary: "#D4D4D4"
   primary-text: "#7A36B1"
 price: 2.5
+releases:
+- version: 1.0.2
+  unix-timestamp: 1528761600
+  description: |-
+    <p>Changed method for moving temp directory and added in basic error logging</p>
+- version: 1.0.1
+  unix-timestamp: 1528070400
+  description: |-
+    <p>Updated description and colors</p>
+- version: 1.0.0
+  unix-timestamp: 1528070400
+  description: |-
+    <p>Initial 1.0.0 release!</p>
 redirect_from:
   - /com.github.kjlaw89.archetype.desktop/
 ---

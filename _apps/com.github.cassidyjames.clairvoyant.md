@@ -18,6 +18,39 @@ color:
   primary: "#0e141f"
   primary-text: "#fafafa"
 price: 1
+releases:
+- version: 1.0.4
+  unix-timestamp: 1546560000
+  description: |-
+    <p>Happy new year! This release contains AppData fixes.</p>
+- version: 1.0.2
+  unix-timestamp: 1532304000
+  description: |-
+    <p>Fix 48px icon</p>
+- version: 1.0.1
+  unix-timestamp: 1532044800
+  description: |-
+    <p>Post-release update</p>
+
+    <ul>
+
+      <li>Clean up AppStream data</li>
+
+      <li>Expand on the description</li>
+
+      <li>Change price to $1</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1532044800
+  description: |-
+    <p>It is decidedly so.</p>
+
+    <ul>
+
+      <li>Initial release</li>
+
+    </ul>
 redirect_from:
   - /com.github.cassidyjames.clairvoyant.desktop/
 ---

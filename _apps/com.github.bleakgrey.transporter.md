@@ -18,6 +18,99 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+releases:
+- version: 1.3.3
+  unix-timestamp: 1526601600
+  description: |-
+    <ul>
+
+      <li>Added custom Download folder support</li>
+
+      <li>Added single file selection support instead of drag and dropping</li>
+
+      <li>Translated into Russian, Lithuanian, French and Italian languages!</li>
+
+    </ul>
+- version: 1.3.0
+  unix-timestamp: 1523145600
+  description: |-
+    <ul>
+
+      <li>Added purple accent color</li>
+
+      <li>Added ding after wormhole installation</li>
+
+      <li>Changed headerbar style</li>
+
+      <li>Fixed inconsistent window size</li>
+
+      <li>Fixed a potential crash after wormhole installation</li>
+
+    </ul>
+- version: 1.2.2
+  unix-timestamp: 1522972800
+  description: |-
+    <ul>
+
+      <li>Fixed Contractor support for certain files</li>
+
+      <li>Improved searching for magic-wormhole binary</li>
+
+      <li>Improved performance and error handling</li>
+
+      <li>ID entries are now automatically focused</li>
+
+    </ul>
+- version: 1.2.1
+  unix-timestamp: 1521158400
+  description: |-
+    <ul>
+
+      <li>Added Contractor support</li>
+
+      <li>Added Send and Receive actions to desktop entry</li>
+
+    </ul>
+- version: 1.2.0
+  unix-timestamp: 1520985600
+  description: |-
+    <ul>
+
+      <li>Folders and multiple files support</li>
+
+      <li>Improved UI</li>
+
+      <li>Updated locales</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1520726400
+  description: |-
+    <ul>
+
+      <li>Minor UI tweaks</li>
+
+      <li>Corrected typos</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1520640000
+  description: |-
+    <ul>
+
+      <li>Added Settings</li>
+
+      <li>Minor bugfixes</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1519862400
+  description: |-
+    <ul>
+
+      <li>Initial release</li>
+
+    </ul>
 redirect_from:
   - /com.github.bleakgrey.transporter.desktop/
 ---

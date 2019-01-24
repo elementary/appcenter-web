@@ -17,6 +17,9 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+releases:
+- version: 0.8.1
+  unix-timestamp: 1541462400
 redirect_from:
   - /com.github.efdos.mupengui.desktop/
 ---

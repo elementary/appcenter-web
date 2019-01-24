@@ -17,6 +17,75 @@ color:
   primary: "#BB0000"
   primary-text: "#FFCF00"
 price: 1
+releases:
+- version: 1.0.0
+  unix-timestamp: 1528243200
+  description: |-
+    <ul>
+
+      <li>&quot;Hans! Hol den Flammenwerfer!&quot; - Added German translation</li>
+
+      <li>Small typo fix</li>
+
+      <li>No bigger issues so far means first main release!!1!</li>
+
+    </ul>
+- version: 0.0.6
+  unix-timestamp: 1525132800
+  description: |-
+    <ul>
+
+      <li>Fix &quot;Add aircrack-ng as a dependency&quot; (issue #4)</li>
+
+      <li>Fix &quot;Mention legality disclaimer in description&quot; (issue #5)</li>
+
+      <li>Bonus: add some pixie dust</li>
+
+    </ul>
+- version: 0.0.5
+  unix-timestamp: 1525132800
+  description: |-
+    <ul>
+
+      <li>Fix &quot;Add aircrack-ng as a dependency&quot; (issue #4)</li>
+
+      <li>Fix &quot;Mention legality disclaimer in description&quot; (issue #5)</li>
+
+      <li>Bonus: add some pixie dust</li>
+
+    </ul>
+- version: 0.0.4
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>fix issue Invalid AppData file (issue #3)</li>
+
+    </ul>
+- version: 0.0.3
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>fix issue Invalid AppData file (issue #2)</li>
+
+    </ul>
+- version: 0.0.2
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>fix issue Invalid AppData file (issue #1)</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1524787200
+  description: |-
+    <ul>
+
+      <li>Initial release</li>
+
+    </ul>
 redirect_from:
   - /com.github.ronnydo.wammer.desktop/
 ---

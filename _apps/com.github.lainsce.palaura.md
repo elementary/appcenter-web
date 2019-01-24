@@ -16,6 +16,61 @@ color:
   primary: "#ddbdbd"
   primary-text: "#333333"
 price: 5
+releases:
+- version: 1.0.2
+  unix-timestamp: 1531699200
+  description: |-
+    <p>Release: Hello Juno!</p>
+
+    <ul>
+
+      <li>Initial update for Juno</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1510876800
+  description: |-
+    <p>Release: Hablas Español?</p>
+
+    <ul>
+
+      <li>Added preferences with option to search in the Spanish Dictionary</li>
+
+      <li>Small UI changes to look even more like a real dictionary</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1510444800
+  description: |-
+    <p>Release: Faster Lookups</p>
+
+    <ul>
+
+      <li>Port to Oxford API for the Dictionary</li>
+
+    </ul>
+- version: 0.5.0
+  unix-timestamp: 1505347200
+  description: |-
+    <p>Release: Appcenter Fixes Yet Again</p>
+
+    <ul>
+
+      <li>Some AppCenter fixes</li>
+
+    </ul>
+- version: 0.4.0
+  unix-timestamp: 1505347200
+  description: |-
+    <p>Release: Appcenter Fixes</p>
+
+    <ul>
+
+      <li>First Stable release</li>
+
+      <li>Some AppCenter fixes</li>
+
+    </ul>
 redirect_from:
   - /com.github.lainsce.palaura.desktop/
 ---

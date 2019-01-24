@@ -17,6 +17,73 @@ color:
   primary: "#e29ffc"
   primary-text: "#260063"
 price: 2
+releases:
+- version: 1.1.0
+  unix-timestamp: 1538265600
+  description: |-
+    <p>This release has some new features, fixes and includes new translations:</p>
+
+    <p>New Features:</p>
+
+    <ul>
+
+      <li>Right click a selected word and look up its meaning using a online dictionary</li>
+
+      <li>Added a preference option to customize highlight colour</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent Bookworm from opening links like http, ftp etc and use the default browser to open the same</li>
+
+      <li>Fixed an issue where the lines overlapped for the first couple of pages in the book</li>
+
+      <li>Use of GResource to speed up loading of icons, scripts, etc.</li>
+
+      <li>Some minor CSS compatibility with Juno</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1518307200
+  description: |-
+    <p>Right to Left Reading</p>
+
+    <ul>
+
+      <li>Support for Right to Left Reading</li>
+
+      <li>A shiny new icon and new cover images</li>
+
+      <li>Better support for EPUB Table of Contents</li>
+
+    </ul>
+- version: 0.9.5
+  unix-timestamp: 1512864000
+  description: |-
+    <p>Annotations and Two Page Views</p>
+- version: 0.9
+  unix-timestamp: 1500768000
+  description: |-
+    <p>Support mobi format and UX improvements</p>
+- version: 0.8
+  unix-timestamp: 1497744000
+  description: |-
+    <p>UX improvements for List View and other preference customizations</p>
+- version: 0.7
+  unix-timestamp: 1495238400
+  description: |-
+    <p>Comics Support and UX improvements</p>
+- version: 0.6
+  unix-timestamp: 1494806400
+  description: |-
+    <p>PDF Support and UX improvements</p>
+- version: 0.5
+  unix-timestamp: 1493078400
+  description: |-
+    <p>Initial release with support for EPUB format</p>
 redirect_from:
   - /com.github.babluboy.bookworm.desktop/
 ---

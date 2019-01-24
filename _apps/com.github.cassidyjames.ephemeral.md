@@ -18,6 +18,125 @@ color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
+releases:
+- version: 3.2.1
+  unix-timestamp: 1548115200
+  description: |-
+    <p>Fixed a few small issues with zoom:</p>
+
+    <ul>
+
+      <li>Zoom controls are now only sensitive when the web view is visible</li>
+
+      <li>Reported zoom level is now correct when opening a new window</li>
+
+      <li>Reported zoom level is now kept in sync across open windows</li>
+
+    </ul>
+- version: 3.2.0
+  unix-timestamp: 1548028800
+  description: |-
+    <p>Zoom! And more…</p>
+
+    <ul>
+
+      <li>A new menu to keep the UI tidy and balanced</li>
+
+      <li>Zoom in, out, and default from the new menu or with the keyboard</li>
+
+      <li>New Window action moved into the menu</li>
+
+      <li>Added a Quit All Windows action to the menu</li>
+
+      <li>Smooth scrolling when using the keyboard or a scrollwheel</li>
+
+      <li>Fixed Twitch livestreams</li>
+
+      <li>Fixed YouTube resolution support: now up to 4K!</li>
+
+      <li>Code cleaning to keep things fresh and clean</li>
+
+    </ul>
+- version: 3.1.0
+  unix-timestamp: 1547424000
+  description: |-
+    <p>Better error handling and quality of life improvements all around:</p>
+
+    <ul>
+
+      <li>New approval dialogs for external apps, e.g. appstream:// or ftp://</li>
+
+      <li>New warning when no network connection</li>
+
+      <li>Prettier errors using native views</li>
+
+      <li>Stopped throwing away text when unfocusing URL entry</li>
+
+      <li>Stopped searching when the URL entry is empty</li>
+
+      <li>Code cleaning to keep things smelling fresh</li>
+
+    </ul>
+- version: 3.0.0
+  unix-timestamp: 1547251200
+  description: |-
+    <p>Fresh styles to keep things funky, plus more:</p>
+
+    <ul>
+
+      <li>The new start page makes Ephemeral faster and makes it not touch the network until you&apos;re ready to browse</li>
+
+      <li>Middle- or Ctrl-click a link to open it in a new window</li>
+
+      <li>Displayed URLs are kept in sync for pages that manually update the URL without a page load</li>
+
+      <li>Local HTML files can now be opened</li>
+
+    </ul>
+- version: 2.0.1
+  unix-timestamp: 1547078400
+  description: |-
+    <ul>
+
+      <li>More informative &quot;set as default&quot; infobar</li>
+
+      <li>Tweaked &quot;set as default&quot; infobar styling</li>
+
+    </ul>
+- version: 2.0.0
+  unix-timestamp: 1547078400
+  description: |-
+    <ul>
+
+      <li>Search from URL entry!</li>
+
+      <li>Asks (politely!) to be set as the default browser</li>
+
+      <li>Open unsupported links (like AppCenter ones) in the OS-default app</li>
+
+    </ul>
+- version: 1.2.0
+  unix-timestamp: 1546992000
+  description: |-
+    <ul>
+
+      <li>Add &quot;New Window&quot; to headerbar, app launcher, and keyboard shortcuts</li>
+
+      <li>Collapse external browsers into a menu when there&apos;s more than one</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1546905600
+  description: |-
+    <p>Add several useful keyboard and mouse shortcuts</p>
+- version: 1.0.1
+  unix-timestamp: 1546905600
+  description: |-
+    <p>Fix links that try to open in a new window</p>
+- version: 1.0.0
+  unix-timestamp: 1546905600
+  description: |-
+    <p>Initial release for AppCenter</p>
 redirect_from:
   - /com.github.cassidyjames.ephemeral.desktop/
 ---

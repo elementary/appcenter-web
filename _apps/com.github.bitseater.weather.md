@@ -19,6 +19,27 @@ color:
   primary: "#660066"
   primary-text: "rgb(189, 253, 255)"
 price: 1
+releases:
+- version: 0.8.1
+  unix-timestamp: 1525737600
+  description: |-
+    <p>New in this version are:
+
+                        Simplify gettext strings
+
+                        Add new update interval
+
+                        Add more information to indicator
+
+                        Add new translations
+
+                        Show location on indicator menu
+
+                        Add run on startup option
+
+                        Change wind speed units</p>
+
+    <p>Fixed issues: #72 #74 #80 #81 #82 #83 #84 #85 #86 #87 #88</p>
 redirect_from:
   - /com.github.bitseater.weather.desktop/
 ---

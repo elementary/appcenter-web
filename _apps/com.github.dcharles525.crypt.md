@@ -17,6 +17,29 @@ color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
+releases:
+- version: 1.1.2
+  unix-timestamp: 1546646400
+  description: |-
+    <p>Complete rewrite of how charts work</p>
+
+    <p>*Slaps Crypt* This bad boy can fit so many bugs in it</p>
+- version: 1.1.0
+  unix-timestamp: 1546646400
+  description: |-
+    <p>Complete rewrite of how charts work</p>
+
+    <p>*Slaps Crypt* This bad boy can fit so many bugs in it</p>
+- version: 1.0.2
+  unix-timestamp: 1546300800
+  description: |-
+    <p>Better window resizing</p>
+
+    <p>AppCenter fixes</p>
+- version: 1.0.0
+  unix-timestamp: 1527897600
+  description: |-
+    <p>Initial release</p>
 redirect_from:
   - /com.github.dcharles525.crypt.desktop/
 ---

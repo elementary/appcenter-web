@@ -18,6 +18,23 @@ color:
   primary: "#BA635C"
   primary-text: "#ECF0F1"
 price: 0
+releases:
+- version: 0.1.6
+  unix-timestamp: 1527206400
+  description: |-
+    <p>Update for Juno</p>
+
+    <p>Add Hashing Functions</p>
+- version: 0.1.5
+  unix-timestamp: 1515974400
+  description: |-
+    <p>New Icon</p>
+
+    <p>Fixes in .desktop file</p>
+- version: 0.1.3
+  unix-timestamp: 1515974400
+  description: |-
+    <p>Appdata and minor language fixes</p>
 redirect_from:
   - /com.github.arshubham.cipher.desktop/
 ---

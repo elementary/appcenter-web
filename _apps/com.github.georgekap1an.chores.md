@@ -18,6 +18,8 @@ color:
   primary: "rgb(130, 67, 9)"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+releases:
+
 redirect_from:
   - /com.github.georgekap1an.chores.desktop/
 ---

@@ -16,6 +16,8 @@ color:
   primary: "#285151"
   primary-text: "rgb(255, 255, 255)"
 price: 1
+releases:
+
 redirect_from:
   - /com.github.thejambi.psnotes.desktop/
 ---

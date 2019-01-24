@@ -18,6 +18,11 @@ color:
   primary: "#64BAFF"
   primary-text: "#000000"
 price: 1
+releases:
+- version: 1.0.8
+  unix-timestamp: 1547424000
+  description: |-
+    <p>Minor updates</p>
 redirect_from:
   - /com.github.fleury08.prettifier.desktop/
 ---

@@ -16,6 +16,35 @@ color:
   primary: "#292B37"
   primary-text: "#DCDFE4"
 price: 0
+releases:
+- version: 0.1.8
+  unix-timestamp: 1516838400
+  description: |-
+    <p>Release: Fixed of the capacity of minimization and form.</p>
+
+    <ul>
+
+      <li>Now it is not minimized by pressing the icon in the dock.</li>
+
+      <li>Again it shows the rounded edges.</li>
+
+      <li>The close button is present again but the color of the widget.</li>
+
+    </ul>
+- version: 0.1.5
+  unix-timestamp: 1516060800
+  description: |-
+    <p>Release: Add icons, hide the base icon and remove the close button.</p>
+
+    <ul>
+
+      <li>Added icons in different sizes (128, 64, 48, 32)</li>
+
+      <li>It is no longer shown in the dock</li>
+
+      <li>The close button was removed</li>
+
+    </ul>
 redirect_from:
   - /com.github.kmal-kenneth.monilet.desktop/
 ---

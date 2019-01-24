@@ -20,6 +20,15 @@ color:
   primary: "#F0E5F2"
   primary-text: "#95005D"
 price: 0
+releases:
+- version: 0.1.8
+  unix-timestamp: 1520985600
+  description: |-
+    <ul>
+
+      <li>Various code improvements</li>
+
+    </ul>
 redirect_from:
   - /com.github.mirkobrombin.bottles.desktop/
 ---

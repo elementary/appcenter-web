@@ -16,6 +16,21 @@ color:
   primary: "#8b7793"
   primary-text: "#FAFAFA"
 price: 0
+releases:
+- version: 1.3.0
+  unix-timestamp: 1518393600
+  description: |-
+    <p>No More Freezes</p>
+
+    <ul>
+
+      <li>Text files can now be opened.</li>
+
+      <li>Execution cap is added, to avoid freezing.</li>
+
+      <li>Instructions are now one-based numbered.</li>
+
+    </ul>
 redirect_from:
   - /com.github.aleksandar-stefanovic.urmsimulator.desktop/
 ---

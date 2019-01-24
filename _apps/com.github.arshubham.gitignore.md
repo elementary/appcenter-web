@@ -17,6 +17,11 @@ color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
 price: ((price))
+releases:
+- version: 1.0.0
+  unix-timestamp: 1534032000
+  description: |-
+    <p>Initial release!</p>
 redirect_from:
   - /com.github.arshubham.gitignore.desktop/
 ---

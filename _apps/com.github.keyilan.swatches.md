@@ -16,6 +16,8 @@ color:
   primary: "#ffcb5c"
   primary-text: "#333333"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.keyilan.swatches.desktop/
 ---

@@ -17,6 +17,89 @@ color:
   primary: "#3A1412"
   primary-text: "rgb(255,244,230)"
 price: 1
+releases:
+- version: 0.3.0
+  unix-timestamp: 1532390400
+  description: |-
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Japanese (by Ryo Nakano)</li>
+
+    </ul>
+- version: 0.2.4
+  unix-timestamp: 1522368000
+  description: |-
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Don&apos;t hide control window from dock panel</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Serbian (by Pavle Radosavljević)</li>
+
+      <li>Lithuanian (by welaq)</li>
+
+    </ul>
+- version: 0.2.3
+  unix-timestamp: 1520640000
+  description: |-
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Desktop Action Menu</li>
+
+      <li>.desktop, appdata descriptions (by aljelly)</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>German</li>
+
+      <li>Spanish (by Franklin Ruiz)</li>
+
+      <li>Lithuanian (by welaq)</li>
+
+    </ul>
+- version: 0.2.2
+  unix-timestamp: 1520208000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Custom delay in seconds</li>
+
+      <li>Desktop Actions: Record/Pause, Finish</li>
+
+      <li>Start recording instand from Plank</li>
+
+      <li>Indicator Menu</li>
+
+      <li>Media Key Listener</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Lithuanian (by welaq)</li>
+
+      <li>Spanish (by Juan Velandia)</li>
+
+    </ul>
 redirect_from:
   - /com.github.artemanufrij.screencast.desktop/
 ---

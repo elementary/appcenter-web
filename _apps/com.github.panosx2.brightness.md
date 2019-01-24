@@ -16,6 +16,9 @@ color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 2.50
+releases:
+- version: 0.0.1
+  unix-timestamp: 1540252800
 redirect_from:
   - /com.github.panosx2.brightness.desktop/
 ---

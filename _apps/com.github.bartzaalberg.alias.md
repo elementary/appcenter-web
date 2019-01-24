@@ -19,6 +19,147 @@ color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
 price: 0
+releases:
+- version: 1.2.0
+  unix-timestamp: 1548201600
+  description: |-
+    <p>New theme!</p>
+
+    <ul>
+
+      <li>New icon thanks to Mitchell Johnson</li>
+
+      <li>New theme</li>
+
+      <li>Fixed link to appcenter</li>
+
+      <li>Single-instance now actually working</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1547683200
+  description: |-
+    <p>Fixed crash on unsupported commands</p>
+
+    <ul>
+
+      <li>Added OARS rating</li>
+
+      <li>Fixed crash on unsupported commands</li>
+
+      <li>Added development category for appcenter</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1547683200
+  description: |-
+    <p>Single-instance, fixed translations</p>
+
+    <ul>
+
+      <li>Fixed translations</li>
+
+      <li>Added French translation</li>
+
+      <li>Application is now single-instance</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1546992000
+  description: |-
+    <p>Meson, and some fixes</p>
+
+    <ul>
+
+      <li>Moved to meson</li>
+
+      <li>Fixed the error when saving alias</li>
+
+      <li>Fixed the bug where the app would ask to add bash_aliases to eOS</li>
+
+    </ul>
+- version: 0.1.2
+  unix-timestamp: 1539561600
+  description: |-
+    <p>Added Houston CI and Juno Release</p>
+
+    <ul>
+
+      <li>Added the new Houston CI</li>
+
+      <li>Released for Juno</li>
+
+    </ul>
+- version: 0.1.1
+  unix-timestamp: 1527379200
+  description: |-
+    <p>Russian translation and bug fix</p>
+
+    <ul>
+
+      <li>Added Russian translation</li>
+
+      <li>Fixed a bug where app would crash on comments in file</li>
+
+    </ul>
+- version: 0.1.0
+  unix-timestamp: 1519689600
+  description: |-
+    <p>Relogging is not required anymore</p>
+
+    <ul>
+
+      <li>Added brand color for headerbar</li>
+
+      <li>~/.bashrc is reloaded after new, edit, and delete</li>
+
+      <li>Quotes are now automatically added to field</li>
+
+    </ul>
+- version: 0.0.4
+  unix-timestamp: 1519603200
+  description: |-
+    <p>0.0.4</p>
+
+    <ul>
+
+      <li>Updated color for appcenter</li>
+
+    </ul>
+- version: 0.0.3
+  unix-timestamp: 1519257600
+  description: |-
+    <p>0.0.3</p>
+
+    <ul>
+
+      <li>Fixed appdata xml</li>
+
+      <li>Refactored responsetranslator and fileManager code</li>
+
+    </ul>
+- version: 0.0.2
+  unix-timestamp: 1519257600
+  description: |-
+    <p>0.0.2</p>
+
+    <ul>
+
+      <li>Fixed deployment</li>
+
+      <li>Removed buttons from welcome view</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1519171200
+  description: |-
+    <p>0.0.1</p>
+
+    <ul>
+
+      <li>First release</li>
+
+    </ul>
 redirect_from:
   - /com.github.bartzaalberg.alias.desktop/
 ---

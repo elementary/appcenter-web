@@ -16,6 +16,11 @@ color:
   primary: "#fff"
   primary-text: "#333"
 price: 10
+releases:
+- version: 1.0.0
+  unix-timestamp: 1532044800
+  description: |-
+    <p>The very first release of Taxi on AppCenter!</p>
 redirect_from:
   - /com.github.alecaddd.taxi.desktop/
 ---

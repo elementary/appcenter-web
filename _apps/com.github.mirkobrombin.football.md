@@ -16,6 +16,8 @@ color:
   primary: "#216200"
   primary-text: "#FFF"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.mirkobrombin.football.desktop/
 ---

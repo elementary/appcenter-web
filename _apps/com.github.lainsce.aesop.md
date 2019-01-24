@@ -16,6 +16,65 @@ color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
+releases:
+- version: 1.0.5
+  unix-timestamp: 1538697600
+  description: |-
+    <p>Release: Page Marker</p>
+
+    <ul>
+
+      <li>Added new &quot;Live Mode&quot; setting in the preferences menu.</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1534291200
+  description: |-
+    <p>Release: Page Marker</p>
+
+    <ul>
+
+      <li>Set the page button to only be interactable when actually opening PDFs.</li>
+
+    </ul>
+- version: 1.0.3
+  unix-timestamp: 1530662400
+  description: |-
+    <p>Release: Fireworks Inkblot</p>
+
+    <ul>
+
+      <li>Fixed page jumper not showing certain pages.</li>
+
+      <li>Fix the size of the virtual page to fit within the PDF&apos;s sizes.</li>
+
+      <li>Fix maximization on small screens.</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1529625600
+  description: |-
+    <p>Release: Ecofriendly Printing</p>
+
+    <ul>
+
+      <li>Fixed inverted view printing black pages instead of the actual document.</li>
+
+      <li>Open PDFs externally.</li>
+
+      <li>Added a way to zoom in/out in the main menu.</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1529625600
+  description: |-
+    <p>Release: Come Hither and Read</p>
+
+    <ul>
+
+      <li>First stable release.</li>
+
+    </ul>
 redirect_from:
   - /com.github.lainsce.aesop.desktop/
 ---

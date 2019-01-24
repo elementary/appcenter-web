@@ -18,6 +18,35 @@ color:
   primary: "#56A9E3"
   primary-text: "rgb(0,0,0)"
 price: 0
+releases:
+- version: 1.1.0
+  unix-timestamp: 1543622400
+  description: |-
+    <p>VServer release</p>
+
+    <ul>
+
+      <li>Start an http server through a clean and minimalist gui.</li>
+
+      <li>Use the command line options to start an http server through the console (type &quot;com.github.bcedu.valasimplehttpserver
+
+    --help&quot; to learn more).</li>
+
+      <li>Choose the port where vserver listens through the gui.</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1542585600
+  description: |-
+    <p>Initial 1.0.2 release!</p>
+
+    <ul>
+
+      <li>Start an http server through a clean and minimalist gui.</li>
+
+      <li>Use the command line options to start an http server through the console (type &quot;com.github.bcedu.valasimplehttpserver
+
+    --help&quot; to learn more).</li> </ul>
 redirect_from:
   - /com.github.bcedu.valasimplehttpserver.desktop/
 ---

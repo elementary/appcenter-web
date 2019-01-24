@@ -19,6 +19,41 @@ color:
   primary: "#fff"
   primary-text: "#000"
 price: 2
+releases:
+- version: 1.1.3
+  unix-timestamp: 1546560000
+  description: |-
+    <p>Happy new year! This release contains AppData fixes.</p>
+- version: 1.1.2
+  unix-timestamp: 1530316800
+  description: |-
+    <p>Hello, Juno.</p>
+
+    <ul>
+
+      <li>Split packaging out</li>
+
+      <li>Build for Juno</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1527984000
+  description: |-
+    <p>Post-release tweaking</p>
+
+    <ul>
+
+      <li>Added animations</li>
+
+      <li>Tweaked punctuation</li>
+
+      <li>Under-the-hood improvements</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1527897600
+  description: |-
+    <p>Initial release</p>
 redirect_from:
   - /com.github.cassidyjames.principles.desktop/
 ---

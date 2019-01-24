@@ -16,6 +16,17 @@ color:
   primary: "#FCEDC5"
   primary-text: "#482C4B"
 price: 2
+releases:
+- version: 1.2.7
+  unix-timestamp: 1534982400
+  description: |-
+    <p>Juno Release</p>
+
+    <ul>
+
+      <li>Wallpaperize is now available in elementary OS Juno!</li>
+
+    </ul>
 redirect_from:
   - /com.github.philip-scott.wallpaperize.desktop/
 ---

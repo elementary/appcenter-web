@@ -17,6 +17,15 @@ color:
   primary: "#8359ac"
   primary-text: "rgb(255, 255, 255)"
 price: 3
+releases:
+- version: 1.0.0
+  unix-timestamp: 1540598400
+  description: |-
+    <ul>
+
+      <li>First release</li>
+
+    </ul>
 redirect_from:
   - /com.github.cryptowyrm.copypastegrab.desktop/
 ---

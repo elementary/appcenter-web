@@ -17,6 +17,51 @@ color:
   primary: "#c6262e"
   primary-text: "#f5f5f5"
 price: 1
+releases:
+- version: 1.0.3
+  unix-timestamp: 1542326400
+  description: |-
+    <p>Release: Obese No More</p>
+
+    <ul>
+
+      <li>Fix: Obese/Overweight labels mixup fixed, now follows the BMI chart</li>
+
+    </ul>
+- version: 1.0.2
+  unix-timestamp: 1538265600
+  description: |-
+    <p>Release: Be Balanced</p>
+
+    <ul>
+
+      <li>Set the Calculate button&apos;s interactivity based if there&apos;s data or not</li>
+
+      <li>Use Centimeters for height!</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1537488000
+  description: |-
+    <p>Release: Keeps The Doc Away!</p>
+
+    <ul>
+
+      <li>Fix calculation on Imperial Units</li>
+
+      <li>New polished icon</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1536883200
+  description: |-
+    <p>Release: An Apple a Day...</p>
+
+    <ul>
+
+      <li>First release!</li>
+
+    </ul>
 redirect_from:
   - /com.github.lainsce.beemy.desktop/
 ---

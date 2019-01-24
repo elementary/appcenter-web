@@ -18,6 +18,15 @@ color:
   primary: "#ffffe1"
   primary-text: "#747a68"
 price: 1
+releases:
+- version: 0.2.6
+  unix-timestamp: 1541030400
+  description: |-
+    <ul>
+
+      <li>This is the initial release.</li>
+
+    </ul>
 redirect_from:
   - /com.github.jeremyvaartjes.comgen.desktop/
 ---

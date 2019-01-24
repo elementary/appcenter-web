@@ -17,6 +17,8 @@ color:
   primary: "#e9f4fc"
   primary-text: "#000000"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.harisvsulaiman.pushy.desktop/
 ---

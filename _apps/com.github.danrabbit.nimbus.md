@@ -16,6 +16,21 @@ color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
 price: 0
+releases:
+- version: 0.3.2
+  unix-timestamp: 1530316800
+  description: |-
+    <p>Juno Updates!</p>
+
+    <ul>
+
+      <li>Add Catalan, French, German, and Japanese Translations</li>
+
+      <li>HiDPI icons support</li>
+
+      <li>Bug fixes and stability improvements</li>
+
+    </ul>
 redirect_from:
   - /com.github.danrabbit.nimbus.desktop/
 ---

@@ -17,6 +17,27 @@ color:
   primary: "#fff"
   primary-text: "#333"
 price: 10
+releases:
+- version: 1.1.0
+  unix-timestamp: 1540425600
+  description: |-
+    <p>Better support for symbolic-only icons and under the hood improvements!</p>
+- version: 1.0.0
+  unix-timestamp: 1530576000
+  description: |-
+    <p>I&apos;m a new soul</p>
+
+    <p>I came to this strange world</p>
+
+    <p>Hoping I could learn a bit bout how to give and take</p>
+
+    <p>But since I came here</p>
+
+    <p>Felt the joy and the fear</p>
+
+    <p>Finding myself making every possible mistake</p>
+
+    <p>La-la-la-la-la-la-la-la…</p>
 redirect_from:
   - /com.github.danrabbit.lookbook.desktop/
 ---
