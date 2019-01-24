@@ -49,8 +49,10 @@ layout: default
     {% if page.releases %}
       <h2>What's New:</h2>
       {% for release in page.releases %}
-        <p><strong>{{ release.version }}</strong> – {{ release.unix-timestamp | date: "%h %-d %Y" }}</p>
-        {{ release.description }}
+        <details {% if forloop.index == 1 %}open="true"{% endif %}>
+          <summary><strong>{{ release.version }}</strong> – {{ release.unix-timestamp | date: "%h %-d, %Y" }}</summary>
+          {{ release.description }}
+        </details>
       {% endfor %}
     {% endif %}
   </section>
