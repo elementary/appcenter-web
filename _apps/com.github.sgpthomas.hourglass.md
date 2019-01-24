@@ -19,6 +19,8 @@ color:
   primary: "#4ea87c"
   primary-text: "#fff"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.sgpthomas.hourglass.desktop/
 ---

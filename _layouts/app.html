@@ -35,11 +35,12 @@ layout: default
 
     {{content}}
 
-    {% include loki.html %}
-
     <section class="get-it constrain">
       <h2>Get it {% if page.price != 0 %}for <strong>${{ page.price }}</strong>{% endif %} on AppCenter</h2>
       <p>Get {{page.title}} and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Every app is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+
+      {% include loki.html %}
+
       <div class="call-to-action">
         <a class="button" href="https://developer.elementary.io" target="_blank">Publish on AppCenter</a>
         <a class="button suggested" href="https://elementary.io/" target="_blank">Get elementary OS</a>

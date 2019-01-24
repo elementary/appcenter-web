@@ -20,6 +20,65 @@ color:
   primary: "#226324"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+releases:
+- version: 0.0.3
+  unix-timestamp: 1518480000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Improved add account Dialog</li>
+
+      <li>Improved add category Dialog</li>
+
+    </ul>
+
+    <p>Fix</p>
+
+    <ul>
+
+      <li>Fix crash while adding second account</li>
+
+      <li>Allow resizing window</li>
+
+      <li>Add unit tests</li>
+
+      <li>Add current version to the binary</li>
+
+    </ul>
+- version: 0.0.2
+  unix-timestamp: 1517616000
+  description: |-
+    <p>Fixed some glitches</p>
+
+    <ul>
+
+      <li>Fix crash while removing category</li>
+
+      <li>Fix information loss on editing</li>
+
+      <li>Add AppData changelog</li>
+
+      <li>Update app branding</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1516579200
+  description: |-
+    <p>First release: Testing</p>
+
+    <p>Basic functionalities</p>
+
+    <ul>
+
+      <li>Add account</li>
+
+      <li>Add transactions</li>
+
+      <li>Import QIF files</li>
+
+    </ul>
 redirect_from:
   - /com.github.cjfloss.envelope.desktop/
 ---

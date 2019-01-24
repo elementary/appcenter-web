@@ -128,8 +128,6 @@ YAML.load_stream(componentsData) do |doc|
 	end
 	appFile.sub!('((releases))', releases.rstrip)
 
-
-
 	File.open("_apps/#{doc['Package']}.md", "w+") do |file|
 		file.write(appFile)
 	end

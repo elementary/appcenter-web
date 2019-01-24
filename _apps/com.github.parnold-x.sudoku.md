@@ -16,6 +16,8 @@ color:
   primary: "rgb(230, 199, 168)"
   primary-text: "rgb(0, 0, 0)"
 price: 0
+releases:
+
 redirect_from:
   - /com.github.parnold-x.sudoku.desktop/
 ---

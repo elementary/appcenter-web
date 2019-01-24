@@ -18,6 +18,19 @@ color:
   primary: "rgb(204,75,20)"
   primary-text: "rgb(255, 255, 255)"
 price: 0
+releases:
+- version: 1.1.0
+  unix-timestamp: 1515456000
+  description: |-
+    <ul>
+
+      <li>List files and directories sorted by name in alphabetical order</li>
+
+      <li>Direct download/stream when a single file is shared</li>
+
+      <li>Bug fixes</li>
+
+    </ul>
 redirect_from:
   - /com.github.mubitosh.qrshare.desktop/
 ---

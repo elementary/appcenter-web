@@ -17,6 +17,27 @@ color:
   primary: "rgba(135, 203, 195, 256)"
   primary-text: "#333333"
 price: 2
+releases:
+- version: 0.0.2
+  unix-timestamp: 1524441600
+  description: |-
+    <p>0.0.2</p>
+
+    <ul>
+
+      <li>Helium release</li>
+
+    </ul>
+- version: 0.0.1
+  unix-timestamp: 1524268800
+  description: |-
+    <p>0.0.1</p>
+
+    <ul>
+
+      <li>First release</li>
+
+    </ul>
 redirect_from:
   - /com.github.eudaldgr.elements.desktop/
 ---

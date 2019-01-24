@@ -17,6 +17,11 @@ color:
   primary: "#9ddbff"
   primary-text: "#000"
 price: 1
+releases:
+- version: 0.8.8
+  unix-timestamp: 1525392000
+  description: |-
+    <p>Initial public release</p>
 redirect_from:
   - /com.github.coralynnmay.goodvibesapp.desktop/
 ---

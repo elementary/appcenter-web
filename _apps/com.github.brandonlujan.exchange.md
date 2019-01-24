@@ -16,6 +16,8 @@ color:
   primary: "rgb(56,56,56)"
   primary-text: "rgb(213,213,213)"
 price: 1
+releases:
+
 redirect_from:
   - /com.github.brandonlujan.exchange.desktop/
 ---
