@@ -7,17 +7,31 @@ homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/685A885807BE8D042871FE1152764ABE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/685A885807BE8D042871FE1152764ABE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/41AB6573597E6E2FC475B21ED240CC3C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/41AB6573597E6E2FC475B21ED240CC3C/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/685A885807BE8D042871FE1152764ABE/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/685A885807BE8D042871FE1152764ABE/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/685A885807BE8D042871FE1152764ABE/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/41AB6573597E6E2FC475B21ED240CC3C/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/41AB6573597E6E2FC475B21ED240CC3C/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/41AB6573597E6E2FC475B21ED240CC3C/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
 price: 0
 releases:
+- version: 1.7.0
+  unix-timestamp: 1548288000
+  description: |-
+    <p>Remember size, maximized, and position</p>
+
+    <ul>
+
+      <li>Fixed single-instancing</li>
+
+      <li>Fixed about appcenter shortcut</li>
+
+      <li>Remember size, maximized, and position</li>
+
+    </ul>
 - version: 1.6.3
   unix-timestamp: 1548115200
   description: |-
