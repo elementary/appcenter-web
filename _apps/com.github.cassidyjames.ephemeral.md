@@ -7,18 +7,54 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/F848E503699072AB5A5CF541F8A7EA4B/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8A35474861D0B220FA8EA03BF84C9ECF/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
 releases:
+- version: 4.0.0
+  unix-timestamp: 1548201600
+  description: |-
+    <p>Lots o&apos; goodies:</p>
+
+    <ul>
+
+      <li>The last-used browser is remembered for next time</li>
+
+      <li>New &quot;Reset Preferences&quot; menu item and dialog</li>
+
+      <li>Ctrl+O to open the current page in another browser</li>
+
+      <li>Refined (ever-so-subtly less flat) HeaderBar design</li>
+
+      <li>Ephemeral is now translatable!</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>¡Hola! Spanish translations thanks to Adolfo Jayme-Barrientos and Mario Rodrigo</li>
+
+      <li>salut! French translations thanks to Nathan (@NathanBnm)</li>
+
+      <li>Olá! Brazilian Portuguese translations thanks to Lucas Sanchez dos Anjos</li>
+
+      <li>Hallo! Dutch translations thanks to Heimen Stoffels</li>
+
+    </ul>
+- version: 3.2.2
+  unix-timestamp: 1548115200
+  description: |-
+    <p>Styling fixes for non-native platforms.</p>
 - version: 3.2.1
   unix-timestamp: 1548115200
   description: |-
