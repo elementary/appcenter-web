@@ -7,19 +7,27 @@ homepage: "https://github.com/cassidyjames/principles"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/icons/64x64/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/icons/128x128/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/F20291F2CAE70AA5E1F514EB633747BC/icons/64x64@2/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/icons/64x64/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/icons/128x128/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/10286B575C3A330368FA91FB37CD292E/icons/64x64@2/com.github.cassidyjames.principles_com.github.cassidyjames.principles.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 2
 releases:
+- version: 1.2.1
+  unix-timestamp: 1548374400
+  description: |-
+    <p>Under-the-hood AppStream data fixes</p>
+- version: 1.2.0
+  unix-timestamp: 1548374400
+  description: |-
+    <p>Principles is now translatable and has been translated to French (thanks, @NathanBnm!)</p>
 - version: 1.1.3
   unix-timestamp: 1546560000
   description: |-
