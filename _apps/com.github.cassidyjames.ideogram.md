@@ -7,16 +7,24 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/05754525DCEE146286E4372794781872/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/B4FA463EB467BFB642808FFFE82ECDFE/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/05754525DCEE146286E4372794781872/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/05754525DCEE146286E4372794781872/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/05754525DCEE146286E4372794781872/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/B4FA463EB467BFB642808FFFE82ECDFE/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/B4FA463EB467BFB642808FFFE82ECDFE/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/B4FA463EB467BFB642808FFFE82ECDFE/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
 color:
   primary: "@BANANA_100"
   primary-text: "@BLACK_500"
 price: 2
 releases:
+- version: 1.2.2
+  unix-timestamp: 1548633600
+  description: |-
+    <p>¡Hola! Spanish translations thanks to Alain (@alainm23)</p>
+- version: 1.2.1
+  unix-timestamp: 1548547200
+  description: |-
+    <p>Bonjour! French translations thanks to @NathanBnm</p>
 - version: 1.2.0
   unix-timestamp: 1548374400
   description: |-

@@ -7,16 +7,23 @@ homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DCC0D9B30B4202D847C577E4213487CE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DCC0D9B30B4202D847C577E4213487CE/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/D16D04121E3C346D554D0B58C4290CE2/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DCC0D9B30B4202D847C577E4213487CE/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DCC0D9B30B4202D847C577E4213487CE/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/DCC0D9B30B4202D847C577E4213487CE/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.2.0
+  unix-timestamp: 1548633600
+  description: |-
+    <p>Sync Lyrics</p>
+
+    <p>Dark Theme</p>
 - version: 0.1.6
   unix-timestamp: 1548028800
   description: |-
@@ -57,4 +64,4 @@ redirect_from:
   - /com.github.muriloventuroso.givemelyrics.desktop/
 ---
 
-<p>See the lyrics of the song that is playing, from any application.</p>
+<p>See the lyrics of the song that is playing, from any application. Sing along with the option to sync lyrics.</p>
