@@ -14,9 +14,9 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/efdos.mupengui/73794EC92070C1EA65999B48CC900465/icons/128x128/com.github.efdos.mupengui_com.github.efdos.mupengui.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/efdos.mupengui/73794EC92070C1EA65999B48CC900465/icons/64x64@2/com.github.efdos.mupengui_com.github.efdos.mupengui.png
 color:
-  primary: "((color_primary))"
-  primary-text: "((color_text))"
-price: ((price))
+  primary: "#4c158a"
+  primary-text: "#fff"
+price: 0
 releases:
 - version: 0.8.1
   unix-timestamp: 1541462400

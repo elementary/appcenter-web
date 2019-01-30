@@ -4,22 +4,40 @@ title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
 homepage: "https://github.com/alainm23/planner"
-help_page: "#"
+help_page: "https://www.paypal.me/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/AD1F2610A30E14B1EC58C666F29AD2CE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffe16b"
   primary-text: "#000"
 price: 15
 releases:
+- version: 1.2.3
+  unix-timestamp: 1548720000
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Labels preview</li>
+
+      <li>Weather forecast</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>Lithuanian (welaq)</li>
+
+    </ul>
 - version: 1.2.2
   unix-timestamp: 1547856000
   description: |-
