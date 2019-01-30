@@ -15,9 +15,9 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/icons/128x128/com.github.bleakgrey.transporter_com.github.bleakgrey.transporter.png
   "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/icons/64x64@2/com.github.bleakgrey.transporter_com.github.bleakgrey.transporter.png
 color:
-  primary: "((color_primary))"
-  primary-text: "((color_text))"
-price: ((price))
+  primary: "#4c158a"
+  primary-text: "#fff"
+price: 0
 releases:
 - version: 1.3.3
   unix-timestamp: 1526601600

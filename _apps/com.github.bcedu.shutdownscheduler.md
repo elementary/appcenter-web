@@ -15,9 +15,9 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
-  primary: "((color_primary))"
-  primary-text: "((color_text))"
-price: ((price))
+  primary: "#4c158a"
+  primary-text: "#fff"
+price: 0
 releases:
 - version: 1.3.2
   unix-timestamp: 1543536000

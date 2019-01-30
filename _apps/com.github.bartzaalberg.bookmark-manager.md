@@ -7,18 +7,36 @@ homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/C14A81234414C4001816EDCA2A634A41/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
 price: 3
 releases:
+- version: 1.6.0
+  unix-timestamp: 1548720000
+  description: |-
+    <p>Metadata translation, Remember position and size</p>
+
+    <ul>
+
+      <li>Added metadata translation</li>
+
+      <li>Application now remembers size and position</li>
+
+      <li>Added code style hook</li>
+
+      <li>Fixed about shortcut</li>
+
+      <li>Added OARS rating</li>
+
+    </ul>
 - version: 1.5.1
   unix-timestamp: 1547596800
   description: |-

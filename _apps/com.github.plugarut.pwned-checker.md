@@ -15,9 +15,9 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/icons/128x128/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/icons/64x64@2/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
 color:
-  primary: "((color_primary))"
-  primary-text: "((color_text))"
-price: ((price))
+  primary: "#4c158a"
+  primary-text: "#fff"
+price: 0
 releases:
 - version: 0.2.1
   unix-timestamp: 1539820800
