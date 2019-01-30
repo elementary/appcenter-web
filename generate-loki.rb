@@ -63,26 +63,25 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((help))', help)
 
+	color_text = "#fff"
+	color_primary = "#4c158a"
+	price = "0"
 	unless doc['Custom'].nil?
-		if not doc['Custom']['x-appcenter-color-primary'].nil?
-			appFile.sub!('((color_primary))', doc['Custom']['x-appcenter-color-primary'])
-		else
-			appFile.sub!('((color_primary))', "#4c158a")
+		unless doc['Custom']['x-appcenter-color-primary'].nil?
+			color_primary = doc['Custom']['x-appcenter-color-primary']
 		end
 
-		if not doc['Custom']['x-appcenter-color-primary-text'].nil?
-			appFile.sub!('((color_text))', doc['Custom']['x-appcenter-color-primary-text'])
-		else
-			appFile.sub!('((color_text))', "#fff")
+		unless doc['Custom']['x-appcenter-color-primary-text'].nil?
+			color_text = doc['Custom']['x-appcenter-color-primary-text']
 		end
 
-		if not doc['Custom']['x-appcenter-suggested-price'].nil?
+		unless doc['Custom']['x-appcenter-suggested-price'].nil?
 			price = doc['Custom']['x-appcenter-suggested-price']
-		else
-			price = "0"
 		end
-		appFile.sub!('((price))', price)
 	end
+	appFile.sub!('((color_primary))', color_primary)
+	appFile.sub!('((color_text))', color_text)
+	appFile.sub!('((price))', price)
 
 	mediaBase = "https://appstream.elementary.io/appcenter/media/xenial"
 
