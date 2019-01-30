@@ -7,18 +7,30 @@ homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/716D66D98ED0EFB26D06988D18AEE59A/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
 price: 3
 releases:
+- version: 1.0.0
+  unix-timestamp: 1548806400
+  description: |-
+    <p>Added French metadata translation</p>
+
+    <ul>
+
+      <li>Added French metadata translations</li>
+
+      <li>Sharpened application icons</li>
+
+    </ul>
 - version: 0.8.0
   unix-timestamp: 1548547200
   description: |-

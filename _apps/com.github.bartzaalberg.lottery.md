@@ -7,18 +7,30 @@ homepage: "https://github.com/bartzaalberg/lottery"
 help_page: "https://github.com/bartzaalberg/lottery/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/B4899DAEC94D9FA03F78357E0EAEB2A7/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/46E16A4CD5B3050293D7F5D9D479DE6E/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
 color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#fe2e56"
 price: 0
 releases:
+- version: 1.4.1
+  unix-timestamp: 1548806400
+  description: |-
+    <p>Fixed Dutch metadata translation</p>
+
+    <ul>
+
+      <li>Fixed Dutch metadata translation</li>
+
+      <li>Added provides tag for appdata</li>
+
+    </ul>
 - version: 1.4.0
   unix-timestamp: 1548547200
   description: |-
