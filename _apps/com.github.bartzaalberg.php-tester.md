@@ -7,17 +7,27 @@ homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
 price: 0
 releases:
+- version: 1.8.2
+  unix-timestamp: 1549065600
+  description: |-
+    <p>Added metadata French translation</p>
+
+    <ul>
+
+      <li>Added metadata French translation</li>
+
+    </ul>
 - version: 1.8.1
   unix-timestamp: 1548547200
   description: |-
