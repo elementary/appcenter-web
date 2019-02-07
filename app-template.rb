@@ -5,13 +5,13 @@ require 'pry'
 # Creates a md file from streamed YAML data user ERB
 # - argument YAML data from a stream  
 class AppTemplate
-	attr_accessor :template, :mediaBase
+	attr_accessor :template, :mediaBase, :releaseHash
 
-	def initialize(yaml)
+	def initialize(yaml, release)
 		@yaml = yaml
 		# binding.pry
 		@mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
-		@release = "bionic"
+		@release = release
 		@template = %{
 
 		---
@@ -19,24 +19,24 @@ class AppTemplate
 		title: <%= @yaml["Name"]["C"] %>
 		summary: <%= @yaml["Summary"]["C"] %>
 		developer: <%= @yaml["DeveloperName"]["C"] %>
-		homepage: <%= (@yaml["Url"] && @yaml["Url"]["homepage"])?@yaml["Url"]["homepage"]:"#" %>
-		help_page: <%= (@yaml["Url"] && @yaml["Url"]["help"])?@yaml["Url"]["help"]:"#" %>
-		dist:
-		screenshots: <% @yaml["Screenshots"] &&  @yaml["Screenshots"].each do |s| %>
-			<%= "- #{mediaBase}/"+s['source-image']['url'] %><% end %>
-		icons: <% @yaml["Icon"] && @yaml["Icon"]["cached"].each do |i| %>
-			<%= get_icons(i) %><% end %>
+		homepage: <%= (@yaml["Url"] && @yaml["Url"]["homepage"])?@yaml["Url"]["homepage"] : "#" %>
+		help_page: <%= (@yaml["Url"] && @yaml["Url"]["help"])?@yaml["Url"]["help"] : "#" %>
+		dist: <%= @release %>
+		screenshots:<% @yaml["Screenshots"] &&  @yaml["Screenshots"].each do |s| %>
+		<%= get_screenshots(s) %><% end %>
+		icons:<% @yaml["Icon"] && @yaml["Icon"]["cached"].each do |i| %>
+		<%= get_icons(i) %><% end %>
 		color:
-			primary: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary"] : "#4c158a" %>
-			primary_text: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary-text"] : "#fff" %>
+		  primary: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary"] : "#4c158a" %>
+		  primary-text: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary-text"] : "#fff" %>
 		price: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-suggested-price"] : "0" %>
-		releases: <% @yaml["Releases"] && @yaml["Releases"].each do |r| %>
-			<%= get_releases(r) %><% end %>
+		releases:<% @yaml["Releases"] && @yaml["Releases"].each do |r| %>
+		<%= get_releases(r) %><% end %>
 		redirect_from:
-			- /<%= @yaml["Package"]%>.desktop/
+		  - /<%= @yaml["Package"]%>.desktop/
 		---
 
-		<%= @yaml["Description"]["C"] %>
+	<%= @yaml["Description"]["C"] %>
 		}.gsub(/^\s\s/, '')
 	end
 
@@ -50,8 +50,11 @@ class AppTemplate
 		end
 	end
 
-	def get_screenshots(screenshots)
-
+	def get_screenshots(screenshot)
+		parts = screenshot["source-image"]["url"].split('/')
+		parts[2] = parts[2].split('.desktop')[0]
+		@releaseHash = parts[0...4].join('/')
+		return "  - #{mediaBase}/#{parts.join('/')}"
 	end
 
 	# Helper method to create a string for included icons
@@ -63,21 +66,21 @@ class AppTemplate
 		else
 			key = icon['height'].to_s
 		end
-		return icons += " \"#{key}\": " + URI::encode("#{@mediaBase}/#{@release}/icons/#{icon['height']}x#{key}/#{icon['name']}")
+		return icons += "  \"#{key}\": " + URI::encode("#{@mediaBase}/#{@releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}")
 	end
 
 	# Helper method to create a string for releases
 	# - argument release The iteration of @yaml["Icons"]
 	def get_releases(release)
 		r = ""
-		new_line = "\n\s\s\s\s\s\s"
+		new_line = "\n"
 
 		release["version"].nil? if r += "- version: #{release["version"].to_s}"+new_line
-		release["unix-timestamp"].nil? if r += "unix-timestamp: #{release["unix-timestamp"].to_s}"+new_line
+		release["unix-timestamp"].nil? if r += "  unix-timestamp: #{release["unix-timestamp"].to_s}"+new_line
 		if !release["description"].nil? 
-			r += "description: |-\n"
+			r += "  description: |-\n"
 			release["description"]["C"].each_line do |line|
-				r += "		#{line}"+new_line
+				r += "    #{line}\n"
 			end
 		end
 		return r

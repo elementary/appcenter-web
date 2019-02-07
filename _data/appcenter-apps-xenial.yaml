@@ -4,7 +4,7 @@ Version: '0.10'
 Origin: appcenter-xenial-main
 MediaBaseUrl: https://appstream.elementary.io/appcenter/media/xenial
 Priority: 13
-Time: 20190202T233935
+Time: 20190207T041040
 ---
 Type: desktop-application
 ID: com.github.sgpthomas.hourglass.desktop
@@ -3291,14 +3291,17 @@ Type: desktop-application
 ID: com.github.panosx2.brightness
 Package: com.github.panosx2.brightness
 Name:
+  fr: Dimmer
   C: Dimmer
 Summary:
+  fr: Modifie la luminosité de l'écran
   C: Change screen's brightness
 Description:
   C: >-
     <p>Instead of adjusting the backlight, this app uses `xrandr` to change the brightness of the image displayed on your
-    screen. This can be useful for displays without an adjustable backlight, displays with a too-bright minimum backlight,
-    or OLED displays.</p>
+    screen.  This can be useful for displays without an adjustable backlight, displays with a too-bright minimum, or too-dark
+    maximum backlight, or OLED displays. Setups with multipe displays (maximum 4 displays) can also be adjusted with different
+    brightness levels.</p>
 DeveloperName:
   C: Panos P.
 ProjectLicense: GPL-3.0+
@@ -3322,6 +3325,8 @@ Keywords:
   - display
   - xrandr
   - bright
+  - multipe-monitors
+  - dual-monitors
 Url:
   homepage: https://github.com/panosx2/brightness
   bugtracker: https://github.com/panosx2/brightness/issues
@@ -3347,14 +3352,21 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/panosx2.brightness/573BEBB03F68793B5FED88628BDDF265/screenshots/image-1_224x108.png
+  - url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_224x108.png
     width: 224
     height: 108
   source-image:
-    url: com/github/panosx2.brightness/573BEBB03F68793B5FED88628BDDF265/screenshots/image-1_orig.png
+    url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_orig.png
     width: 578
     height: 281
 Releases:
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
 - {}
 - {}
 - {}
@@ -10170,76 +10182,62 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_752x549.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_752x549.png
     width: 752
     height: 549
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_624x456.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_624x456.png
     width: 624
     height: 456
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_224x163.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_224x163.png
     width: 224
     height: 163
   source-image:
-    url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_orig.png
+    url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_orig.png
     width: 1178
     height: 861
 - thumbnails:
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_752x620.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_752x620.png
     width: 752
     height: 620
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_624x515.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_624x515.png
     width: 624
     height: 515
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_224x184.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_224x184.png
     width: 224
     height: 184
   source-image:
-    url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_orig.png
+    url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_orig.png
     width: 1124
     height: 928
 - thumbnails:
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_752x620.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_752x620.png
     width: 752
     height: 620
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_624x515.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_624x515.png
     width: 624
     height: 515
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_224x184.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_224x184.png
     width: 224
     height: 184
   source-image:
-    url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_orig.png
+    url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_orig.png
     width: 1124
     height: 928
 - thumbnails:
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_752x561.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_752x561.png
     width: 752
     height: 561
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_624x465.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_624x465.png
     width: 624
     height: 465
-  - url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_224x167.png
+  - url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_224x167.png
     width: 224
     height: 167
   source-image:
-    url: com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_orig.png
+    url: com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_orig.png
     width: 1154
     height: 861
 Releases:
-- version: 0.6.7
-  unix-timestamp: 1547330415
-  description:
-    C: >-
-      <ul>
-        <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
-      </ul>
-- version: 0.6.6
-  unix-timestamp: 1547324279
-  description:
-    C: >-
-      <ul>
-        <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
-      </ul>
 - version: 0.6.5
   unix-timestamp: 1543573312
   description:
@@ -10256,12 +10254,12 @@ Releases:
         <li>Fixed a bug which prevented cozy from automatically playing the next chapter</li>
         <li>Updated translations</li>
       </ul>
-- version: 0.6.1b
-  unix-timestamp: 1539206841
+- version: 0.6.2
+  unix-timestamp: 1536675372
   description:
     C: >-
       <ul>
-        <li>Fixed a bug which prevented cozy from automatically playing the next chapter</li>
+        <li>Support for elementaryOS 5.0</li>
       </ul>
 - version: 0.6.1
   unix-timestamp: 1536329525

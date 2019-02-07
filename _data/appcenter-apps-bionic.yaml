@@ -4,7 +4,7 @@ Version: '0.10'
 Origin: appcenter-bionic-main
 MediaBaseUrl: https://appstream.elementary.io/appcenter/media/bionic
 Priority: 13
-Time: 20190202T233936
+Time: 20190207T041042
 ---
 Type: desktop-application
 ID: com.github.jeremyvaartjes.ping
@@ -1527,12 +1527,27 @@ Type: desktop-application
 ID: com.github.bartzaalberg.php-tester
 Package: com.github.bartzaalberg.php-tester
 Name:
+  fr: PHP Tester
   C: PHP Tester
   nl: PHP Tester
 Summary:
+  fr: Testez du code PHP !
   C: Test some PHP code!
   nl: Test je PHP code!
 Description:
+  fr: >-
+    <p>Un simple outil pour tester votre code PHP.</p>
+
+    <p>Fonctionnalités :</p>
+
+    <ul>
+      <li>Codez sans avoir à démarrer un projet complet !</li>
+      <li>Changez de version de PHP à la volée !</li>
+      <li>Copiez votre extrait d&apos;un simple clic sur un bouton !</li>
+      <li>Continuez là où vous vous étiez arrêté la dernière fois</li>
+      <li>Exécutez votre code avec un simple raccourci ! (Ctrl + R)</li>
+      <li>Choisissez un thème cool pour coder</li>
+    </ul>
   C: >-
     <p>A simple tool to test your PHP code.</p>
 
@@ -1570,6 +1585,10 @@ Categories:
 - Development
 - Education
 Keywords:
+  fr:
+  - GUI
+  - PHP
+  - Développement
   C:
   - GUI
   - PHP
@@ -1598,31 +1617,43 @@ Icon:
 Launchable:
   desktop-id:
   - com.github.bartzaalberg.php-tester.desktop
+Provides:
+  binaries:
+  - com.github.bartzaalberg.php-tester
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-1_624x445.png
+  - url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-1_624x445.png
     width: 624
     height: 445
-  - url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-1_224x160.png
+  - url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-1_224x160.png
     width: 224
     height: 160
   source-image:
-    url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-1_orig.png
+    url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-1_orig.png
     width: 700
     height: 500
 - thumbnails:
-  - url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-2_624x445.png
+  - url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-2_624x445.png
     width: 624
     height: 445
-  - url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-2_224x160.png
+  - url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-2_224x160.png
     width: 224
     height: 160
   source-image:
-    url: com/github/bartzaalberg.php-tester/C6214931E66A66E1910FAB0B79C46494/screenshots/image-2_orig.png
+    url: com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-2_orig.png
     width: 700
     height: 500
 Releases:
+- version: 1.8.2
+  unix-timestamp: 1549065600
+  description:
+    C: >-
+      <p>Added metadata French translation</p>
+
+      <ul>
+        <li>Added metadata French translation</li>
+      </ul>
 - version: 1.8.1
   unix-timestamp: 1548547200
   description:
@@ -3566,14 +3597,17 @@ Type: desktop-application
 ID: com.github.panosx2.brightness
 Package: com.github.panosx2.brightness
 Name:
+  fr: Dimmer
   C: Dimmer
 Summary:
+  fr: Modifie la luminosité de l'écran
   C: Change screen's brightness
 Description:
   C: >-
     <p>Instead of adjusting the backlight, this app uses `xrandr` to change the brightness of the image displayed on your
-    screen. This can be useful for displays without an adjustable backlight, displays with a too-bright minimum backlight,
-    or OLED displays.</p>
+    screen.  This can be useful for displays without an adjustable backlight, displays with a too-bright minimum, or too-dark
+    maximum backlight, or OLED displays. Setups with multipe displays (maximum 4 displays) can also be adjusted with different
+    brightness levels.</p>
 DeveloperName:
   C: Panos P.
 ProjectLicense: GPL-3.0+
@@ -3597,6 +3631,8 @@ Keywords:
   - display
   - xrandr
   - bright
+  - multipe-monitors
+  - dual-monitors
 Url:
   homepage: https://github.com/panosx2/brightness
   bugtracker: https://github.com/panosx2/brightness/issues
@@ -3622,14 +3658,21 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/panosx2.brightness/573BEBB03F68793B5FED88628BDDF265/screenshots/image-1_224x108.png
+  - url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_224x108.png
     width: 224
     height: 108
   source-image:
-    url: com/github/panosx2.brightness/573BEBB03F68793B5FED88628BDDF265/screenshots/image-1_orig.png
+    url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_orig.png
     width: 578
     height: 281
 Releases:
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
+- {}
 - {}
 - {}
 - {}
@@ -6491,34 +6534,39 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-1_752x914.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-1_752x914.png
     width: 752
     height: 914
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-1_624x759.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-1_624x759.png
     width: 624
     height: 759
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-1_224x272.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-1_224x272.png
     width: 224
     height: 272
   source-image:
-    url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-1_orig.png
+    url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-1_orig.png
     width: 780
     height: 949
 - thumbnails:
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-2_752x794.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-2_752x794.png
     width: 752
     height: 794
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-2_624x659.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-2_624x659.png
     width: 624
     height: 659
-  - url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-2_224x236.png
+  - url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-2_224x236.png
     width: 224
     height: 236
   source-image:
-    url: com/github/muriloventuroso.givemelyrics/33CC78B4B1AD76E82C491A8EAAA52D06/screenshots/image-2_orig.png
+    url: com/github/muriloventuroso.givemelyrics/9BB3FA40CAB4BBE3AED19A3C7EA5167E/screenshots/image-2_orig.png
     width: 908
     height: 959
 Releases:
+- version: 0.2.2
+  unix-timestamp: 1549411200
+  description:
+    C: >-
+      <p>Change sync lyrics</p>
 - version: 0.2.1
   unix-timestamp: 1548892800
   description:
@@ -6825,73 +6873,81 @@ Launchable:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-1_752x618.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-1_752x618.png
     width: 752
     height: 618
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-1_624x513.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-1_624x513.png
     width: 624
     height: 513
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-1_224x184.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-1_224x184.png
     width: 224
     height: 184
   source-image:
-    url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-1_orig.png
+    url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-1_orig.png
     width: 1186
     height: 976
 - thumbnails:
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-2_624x1135.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-2_624x1135.png
     width: 624
     height: 1135
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-2_224x407.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-2_224x407.png
     width: 224
     height: 407
   source-image:
-    url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-2_orig.png
+    url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-2_orig.png
     width: 642
     height: 1168
 - thumbnails:
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-3_752x658.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-3_752x658.png
     width: 752
     height: 658
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-3_624x546.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-3_624x546.png
     width: 624
     height: 546
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-3_224x196.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-3_224x196.png
     width: 224
     height: 196
   source-image:
-    url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-3_orig.png
+    url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-3_orig.png
     width: 1186
     height: 1038
 - thumbnails:
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-4_752x620.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-4_752x620.png
     width: 752
     height: 620
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-4_624x514.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-4_624x514.png
     width: 624
     height: 514
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-4_224x184.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-4_224x184.png
     width: 224
     height: 184
   source-image:
-    url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-4_orig.png
+    url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-4_orig.png
     width: 1198
     height: 988
 - thumbnails:
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-5_752x330.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-5_752x330.png
     width: 752
     height: 330
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-5_624x274.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-5_624x274.png
     width: 624
     height: 274
-  - url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-5_224x98.png
+  - url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-5_224x98.png
     width: 224
     height: 98
   source-image:
-    url: com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-5_orig.png
+    url: com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-5_orig.png
     width: 1270
     height: 558
 Releases:
+- version: 1.1.0
+  unix-timestamp: 1549411200
+  description:
+    C: >-
+      <ul>
+        <li>Never upscale images</li>
+        <li>Added info box</li>
+      </ul>
 - version: 1.0.7
   unix-timestamp: 1548892800
   description:
@@ -9294,31 +9350,66 @@ Type: desktop-application
 ID: com.github.arshubham.cipher
 Package: com.github.arshubham.cipher
 Name:
+  fr: Cipher
   C: Cipher
+  en_AU: Cipher
+  en_GB: Cipher
+  en_CA: Cipher
 Summary:
+  fr: Encodez et décodez du texte
   C: Encode and decode text
+  en_AU: Encode and decode text
+  en_GB: Encode and decode text
+  en_CA: Encode and decode text
 Description:
-  C: >-
-    <p>A simple application for encoding and decoding text. Hide your text from prying eyes!
-        Note: This application does not actually encrypt files. This was made just enchipers strings. Have fun!</p>
-    <p>Supported Ciphers</p>
+  fr: >-
+    <p>Chiffrements disponibles</p>
 
     <ul>
-      <li>Caesar Shift</li>
+      <li>Chiffre de César</li>
       <li>Atbash</li>
       <li>ROT13</li>
-      <li>Ascii</li>
-      <li>Base64</li>
-      <li>Polybius Square</li>
-      <li>Hashing Functions (md5, sha1, sha256)</li>
+      <li>Encodage ASCII</li>
+      <li>Encodage Base64</li>
+      <li>Carré de Polybe</li>
+      <li>Fonctions de hachage (MD5, SHA1, SHA256)</li>
     </ul>
-
-    <p>Upcoming Features</p>
+  C: "<p>A simple application for encoding and decoding text. Hide your text from prying eyes!\n      \n      Note:Note :Note:Note:Note:
+    This application does not actually encrypt files. This was made just enchipers strings. Have fun!</p>\n<p>Available Ciphers</p>\n<ul>\n
+    \ <li>Caesar Shift Cipher</li>\n  <li>Atbash Cipher</li>\n  <li>ROT13 Cipher</li>\n  <li>ASCII Encoding</li>\n  <li>Base64
+    Encoding</li>\n  <li>Polybius Square Cipher</li>\n  <li>Hashing Functions (MD5, SHA1, SHA256)</li>\n</ul>"
+  en_AU: >-
+    <p>Available Ciphers</p>
 
     <ul>
-      <li>Bifid Cipher</li>
-      <li>Vigenere Cipher</li>
-      <li>Beaufort cipher</li>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+    </ul>
+  en_GB: >-
+    <p>Available Ciphers</p>
+
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
+    </ul>
+  en_CA: >-
+    <p>Available Ciphers</p>
+
+    <ul>
+      <li>Caesar Shift Cipher</li>
+      <li>Atbash Cipher</li>
+      <li>ROT13 Cipher</li>
+      <li>ASCII Encoding</li>
+      <li>Base64 Encoding</li>
+      <li>Polybius Square Cipher</li>
     </ul>
 DeveloperName:
   C: Shubham Arora
@@ -9327,7 +9418,23 @@ Categories:
 - Utility
 - Utility
 Keywords:
+  fr:
+  - cipher
+  - cryptage
+  - cryptographie
+  en_AU:
+  - cipher
+  - crypt
+  - cryptography
   C:
+  - cipher
+  - crypt
+  - cryptography
+  en_CA:
+  - cipher
+  - crypt
+  - cryptography
+  en_GB:
   - cipher
   - crypt
   - cryptography
@@ -9360,34 +9467,85 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-1_752x658.png
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-1_752x598.png
     width: 752
-    height: 658
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-1_624x546.png
+    height: 598
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-1_624x496.png
     width: 624
-    height: 546
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-1_224x196.png
+    height: 496
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-1_224x178.png
     width: 224
-    height: 196
+    height: 178
   source-image:
-    url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-1_orig.png
-    width: 800
-    height: 700
+    url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-1_orig.png
+    width: 875
+    height: 696
 - thumbnails:
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-2_752x658.png
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-2_752x598.png
     width: 752
-    height: 658
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-2_624x546.png
+    height: 598
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-2_624x496.png
     width: 624
-    height: 546
-  - url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-2_224x196.png
+    height: 496
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-2_224x178.png
     width: 224
-    height: 196
+    height: 178
   source-image:
-    url: com/github/arshubham.cipher/12779300E8DE2D869E944FB11CE01252/screenshots/image-2_orig.png
-    width: 800
-    height: 700
+    url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-2_orig.png
+    width: 875
+    height: 696
+- thumbnails:
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-3_752x598.png
+    width: 752
+    height: 598
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-3_624x496.png
+    width: 624
+    height: 496
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-3_224x178.png
+    width: 224
+    height: 178
+  source-image:
+    url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-3_orig.png
+    width: 875
+    height: 696
+- thumbnails:
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-4_752x598.png
+    width: 752
+    height: 598
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-4_624x496.png
+    width: 624
+    height: 496
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-4_224x178.png
+    width: 224
+    height: 178
+  source-image:
+    url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-4_orig.png
+    width: 875
+    height: 696
+- thumbnails:
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-5_752x598.png
+    width: 752
+    height: 598
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-5_624x496.png
+    width: 624
+    height: 496
+  - url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-5_224x178.png
+    width: 224
+    height: 178
+  source-image:
+    url: com/github/arshubham.cipher/F50F5DBB030A2B1A641AFC933FD0C085/screenshots/image-5_orig.png
+    width: 875
+    height: 696
 Releases:
+- version: 1.0.0
+  unix-timestamp: 1517529600
+  description:
+    C: >-
+      <p>Complete UI/UX Redesign!</p>
+
+      <p>Added i18n Capability</p>
+
+      <p>Added French Tranlations. Thanks @NathanBnm (https://github.com/NathanBnm)</p>
 - version: 0.1.6
   unix-timestamp: 1527206400
   description:
@@ -10922,34 +11080,22 @@ Type: desktop-application
 ID: com.github.bytepixie.snippetpixie
 Package: com.github.bytepixie.snippetpixie
 Name:
+  fr: Snippet Pixie
   C: Snippet Pixie
-  en_AU: Snippet Pixie
-  en_GB: Snippet Pixie
-  en_CA: Snippet Pixie
 Summary:
   C: Your little expandable snippet helper
 Description:
+  fr: >-
+    <p>Sauvegardez vos raccourcis souvent utilisés et développez-les à chaque fois que vous tapez leur abréviation.</p>
+
+    <p>Par exemple : - « spr` » s&apos;étendra en « Snippet Pixie rules ! »</p>
   C: >-
     <p>Save your often used snippets and then expand them whenever you type their abbreviation.</p>
 
     <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
-  en_AU: >-
-    <p>Save your often used snippets and then expand them whenever you type their abbreviation.</p>
-
-    <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
-  en_GB: >-
-    <p>Save your often used snippets and then expand them whenever you type their abbreviation.</p>
-
-    <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
-  en_CA: >-
-    <p>Save your often used snippets and then expand them whenever you type their abbreviation.</p>
-
-    <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
 DeveloperName:
+  fr: Byte Pixie
   C: Byte Pixie
-  en_AU: Byte Pixie
-  en_GB: Byte Pixie
-  en_CA: Byte Pixie
 ProjectLicense: GPL-2.0+
 Categories:
 - Office
@@ -10959,19 +11105,11 @@ Categories:
 - TextTools
 - Utility
 Keywords:
-  en_AU:
-  - expand
-  - text
-  - snippet
+  fr:
+  - étendre
+  - texte
+  - raccourci
   C:
-  - expand
-  - text
-  - snippet
-  en_CA:
-  - expand
-  - text
-  - snippet
-  en_GB:
   - expand
   - text
   - snippet
@@ -11000,34 +11138,41 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-1_752x564.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_752x564.png
     width: 752
     height: 564
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-1_624x467.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_624x467.png
     width: 624
     height: 467
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-1_224x168.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_224x168.png
     width: 224
     height: 168
   source-image:
-    url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-1_orig.png
+    url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_orig.png
     width: 800
     height: 600
 - thumbnails:
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-2_752x564.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-2_752x564.png
     width: 752
     height: 564
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-2_624x467.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-2_624x467.png
     width: 624
     height: 467
-  - url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-2_224x168.png
+  - url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-2_224x168.png
     width: 224
     height: 168
   source-image:
-    url: com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-2_orig.png
+    url: com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-2_orig.png
     width: 800
     height: 600
 Releases:
+- version: 1.1.0
+  unix-timestamp: 1549324800
+  description:
+    C: "<ul>\n  <li>Added ability to export snippets to a JSON file via menu button or welcome screen.</li>\n  <li>Added ability
+      to export snippets to a JSON file via `--export` or `-e` CLI options.</li>\n  <li>Added ability to import snippets from
+      an exported JSON file via menu button. Shocking! \U0001F631</li>\n  <li>Added ability to import snippets from an exported
+      JSON file via `--import` or `-i` CLI options. Bet you didn&apos;t see that coming! \U0001F609</li>\n</ul>"
 - version: 1.0.0
   unix-timestamp: 1547510400
   description:
@@ -19454,48 +19599,58 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-1_752x591.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_752x591.png
     width: 752
     height: 591
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-1_624x490.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_624x490.png
     width: 624
     height: 490
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-1_224x176.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_224x176.png
     width: 224
     height: 176
   source-image:
-    url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-1_orig.png
+    url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_orig.png
     width: 890
     height: 700
 - thumbnails:
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-2_752x591.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_752x591.png
     width: 752
     height: 591
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-2_624x490.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_624x490.png
     width: 624
     height: 490
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-2_224x176.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_224x176.png
     width: 224
     height: 176
   source-image:
-    url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-2_orig.png
+    url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_orig.png
     width: 890
     height: 700
 - thumbnails:
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-3_752x591.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_752x591.png
     width: 752
     height: 591
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-3_624x490.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_624x490.png
     width: 624
     height: 490
-  - url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-3_224x176.png
+  - url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_224x176.png
     width: 224
     height: 176
   source-image:
-    url: com/github/bartzaalberg.snaptastic/98A7A781DD63ACE0291F85AADC1A2B0F/screenshots/image-3_orig.png
+    url: com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_orig.png
     width: 890
     height: 700
 Releases:
+- version: 1.0.1
+  unix-timestamp: 1549411200
+  description:
+    C: >-
+      <p>Improved performance</p>
+
+      <ul>
+        <li>Improved the performance of the list view</li>
+        <li>Fixed Dutch grammar issues</li>
+      </ul>
 - version: 1.0.0
   unix-timestamp: 1548806400
   description:
