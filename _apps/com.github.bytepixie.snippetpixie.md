@@ -7,17 +7,31 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/037D8E26FE072B971140A9B5B3669BC1/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.1.0
+  unix-timestamp: 1549324800
+  description: |-
+    <ul>
+
+      <li>Added ability to export snippets to a JSON file via menu button or welcome screen.</li>
+
+      <li>Added ability to export snippets to a JSON file via `--export` or `-e` CLI options.</li>
+
+      <li>Added ability to import snippets from an exported JSON file via menu button. Shocking! 😱</li>
+
+      <li>Added ability to import snippets from an exported JSON file via `--import` or `-i` CLI options. Bet you didn&apos;t see that coming! 😉</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1547510400
   description: |-

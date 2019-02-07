@@ -7,20 +7,32 @@ homepage: "https://github.com/peteruithoven/resizer"
 help_page: "https://github.com/peteruithoven/resizer/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/icons/64x64/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/icons/128x128/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/BA04A9A90BFD70819C45570F650F5E32/icons/64x64@2/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/icons/64x64/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/icons/128x128/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/704732053EABD546BC1D436FEDE6817B/icons/64x64@2/com.github.peteruithoven.resizer_com.github.peteruithoven.resizer.png
 color:
   primary: "#60caee"
   primary-text: "#ffffff"
 price: 0
 releases:
+- version: 1.0.7
+  unix-timestamp: 1548892800
+  description: |-
+    <ul>
+
+      <li>Improved Lithuanian translation (Thanks @welaq)</li>
+
+      <li>Added French translation (Thanks @NathanBnm)</li>
+
+      <li>Added more app categories</li>
+
+    </ul>
 - version: 1.0.6
   unix-timestamp: 1536883200
   description: |-

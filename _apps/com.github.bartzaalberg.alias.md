@@ -7,19 +7,33 @@ homepage: "https://github.com/bartzaalberg/alias"
 help_page: "https://github.com/bartzaalberg/alias/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/A648654F848C666889A394580ADB72D8/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
 color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
 price: 0
 releases:
+- version: 1.4.0
+  unix-timestamp: 1548806400
+  description: |-
+    <p>Remember size and position</p>
+
+    <ul>
+
+      <li>Added french metadata translation</li>
+
+      <li>Remember size and position of window</li>
+
+      <li>Added translation for About label</li>
+
+    </ul>
 - version: 1.3.1
   unix-timestamp: 1548288000
   description: |-
