@@ -1,0 +1,7 @@
+Bases: 
+  - xenial
+  - bionic
+
+Releases:
+  - loki
+  - juno
