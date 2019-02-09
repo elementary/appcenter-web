@@ -1,10 +1,10 @@
 ---
-app_id: com.github.torikulhabib.nino
+app_id: "com.github.torikulhabib.nino"
 title: "Nino"
 summary: "A network monitor widget"
 developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/nino"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/screenshots/image-1_orig.png
@@ -37,14 +37,15 @@ releases:
       <li>Only Miniwindow and Close Widget.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1541548800
   description: |-
     <p>Hello Juno!</p>
+
 redirect_from:
   - /com.github.torikulhabib.nino.desktop/
 ---
-
 <p>An internet speed monitor apps.</p>
 <p>Features:</p>
 <ul>

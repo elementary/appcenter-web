@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bcedu.shutdownscheduler
+app_id: "com.github.bcedu.shutdownscheduler"
 title: "Shutdown Scheduler"
 summary: "Schedule your computer's shutdown easily"
 developer: "Eduard Berloso Clarà"
@@ -15,18 +15,20 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
+  primary: #4c158a
+  primary-text: #fff
 price: 0
 releases:
 - version: 1.3.2
   unix-timestamp: 1543536000
   description: |-
     <p>Don&apos;t reset config file when app is started</p>
+
 - version: 1.3.0
   unix-timestamp: 1536624000
   description: |-
     <p>Juno release</p>
+
 - version: 1.2.0
   unix-timestamp: 1526169600
   description: |-
@@ -37,6 +39,7 @@ releases:
       <li>Allow customize fas acces buttons</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1516406400
   description: |-
@@ -47,6 +50,7 @@ releases:
       <li>Change the fast acces button &quot;2 h.&quot; for &quot;5 min.&quot;</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1365724800
   description: |-
@@ -63,10 +67,10 @@ releases:
       <li>Cancel the scheduled shutdown with just a button</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bcedu.shutdownscheduler.desktop/
 ---
-
 <p>ShutdownSheduler is an extremely simple program used to shutdown the computer in a specific date time. It provides a simple and clear interface to shedule the shutdown.</p>
 <ul>
   <li>Choose the specific time when you want to shutdown your computer</li>

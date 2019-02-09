@@ -1,5 +1,5 @@
 ---
-app_id: com.github.calo001.luna
+app_id: "com.github.calo001.luna"
 title: "Luna"
 summary: "An amazing calendar widget"
 developer: "Carlos Lopez"
@@ -26,6 +26,7 @@ releases:
   unix-timestamp: 1538524800
   description: |-
     <p>Initial 1.0.0 release!</p>
+
 - version: 1.0.1
   unix-timestamp: 1539993600
   description: |-
@@ -38,6 +39,7 @@ releases:
       <li>A new more elemtary native look</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1541030400
   description: |-
@@ -48,8 +50,8 @@ releases:
       <li>New teal color theme!</li>
 
     </ul>
+
 redirect_from:
   - /com.github.calo001.luna.desktop/
 ---
-
 <p>Select a theme color for the calendar and browse through the months and years with an intuitive interface.</p>

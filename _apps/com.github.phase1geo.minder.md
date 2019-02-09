@@ -1,10 +1,10 @@
 ---
-app_id: com.github.phase1geo.minder
+app_id: "com.github.phase1geo.minder"
 title: "Minder"
 summary: "Create, develop and visualize your ideas"
 developer: "Trevor Williams"
 homepage: "https://github.com/phase1geo/minder/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_orig.png
@@ -30,10 +30,12 @@ releases:
       <li>Adding support for special character insertion via the Compose key.</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1539043200
   description: |-
     <p>Updating French translation.</p>
+
 - version: 1.1.1
   unix-timestamp: 1538006400
   description: |-
@@ -50,6 +52,7 @@ releases:
       <li>Fixed issue connecting a root node to another node.</li>
 
     </ul>
+
 - version: 1.1
   unix-timestamp: 1537228800
   description: |-
@@ -82,6 +85,7 @@ releases:
       <li>Other minor bug fixes.</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1533513600
   description: |-
@@ -112,10 +116,12 @@ releases:
       <li>Added Brazilian Portuguese translation (thanks to btd1337!)</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1531440000
   description: |-
     <p>Initial startup bug fix.</p>
+
 - version: 1.0.4
   unix-timestamp: 1531267200
   description: |-
@@ -140,14 +146,15 @@ releases:
       <li>Bug fixes.</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1530230400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.phase1geo.minder.desktop/
 ---
-
 <p>Use the power of mind-mapping to make your ideas come to life.</p>
 <ul>
   <li>Quickly create visual mind-maps using the keyboard and automatic layout.</li>

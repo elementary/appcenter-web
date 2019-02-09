@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.playmymusic
+app_id: "com.github.artemanufrij.playmymusic"
 title: "Melody"
 summary: "A music player for listening local music files, online radios and Audio CD's"
 developer: "Artem Anufrij"
@@ -53,6 +53,7 @@ releases:
       <li>German</li>
 
     </ul>
+
 - version: 2.1.0
   unix-timestamp: 1541376000
   description: |-
@@ -93,6 +94,7 @@ releases:
       <li>German</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1540857600
   description: |-
@@ -135,6 +137,7 @@ releases:
       <li>Danish (by rasmus91)</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1540425600
   description: |-
@@ -155,6 +158,7 @@ releases:
       <li>Italian (by papou84)</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1536105600
   description: |-
@@ -189,8 +193,10 @@ releases:
       <li>Faster start up behaviour</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1532390400
+
 - version: 1.0.3
   unix-timestamp: 1523750400
   description: |-
@@ -227,6 +233,7 @@ releases:
       <li>Russian (by Camellan)</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1523059200
   description: |-
@@ -237,6 +244,7 @@ releases:
       <li>Meson Errors</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1523059200
   description: |-
@@ -265,6 +273,7 @@ releases:
       <li>Danish (by Rasmus Lindegaard)</li>
 
     </ul>
+
 - version: 0.6.9
   unix-timestamp: 1522368000
   description: |-
@@ -285,6 +294,7 @@ releases:
       <li>Removed multi selection button</li>
 
     </ul>
+
 - version: 0.6.7
   unix-timestamp: 1521504000
   description: |-
@@ -307,6 +317,7 @@ releases:
       <li>Polish (by Michał Węglowski-Hodur)</li>
 
     </ul>
+
 - version: 0.6.6
   unix-timestamp: 1520640000
   description: |-
@@ -317,6 +328,7 @@ releases:
       <li>Desktop Action Menu</li>
 
     </ul>
+
 - version: 0.6.5
   unix-timestamp: 1520294400
   description: |-
@@ -351,6 +363,7 @@ releases:
       <li>Prepare for JUNO</li>
 
     </ul>
+
 - version: 0.6.4
   unix-timestamp: 1519776000
   description: |-
@@ -371,6 +384,7 @@ releases:
       <li>Spanish (by Adolfo Jayme-Barrientos)</li>
 
     </ul>
+
 - version: 0.6.2
   unix-timestamp: 1519516800
   description: |-
@@ -391,6 +405,7 @@ releases:
       <li>Catalan (by Adolfo Jayme-Barrientos)</li>
 
     </ul>
+
 - version: 0.6.1
   unix-timestamp: 1519171200
   description: |-
@@ -401,6 +416,7 @@ releases:
       <li>List View: sorting and small design changes</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1519084800
   description: |-
@@ -413,6 +429,7 @@ releases:
       <li>Grab album cover from MusicBrainz</li>
 
     </ul>
+
 - version: 0.5.3
   unix-timestamp: 1518393600
   description: |-
@@ -433,6 +450,7 @@ releases:
       <li>Show &quot;No Result&quot; message if search term hasn&apos;t any results</li>
 
     </ul>
+
 - version: 0.5.1
   unix-timestamp: 1517788800
   description: |-
@@ -443,6 +461,7 @@ releases:
       <li>Desktop Actions: Next, Previous, Play/Pause</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1517270400
   description: |-
@@ -471,6 +490,7 @@ releases:
       <li>Simplified Chinese (by trampover)</li>
 
     </ul>
+
 - version: 0.4.4
   unix-timestamp: 1515974400
   description: |-
@@ -481,6 +501,7 @@ releases:
       <li>Endless spinner</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1515974400
   description: |-
@@ -499,6 +520,7 @@ releases:
       <li>Spanish (by Alain)</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1515283200
   description: |-
@@ -521,6 +543,7 @@ releases:
       <li>Playlist Editor: Accept changes on press CTRL+Enter</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1514592000
   description: |-
@@ -547,6 +570,7 @@ releases:
       <li>Russian (by Camellan)</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1513296000
   description: |-
@@ -567,6 +591,7 @@ releases:
       <li>Multiple selection [CTRL]</li>
 
     </ul>
+
 - version: 0.3.4
   unix-timestamp: 1512691200
   description: |-
@@ -599,6 +624,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 0.3.3
   unix-timestamp: 1512259200
   description: |-
@@ -633,6 +659,7 @@ releases:
       <li>Spanish (by Adolfo Jayme-Barrientos)</li>
 
     </ul>
+
 - version: 0.3.2
   unix-timestamp: 1511568000
   description: |-
@@ -653,6 +680,7 @@ releases:
       <li>Improved MTP for UbuntuPhone</li>
 
     </ul>
+
 - version: 0.3.1
   unix-timestamp: 1511136000
   description: |-
@@ -685,6 +713,7 @@ releases:
       <li>Russian (by Alexey Varfolomeev)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1510963200
   description: |-
@@ -695,6 +724,7 @@ releases:
       <li>MTP-Support (Tested on Android)</li>
 
     </ul>
+
 - version: 0.2.2
   unix-timestamp: 1510444800
   description: |-
@@ -707,6 +737,7 @@ releases:
       <li>Import files by Drag and Drop</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1509840000
   description: |-
@@ -753,6 +784,7 @@ releases:
       <li>French (by nvivant)</li>
 
     </ul>
+
 - version: 0.1.6
   unix-timestamp: 1508112000
   description: |-
@@ -783,6 +815,7 @@ releases:
       <li>App icon</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1508025600
   description: |-
@@ -805,6 +838,7 @@ releases:
       <li>Crash on trying to stream online radio</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1507507200
   description: |-
@@ -823,10 +857,10 @@ releases:
       <li>Small style improvements</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.playmymusic.desktop/
 ---
-
 <p>A very fast music player designed extra for large local libraries which also supports online radios and downloading album covers</p>
 <p>Features:</p>
 <ul>

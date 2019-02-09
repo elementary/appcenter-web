@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.timetable
+app_id: "com.github.lainsce.timetable"
 title: "Timetable"
 summary: "Plot out your own timetable for the week and organize it"
 developer: "Lains"
 homepage: "https://github.com/lainsce/timetable/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/8FBE47F107CBCEA3AAD0215A22E67F21/screenshots/image-1_orig.png
@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
-price: 0
+price: 
 releases:
 - version: 1.0.2
   unix-timestamp: 1540512000
@@ -35,6 +35,7 @@ releases:
       <li>Fix: General theme coloring support in the custom widgets.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1539907200
   description: |-
@@ -47,6 +48,7 @@ releases:
       <li>Fix: Tasks are now by start time instead of haphazardly placed.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1539561600
   description: |-
@@ -59,6 +61,7 @@ releases:
       <li>Fix: Task clear color button, for when you want no color in your task.</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1539561600
   description: |-
@@ -69,10 +72,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.timetable.desktop/
 ---
-
 <p>Start organizing each day with the columns and export your timetable away in an easy way</p>
 <ul>
   <li>Intelligently start building your timetable with the day columns</li>

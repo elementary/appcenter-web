@@ -1,5 +1,5 @@
 ---
-app_id: com.github.robertsanseries.ciano
+app_id: "com.github.robertsanseries.ciano"
 title: "Ciano"
 summary: "A multimedia file converter"
 developer: "Robert San"
@@ -34,10 +34,10 @@ releases:
       <li>Language: pdate in Lithuanian (@welaq)</li>
 
     </ul>
+
 redirect_from:
   - /com.github.robertsanseries.ciano.desktop/
 ---
-
 <p>The easiest way to convert your multimedia files to the most popular formats.</p>
 <p>Characteristics:</p>
 <ul>

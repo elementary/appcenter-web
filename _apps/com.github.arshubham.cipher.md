@@ -1,5 +1,5 @@
 ---
-app_id: com.github.arshubham.cipher
+app_id: "com.github.arshubham.cipher"
 title: "Cipher"
 summary: "Encode and decode text"
 developer: "Shubham Arora"
@@ -30,26 +30,29 @@ releases:
     <p>Added i18n Capability</p>
 
     <p>Added French Tranlations. Thanks @NathanBnm (https://github.com/NathanBnm)</p>
+
 - version: 0.1.6
   unix-timestamp: 1527206400
   description: |-
     <p>Update for Juno</p>
 
     <p>Add Hashing Functions</p>
+
 - version: 0.1.5
   unix-timestamp: 1515974400
   description: |-
     <p>New Icon</p>
 
     <p>Fixes in .desktop file</p>
+
 - version: 0.1.3
   unix-timestamp: 1515974400
   description: |-
     <p>Appdata and minor language fixes</p>
+
 redirect_from:
   - /com.github.arshubham.cipher.desktop/
 ---
-
 <p>A simple application for encoding and decoding text. Hide your text from prying eyes!
       
       Note:Note :Note:Note:Note: This application does not actually encrypt files. This was made just enchipers strings. Have fun!</p>

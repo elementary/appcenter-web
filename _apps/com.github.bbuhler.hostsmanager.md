@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bbuhler.hostsmanager
+app_id: "com.github.bbuhler.hostsmanager"
 title: "HostsManager"
 summary: "Manage your /etc/hosts file"
 developer: "Benjamin Buhler"
@@ -17,11 +17,14 @@ color:
   primary-text: "#333"
 price: 0
 releases:
+- version: 
+  unix-timestamp: 
+
 - version: 1.0.0
   unix-timestamp: 1534118400
+
 redirect_from:
   - /com.github.bbuhler.hostsmanager.desktop/
 ---
-
 <p>With HostsManager you can enable/disable entries in your /etc/hosts file.</p>
 <p>The next releases will add more functionalities like adding/removing entries.</p>

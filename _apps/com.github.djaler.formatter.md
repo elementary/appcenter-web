@@ -1,5 +1,5 @@
 ---
-app_id: com.github.djaler.formatter
+app_id: "com.github.djaler.formatter"
 title: "Formatter"
 summary: "A simple device formatter"
 developer: "Kirill Romanov"
@@ -27,6 +27,7 @@ releases:
       <li>Remove predefined partition label due to limitations</li>
 
     </ul>
+
 - version: 0.2.2
   unix-timestamp: 1532390400
   description: |-
@@ -35,6 +36,7 @@ releases:
       <li>Predefined partition label</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1532131200
   description: |-
@@ -45,6 +47,7 @@ releases:
       <li>Minor style improvement</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1531872000
   description: |-
@@ -59,6 +62,7 @@ releases:
       <li>FAT16 support</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1511308800
   description: |-
@@ -67,6 +71,7 @@ releases:
       <li>Icon path fixed</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1511308800
   description: |-
@@ -77,6 +82,7 @@ releases:
       <li>Added Russian translate</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1502755200
   description: |-
@@ -85,6 +91,7 @@ releases:
       <li>Typo fix</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1502755200
   description: |-
@@ -93,6 +100,7 @@ releases:
       <li>USB 3.0 Support</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1502409600
   description: |-
@@ -101,6 +109,7 @@ releases:
       <li>Format to exFAT</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1501977600
   description: |-
@@ -111,8 +120,8 @@ releases:
       <li>Format devices to ext4, FAT32 or NTFS</li>
 
     </ul>
+
 redirect_from:
   - /com.github.djaler.formatter.desktop/
 ---
-
 <p>Format your removable devices like usb disk or sd card</p>

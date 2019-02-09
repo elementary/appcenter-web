@@ -15,20 +15,20 @@ class AppTemplate
 		@template = %{
 
 		---
-		app_id: <%= @yaml["ID"] %>
-		title: <%= @yaml["Name"]["C"] %>
-		summary: <%= @yaml["Summary"]["C"] %>
-		developer: <%= @yaml["DeveloperName"]["C"] %>
-		homepage: <%= (@yaml["Url"] && @yaml["Url"]["homepage"])?@yaml["Url"]["homepage"] : "#" %>
-		help_page: <%= (@yaml["Url"] && @yaml["Url"]["help"])?@yaml["Url"]["help"] : "#" %>
+		app_id: <%= stringify(@yaml['ID']) %>
+		title: <%= stringify(@yaml["Name"]["C"]) %>
+		summary: <%= stringify(@yaml["Summary"]["C"]) %>
+		developer: <%= stringify(@yaml["DeveloperName"]["C"]) %>
+		homepage: <%= @yaml["Url"] && @yaml["Url"]["homepage"] ? stringify(@yaml["Url"]["homepage"]) : "#" %>
+		help_page: <%= (@yaml["Url"] && @yaml["Url"]["help"]) ? stringify(@yaml["Url"]["help"]) : "#" %>
 		dist: <%= @release %>
 		screenshots:<% @yaml["Screenshots"] &&  @yaml["Screenshots"].each do |s| %>
 		<%= get_screenshots(s) %><% end %>
 		icons:<% @yaml["Icon"] && @yaml["Icon"]["cached"].each do |i| %>
 		<%= get_icons(i) %><% end %>
 		color:
-		  primary: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary"] : "#4c158a" %>
-		  primary-text: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-color-primary-text"] : "#fff" %>
+		  primary: <%= @yaml["Custom"] ? stringify(@yaml['Custom']['x-appcenter-color-primary']) : "#4c158a" %>
+		  primary-text: <%= @yaml["Custom"] ? stringify(@yaml['Custom']['x-appcenter-color-primary-text']) : "#fff" %>
 		price: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-suggested-price"] : "0" %>
 		releases:<% @yaml["Releases"] && @yaml["Releases"].each do |r| %>
 		<%= get_releases(r) %><% end %>
@@ -50,6 +50,9 @@ class AppTemplate
 		end
 	end
 
+	def stringify(value)
+		"\"#{value}\""
+	end
 	def get_screenshots(screenshot)
 		parts = screenshot["source-image"]["url"].split('/')
 		parts[2] = parts[2].split('.desktop')[0]

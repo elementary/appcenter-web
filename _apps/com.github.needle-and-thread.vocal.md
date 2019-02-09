@@ -1,10 +1,10 @@
 ---
-app_id: com.github.needle-and-thread.vocal
+app_id: "com.github.needle-and-thread.vocal"
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
 developer: "Needle & Thread"
 homepage: "http://github.com/needle-and-thread/vocal"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-1_orig.png
@@ -53,6 +53,7 @@ releases:
       <li>General stability improvements</li>
 
     </ul>
+
 - version: 2.2
   unix-timestamp: 1524422931
   description: |-
@@ -89,6 +90,7 @@ releases:
       <li>Many other small performance and stability enhancements.</li>
 
     </ul>
+
 - version: 2.1
   unix-timestamp: 1514653432
   description: |-
@@ -133,6 +135,7 @@ releases:
     	        crash nearly as much (hopefully never).</li>
 
     </ul>
+
 - version: 2.0
   unix-timestamp: 1493395200
   description: |-
@@ -143,10 +146,10 @@ releases:
     		redesigned podcast view, and tons of other great
 
     		improvements.</p>
+
 redirect_from:
   - /com.github.needle-and-thread.vocal.desktop/
 ---
-
 <p>Vocal is the best way to find interesting new podcasts, maintain a growing library,
       and enjoy audio and video shows that automatically get updated with new content.</p>
 <p>Features include:</p>

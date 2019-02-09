@@ -1,10 +1,10 @@
 ---
-app_id: com.github.santileortiz.iconoscope
+app_id: "com.github.santileortiz.iconoscope"
 title: "Iconoscope"
 summary: "Explore the icon database in your system."
 developer: "Santiago León O."
 homepage: "https://github.com/santileortiz/Iconoscope"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-1_orig.png
@@ -28,6 +28,7 @@ releases:
       <li>4 releases worth of features and improvements.</li>
 
     </ul>
+
 - version: 0.9.6
   unix-timestamp: 1542758400
   description: |-
@@ -40,6 +41,7 @@ releases:
       <li>Small bugfixes on the folder theme.</li>
 
     </ul>
+
 - version: 0.9.5
   unix-timestamp: 1542758400
   description: |-
@@ -54,6 +56,7 @@ releases:
       <li>Easily move icons into another application by using drag and drop. Useful when creating mockups.</li>
 
     </ul>
+
 - version: 0.9.3
   unix-timestamp: 1540944000
   description: |-
@@ -74,6 +77,7 @@ releases:
       <li>Convert text to path in Iconoscope&apos;s icon.</li>
 
     </ul>
+
 - version: 0.9.1
   unix-timestamp: 1539129600
   description: |-
@@ -90,6 +94,7 @@ releases:
       <li>Show symbolic icons.</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1521072000
   description: |-
@@ -102,10 +107,10 @@ releases:
       <li>Add changelog to appdata.xml</li>
 
     </ul>
+
 redirect_from:
   - /com.github.santileortiz.iconoscope.desktop/
 ---
-
 <p>Easily visualize icons to find inconsistencies, or check the look of icons in different themes. Some useful features include:</p>
 <ul>
   <li>Display icon information according to Freedesktop&apos;s Icon Theme Specification (size, scale, context, etc.).</li>

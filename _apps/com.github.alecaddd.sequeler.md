@@ -1,5 +1,5 @@
 ---
-app_id: com.github.alecaddd.sequeler
+app_id: "com.github.alecaddd.sequeler"
 title: "Sequeler"
 summary: "Friendly SQL Client"
 developer: "Alessandro Castellani"
@@ -32,6 +32,7 @@ releases:
       <li>Other small bug fixes and improvements.</li>
 
     </ul>
+
 - version: 0.6.6
   unix-timestamp: 1546041600
   description: |-
@@ -52,6 +53,7 @@ releases:
       <li>Bug fixes and other improvements.</li>
 
     </ul>
+
 - version: 0.6.5
   unix-timestamp: 1544832000
   description: |-
@@ -66,6 +68,7 @@ releases:
       <li>Bug fixes and Improvements.</li>
 
     </ul>
+
 - version: 0.6.4
   unix-timestamp: 1544313600
   description: |-
@@ -80,6 +83,7 @@ releases:
       <li>Bug fixes and Improvements.</li>
 
     </ul>
+
 - version: 0.6.3
   unix-timestamp: 1537315200
   description: |-
@@ -96,6 +100,7 @@ releases:
       <li>Italian translation.</li>
 
     </ul>
+
 - version: 0.6.2
   unix-timestamp: 1536624000
   description: |-
@@ -112,6 +117,7 @@ releases:
       <li>Brazilian translation.</li>
 
     </ul>
+
 - version: 0.6.1
   unix-timestamp: 1536278400
   description: |-
@@ -126,6 +132,7 @@ releases:
       <li>Relations table bug fixes.</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1535068800
   description: |-
@@ -144,10 +151,12 @@ releases:
       <li>Random UI improvements.</li>
 
     </ul>
+
 - version: 0.5.9
   unix-timestamp: 1531785600
   description: |-
     <p>Urgent! Fixed broken Tabs for translated version.</p>
+
 - version: 0.5.8
   unix-timestamp: 1531699200
   description: |-
@@ -164,6 +173,7 @@ releases:
       <li>Code cleanup.</li>
 
     </ul>
+
 - version: 0.5.7
   unix-timestamp: 1530835200
   description: |-
@@ -174,6 +184,7 @@ releases:
       <li>Missing filter name on SQLite File Dialog.</li>
 
     </ul>
+
 - version: 0.5.6
   unix-timestamp: 1529884800
   description: |-
@@ -190,6 +201,7 @@ releases:
       <li>Italian translation.</li>
 
     </ul>
+
 - version: 0.5.5
   unix-timestamp: 1528502400
   description: |-
@@ -210,6 +222,7 @@ releases:
       <li>Many more bugs for you to discover.</li>
 
     </ul>
+
 - version: 0.5.4
   unix-timestamp: 1519430400
   description: |-
@@ -226,6 +239,7 @@ releases:
       <li>Bug fixes and improvements.</li>
 
     </ul>
+
 - version: 0.5.3
   unix-timestamp: 1519344000
   description: |-
@@ -238,6 +252,7 @@ releases:
       <li>Fixed crash on new connection dialog when opening the connection before saving.</li>
 
     </ul>
+
 - version: 0.5.2
   unix-timestamp: 1519084800
   description: |-
@@ -250,6 +265,7 @@ releases:
       <li>Bug fixes and improvements.</li>
 
     </ul>
+
 - version: 0.5.1
   unix-timestamp: 1518998400
   description: |-
@@ -266,6 +282,7 @@ releases:
       <li>Fix PostgreSQL table switch.</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1518912000
   description: |-
@@ -284,6 +301,7 @@ releases:
       <li>Bug fixes and improvements.</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1516665600
   description: |-
@@ -302,6 +320,7 @@ releases:
       <li>Fixes issue with SQL Lite encrypted path</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1516579200
   description: |-
@@ -318,6 +337,7 @@ releases:
       <li>Some small clean up</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1512172800
   description: |-
@@ -336,6 +356,7 @@ releases:
       <li>The usual bundle of bugs for you to discover</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1510272000
   description: |-
@@ -356,6 +377,7 @@ releases:
       <li>Many more bugs and issues for you to have fun with</li>
 
     </ul>
+
 - version: 0.3.4
   unix-timestamp: 1508716800
   description: |-
@@ -370,6 +392,7 @@ releases:
       <li>Removed unused GSettings</li>
 
     </ul>
+
 - version: 0.3.3
   unix-timestamp: 1508457600
   description: |-
@@ -388,6 +411,7 @@ releases:
       <li>Usual abundance of bugs and issues for you to have fun with!</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1507593600
   description: |-
@@ -406,6 +430,7 @@ releases:
       <li>Added Spanish and Lithuanian translations</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1507248000
   description: |-
@@ -416,6 +441,7 @@ releases:
       <li>Visual improvements to the library view</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1507161600
   description: |-
@@ -430,10 +456,10 @@ releases:
       <li>Write SQL queries in the built-in code editor</li>
 
     </ul>
+
 redirect_from:
   - /com.github.alecaddd.sequeler.desktop/
 ---
-
 <p>Easily connect to your local or remote database</p>
 <p>Store your Database Connections in the built-in library, type and execute SQL commands directly in the App, and do everything you need to do without the necessity of opening the terminal.</p>
 <p>Features Include:</p>

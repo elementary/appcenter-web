@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.palaura
+app_id: "com.github.lainsce.palaura"
 title: "Palaura"
 summary: "Find any word's definition with this handy dictionary"
 developer: "Lains"
 homepage: "https://github.com/lainsce/palaura/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/25C7E0636524C2B3CD92C0717E1BE034/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Initial update for Juno</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1510876800
   description: |-
@@ -39,6 +40,7 @@ releases:
       <li>Small UI changes to look even more like a real dictionary</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1510444800
   description: |-
@@ -49,6 +51,7 @@ releases:
       <li>Port to Oxford API for the Dictionary</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1505347200
   description: |-
@@ -59,6 +62,7 @@ releases:
       <li>Some AppCenter fixes</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1505347200
   description: |-
@@ -71,10 +75,10 @@ releases:
       <li>Some AppCenter fixes</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.palaura.desktop/
 ---
-
 <p>Find any word&apos;s definition, and details about it, with this handy dictionary by your side</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

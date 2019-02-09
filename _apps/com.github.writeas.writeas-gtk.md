@@ -1,5 +1,5 @@
 ---
-app_id: com.github.writeas.writeas-gtk
+app_id: "com.github.writeas.writeas-gtk"
 title: "Write.as"
 summary: "Publish a thought in seconds"
 developer: "Write.as"
@@ -16,8 +16,8 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/128x128/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/64x64@2/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
+  primary: ""
+  primary-text: ""
 price: 25
 releases:
 - version: 1.0.2
@@ -32,6 +32,7 @@ releases:
       <li>Fix currently-selected font not reflected in menu when app first loads</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1544745600
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Increase the default font size</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1538352000
   description: |-
@@ -62,10 +64,10 @@ releases:
       <li>Publish anonymously to Write.as</li>
 
     </ul>
+
 redirect_from:
   - /com.github.writeas.writeas-gtk.desktop/
 ---
-
 <p>Write.as is a simple writing tool and publishing platform. There&apos;s no sign up — just open the app, write something, and publish.</p>
 <p>Published posts get a secret, unique link on Write.as that you can share with anyone, or keep to yourself. In either case, you remain private because we don&apos;t collect personal information about you.</p>
 <ul>

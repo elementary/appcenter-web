@@ -1,5 +1,5 @@
 ---
-app_id: com.github.babluboy.bookworm
+app_id: "com.github.babluboy.bookworm"
 title: "Bookworm"
 summary: "A focused eBook reader"
 developer: "Siddhartha Das"
@@ -46,6 +46,7 @@ releases:
       <li>Some minor CSS compatibility with Juno</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1518307200
   description: |-
@@ -60,34 +61,40 @@ releases:
       <li>Better support for EPUB Table of Contents</li>
 
     </ul>
+
 - version: 0.9.5
   unix-timestamp: 1512864000
   description: |-
     <p>Annotations and Two Page Views</p>
+
 - version: 0.9
   unix-timestamp: 1500768000
   description: |-
     <p>Support mobi format and UX improvements</p>
+
 - version: 0.8
   unix-timestamp: 1497744000
   description: |-
     <p>UX improvements for List View and other preference customizations</p>
+
 - version: 0.7
   unix-timestamp: 1495238400
   description: |-
     <p>Comics Support and UX improvements</p>
+
 - version: 0.6
   unix-timestamp: 1494806400
   description: |-
     <p>PDF Support and UX improvements</p>
+
 - version: 0.5
   unix-timestamp: 1493078400
   description: |-
     <p>Initial release with support for EPUB format</p>
+
 redirect_from:
   - /com.github.babluboy.bookworm.desktop/
 ---
-
 <p>Read the books you love without having to worry about the different format complexities like epub, pdf, mobi, cbr, etc.</p>
 <p>Manage your library by tagging and updating metadata on books, to quickly find books using metadata searching and tag based filtering.</p>
 <p>This version supports EPUB, MOBI, PRC, PDF and Comics (CBR and CBZ) formats with support for more formats to follow soon.</p>

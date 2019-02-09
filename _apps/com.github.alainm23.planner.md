@@ -1,5 +1,5 @@
 ---
-app_id: com.github.alainm23.planner
+app_id: "com.github.alainm23.planner"
 title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
@@ -38,6 +38,7 @@ releases:
       <li>Lithuanian (welaq)</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1547856000
   description: |-
@@ -58,6 +59,7 @@ releases:
       <li>Updating French translations 🇫🇷 (NathanBnm)</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1547769600
   description: |-
@@ -94,6 +96,7 @@ releases:
       <li>Update Spanish translation</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1547164800
   description: |-
@@ -134,6 +137,7 @@ releases:
       <li>Fix #11</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1546560000
   description: |-
@@ -146,6 +150,7 @@ releases:
       <li>Adding new tooltips</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1546387200
   description: |-
@@ -156,14 +161,15 @@ releases:
       <li>Adding Spanish translations</li>
 
     </ul>
+
 - version: 1.0
   unix-timestamp: 1546300800
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.alainm23.planner.desktop/
 ---
-
 <p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
 <p>How Planner works</p>
 <p>1. Collect your Ideas - The Inbox is your default task list in Planner. When you add a task, it goes straight to your Inbox unless you specify that the task goes into a project.</p>

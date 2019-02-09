@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.aesop
+app_id: "com.github.lainsce.aesop"
 title: "Aesop"
 summary: "The simplest PDF viewer around"
 developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Added new &quot;Live Mode&quot; setting in the preferences menu.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1534291200
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Set the page button to only be interactable when actually opening PDFs.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1530662400
   description: |-
@@ -51,6 +53,7 @@ releases:
       <li>Fix maximization on small screens.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1529625600
   description: |-
@@ -65,6 +68,7 @@ releases:
       <li>Added a way to zoom in/out in the main menu.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1529625600
   description: |-
@@ -75,10 +79,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.aesop.desktop/
 ---
-
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.quilter
+app_id: "com.github.lainsce.quilter"
 title: "Quilter"
 summary: "Focus on your writing"
 developer: "Lains"
 homepage: "https://github.com/lainsce/quilter/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9CBFF1414A361634A6E877CDF490C306/screenshots/image-1_orig.png
@@ -19,7 +19,7 @@ icons:
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
-price: 0
+price: 
 releases:
 - version: 1.6.8
   unix-timestamp: 1539907200
@@ -31,6 +31,7 @@ releases:
       <li>After 5 months, the Sidebar has appeared. Track your recent stories files there, or hide it. Your choice.</li>
 
     </ul>
+
 - version: 1.6.7
   unix-timestamp: 1539302400
   description: |-
@@ -41,6 +42,7 @@ releases:
       <li>All tracking choices as well as preview font choices are better shown.</li>
 
     </ul>
+
 - version: 1.6.6
   unix-timestamp: 1537488000
   description: |-
@@ -51,6 +53,7 @@ releases:
       <li>All text passes a contrast check to be readable now.</li>
 
     </ul>
+
 - version: 1.6.2
   unix-timestamp: 1537488000
   description: |-
@@ -61,6 +64,7 @@ releases:
       <li>You can now set what to track in the document: Characters, Words, or Lines.</li>
 
     </ul>
+
 - version: 1.6.1
   unix-timestamp: 1534464000
   description: |-
@@ -71,6 +75,7 @@ releases:
       <li>You can now set the font size for Edit View in the Preferences.</li>
 
     </ul>
+
 - version: 1.6.0
   unix-timestamp: 1532044800
   description: |-
@@ -101,6 +106,7 @@ releases:
       <li>Fixed the refresh rate of Preview Mode.</li>
 
     </ul>
+
 - version: 1.5.6
   unix-timestamp: 1525478400
   description: |-
@@ -111,6 +117,7 @@ releases:
       <li>Intentionally left blank.</li>
 
     </ul>
+
 - version: 1.5.5
   unix-timestamp: 1525392000
   description: |-
@@ -121,6 +128,7 @@ releases:
       <li>Now you can add LaTeX equations with &quot;$&quot; or &quot;$$&quot; modes.</li>
 
     </ul>
+
 - version: 1.5.4
   unix-timestamp: 1524787200
   description: |-
@@ -133,6 +141,7 @@ releases:
       <li>Statusbar will update always.</li>
 
     </ul>
+
 - version: 1.5.3
   unix-timestamp: 1521331200
   description: |-
@@ -151,6 +160,7 @@ releases:
       <li>New Translations for: Dutch, Catalan &amp; Spanish.</li>
 
     </ul>
+
 - version: 1.5.2
   unix-timestamp: 1518825600
   description: |-
@@ -161,6 +171,7 @@ releases:
       <li>The headerbar now respects the global theme in Normal and Dark modes.</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1518220800
   description: |-
@@ -171,10 +182,10 @@ releases:
       <li>The New File button will not purge old files.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.quilter.desktop/
 ---
-
 <p>Focus on your writing and write beautiful solid stories with the Focus Mode in tow in this Markdown editor</p>
 <ul>
   <li>Work on a story, one file at a time.</li>

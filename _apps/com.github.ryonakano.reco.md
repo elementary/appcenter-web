@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ryonakano.reco
+app_id: "com.github.ryonakano.reco"
 title: "Reco"
 summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
-price: 0
+price: 
 releases:
 - version: 1.0.2
   unix-timestamp: 1547942400
@@ -35,6 +35,7 @@ releases:
       <li>Update Japanese translation</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1545782400
   description: |-
@@ -49,6 +50,7 @@ releases:
       <li>Update Japanese translation</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1544313600
   description: |-
@@ -61,10 +63,10 @@ releases:
       <li>Add Japanese translation</li>
 
     </ul>
+
 redirect_from:
   - /com.github.ryonakano.reco.desktop/
 ---
-
 <p>An audio recording app that helps you recall things talked later.</p>
 <p>Useful when:</p>
 <ul>

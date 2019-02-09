@@ -1,5 +1,5 @@
 ---
-app_id: com.github.jeremypw.gnonograms
+app_id: "com.github.jeremypw.gnonograms"
 title: "Gnonograms"
 summary: "Create and solve gnonogram puzzles"
 developer: "Jeremy Paul Wootten"
@@ -17,7 +17,7 @@ icons:
 color:
   primary: "#d4d4d4"
   primary-text: "#180297"
-price: 0
+price: 
 releases:
 - version: 1.3
   unix-timestamp: 1535328000
@@ -33,6 +33,7 @@ releases:
       <li>Add content rating tags</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1526515200
   description: |-
@@ -51,6 +52,7 @@ releases:
       <li>Various small bug fixes</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1522368000
   description: |-
@@ -61,6 +63,7 @@ releases:
       <li>Clear puzzle name when resized</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1522195200
   description: |-
@@ -79,6 +82,7 @@ releases:
       <li>Various bug fixes</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1518739200
   description: |-
@@ -101,6 +105,7 @@ releases:
       <li>Some code refactoring and cleanup</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1517616000
   description: |-
@@ -117,6 +122,7 @@ releases:
       <li>Some code refactoring and cleanup</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1516406400
   description: |-
@@ -127,6 +133,7 @@ releases:
       <li>Fix error in solver</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1516233600
   description: |-
@@ -139,6 +146,7 @@ releases:
       <li>Replace deprecated Gtk.Stock items</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1516233600
   description: |-
@@ -153,6 +161,7 @@ releases:
       <li>Various small bug fixes</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1515715200
   description: |-
@@ -167,6 +176,7 @@ releases:
       <li>Builds with dpkg-buildpackage and Travis CI</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1515628800
   description: |-
@@ -175,6 +185,7 @@ releases:
       <li>Correct dependencies for xenial build</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1515456000
   description: |-
@@ -195,9 +206,9 @@ releases:
       <li>Save and restore program state and settings</li>
 
     </ul>
+
 redirect_from:
   - /com.github.jeremypw.gnonograms.desktop/
 ---
-
 <p>An implementation of the Japanese logic puzzle &quot;Nonograms&quot; written in Vala, allowing the user to:
             Draw puzzlesGenerate random puzzles of chosen difficulty</p>

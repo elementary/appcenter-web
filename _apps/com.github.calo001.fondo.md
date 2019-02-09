@@ -1,5 +1,5 @@
 ---
-app_id: com.github.calo001.fondo
+app_id: "com.github.calo001.fondo"
 title: "Fondo"
 summary: "Find the most beautiful wallpapers"
 developer: "Carlos Lopez"
@@ -30,6 +30,7 @@ releases:
       <li>Add french translations</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1546732800
   description: |-
@@ -42,6 +43,7 @@ releases:
       <li>Add gradients to scrollbar and mode switch</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1537574400
   description: |-
@@ -52,6 +54,7 @@ releases:
       <li>OARS data social-info set to mild</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1537056000
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>The photos are sorted from highest to lowest according to height</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1536796800
   description: |-
@@ -76,14 +80,16 @@ releases:
       <li>Improved icon and styling</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1534809600
+
 - version: 1.0.0
   unix-timestamp: 1528070400
+
 redirect_from:
   - /com.github.calo001.fondo.desktop/
 ---
-
 <p>Find a variety of the most beautiful wallpapers from Unsplash.com the world’s most generous community of photographers.</p>
 <p>Fondo allows you to see thousands of beautiful photographs from the most recent to the one you are to looking for. Give a simple click on a picture to set as wallpaper, wait until the download is complete and enjoy!</p>
 <p>Have a simple and elegant interface, you can change from light mode to dark mode as you prefer.</p>

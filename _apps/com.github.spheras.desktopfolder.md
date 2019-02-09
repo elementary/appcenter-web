@@ -1,19 +1,19 @@
 ---
-app_id: com.github.spheras.desktopfolder
+app_id: "com.github.spheras.desktopfolder"
 title: "Desktop Folder"
 summary: "Bring your desktop back to life"
 developer: "DesktopFolder Developers"
 homepage: "https://github.com/spheras/desktopfolder"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras/4B465EABFB2EEDB9EED6610FFFD322AF/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
@@ -37,6 +37,7 @@ releases:
       <li>Minor bugfixes and stabilization</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1539561600
   description: |-
@@ -49,6 +50,7 @@ releases:
       <li>Juno publication release</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1537401600
   description: |-
@@ -67,6 +69,7 @@ releases:
       <li>Minor Bugfixes are included for this release</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1518739200
   description: |-
@@ -81,6 +84,7 @@ releases:
       <li>Files *~ are ignored now</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1514246400
   description: |-
@@ -119,6 +123,7 @@ releases:
       <li>A lot of Minor Bugfixing</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1508371200
   description: |-
@@ -145,10 +150,10 @@ releases:
       <li>Minor Bugfixing included with this release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.spheras.desktopfolder.desktop/
 ---
-
 <p>Organize your desktop with panels that hold your things.</p>
 <ul>
   <li>Access files, folders and apps from your desktop</li>

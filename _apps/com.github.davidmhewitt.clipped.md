@@ -1,5 +1,5 @@
 ---
-app_id: com.github.davidmhewitt.clipped
+app_id: "com.github.davidmhewitt.clipped"
 title: "Clipped"
 summary: "Manage your clipboard with ease"
 developer: "David Hewitt"
@@ -15,8 +15,17 @@ icons:
 color:
   primary: "#e3bab1"
   primary-text: "#2b313d"
-price: 0
+price: 
 releases:
+- version: 
+  unix-timestamp: 
+
+- version: 
+  unix-timestamp: 
+
+- version: 
+  unix-timestamp: 
+
 - version: 1.0.0
   unix-timestamp: 1500076800
   description: |-
@@ -25,8 +34,8 @@ releases:
       <li>Initial release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.davidmhewitt.clipped.desktop/
 ---
-
 <p>Keep and search your clipboard history and paste old items quickly and easily.</p>

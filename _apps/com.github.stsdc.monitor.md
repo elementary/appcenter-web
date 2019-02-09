@@ -1,5 +1,5 @@
 ---
-app_id: com.github.stsdc.monitor
+app_id: "com.github.stsdc.monitor"
 title: "Monitor"
 summary: "Manage processes and monitor system resources"
 developer: "Stanisław Dac"
@@ -33,8 +33,8 @@ releases:
       <li>Fix POTFILES</li>
 
     </ul>
+
 redirect_from:
   - /com.github.stsdc.monitor.desktop/
 ---
-
 <p>Display usage of system resources, filter and manage processes.</p>

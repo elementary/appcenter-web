@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.php-tester
+app_id: "com.github.bartzaalberg.php-tester"
 title: "PHP Tester"
 summary: "Test some PHP code!"
 developer: "Bart Zaalberg"
@@ -16,7 +16,7 @@ icons:
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
-price: 0
+price: 
 releases:
 - version: 1.8.2
   unix-timestamp: 1549065600
@@ -28,6 +28,7 @@ releases:
       <li>Added metadata French translation</li>
 
     </ul>
+
 - version: 1.8.1
   unix-timestamp: 1548547200
   description: |-
@@ -38,6 +39,7 @@ releases:
       <li>Added metadata translation</li>
 
     </ul>
+
 - version: 1.8.0
   unix-timestamp: 1548460800
   description: |-
@@ -48,6 +50,7 @@ releases:
       <li>Added metadata translation</li>
 
     </ul>
+
 - version: 1.7.0
   unix-timestamp: 1548288000
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>Remember size, maximized, and position</li>
 
     </ul>
+
 - version: 1.6.3
   unix-timestamp: 1548115200
   description: |-
@@ -72,6 +76,7 @@ releases:
       <li>Fixed crash on saved php version is not installed</li>
 
     </ul>
+
 - version: 1.6.2
   unix-timestamp: 1547683200
   description: |-
@@ -82,6 +87,7 @@ releases:
       <li>The application is now available in French thanks to NathanBnm!</li>
 
     </ul>
+
 - version: 1.6.1
   unix-timestamp: 1547164800
   description: |-
@@ -94,6 +100,7 @@ releases:
       <li>Fixed stuck in copy paste menu when no php is found</li>
 
     </ul>
+
 - version: 1.6.0
   unix-timestamp: 1547078400
   description: |-
@@ -106,6 +113,7 @@ releases:
       <li>Fixed a fatal error on startup when no PHP is found</li>
 
     </ul>
+
 - version: 1.5.6
   unix-timestamp: 1537574400
   description: |-
@@ -116,6 +124,7 @@ releases:
       <li>Migrated from Cmake to Meson</li>
 
     </ul>
+
 - version: 1.5.5
   unix-timestamp: 1537488000
   description: |-
@@ -126,6 +135,7 @@ releases:
       <li>Added Houston CI</li>
 
     </ul>
+
 - version: 1.5.4
   unix-timestamp: 1527379200
   description: |-
@@ -140,6 +150,7 @@ releases:
       <li>Changed text for when PHP is not found</li>
 
     </ul>
+
 - version: 1.5.3
   unix-timestamp: 1518048000
   description: |-
@@ -152,6 +163,7 @@ releases:
       <li>Refactored code</li>
 
     </ul>
+
 - version: 1.5.2
   unix-timestamp: 1516838400
   description: |-
@@ -162,6 +174,7 @@ releases:
       <li>Fixed a bug where the wrong version would be used</li>
 
     </ul>
+
 - version: 1.5.1
   unix-timestamp: 1511913600
   description: |-
@@ -178,6 +191,7 @@ releases:
       <li>Refactored lots of code</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1510272000
   description: |-
@@ -190,6 +204,7 @@ releases:
       <li>Made source view scrollable</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1509667200
   description: |-
@@ -204,6 +219,7 @@ releases:
       <li>Added about action</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1508457600
   description: |-
@@ -216,6 +232,7 @@ releases:
       <li>Added progress saving</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1508198400
   description: |-
@@ -232,6 +249,7 @@ releases:
       <li>refactored some code</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1508112000
   description: |-
@@ -244,6 +262,7 @@ releases:
       <li>Fixed a bug which would keep the application running in the background</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1508112000
   description: |-
@@ -254,6 +273,7 @@ releases:
       <li>Added run shortcut (ctrl + r)</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1507852800
   description: |-
@@ -268,6 +288,7 @@ releases:
       <li>Added more screenshots</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1507852800
   description: |-
@@ -280,6 +301,7 @@ releases:
       <li>Fixed a bug which would keep the application running in the background</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1507766400
   description: |-
@@ -292,6 +314,7 @@ releases:
       <li>Fixed compiling error</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1507680000
   description: |-
@@ -306,6 +329,7 @@ releases:
       <li>Updated the icon again</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1507334400
   description: |-
@@ -316,6 +340,7 @@ releases:
       <li>Updated icon</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1507248000
   description: |-
@@ -326,10 +351,10 @@ releases:
       <li>First Release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.php-tester.desktop/
 ---
-
 <p>A simple tool to test your PHP code.</p>
 <p>Features:</p>
 <ul>

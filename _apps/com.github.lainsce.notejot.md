@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.notejot
+app_id: "com.github.lainsce.notejot"
 title: "Notejot"
 summary: "Jot your ideas"
 developer: "Lains"
 homepage: "https://github.com/lainsce/notejot/"
-help_page: "#"
+help_page: #
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Notes&apos; resized sizes are now saved.</li>
 
     </ul>
+
 - version: 1.5.3
   unix-timestamp: 1544832000
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Now you can undo/redo stuff inside your notes!</li>
 
     </ul>
+
 - version: 1.5.2
   unix-timestamp: 1542931200
   description: |-
@@ -47,6 +49,7 @@ releases:
       <li>New button to stick the note to show on all workspaces and below all windows.</li>
 
     </ul>
+
 - version: 1.4.3
   unix-timestamp: 1541721600
   description: |-
@@ -59,6 +62,7 @@ releases:
       <li>Some small UI fixes.</li>
 
     </ul>
+
 - version: 1.4.2
   unix-timestamp: 1536883200
   description: |-
@@ -71,6 +75,7 @@ releases:
       <li>Some small UI fixes.</li>
 
     </ul>
+
 - version: 1.4.1
   unix-timestamp: 1536278400
   description: |-
@@ -87,6 +92,7 @@ releases:
     </ul>
 
     <p>Note: You should first backup your notes&apos; file before updating, you could lose data due to the new UI&apos;s backend.</p>
+
 - version: 1.4.0
   unix-timestamp: 1530662400
   description: |-
@@ -97,6 +103,7 @@ releases:
       <li>Fixed deleting notes and not losing content of other notes.</li>
 
     </ul>
+
 - version: 1.3.9
   unix-timestamp: 1521417600
   description: |-
@@ -107,6 +114,7 @@ releases:
       <li>New option to open notes from the icon in the Dock or App Menu.</li>
 
     </ul>
+
 - version: 1.3.8
   unix-timestamp: 1516924800
   description: |-
@@ -117,6 +125,7 @@ releases:
       <li>New main menu with better &amp; fancier color buttons</li>
 
     </ul>
+
 - version: 1.3.7
   unix-timestamp: 1515369600
   description: |-
@@ -129,6 +138,7 @@ releases:
       <li>Make the app become Flatpak-friendly</li>
 
     </ul>
+
 - version: 1.3.6
   unix-timestamp: 1510963200
   description: |-
@@ -139,6 +149,7 @@ releases:
       <li>Fix: Intelligently show windows even if opening from the Apps Menu.</li>
 
     </ul>
+
 - version: 1.3.5
   unix-timestamp: 1510963200
   description: |-
@@ -149,6 +160,7 @@ releases:
       <li>Fixed notes not being saved properly in every case.</li>
 
     </ul>
+
 - version: 1.3.4
   unix-timestamp: 1510876800
   description: |-
@@ -159,6 +171,7 @@ releases:
       <li>Fix: the UI/UX of the editable title.</li>
 
     </ul>
+
 - version: 1.3.3
   unix-timestamp: 1510531200
   description: |-
@@ -169,6 +182,7 @@ releases:
       <li>Actually save the notes contents.</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1510444800
   description: |-
@@ -179,6 +193,7 @@ releases:
       <li>Make every change in the notes&apos; text save the contents</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1510272000
   description: |-
@@ -189,6 +204,7 @@ releases:
       <li>Minor fixes in the UI again</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1509840000
   description: |-
@@ -199,6 +215,7 @@ releases:
       <li>A new editable title, for when you want to make your notes extra independent</li>
 
     </ul>
+
 - version: 1.2.9
   unix-timestamp: 1509667200
   description: |-
@@ -209,6 +226,7 @@ releases:
       <li>Made all items fit into the app menu, making the UI more simplified</li>
 
     </ul>
+
 - version: 1.2.8
   unix-timestamp: 1509062400
   description: |-
@@ -219,6 +237,7 @@ releases:
       <li>Some minor fixes in the UI</li>
 
     </ul>
+
 - version: 1.2.7
   unix-timestamp: 1508457600
   description: |-
@@ -229,6 +248,7 @@ releases:
       <li>Just a bump for AppCenter to not error out</li>
 
     </ul>
+
 - version: 1.2.6
   unix-timestamp: 1508457600
   description: |-
@@ -241,6 +261,7 @@ releases:
       <li>Make the icons less generic</li>
 
     </ul>
+
 - version: 1.2.5
   unix-timestamp: 1507852800
   description: |-
@@ -251,6 +272,7 @@ releases:
       <li>Just a bump for AppCenter to not error out</li>
 
     </ul>
+
 - version: 1.2.4
   unix-timestamp: 1507852800
   description: |-
@@ -261,6 +283,7 @@ releases:
       <li>Add high definition icon support</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1506816000
   description: |-
@@ -271,6 +294,7 @@ releases:
       <li>Brazilian Portuguese translation</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1506729600
   description: |-
@@ -281,6 +305,7 @@ releases:
       <li>Minor styling changes internally for a better experience</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1505606400
   description: |-
@@ -291,6 +316,7 @@ releases:
       <li>Make the app use GResource for loading the styling</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1504742400
   description: |-
@@ -301,6 +327,7 @@ releases:
       <li>Code fixes and enable Notejot for translations</li>
 
     </ul>
+
 - version: 1.1.9
   unix-timestamp: 1504137600
   description: |-
@@ -311,6 +338,7 @@ releases:
       <li>Lithuanian translation</li>
 
     </ul>
+
 - version: 1.1.8
   unix-timestamp: 1502236800
   description: |-
@@ -321,6 +349,7 @@ releases:
       <li>Made the cache be RDNN-compatible</li>
 
     </ul>
+
 - version: 1.1.7
   unix-timestamp: 1501459200
   description: |-
@@ -333,6 +362,7 @@ releases:
       <li>Organized code properly now</li>
 
     </ul>
+
 - version: 1.1.6
   unix-timestamp: 1501286400
   description: |-
@@ -347,6 +377,7 @@ releases:
       <li>Update the text color</li>
 
     </ul>
+
 - version: 1.1.5
   unix-timestamp: 1499472000
   description: |-
@@ -357,6 +388,7 @@ releases:
       <li>Fix the in-app colors in respect to color contrast rules</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1498608000
   description: |-
@@ -367,10 +399,10 @@ releases:
       <li>The icon now follows the elementary OS icon guidelines.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.notejot.desktop/
 ---
-
 <p>A stupidly-simple sticky notes application for any type of short term notes or ideas.</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

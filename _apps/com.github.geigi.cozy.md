@@ -1,5 +1,5 @@
 ---
-app_id: com.github.geigi.cozy
+app_id: "com.github.geigi.cozy"
 title: "Cozy"
 summary: "A modern audio book player"
 developer: "Julian Geywitz"
@@ -7,19 +7,37 @@ homepage: "https://cozy.geigi.de"
 help_page: "https://github.com/geigi/cozy/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/1F7DBCD3553DF1AF4F1D94826B627BFA/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/64x64/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/128x128/com.github.geigi.cozy_com.github.geigi.cozy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/icons/64x64@2/com.github.geigi.cozy_com.github.geigi.cozy.png
 color:
   primary: "#FB6542"
   primary-text: "#FFFFFF"
 price: 2
 releases:
+- version: 0.6.7
+  unix-timestamp: 1547330415
+  description: |-
+    <ul>
+
+      <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
+
+    </ul>
+
+- version: 0.6.6
+  unix-timestamp: 1547324279
+  description: |-
+    <ul>
+
+      <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
+
+    </ul>
+
 - version: 0.6.5
   unix-timestamp: 1543573312
   description: |-
@@ -28,6 +46,7 @@ releases:
       <li>Fixed startup crash on elementaryOS 5.0 Juno</li>
 
     </ul>
+
 - version: 0.6.4
   unix-timestamp: 1540414183
   description: |-
@@ -40,14 +59,16 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-- version: 0.6.2
-  unix-timestamp: 1536675372
+
+- version: 0.6.1b
+  unix-timestamp: 1539206841
   description: |-
     <ul>
 
-      <li>Support for elementaryOS 5.0</li>
+      <li>Fixed a bug which prevented cozy from automatically playing the next chapter</li>
 
     </ul>
+
 - version: 0.6.1
   unix-timestamp: 1536329525
   description: |-
@@ -66,6 +87,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1528790604
   description: |-
@@ -104,6 +126,7 @@ releases:
       <li>Optimizations under the hood</li>
 
     </ul>
+
 - version: 0.5.5
   unix-timestamp: 1522359511
   description: |-
@@ -126,6 +149,7 @@ releases:
       <li>UI fixes</li>
 
     </ul>
+
 - version: 0.5.4
   unix-timestamp: 1520600004
   description: |-
@@ -144,6 +168,7 @@ releases:
       <li>Fixed desktop integration (mpris)</li>
 
     </ul>
+
 - version: 0.5.3
   unix-timestamp: 1519809258
   description: |-
@@ -164,6 +189,7 @@ releases:
       <li>Lots of work behind the scenes and small bug fixes</li>
 
     </ul>
+
 - version: 0.5.2
   unix-timestamp: 1519751027
   description: |-
@@ -180,6 +206,7 @@ releases:
       <li>Lots of work behind the scenes and small bug fixes</li>
 
     </ul>
+
 - version: 0.4.9
   unix-timestamp: 1518457439
   description: |-
@@ -204,6 +231,7 @@ releases:
       <li>Chinese translation</li>
 
     </ul>
+
 - version: 0.4.7
   unix-timestamp: 1515522043
   description: |-
@@ -230,6 +258,7 @@ releases:
       <li>Fixed some minor UI bugs</li>
 
     </ul>
+
 - version: 0.4.6
   unix-timestamp: 1513103298
   description: |-
@@ -242,6 +271,7 @@ releases:
       <li>Added French, Danish and Turkish translations! (Thanks to Vistaus, Distil62, karaagac)</li>
 
     </ul>
+
 - version: 0.4.4
   unix-timestamp: 1512691505
   description: |-
@@ -252,6 +282,7 @@ releases:
       <li>Lots of bug fixes</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1512409564
   description: |-
@@ -268,6 +299,7 @@ releases:
       <li>Probably faster import</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1511722853
   description: |-
@@ -292,6 +324,7 @@ releases:
       <li>Lots of behind the scenes changes</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1511546968
   description: |-
@@ -310,6 +343,7 @@ releases:
       <li>Lots of behind the scenes changes</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1510311368
   description: |-
@@ -328,10 +362,12 @@ releases:
     <p>New dialog when a file could not be found</p>
 
     <p>Homepage URL is now corrected</p>
+
 - version: 0.2.7
   unix-timestamp: 1509390271
   description: |-
     <p>Fixed debian runtime dependencies</p>
+
 - version: 0.2.6
   unix-timestamp: 1509365426
   description: |-
@@ -342,6 +378,7 @@ releases:
     <p>New screenshots for app center</p>
 
     <p>Contributors and patrons will now be added to the about window</p>
+
 - version: 0.2.5
   unix-timestamp: 1509142062
   description: |-
@@ -358,24 +395,27 @@ releases:
     <p>Optional auto-rescan the directory on startup</p>
 
     <p>Bugfixes and ui tweaks</p>
+
 - version: 0.2.3
   unix-timestamp: 1508767505
   description: |-
     <p>Some UI changes</p>
 
     <p>New playback hover icon</p>
+
 - version: 0.2.2
   unix-timestamp: 1508681985
   description: |-
     <p>Fixed missing track list</p>
+
 - version: 0.2.0
   unix-timestamp: 1508666338
   description: |-
     <p>Cozy&apos;s first release! This release includes everything to start listening to your audiobooks. More features are coming soon!</p>
+
 redirect_from:
   - /com.github.geigi.cozy.desktop/
 ---
-
 <p>You like audio books? Then lets get cozy!</p>
 <p>Cozy is a modern audio book player. Here are some of the current features:</p>
 <ul>

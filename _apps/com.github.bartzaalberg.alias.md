@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.alias
+app_id: "com.github.bartzaalberg.alias"
 title: "Alias"
 summary: "Simplify your commands"
 developer: "Bart Zaalberg"
@@ -18,7 +18,7 @@ icons:
 color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
-price: 0
+price: 
 releases:
 - version: 1.4.0
   unix-timestamp: 1548806400
@@ -34,6 +34,7 @@ releases:
       <li>Added translation for About label</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1548288000
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Added translation for metadata</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1548288000
   description: |-
@@ -54,6 +56,7 @@ releases:
       <li>Added translation for metadata</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1548201600
   description: |-
@@ -70,6 +73,7 @@ releases:
       <li>Single-instance now actually working</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1547683200
   description: |-
@@ -84,6 +88,7 @@ releases:
       <li>Added development category for appcenter</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1547683200
   description: |-
@@ -98,6 +103,7 @@ releases:
       <li>Application is now single-instance</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1546992000
   description: |-
@@ -112,6 +118,7 @@ releases:
       <li>Fixed the bug where the app would ask to add bash_aliases to eOS</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1539561600
   description: |-
@@ -124,6 +131,7 @@ releases:
       <li>Released for Juno</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1527379200
   description: |-
@@ -136,6 +144,7 @@ releases:
       <li>Fixed a bug where app would crash on comments in file</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1519689600
   description: |-
@@ -150,6 +159,7 @@ releases:
       <li>Quotes are now automatically added to field</li>
 
     </ul>
+
 - version: 0.0.4
   unix-timestamp: 1519603200
   description: |-
@@ -160,6 +170,7 @@ releases:
       <li>Updated color for appcenter</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1519257600
   description: |-
@@ -172,6 +183,7 @@ releases:
       <li>Refactored responsetranslator and fileManager code</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1519257600
   description: |-
@@ -184,6 +196,7 @@ releases:
       <li>Removed buttons from welcome view</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1519171200
   description: |-
@@ -194,10 +207,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.alias.desktop/
 ---
-
 <p>A tool to manage your bash aliases</p>
 <p>Features:</p>
 <ul>

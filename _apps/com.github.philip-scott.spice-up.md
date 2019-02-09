@@ -1,5 +1,5 @@
 ---
-app_id: com.github.philip-scott.spice-up
+app_id: "com.github.philip-scott.spice-up"
 title: "Spice-Up"
 summary: "Create simple and beautiful presentations"
 developer: "Felipe Escoto"
@@ -43,6 +43,7 @@ releases:
       <li>Exporting a presentation will now always have the .pdf extension</li>
 
     </ul>
+
 - version: 1.7.0
   unix-timestamp: 1539648000
   description: |-
@@ -63,6 +64,7 @@ releases:
       <li>Fixed problem with canvas showing items moved a bit when resizing.</li>
 
     </ul>
+
 - version: 1.6.1
   unix-timestamp: 1538524800
   description: |-
@@ -89,6 +91,7 @@ releases:
       <li>Fixed: Non-editable items on the toolbar now show up properly</li>
 
     </ul>
+
 - version: 1.5.2
   unix-timestamp: 1534982400
   description: |-
@@ -109,6 +112,7 @@ releases:
       <li>New translations for Japanese, Catalan, Portuguese, Dutch!</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1519084800
   description: |-
@@ -125,6 +129,7 @@ releases:
       <li>European Portuguese has been added to the family of translations. Big thanks to emansije!</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1517529600
   description: |-
@@ -147,6 +152,7 @@ releases:
       <li>Notifications are now disabled when presenting</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1514160000
   description: |-
@@ -169,6 +175,7 @@ releases:
       <li>Some other fixes and cleanups</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1509580800
   description: |-
@@ -179,6 +186,7 @@ releases:
       <li>Presentations saved can now be viewed from a web browser by drag and drop if Spice-Up is not installed, and even
 
     if you&apos;re not using elementary OS or Linux</li> </ul>
+
 - version: 1.0.1
   unix-timestamp: 1507852800
   description: |-
@@ -197,6 +205,7 @@ releases:
       <li>Spice-Up is now translated to French and Portuguese!</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1505347200
   description: |-
@@ -219,6 +228,7 @@ releases:
       <li>Spice-Up is also now available in Spanish!</li>
 
     </ul>
+
 - version: 0.8.2
   unix-timestamp: 1503792000
   description: |-
@@ -237,6 +247,7 @@ releases:
       <li>Fixed: Sometimes, the default blue color would get selected</li>
 
     </ul>
+
 - version: 0.8.0
   unix-timestamp: 1500508800
   description: |-
@@ -251,10 +262,10 @@ releases:
       <li>The presentations you make will appear on the welcome screen for easy access to them!</li>
 
     </ul>
+
 redirect_from:
   - /com.github.philip-scott.spice-up.desktop/
 ---
-
 <p>Create presentations that stand out! Spice-Up has everything you need to create simple and beautiful presentations. Get your ideas across with beautiful designed templates, or start from scratch with a blank canvas. Either way, you will add some spice to your presentations with a wide variety of background patterns and a beautiful color palette.</p>
 <p>Easy-to-design slides and powerful features:</p>
 <ul>

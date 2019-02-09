@@ -1,21 +1,21 @@
 ---
-app_id: com.github.aleksandar-stefanovic.urmsimulator.desktop
+app_id: "com.github.aleksandar-stefanovic.urmsimulator.desktop"
 title: "URM Simulator"
 summary: "Simple URM simulations"
 developer: "Aleksandar Stefanović"
 homepage: "https://github.com/aleksandar-stefanovic/urmsimulator/"
-help_page: "#"
-dist: loki
+help_page: #
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/D751539C2C637C7E084755F23A0111ED/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/64x64/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/128x128/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/aleksandar-stefanovic.urmsimulator.desktop/D751539C2C637C7E084755F23A0111ED/icons/64x64@2/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/D751539C2C637C7E084755F23A0111ED/icons/64x64/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/D751539C2C637C7E084755F23A0111ED/icons/128x128/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/D751539C2C637C7E084755F23A0111ED/icons/64x64@2/com.github.aleksandar-stefanovic.urmsimulator_com.github.aleksandar-stefanovic.urmsimulator.png
 color:
   primary: "#8b7793"
   primary-text: "#FAFAFA"
-price: 0
+price: 
 releases:
 - version: 1.3.0
   unix-timestamp: 1518393600
@@ -31,10 +31,10 @@ releases:
       <li>Instructions are now one-based numbered.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.aleksandar-stefanovic.urmsimulator.desktop/
 ---
-
 <p>URM (Unlimited Register Machine) is a theoretical machine which has unlimited memory. It is used to describe that anything that can be programmed with four basic instructions can also be programmed with any other programming language.</p>
 <p>Use four basic instructions (Zero, Successor, Transfer, Jump) to program any other operator or function, since things like subtraction are not included!</p>
 <p>Features:</p>

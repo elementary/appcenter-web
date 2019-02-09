@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ztefn.haguichi
+app_id: "com.github.ztefn.haguichi"
 title: "Haguichi"
 summary: "A graphical frontend for Hamachi"
 developer: "Stephen Brandt"
@@ -38,10 +38,12 @@ releases:
       <li>Updated translations.</li>
 
     </ul>
+
 - version: 1.140.90
   unix-timestamp: 1537660800
   description: |-
     <p>First release for Juno beta based on master branch</p>
+
 - version: 1.140.0
   unix-timestamp: 1526083200
   description: |-
@@ -66,10 +68,10 @@ releases:
       <li>Updated Brazilian Portuguese, Bulgarian, Czech, Dutch, French, Italian, Polish, Slovak, Spanish, Swedish, Turkish
 
     and Ukrainian translations.</li> </ul>
+
 redirect_from:
   - /com.github.ztefn.haguichi.desktop/
 ---
-
 <p>Join, create and manage Hamachi networks in a breeze.</p>
 <p>Features:</p>
 <ul>
