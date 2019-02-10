@@ -1,6 +1,5 @@
 require 'yaml'
 require_relative 'app_template'
-require 'pry'
 puts 'loading generate_listings'
 
 module CreateAppEntries

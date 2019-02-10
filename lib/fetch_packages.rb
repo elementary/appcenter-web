@@ -10,7 +10,8 @@ module FetchServerInfo
 	# Simple script that will read releases from 'releases.rb' and use the array to grab and extract
 	# the YAML file containing all of the app data in the elementary app store
 
-	server_info['Bases'].each { |base| 
+	server_info['Releases'].each { |release|
+		base = release[1]['base']
 		# Fetch compressed YAML file from elementary servers
 		# servers to do not serve https requests
 		appsTarBall = open("http://packages.elementary.io/appcenter/dists/#{base}/main/dep11/Components-amd64.yml.gz")
