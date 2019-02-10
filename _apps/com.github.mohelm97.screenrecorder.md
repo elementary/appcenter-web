@@ -1,5 +1,5 @@
 ---
-app_id: "com.github.mohelm97.screenrecorder"
+app_id: com.github.mohelm97.screenrecorder
 title: "Screen Recorder"
 summary: "A simple screen recording app for daily use."
 developer: "Mohammed ALMadhoun"
@@ -16,20 +16,8 @@ icons:
 color:
   primary: "#c6262e"
   primary-text: "rgb(255, 255, 255)"
-price: 
+price: 0
 releases:
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
 - version: 0.1.0
   unix-timestamp: 1545004800
   description: |-
@@ -40,10 +28,10 @@ releases:
     See AppData</li>
 
     </ul>
-
 redirect_from:
   - /com.github.mohelm97.screenrecorder.desktop/
 ---
+
 <p>A screen recording app using FFmpeg, with a small set of useful features!</p>
 <p>Features include:</p>
 <ul>

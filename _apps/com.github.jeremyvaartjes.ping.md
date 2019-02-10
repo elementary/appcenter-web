@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.jeremyvaartjes.ping"
+app_id: com.github.jeremyvaartjes.ping
 title: "Ping!"
 summary: "Test your API against some data"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/E7136BA2B7FAD5EB74B854A78D86BF8C/screenshots/image-1_orig.png
@@ -19,27 +19,6 @@ color:
   primary-text: "#6be3c3"
 price: 3
 releases:
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
-- version: 
-  unix-timestamp: 
-
 - version: 0.1.0
   unix-timestamp: 1541030400
   description: |-
@@ -48,8 +27,8 @@ releases:
       <li>This is the initial release.</li>
 
     </ul>
-
 redirect_from:
   - /com.github.jeremyvaartjes.ping.desktop/
 ---
+
 <p>Ping lets you test your web API with some example data. A helpful tool that lets you degug what part of your API is causing you issues.</p>

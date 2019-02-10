@@ -5,7 +5,7 @@ summary: "A modern audio book player"
 developer: "Julian Geywitz"
 homepage: "https://cozy.geigi.de"
 help_page: "https://github.com/geigi/cozy/issues"
-dist: loki
+dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/geigi.cozy/086592BEE7AE901944C63A60BBD083B2/screenshots/image-2_orig.png

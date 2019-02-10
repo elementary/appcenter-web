@@ -1,11 +1,11 @@
 ---
-app_id: com.github.bartzaalberg.snaptastic.desktop
+app_id: com.github.bartzaalberg.snaptastic
 title: "Snaptastic"
 summary: "A manager for snaps"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
-dist: loki
+dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_orig.png

@@ -1,26 +1,99 @@
 ---
-app_id: com.github.mdh34.quickdocs.desktop
+app_id: com.github.mdh34.quickdocs
 title: "quickDocs"
 summary: "Quickly Read Developer Docs"
 developer: "Matt Harris"
 homepage: "https://github.com/mdh34/quickDocs"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/icons/64x64/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/icons/128x128/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/mdh34.quickdocs.desktop/84AF23BED97ECD374B8371A7E5EF2D56/icons/64x64@2/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/64x64/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/128x128/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/64x64@2/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
 color:
   primary: "#4c158a"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
+- version: 2.2.5
+  unix-timestamp: 1548028800
+  description: |-
+    <ul>
+
+      <li>Added French translations</li>
+
+      <li>Minor bugfixes</li>
+
+    </ul>
+- version: 2.2.4
+  unix-timestamp: 1540512000
+  description: |-
+    <ul>
+
+      <li>Package list bugfixes</li>
+
+    </ul>
+- version: 2.2.3
+  unix-timestamp: 1540339200
+  description: |-
+    <ul>
+
+      <li>Added Chinese translations</li>
+
+    </ul>
+- version: 2.2.1
+  unix-timestamp: 1537488000
+  description: |-
+    <ul>
+
+      <li>Fix some bugs with the offline package list</li>
+
+      <li>Add an &apos;install all&apos; button and alphabetical ordering to the offline package list</li>
+
+      <li>Updated theme changer to use the new Granite ModeSwitch</li>
+
+    </ul>
+- version: 2.2.0
+  unix-timestamp: 1537401600
+  description: |-
+    <ul>
+
+      <li>Fix some bugs with the offline package list</li>
+
+      <li>Add an &apos;install all&apos; button and alphabetical ordering to the offline package list</li>
+
+      <li>Updated theme changer to use the new Granite ModeSwitch</li>
+
+    </ul>
+- version: 2.1.1
+  unix-timestamp: 1530576000
+  description: |-
+    <ul>
+
+      <li>Juno AppCenter release</li>
+
+    </ul>
+- version: 2.1.0
+  unix-timestamp: 1530316800
+  description: |-
+    <ul>
+
+      <li>Offline packages can now be easily searched through</li>
+
+    </ul>
+- version: 2.0.5
+  unix-timestamp: 1529193600
+  description: |-
+    <ul>
+
+      <li>Fix a bug in opening some links</li>
+
+    </ul>
 - version: 2.0.4
   unix-timestamp: 1528416000
   description: |-
@@ -167,12 +240,7 @@ redirect_from:
   - /com.github.mdh34.quickdocs.desktop/
 ---
 
-<p>A fast developer docs reader</p>
-<p>Read developer docs from:</p>
-<ul>
-  <li>Valadoc</li>
-  <li>DevDocs</li>
-</ul>
+<p>A fast developer docs reader that supports Valadoc and DevDocs</p>
 <p>Includes:</p>
 <ul>
   <li>Offline support for both Valadoc and Devdocs</li>

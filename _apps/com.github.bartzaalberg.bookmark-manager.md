@@ -1,24 +1,86 @@
 ---
-app_id: com.github.bartzaalberg.bookmark-manager.desktop
+app_id: com.github.bartzaalberg.bookmark-manager
 title: "Bookmark Manager"
 summary: "Manage your SSH bookmarks"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
 price: 3
 releases:
+- version: 1.6.0
+  unix-timestamp: 1548720000
+  description: |-
+    <p>Metadata translation, Remember position and size</p>
+
+    <ul>
+
+      <li>Added metadata translation</li>
+
+      <li>Application now remembers size and position</li>
+
+      <li>Added code style hook</li>
+
+      <li>Fixed about shortcut</li>
+
+      <li>Added OARS rating</li>
+
+    </ul>
+- version: 1.5.1
+  unix-timestamp: 1547596800
+  description: |-
+    <p>Re-enabled translations, single-instance, added French</p>
+
+    <ul>
+
+      <li>Application is now single-instance</li>
+
+      <li>Added French translations</li>
+
+      <li>Re-enabed translations</li>
+
+    </ul>
+- version: 1.5.0
+  unix-timestamp: 1547424000
+  description: |-
+    <p>Juno ready</p>
+
+    <ul>
+
+      <li>Changed the default terminal name to juno standard</li>
+
+      <li>Moved to Meson</li>
+
+      <li>Added Polish translations</li>
+
+      <li>Moved in-app terminal out of experimentary</li>
+
+      <li>Fixed freeze when terminal is open</li>
+
+    </ul>
+- version: 1.4.2
+  unix-timestamp: 1539561600
+  description: |-
+    <p>Release for Juno and Houston Ci</p>
+
+    <ul>
+
+      <li>Added Houston CI</li>
+
+      <li>Released for Juno</li>
+
+    </ul>
 - version: 1.4.1
   unix-timestamp: 1527379200
   description: |-

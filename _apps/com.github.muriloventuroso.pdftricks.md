@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.muriloventuroso.pdftricks"
+app_id: com.github.muriloventuroso.pdftricks
 title: "PDF Tricks"
 summary: "Tricks for PDF Files"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/pdftricks"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/40BAB5BF6363FBDD13BFD3F43B9FE515/screenshots/image-1_orig.png
@@ -30,19 +30,16 @@ releases:
     <p>Convert JPG to PDF</p>
 
     <p>Split pages by color (Black-White / Colored)</p>
-
 - version: 0.1.5
   unix-timestamp: 1546560000
   description: |-
     <p>Convert PDF</p>
 
     <p>Bugfix</p>
-
 - version: 0.1.4
   unix-timestamp: 1546300800
   description: |-
     <p>Bugfix</p>
-
 - version: 0.1.2
   unix-timestamp: 1545609600
   description: |-
@@ -51,7 +48,6 @@ releases:
     <p>Split File</p>
 
     <p>Merge File</p>
-
 redirect_from:
   - /com.github.muriloventuroso.pdftricks.desktop/
 ---

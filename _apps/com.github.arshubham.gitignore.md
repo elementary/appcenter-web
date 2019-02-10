@@ -17,8 +17,8 @@ icons:
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/F1158456BFEABE1759FACDBE65CE6B11/icons/64x64@2/com.github.arshubham.gitignore_com.github.arshubham.gitignore.png
   "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/F1158456BFEABE1759FACDBE65CE6B11/icons/128x128@2/com.github.arshubham.gitignore_com.github.arshubham.gitignore.png
 color:
-  primary: #4c158a
-  primary-text: #fff
+  primary: "#4c158a"
+  primary-text: "#fff"
 price: 0
 releases:
 - version: 2.0.0
@@ -33,7 +33,6 @@ releases:
   unix-timestamp: 1534032000
   description: |-
     <p>Initial release!</p>
-
 redirect_from:
   - /com.github.arshubham.gitignore.desktop/
 ---

@@ -1,5 +1,5 @@
 ---
-app_id: "com.github.cassidyjames.ephemeral"
+app_id: com.github.cassidyjames.ephemeral
 title: "Ephemeral"
 summary: "The always-incognito web browser"
 developer: "Cassidy James Blaede"
@@ -35,12 +35,10 @@ releases:
       <li>Updated Dutch translations thanks to Heimen Stoffels</li>
 
     </ul>
-
 - version: 4.0.1
   unix-timestamp: 1548547200
   description: |-
     <p>Fixed some missed translations and updated French translations. Thanks again, @NathanBnm!</p>
-
 - version: 4.0.0
   unix-timestamp: 1548201600
   description: |-
@@ -73,12 +71,10 @@ releases:
       <li>Hallo! Dutch translations thanks to Heimen Stoffels</li>
 
     </ul>
-
 - version: 3.2.2
   unix-timestamp: 1548115200
   description: |-
     <p>Styling fixes for non-native platforms.</p>
-
 - version: 3.2.1
   unix-timestamp: 1548115200
   description: |-
@@ -93,7 +89,6 @@ releases:
       <li>Reported zoom level is now kept in sync across open windows</li>
 
     </ul>
-
 - version: 3.2.0
   unix-timestamp: 1548028800
   description: |-
@@ -118,7 +113,6 @@ releases:
       <li>Code cleaning to keep things fresh and clean</li>
 
     </ul>
-
 - version: 3.1.0
   unix-timestamp: 1547424000
   description: |-
@@ -139,7 +133,6 @@ releases:
       <li>Code cleaning to keep things smelling fresh</li>
 
     </ul>
-
 - version: 3.0.0
   unix-timestamp: 1547251200
   description: |-
@@ -156,7 +149,6 @@ releases:
       <li>Local HTML files can now be opened</li>
 
     </ul>
-
 - version: 2.0.1
   unix-timestamp: 1547078400
   description: |-
@@ -167,7 +159,6 @@ releases:
       <li>Tweaked &quot;set as default&quot; infobar styling</li>
 
     </ul>
-
 - version: 2.0.0
   unix-timestamp: 1547078400
   description: |-
@@ -180,7 +171,6 @@ releases:
       <li>Open unsupported links (like AppCenter ones) in the OS-default app</li>
 
     </ul>
-
 - version: 1.2.0
   unix-timestamp: 1546992000
   description: |-
@@ -191,25 +181,22 @@ releases:
       <li>Collapse external browsers into a menu when there&apos;s more than one</li>
 
     </ul>
-
 - version: 1.1.0
   unix-timestamp: 1546905600
   description: |-
     <p>Add several useful keyboard and mouse shortcuts</p>
-
 - version: 1.0.1
   unix-timestamp: 1546905600
   description: |-
     <p>Fix links that try to open in a new window</p>
-
 - version: 1.0.0
   unix-timestamp: 1546905600
   description: |-
     <p>Initial release for AppCenter</p>
-
 redirect_from:
   - /com.github.cassidyjames.ephemeral.desktop/
 ---
+
 <p>Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that&apos;s perfect for avoiding persistent cookies or web trackers. Close the window and all traces of your browsing are removed from your device.</p>
 <p>Handy features:</p>
 <ul>

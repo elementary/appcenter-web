@@ -5,20 +5,38 @@ summary: "Install and Manage .deb Files"
 developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/eddy"
 help_page: "https://github.com/donadigo/eddy"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"
 price: 0
 releases:
+- version: 1.2.1
+  unix-timestamp: 1530662400
+  description: |-
+    <p>This release fixes a critical error where the app would not launch due to missing files in installation.</p>
+- version: 1.2.0
+  unix-timestamp: 1530662400
+  description: |-
+    <p>This release makes a Eddy work on Juno and includes new translations:</p>
+
+    <ul>
+
+      <li>Russian translation (camellan)</li>
+
+      <li>Japanese translation (Ryo Nakano)</li>
+
+    </ul>
+
+    <p>Special thanks to eudaldgr for porting Eddy to the Meson build system.</p>
 - version: 1.1.9
   unix-timestamp: 1510444800
   description: |-

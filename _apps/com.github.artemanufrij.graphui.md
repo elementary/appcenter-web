@@ -1,22 +1,54 @@
 ---
-app_id: com.github.artemanufrij.graphui.desktop
+app_id: com.github.artemanufrij.graphui
 title: "GraphUI"
 summary: "Graph Visualization"
 developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/graphui/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.graphui.desktop/E18E3D7AF95FE19D535D16F39E3556C4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.graphui.desktop/E18E3D7AF95FE19D535D16F39E3556C4/icons/64x64/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.graphui.desktop/E18E3D7AF95FE19D535D16F39E3556C4/icons/128x128/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.graphui.desktop/E18E3D7AF95FE19D535D16F39E3556C4/icons/64x64@2/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/64x64/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/128x128/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/64x64@2/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
 color:
   primary: "#A3907C"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.2
+  unix-timestamp: 1541030400
+- version: 1.0.1
+  unix-timestamp: 1541030400
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Theme switcher</li>
+
+      <li>Switched to meson</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Restore correct window size</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+    </ul>
+- version: 0.2.0
+  unix-timestamp: 1532390400
 - version: 0.1.7
   unix-timestamp: 1521936000
   description: |-
@@ -111,7 +143,7 @@ redirect_from:
   - /com.github.artemanufrij.graphui.desktop/
 ---
 
-<p>Graph visualization based on graphviz.</p>
+<p>Graph visualization based on graphviz with included a text editor and a preview area</p>
 <p>Supported types:</p>
 <ul>
   <li>dot</li>

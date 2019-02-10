@@ -1,22 +1,102 @@
 ---
-app_id: com.github.lainsce.notejot.desktop
+app_id: com.github.lainsce.notejot
 title: "Notejot"
 summary: "Jot your ideas"
 developer: "Lains"
 homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.notejot.desktop/08516A9FD557EDDC34DCC14240C087C3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.notejot.desktop/08516A9FD557EDDC34DCC14240C087C3/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.notejot.desktop/08516A9FD557EDDC34DCC14240C087C3/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.notejot.desktop/08516A9FD557EDDC34DCC14240C087C3/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
 color:
   primary: "#fff3ae"
   primary-text: "#555864"
-price: 0
+price: 3
 releases:
+- version: 1.5.4
+  unix-timestamp: 1548633600
+  description: |-
+    <p>Release: Resized Notes? No problem!</p>
+
+    <ul>
+
+      <li>Notes&apos; resized sizes are now saved.</li>
+
+    </ul>
+- version: 1.5.3
+  unix-timestamp: 1544832000
+  description: |-
+    <p>Release: Undo/Redo Your Notes</p>
+
+    <ul>
+
+      <li>Now you can undo/redo stuff inside your notes!</li>
+
+    </ul>
+- version: 1.5.2
+  unix-timestamp: 1542931200
+  description: |-
+    <p>Release: Desktop Notes</p>
+
+    <ul>
+
+      <li>New button to stick the note to show on all workspaces and below all windows.</li>
+
+    </ul>
+- version: 1.4.3
+  unix-timestamp: 1541721600
+  description: |-
+    <p>Release: Font Foraging</p>
+
+    <ul>
+
+      <li>Revert font decision.</li>
+
+      <li>Some small UI fixes.</li>
+
+    </ul>
+- version: 1.4.2
+  unix-timestamp: 1536883200
+  description: |-
+    <p>Release: New Note Tech</p>
+
+    <ul>
+
+      <li>New font, as requested by users.</li>
+
+      <li>Some small UI fixes.</li>
+
+    </ul>
+- version: 1.4.1
+  unix-timestamp: 1536278400
+  description: |-
+    <p>Release: New Note Tech</p>
+
+    <ul>
+
+      <li>New User Interface.</li>
+
+      <li>New font.</li>
+
+      <li>Same ol&apos; notes app.</li>
+
+    </ul>
+
+    <p>Note: You should first backup your notes&apos; file before updating, you could lose data due to the new UI&apos;s backend.</p>
+- version: 1.4.0
+  unix-timestamp: 1530662400
+  description: |-
+    <p>Release: Hello Juno!</p>
+
+    <ul>
+
+      <li>Fixed deleting notes and not losing content of other notes.</li>
+
+    </ul>
 - version: 1.3.9
   unix-timestamp: 1521417600
   description: |-

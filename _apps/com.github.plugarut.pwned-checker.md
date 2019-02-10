@@ -1,24 +1,34 @@
 ---
-app_id: com.github.plugarut.pwned-checker.desktop
+app_id: com.github.plugarut.pwned-checker
 title: "Pwned Checker"
 summary: "Check if your password has beed leaked."
 developer: "Tudor Plugaru"
 homepage: "https://github.com/PlugaruT/pwned-checker"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/icons/64x64/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/icons/128x128/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/plugarut.pwned-checker.desktop/B70808ECD5C5D26C97D7BB1504AB4B60/icons/64x64@2/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/icons/64x64/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/icons/128x128/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/9E5212D0082CC593ACD9264AD06CD5D8/icons/64x64@2/com.github.plugarut.pwned-checker_com.github.plugarut.pwned-checker.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 0.2.1
+  unix-timestamp: 1539820800
+  description: |-
+    <ul>
+
+      <li>Juno Release</li>
+
+      <li>Bug fixes.</li>
+
+    </ul>
 - version: 0.1.8
   unix-timestamp: 1523577600
   description: |-

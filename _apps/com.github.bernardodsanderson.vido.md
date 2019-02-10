@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.bernardodsanderson.vido"
+app_id: com.github.bernardodsanderson.vido
 title: "VIDO"
 summary: "Online Video Downloader"
 developer: "Bernardo Anderson"
 homepage: "http://github.com/bernardodsanderson/vido"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/24E24E5B5F09337AF43C9083520B7BEE/screenshots/image-1_orig.png
@@ -22,8 +22,8 @@ releases:
   unix-timestamp: 1547078400
   description: |-
     <p>Fix audio download issues</p>
-
 redirect_from:
   - /com.github.bernardodsanderson.vido.desktop/
 ---
+
 <p>Download online videos from various sources including archive.org and much more!</p>

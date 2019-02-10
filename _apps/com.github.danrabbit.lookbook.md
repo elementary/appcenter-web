@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.danrabbit.lookbook"
+app_id: com.github.danrabbit.lookbook
 title: "LookBook"
 summary: "Browse and find system icons"
 developer: "Daniel Foré"
 homepage: "http://danielfore.com"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.lookbook/0E81FDB1987678C9B9F2466502A3DE9F/screenshots/image-1_orig.png
@@ -22,7 +22,6 @@ releases:
   unix-timestamp: 1540425600
   description: |-
     <p>Better support for symbolic-only icons and under the hood improvements!</p>
-
 - version: 1.0.0
   unix-timestamp: 1530576000
   description: |-
@@ -39,8 +38,8 @@ releases:
     <p>Finding myself making every possible mistake</p>
 
     <p>La-la-la-la-la-la-la-la…</p>
-
 redirect_from:
   - /com.github.danrabbit.lookbook.desktop/
 ---
+
 <p>Browse system icons by category or search by icon name. See icons at different sizes and get a quick code snippet to use in your apps.</p>

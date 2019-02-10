@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.tkashkin.boiler"
+app_id: com.github.tkashkin.boiler
 title: "Boiler"
 summary: "Control your kettle remotely"
 developer: "Anatoliy Kashkin"
 homepage: "https://tkashkin.tk/projects/boiler/"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tkashkin.boiler/E398C1A0A50ED7FF3F034CE395BD124C/screenshots/image-1_orig.png
@@ -19,7 +19,7 @@ icons:
 color:
   primary: "#ff8800"
   primary-text: "#000000"
-price: 
+price: 0
 releases:
 - version: 0.2.1
   unix-timestamp: 1547424000
@@ -27,30 +27,26 @@ releases:
     <p>Boiler is now split into separate modules. There is a shared library, a daemon listening DBus and a GTK+ application talking to daemon. Each device is also in its own module.</p>
 
     <p>French translation.</p>
-
 - version: 0.1.3
   unix-timestamp: 1534032000
   description: |-
     <p>More stable connecting/reconnecting.</p>
-
 - version: 0.1.2
   unix-timestamp: 1533600000
   description: |-
     <p>Updated appdata.</p>
-
 - version: 0.1.1
   unix-timestamp: 1533513600
   description: |-
     <p>Updated appdata. Fixed untranslatable string.</p>
-
 - version: 0.1.0
   unix-timestamp: 1533427200
   description: |-
     <p>Initial release.</p>
-
 redirect_from:
   - /com.github.tkashkin.boiler.desktop/
 ---
+
 <p>Simple app to control smart kettles using bluetooth.</p>
 <p>Supported devices:</p>
 <ul>

@@ -5,7 +5,7 @@ summary: "Change screen's brightness"
 developer: "Panos P."
 homepage: "https://github.com/panosx2/brightness"
 help_page: "https://github.com/panosx2/brightness"
-dist: loki
+dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_orig.png
 icons:

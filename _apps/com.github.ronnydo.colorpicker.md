@@ -1,23 +1,33 @@
 ---
-app_id: com.github.ronnydo.colorpicker.desktop
+app_id: com.github.ronnydo.colorpicker
 title: "Color Picker"
 summary: "The most intuitive Color Picker to speed up your workflow"
 developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/ColorPicker"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.colorpicker.desktop/D3DAA1BB7EDC68A4BBC305980C90C15F/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
 color:
   primary: "#A3FF91"
   primary-text: "#333333"
 price: 0
 releases:
+- version: 1.1.2
+  unix-timestamp: 1546387200
+  description: |-
+    <ul>
+
+      <li>Juno Release!!1! (finally)</li>
+
+      <li>&quot;Olá em português&quot; (Translation by @drom98)</li>
+
+    </ul>
 - version: 1.0.5
   unix-timestamp: 1524787200
   description: |-

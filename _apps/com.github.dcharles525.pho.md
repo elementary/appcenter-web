@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.dcharles525.pho"
+app_id: com.github.dcharles525.pho
 title: "Pho"
 summary: "Pho for 4chan"
 developer: "David Johnson"
 homepage: "https://github.com/dcharles525/pho"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/screenshots/image-1_orig.png
@@ -22,29 +22,24 @@ releases:
   unix-timestamp: 1546387200
   description: |-
     <p>Fixed startup error.</p>
-
 - version: 1.5
   unix-timestamp: 1544140800
   description: |-
     <p>Added a filter and lots of code cleanup.</p>
-
 - version: 1.4.1
   unix-timestamp: 1543190400
   description: |-
     <p>Fixed bugs that bug you.</p>
-
 - version: 1.4.0
   unix-timestamp: 1539648000
   description: |-
     <p>Fixed the startup window size.</p>
 
     <p>Improved thread searching.</p>
-
 - version: 1.3.0
   unix-timestamp: 1539648000
   description: |-
     <p>Basic thread searching.</p>
-
 - version: 1.2.0
   unix-timestamp: 1538092800
   description: |-
@@ -57,25 +52,22 @@ releases:
     <p>Started working on search functionality.</p>
 
     <p>Fixed lots of bugs.</p>
-
 - version: 1.1.0
   unix-timestamp: 1537142400
   description: |-
     <p>Added webms back in via gstreamer.</p>
-
 - version: 1.0.6
   unix-timestamp: 1537142400
   description: |-
     <p>Temporarily disabling webms.</p>
-
 - version: 1.0.0
   unix-timestamp: 1527897600
   description: |-
     <p>Initial release</p>
-
 redirect_from:
   - /com.github.dcharles525.pho.desktop/
 ---
+
 <p>Browser 4chan like never before with amazing GTK+ and Vala technologies! Explore the wonders of /g/ or /news/, or any of the dozens of 4chan boards!</p>
 <ul>
   <li>Browse your favorite boards!</li>

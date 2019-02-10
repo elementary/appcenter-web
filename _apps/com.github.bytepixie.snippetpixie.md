@@ -1,10 +1,10 @@
 ---
-app_id: "com.github.bytepixie.snippetpixie"
+app_id: com.github.bytepixie.snippetpixie
 title: "Snippet Pixie"
 summary: "Your little expandable snippet helper"
 developer: "Byte Pixie"
 homepage: "https://www.snippetpixie.com"
-help_page: #
+help_page: "#"
 dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/4ED283E81FB523B1F7F3280E100C627B/screenshots/image-1_orig.png
@@ -32,7 +32,6 @@ releases:
       <li>Added ability to import snippets from an exported JSON file via `--import` or `-i` CLI options. Bet you didn&apos;t see that coming! 😉</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1547510400
   description: |-
@@ -47,7 +46,6 @@ releases:
       <li>Changed body field to select all text when tabbed into.</li>
 
     </ul>
-
 - version: 0.9.3
   unix-timestamp: 1544227200
   description: |-
@@ -62,14 +60,13 @@ releases:
       <li>Added a new application icon.</li>
 
     </ul>
-
 - version: 0.9.2
   unix-timestamp: 1543622400
   description: |-
     <p>Initial pre-release.</p>
-
 redirect_from:
   - /com.github.bytepixie.snippetpixie.desktop/
 ---
+
 <p>Save your often used snippets and then expand them whenever you type their abbreviation.</p>
 <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>

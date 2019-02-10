@@ -5,7 +5,7 @@ summary: "Quickly resize images from the context menu"
 developer: "Peter Uithoven"
 homepage: "https://github.com/peteruithoven/resizer"
 help_page: "https://github.com/peteruithoven/resizer/issues"
-dist: loki
+dist: juno
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/725A9DD6B733CDC10CB4061BCEB51421/screenshots/image-2_orig.png

@@ -1,22 +1,196 @@
 ---
-app_id: com.github.artemanufrij.playmymusic.desktop
+app_id: com.github.artemanufrij.playmymusic
 title: "Melody"
-summary: "A music player for listening local music files, online radios and Audio CD's."
+summary: "A music player for listening local music files, online radios and Audio CD's"
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/melody/"
 help_page: "https://github.com/artemanufrij/playmymusic/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.playmymusic.desktop/EF4377EDE3CAE5454BDF3B9E4BA22A61/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
 color:
   primary: "#004988"
   primary-text: "rgb(255,255,255)"
-price: 3
+price: 5
 releases:
+- version: 2.2.0
+  unix-timestamp: 1542672000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>[Playlist] Export/Import Playlist as M3U format</li>
+
+      <li>[Playlist] Show track counter and playlist duration</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Select playlist button when copy queue into a new playlist</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>[Radio] UI fix &apos;new Radio&apos; popup</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>German</li>
+
+    </ul>
+- version: 2.1.0
+  unix-timestamp: 1541376000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Image preview in cover/artist chooser dialog (by kaiman)</li>
+
+      <li>[Sort by] (Artis-Album or Album-Artist) option for Albums View</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Option [on/off] for saving track progress</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Radio icon inside &quot;new radio&quot; popup</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Russian (by Camellan)</li>
+
+      <li>Chinese (by kaiman)</li>
+
+      <li>German</li>
+
+    </ul>
+- version: 2.0.0
+  unix-timestamp: 1540857600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Queue functionality</li>
+
+      <li>Save and restore last played song and progress</li>
+
+      <li>Switch columns visibility for tracks view</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Click on headerbar choose current track</li>
+
+      <li>UI: select current track in tracks view</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Reorder controls on header bar</li>
+
+      <li>Drag and Drop behavior for Playlists</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Danish (by rasmus91)</li>
+
+    </ul>
+- version: 1.1.2
+  unix-timestamp: 1540425600
+  description: |-
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Restore correct window size</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+      <li>Italian (by papou84)</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1536105600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>[optional] Delete Playlist if last Track was removed</li>
+
+      <li>Toggle playing by Space Key</li>
+
+      <li>Add Track into Playlist from Trackview</li>
+
+      <li>RadioView: [Ctrl]+[Enter] for accept changes in editor</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Player doesn&apos;t show &apos;0&apos; it the timeline if playing is paused</li>
+
+      <li>Better focus grabing</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Faster start up behaviour</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1532390400
 - version: 1.0.3
   unix-timestamp: 1523750400
   description: |-
@@ -653,7 +827,7 @@ redirect_from:
   - /com.github.artemanufrij.playmymusic.desktop/
 ---
 
-<p>A very fast music player designed extra for large local libraries.</p>
+<p>A very fast music player designed extra for large local libraries which also supports online radios and downloading album covers</p>
 <p>Features:</p>
 <ul>
   <li>Show all Albums from your library</li>
