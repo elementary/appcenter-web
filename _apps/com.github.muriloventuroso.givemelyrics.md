@@ -22,7 +22,6 @@ releases:
   unix-timestamp: 1549411200
   description: |-
     <p>Change sync lyrics</p>
-
 - version: 0.2.1
   unix-timestamp: 1548892800
   description: |-

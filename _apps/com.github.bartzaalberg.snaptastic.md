@@ -7,18 +7,158 @@ homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.snaptastic.desktop/70164DFF996AD45EBD9FBBA130A41CE1/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
 price: 3
 releases:
+- version: 1.0.1
+  unix-timestamp: 1549411200
+  description: |-
+    <p>Improved performance</p>
+
+    <ul>
+
+      <li>Improved the performance of the list view</li>
+
+      <li>Fixed Dutch grammar issues</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1548806400
+  description: |-
+    <p>Added French metadata translation</p>
+
+    <ul>
+
+      <li>Added French metadata translations</li>
+
+      <li>Sharpened application icons</li>
+
+    </ul>
+- version: 0.8.0
+  unix-timestamp: 1548547200
+  description: |-
+    <p>Added metadata translation</p>
+
+    <ul>
+
+      <li>Added metadata translations</li>
+
+    </ul>
+- version: 0.7.2
+  unix-timestamp: 1548201600
+  description: |-
+    <p>Added screenshot</p>
+
+    <ul>
+
+      <li>Single-instancing now working</li>
+
+      <li>Improved project code quality</li>
+
+      <li>Remember size,position, and maximized</li>
+
+      <li>Fixed bug opening welcome view from web store</li>
+
+    </ul>
+- version: 0.7.1
+  unix-timestamp: 1548115200
+  description: |-
+    <p>Added screenshot</p>
+
+    <ul>
+
+      <li>Fixed the icon not found crash</li>
+
+      <li>Added screenshot for snaps</li>
+
+      <li>Refactored the detail view</li>
+
+      <li>Updated the screenshot for appcenter</li>
+
+      <li>Fixed a lot of warnings</li>
+
+      <li>Added OARS rating</li>
+
+    </ul>
+- version: 0.7.0
+  unix-timestamp: 1547683200
+  description: |-
+    <p>Icons, single-instance, and translations fix</p>
+
+    <ul>
+
+      <li>Icons finally work!</li>
+
+      <li>Application is now single-instance</li>
+
+      <li>Translations are working again</li>
+
+    </ul>
+- version: 0.6.0
+  unix-timestamp: 1547337600
+  description: |-
+    <p>Fixed local snap installing, added channel support, added some shortcuts</p>
+
+    <ul>
+
+      <li>Fixed opening local snap files</li>
+
+      <li>Added ability to install from other channels</li>
+
+      <li>Channels are now shown on list and detail pages</li>
+
+      <li>Added application shortcuts</li>
+
+    </ul>
+- version: 0.5.0
+  unix-timestamp: 1546992000
+  description: |-
+    <p>Moved to meson, apps can be opened from snaptastic again</p>
+
+    <ul>
+
+      <li>Moved to Meson</li>
+
+      <li>Fixed the About link</li>
+
+      <li>Added French translation</li>
+
+      <li>Corrected some spelling</li>
+
+      <li>Fixed opening apps</li>
+
+    </ul>
+- version: 0.4.5
+  unix-timestamp: 1537401600
+  description: |-
+    <p>Juno Fixes and more translations</p>
+
+    <ul>
+
+      <li>Added Catalan and spanish translations</li>
+
+      <li>Aligned DetailViewBanner for Juno</li>
+
+    </ul>
+- version: 0.4.4
+  unix-timestamp: 1537142400
+  description: |-
+    <p>Houston CI</p>
+
+    <ul>
+
+      <li>Added Houston Ci and necessary changes</li>
+
+    </ul>
 - version: 0.4.3
   unix-timestamp: 1527379200
   description: |-
