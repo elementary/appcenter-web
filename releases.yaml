@@ -1,7 +1,9 @@
-Bases: 
-  - xenial
-  - bionic
-
+# This file keeps track of the elementary release names and their Ubunt bases
+# To change releases or add a new one, list the elemetary code name under releases,
+# then add its underlying Ubuntu base's codename under the "base" property
+  
 Releases:
-  - loki
-  - juno
+  loki: 
+    base: xenial
+  juno: 
+    base: bionic
