@@ -1,6 +1,5 @@
 require 'erb'
-require 'pry'
-
+puts 'loading AppTemplate class'
 ##
 # Creates a md file from streamed YAML data user ERB
 # - argument YAML data from a stream  
@@ -9,7 +8,6 @@ class AppTemplate
 
 	def initialize(yaml, release)
 		@yaml = yaml
-		# binding.pry
 		@mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
 		@release = release
 		@template = %{
