@@ -1,21 +1,21 @@
 ---
-app_id: "com.github.donadigo.appeditor"
+app_id: com.github.donadigo.appeditor
 title: "AppEditor"
 summary: "Edit application menu"
 developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/appeditor"
 help_page: "https://github.com/donadigo/appeditor"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/64x64/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/128x128/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/64x64@2/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/64x64/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/128x128/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/icons/64x64@2/com.github.donadigo.appeditor_com.github.donadigo.appeditor.png
 color:
   primary: "#32e3ca"
   primary-text: "#0A332D"
-price: 
+price: 0
 releases:
 - version: 1.1.0
   unix-timestamp: 1533945600
@@ -59,7 +59,6 @@ releases:
       <li>Improper escaping of special characters in display name and description</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1515974400
   description: |-
@@ -108,7 +107,6 @@ releases:
       <li>Clear the search entry when creating a new application entry</li>
 
     </ul>
-
 - version: 0.9.3
   unix-timestamp: 1503187200
   description: |-
@@ -131,25 +129,22 @@ releases:
       <li>The main window can be now maximized</li>
 
     </ul>
-
 - version: 0.9.2
   unix-timestamp: 1502755200
   description: |-
     <p>Add meson dependency to debian packaging</p>
-
 - version: 0.9.1
   unix-timestamp: 1502755200
   description: |-
     <p>Fix debian packaging</p>
-
 - version: 0.9.0
   unix-timestamp: 1502755200
   description: |-
     <p>Initial release</p>
-
 redirect_from:
   - /com.github.donadigo.appeditor.desktop/
 ---
+
 <p>Edit application entries shown in application menu and their properties.</p>
 <p>Features include:</p>
 <ul>

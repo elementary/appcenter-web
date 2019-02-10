@@ -1,32 +1,23 @@
 ---
-app_id: "com.github.alcadica.develop"
+app_id: com.github.alcadica.develop.desktop
 title: "Develop"
 summary: "Creates elementary OS apps and widgets"
 developer: "Alcadica"
 homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
 releases:
-- version: 0.0.7
-  unix-timestamp: 1538265600
-  description: |-
-    <ul>
-
-      <li>Publish the app on Juno</li>
-
-    </ul>
-
 - version: 0.0.6
   unix-timestamp: 1529712000
   description: |-
@@ -35,7 +26,6 @@ releases:
       <li>Fills generated README.md files with installing and compiling instructions</li>
 
     </ul>
-
 - version: 0.0.5
   unix-timestamp: 1527897600
   description: |-
@@ -44,7 +34,6 @@ releases:
       <li>Adds a small disclaimer about user data consumption (they are not saved on a server)</li>
 
     </ul>
-
 - version: 0.0.4
   unix-timestamp: 1527552000
   description: |-
@@ -53,7 +42,6 @@ releases:
       <li>Fixes a small bug</li>
 
     </ul>
-
 - version: 0.0.3
   unix-timestamp: 1527206400
   description: |-
@@ -76,7 +64,6 @@ releases:
       <li>Welcome View is too big</li>
 
     </ul>
-
 - version: 0.0.2
   unix-timestamp: 1526774400
   description: |-
@@ -85,7 +72,6 @@ releases:
       <li>Improves first run screen</li>
 
     </ul>
-
 - version: 0.0.1
   unix-timestamp: 1526688000
   description: |-
@@ -100,9 +86,9 @@ releases:
       <li>Creates elementary OS wingpanel indicator template</li>
 
     </ul>
-
 redirect_from:
   - /com.github.alcadica.develop.desktop/
 ---
+
 <p>A simple tool to help elementary OS developers to develop their own apps and widgets.</p>
 <p>With this app you can scaffold an elementary OS App, a Switchboard Widget or a Wingpanel Indicator</p>

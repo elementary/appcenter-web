@@ -1,17 +1,17 @@
 ---
-app_id: "com.github.davidmhewitt.torrential"
+app_id: com.github.davidmhewitt.torrential
 title: "Torrential"
 summary: "Download torrents in style"
 developer: "David Hewitt"
 homepage: "https://github.com/davidmhewitt/torrential"
 help_page: "https://github.com/davidmhewitt/torrential/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/64x64/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/128x128/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/64x64@2/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/64x64/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/128x128/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/davidmhewitt.torrential/E9C1A8D70B40844189AFD96783CD0195/icons/64x64@2/com.github.davidmhewitt.torrential_com.github.davidmhewitt.torrential.png
 color:
   primary: "rgb(224,247,255)"
   primary-text: "#000"
@@ -27,7 +27,6 @@ releases:
       <li>Torrential now also lets you pick which files within the torrent you want to download.</li>
 
     </ul>
-
 - version: 1.0.9
   unix-timestamp: 1528243200
   description: |-
@@ -42,7 +41,6 @@ releases:
       <li>Minor quality of life improvements and code cleanup.</li>
 
     </ul>
-
 - version: 1.0.8
   unix-timestamp: 1518912000
   description: |-
@@ -57,7 +55,6 @@ releases:
       <li>Updated translations.</li>
 
     </ul>
-
 - version: 1.0.7
   unix-timestamp: 1509494400
   description: |-
@@ -70,7 +67,6 @@ releases:
       <li>Updated translations.</li>
 
     </ul>
-
 - version: 1.0.6
   unix-timestamp: 1503619200
   description: |-
@@ -87,7 +83,6 @@ releases:
       <li>Updated translations.</li>
 
     </ul>
-
 - version: 1.0.5
   unix-timestamp: 1499644800
   description: |-
@@ -102,8 +97,8 @@ releases:
       <li>Added translations for some other languages and minor bug fixes.</li>
 
     </ul>
-
 redirect_from:
   - /com.github.davidmhewitt.torrential.desktop/
 ---
+
 <p>A speedy, no-frills torrent client. Comes with a sane set of default options and none of the overwhelming information you don&apos;t need.</p>

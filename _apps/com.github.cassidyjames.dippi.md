@@ -1,58 +1,29 @@
 ---
-app_id: "com.github.cassidyjames.dippi"
+app_id: com.github.cassidyjames.dippi.desktop
 title: "Dippi"
 summary: "Calculate display info like DPI and aspect ratio"
 developer: "Cassidy James Blaede"
-homepage: "https://cassidyjames.com"
-help_page: "https://cassidyjames.com/support"
-dist: juno
+homepage: "https://cassidyjames.com/dippi/"
+help_page: "#"
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A7B456E3FEFE451D37FF2662876DFF1F/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/cassidyjames.dippi.desktop/0EF6D504EA7E750E011C8E221E955479/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
 color:
   primary: "#525"
   primary-text: "#fffffc"
 price: 4
 releases:
-- version: 2.7.2
-  unix-timestamp: 1546560000
-  description: |-
-    <p>Happy new year! Just some AppData fixes today. 😉</p>
-
-- version: 2.7.1
-  unix-timestamp: 1542326400
-  description: |-
-    <p>Under-the-hood tweaks</p>
-
-- version: 2.7.0
-  unix-timestamp: 1530316800
-  description: |-
-    <p>Hello, Juno!</p>
-
-    <ul>
-
-      <li>Update translation link</li>
-
-      <li>Under the hood cleanup</li>
-
-    </ul>
-
-- version: 2.6.4
-  unix-timestamp: 1525132800
-  description: |-
-    <p>Add translation instructions and update translation link in app data</p>
-
 - version: 2.6.3
   unix-timestamp: 1523664000
   description: |-
     <p>Added translation link to app data</p>
-
 - version: 2.6.2
   unix-timestamp: 1523318400
   description: |-
@@ -65,7 +36,6 @@ releases:
       <li>Fixed deprecation</li>
 
     </ul>
-
 - version: 2.6.1
   unix-timestamp: 1521417600
   description: |-
@@ -92,12 +62,10 @@ releases:
       <li>Split utilities out into their own file</li>
 
     </ul>
-
 - version: 2.5.4
   unix-timestamp: 1517961600
   description: |-
     <p>AppData tweaks</p>
-
 - version: 2.5.3
   unix-timestamp: 1517702400
   description: |-
@@ -108,7 +76,6 @@ releases:
       <li>Window no longer resizes when switching between analyses</li>
 
     </ul>
-
 - version: 2.5.2
   unix-timestamp: 1517702400
   description: |-
@@ -119,7 +86,6 @@ releases:
       <li>Include success icon as a fallback for other icon sets</li>
 
     </ul>
-
 - version: 2.5.1
   unix-timestamp: 1516406400
   description: |-
@@ -144,7 +110,6 @@ releases:
     </ul>
 
     <p>And more! Read the recent blog post at goo.gl/tKwkq4</p>
-
 - version: 2.5.0
   unix-timestamp: 1515888000
   description: |-
@@ -155,7 +120,6 @@ releases:
       <li>Cleaned up design by moving display details to below the analysis</li>
 
     </ul>
-
 - version: 2.4.0
   unix-timestamp: 1515801600
   description: |-
@@ -170,7 +134,6 @@ releases:
       <li>Lots of little code cleanup</li>
 
     </ul>
-
 - version: 2.3.3
   unix-timestamp: 1515715200
   description: |-
@@ -181,12 +144,10 @@ releases:
       <li>Under-the-hood fixes</li>
 
     </ul>
-
 - version: 2.3.0
   unix-timestamp: 1515715200
   description: |-
     <p>Display icon now changes according to display type</p>
-
 - version: 2.2.1
   unix-timestamp: 1515628800
   description: |-
@@ -197,7 +158,6 @@ releases:
       <li>Refreshed icons thanks to Micah Ilbery</li>
 
     </ul>
-
 - version: 2.1.0
   unix-timestamp: 1515628800
   description: |-
@@ -214,7 +174,6 @@ releases:
       <li>Fixed bugs and warnings</li>
 
     </ul>
-
 - version: 2.0.0
   unix-timestamp: 1515542400
   description: |-
@@ -227,7 +186,6 @@ releases:
       <li>Added icons to make assessment clearer</li>
 
     </ul>
-
 - version: 1.2.0
   unix-timestamp: 1515542400
   description: |-
@@ -242,7 +200,6 @@ releases:
       <li>Under-the-hood restructuring</li>
 
     </ul>
-
 - version: 1.0.1
   unix-timestamp: 1515456000
   description: |-
@@ -255,15 +212,14 @@ releases:
       <li>Significant code cleanup</li>
 
     </ul>
-
 - version: 0.1.5
   unix-timestamp: 1515456000
   description: |-
     <p>Initial release for AppCenter</p>
-
 redirect_from:
   - /com.github.cassidyjames.dippi.desktop/
 ---
+
 <p>Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.</p>
 <p>Handy features:</p>
 <ul>

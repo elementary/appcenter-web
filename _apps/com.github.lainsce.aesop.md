@@ -1,59 +1,22 @@
 ---
-app_id: "com.github.lainsce.aesop"
+app_id: com.github.lainsce.aesop.desktop
 title: "Aesop"
 summary: "The simplest PDF viewer around"
 developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
-help_page: #
-dist: juno
+help_page: "#"
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.aesop.desktop/B7BFCBC8275614ABB0F62E633CF58FC3/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.aesop.desktop/B7BFCBC8275614ABB0F62E633CF58FC3/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.aesop.desktop/B7BFCBC8275614ABB0F62E633CF58FC3/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.aesop.desktop/B7BFCBC8275614ABB0F62E633CF58FC3/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
-price: 1
+price: 0
 releases:
-- version: 1.0.5
-  unix-timestamp: 1538697600
-  description: |-
-    <p>Release: Page Marker</p>
-
-    <ul>
-
-      <li>Added new &quot;Live Mode&quot; setting in the preferences menu.</li>
-
-    </ul>
-
-- version: 1.0.4
-  unix-timestamp: 1534291200
-  description: |-
-    <p>Release: Page Marker</p>
-
-    <ul>
-
-      <li>Set the page button to only be interactable when actually opening PDFs.</li>
-
-    </ul>
-
-- version: 1.0.3
-  unix-timestamp: 1530662400
-  description: |-
-    <p>Release: Fireworks Inkblot</p>
-
-    <ul>
-
-      <li>Fixed page jumper not showing certain pages.</li>
-
-      <li>Fix the size of the virtual page to fit within the PDF&apos;s sizes.</li>
-
-      <li>Fix maximization on small screens.</li>
-
-    </ul>
-
 - version: 1.0.1
   unix-timestamp: 1529625600
   description: |-
@@ -68,7 +31,6 @@ releases:
       <li>Added a way to zoom in/out in the main menu.</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1529625600
   description: |-
@@ -79,10 +41,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-
 redirect_from:
   - /com.github.lainsce.aesop.desktop/
 ---
+
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

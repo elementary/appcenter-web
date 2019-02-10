@@ -1,44 +1,24 @@
 ---
-app_id: "com.github.donadigo.eddy.desktop"
+app_id: com.github.donadigo.eddy.desktop
 title: "Eddy"
 summary: "Install and Manage .deb Files"
 developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/eddy"
 help_page: "https://github.com/donadigo/eddy"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/donadigo.eddy.desktop/61E2010597FD0C8120167EFA04DB7B17/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"
-price: 
+price: 0
 releases:
-- version: 1.2.1
-  unix-timestamp: 1530662400
-  description: |-
-    <p>This release fixes a critical error where the app would not launch due to missing files in installation.</p>
-
-- version: 1.2.0
-  unix-timestamp: 1530662400
-  description: |-
-    <p>This release makes a Eddy work on Juno and includes new translations:</p>
-
-    <ul>
-
-      <li>Russian translation (camellan)</li>
-
-      <li>Japanese translation (Ryo Nakano)</li>
-
-    </ul>
-
-    <p>Special thanks to eudaldgr for porting Eddy to the Meson build system.</p>
-
 - version: 1.1.9
   unix-timestamp: 1510444800
   description: |-
@@ -65,7 +45,6 @@ releases:
       <li>Error dialog now has a proper title</li>
 
     </ul>
-
 - version: 1.1.8
   unix-timestamp: 1505952000
   description: |-
@@ -88,7 +67,6 @@ releases:
       <li>Update Dutch and German translations</li>
 
     </ul>
-
 - version: 1.1.7
   unix-timestamp: 1503187200
   description: |-
@@ -107,7 +85,6 @@ releases:
       <li>Update application metadata</li>
 
     </ul>
-
 - version: 1.1.6
   unix-timestamp: 1500163200
   description: |-
@@ -124,7 +101,6 @@ releases:
       <li>Better visibility in the window&apos;s titlebar</li>
 
     </ul>
-
 - version: 1.1.5
   unix-timestamp: 1497225600
   description: |-
@@ -139,7 +115,6 @@ releases:
       <li>Rename executable to match RDNN naming convention</li>
 
     </ul>
-
 - version: 1.1.4
   unix-timestamp: 1495929600
   description: |-
@@ -154,7 +129,6 @@ releases:
       <li>Ctrl-Q now exists the app</li>
 
     </ul>
-
 - version: 1.0.4
   unix-timestamp: 1495152000
   description: |-
@@ -167,7 +141,6 @@ releases:
       <li>Sort packages by their state and name in the list view</li>
 
     </ul>
-
 - version: 1.0.3
   unix-timestamp: 1494460800
   description: |-
@@ -178,7 +151,6 @@ releases:
       <li>Improved performance of launching the app second time</li>
 
     </ul>
-
 - version: 1.0.2
   unix-timestamp: 1493769600
   description: |-
@@ -189,7 +161,6 @@ releases:
       <li>Minor fixes</li>
 
     </ul>
-
 - version: 1.0.1
   unix-timestamp: 1492819200
   description: |-
@@ -202,7 +173,6 @@ releases:
       <li>Fixed adding a file already in the list duplicated it</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1492819200
   description: |-
@@ -213,7 +183,6 @@ releases:
       <li>Fix wrong icon displayed in the notifications</li>
 
     </ul>
-
 - version: 0.9.1
   unix-timestamp: 1492646400
   description: |-
@@ -226,15 +195,14 @@ releases:
       <li>Update debian packaging</li>
 
     </ul>
-
 - version: 0.9.0
   unix-timestamp: 1492387200
   description: |-
     <p>Initial release</p>
-
 redirect_from:
   - /com.github.donadigo.eddy.desktop/
 ---
+
 <p>Install, uninstall and view information about debian packages.</p>
 <p>Features include:</p>
 <ul>

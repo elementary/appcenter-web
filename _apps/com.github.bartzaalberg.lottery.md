@@ -1,111 +1,24 @@
 ---
-app_id: "com.github.bartzaalberg.lottery"
+app_id: com.github.bartzaalberg.lottery.desktop
 title: "Lottery"
 summary: "Who will be the winner?"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/lottery"
 help_page: "https://github.com/bartzaalberg/lottery/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/6B03710D704459723937C842458B83EA/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.lottery.desktop/E5AB846F46A01D9BDF8699531E0A7DB9/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
 color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#fe2e56"
-price: 
+price: 0
 releases:
-- version: 1.4.2
-  unix-timestamp: 1548892800
-  description: |-
-    <p>Added French metadata translation</p>
-
-    <ul>
-
-      <li>Added French metadata translation</li>
-
-    </ul>
-
-- version: 1.4.1
-  unix-timestamp: 1548806400
-  description: |-
-    <p>Fixed Dutch metadata translation</p>
-
-    <ul>
-
-      <li>Fixed Dutch metadata translation</li>
-
-      <li>Added provides tag for appdata</li>
-
-    </ul>
-
-- version: 1.4.0
-  unix-timestamp: 1548547200
-  description: |-
-    <p>Remember size and position, metadata translations</p>
-
-    <ul>
-
-      <li>Added metadata translations</li>
-
-      <li>Application now remembers position and size</li>
-
-      <li>Fixed the about link</li>
-
-    </ul>
-
-- version: 1.3.7
-  unix-timestamp: 1548115200
-  description: |-
-    <p>Added OARS rating</p>
-
-    <ul>
-
-      <li>Added OARS rating</li>
-
-    </ul>
-
-- version: 1.3.6
-  unix-timestamp: 1547683200
-  description: |-
-    <p>Single-instance, fixed translations</p>
-
-    <ul>
-
-      <li>Fixed translations</li>
-
-      <li>Added French translation</li>
-
-      <li>Application is now single-instance</li>
-
-    </ul>
-
-- version: 1.3.5
-  unix-timestamp: 1537574400
-  description: |-
-    <p>Updated release for Juno</p>
-
-    <ul>
-
-      <li>Migrated to Meson</li>
-
-    </ul>
-
-- version: 1.3.4
-  unix-timestamp: 1537488000
-  description: |-
-    <p>Updated release for Juno</p>
-
-    <ul>
-
-      <li>Added Houston CI</li>
-
-    </ul>
-
 - version: 1.3.3
   unix-timestamp: 1527379200
   description: |-
@@ -118,7 +31,6 @@ releases:
       <li>Added quitting shortcut</li>
 
     </ul>
-
 - version: 1.3.2
   unix-timestamp: 1518220800
   description: |-
@@ -131,7 +43,6 @@ releases:
       <li>Added import shortcut to cheatsheet</li>
 
     </ul>
-
 - version: 1.3.1
   unix-timestamp: 1518134400
   description: |-
@@ -148,7 +59,6 @@ releases:
       <li>Added dutch translation</li>
 
     </ul>
-
 - version: 1.3.0
   unix-timestamp: 1518048000
   description: |-
@@ -167,7 +77,6 @@ releases:
       <li>Updated appcenter colors</li>
 
     </ul>
-
 - version: 1.2.2
   unix-timestamp: 1509494400
   description: |-
@@ -178,7 +87,6 @@ releases:
       <li>Fixed icon shadows</li>
 
     </ul>
-
 - version: 1.2.1
   unix-timestamp: 1509062400
   description: |-
@@ -191,7 +99,6 @@ releases:
       <li>Added search shortcut with ctrl + f</li>
 
     </ul>
-
 - version: 1.2.0
   unix-timestamp: 1508803200
   description: |-
@@ -206,7 +113,6 @@ releases:
       <li>Added an about action which redirects to the appcenter</li>
 
     </ul>
-
 - version: 1.1.1
   unix-timestamp: 1508284800
   description: |-
@@ -217,7 +123,6 @@ releases:
       <li>Updated the win dialog with a seperate headerbar</li>
 
     </ul>
-
 - version: 1.1.0
   unix-timestamp: 1508112000
   description: |-
@@ -228,7 +133,6 @@ releases:
       <li>Updated the win dialog to a screen instead of a dialog!</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1508112000
   description: |-
@@ -241,7 +145,6 @@ releases:
       <li>Added a cheatsheet</li>
 
     </ul>
-
 - version: 0.0.2
   unix-timestamp: 1508112000
   description: |-
@@ -254,7 +157,6 @@ releases:
       <li>Added shortcut for choosing a random winner(ctrl + w)</li>
 
     </ul>
-
 - version: 0.0.1
   unix-timestamp: 1507939200
   description: |-
@@ -265,10 +167,10 @@ releases:
       <li>First release</li>
 
     </ul>
-
 redirect_from:
   - /com.github.bartzaalberg.lottery.desktop/
 ---
+
 <p>A tool to determine who will be the winner.</p>
 <p>Features:</p>
 <ul>

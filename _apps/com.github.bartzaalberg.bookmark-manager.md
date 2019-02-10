@@ -1,90 +1,24 @@
 ---
-app_id: "com.github.bartzaalberg.bookmark-manager"
+app_id: com.github.bartzaalberg.bookmark-manager.desktop
 title: "Bookmark Manager"
 summary: "Manage your SSH bookmarks"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/8131B41EDBEC6482E2AB7E0281B09673/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.bookmark-manager.desktop/33CEA276BC0A707CAA5D4AACDD9B3BEA/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
 price: 3
 releases:
-- version: 1.6.0
-  unix-timestamp: 1548720000
-  description: |-
-    <p>Metadata translation, Remember position and size</p>
-
-    <ul>
-
-      <li>Added metadata translation</li>
-
-      <li>Application now remembers size and position</li>
-
-      <li>Added code style hook</li>
-
-      <li>Fixed about shortcut</li>
-
-      <li>Added OARS rating</li>
-
-    </ul>
-
-- version: 1.5.1
-  unix-timestamp: 1547596800
-  description: |-
-    <p>Re-enabled translations, single-instance, added French</p>
-
-    <ul>
-
-      <li>Application is now single-instance</li>
-
-      <li>Added French translations</li>
-
-      <li>Re-enabed translations</li>
-
-    </ul>
-
-- version: 1.5.0
-  unix-timestamp: 1547424000
-  description: |-
-    <p>Juno ready</p>
-
-    <ul>
-
-      <li>Changed the default terminal name to juno standard</li>
-
-      <li>Moved to Meson</li>
-
-      <li>Added Polish translations</li>
-
-      <li>Moved in-app terminal out of experimentary</li>
-
-      <li>Fixed freeze when terminal is open</li>
-
-    </ul>
-
-- version: 1.4.2
-  unix-timestamp: 1539561600
-  description: |-
-    <p>Release for Juno and Houston Ci</p>
-
-    <ul>
-
-      <li>Added Houston CI</li>
-
-      <li>Released for Juno</li>
-
-    </ul>
-
 - version: 1.4.1
   unix-timestamp: 1527379200
   description: |-
@@ -105,7 +39,6 @@ releases:
       <li>Refactored code and removed deprecated code</li>
 
     </ul>
-
 - version: 1.4.0
   unix-timestamp: 1516838400
   description: |-
@@ -128,7 +61,6 @@ releases:
       <li>Updated to granite5.0</li>
 
     </ul>
-
 - version: 1.3.5
   unix-timestamp: 1510272000
   description: |-
@@ -143,7 +75,6 @@ releases:
       <li>Added a cool dynamic cancel button in the headerBar</li>
 
     </ul>
-
 - version: 1.3.4
   unix-timestamp: 1509321600
   description: |-
@@ -154,7 +85,6 @@ releases:
       <li>fixed a bug where first screen would be empty</li>
 
     </ul>
-
 - version: 1.3.3
   unix-timestamp: 1509321600
   description: |-
@@ -167,7 +97,6 @@ releases:
       <li>Standard is now environment user</li>
 
     </ul>
-
 - version: 1.3.2
   unix-timestamp: 1509062400
   description: |-
@@ -182,7 +111,6 @@ releases:
       <li>Did alot of refactoring</li>
 
     </ul>
-
 - version: 1.3.1
   unix-timestamp: 1508803200
   description: |-
@@ -193,7 +121,6 @@ releases:
       <li>The last release didn&apos;t include all the commits. This one does.</li>
 
     </ul>
-
 - version: 1.3.0
   unix-timestamp: 1508803200
   description: |-
@@ -208,7 +135,6 @@ releases:
       <li>Errors are now noted INSIDE the application when starting a session</li>
 
     </ul>
-
 - version: 1.2.4
   unix-timestamp: 1507852800
   description: |-
@@ -223,7 +149,6 @@ releases:
       <li>Fixed a bug which would remove settings which are not yet supported in the edit form</li>
 
     </ul>
-
 - version: 1.2.3
   unix-timestamp: 1507075200
   description: |-
@@ -238,7 +163,6 @@ releases:
       <li>Made the filereader alot faster.</li>
 
     </ul>
-
 - version: 1.2.2
   unix-timestamp: 1505952000
   description: |-
@@ -253,7 +177,6 @@ releases:
       <li>Added some margin for buttons</li>
 
     </ul>
-
 - version: 1.2.1
   unix-timestamp: 1505606400
   description: |-
@@ -268,7 +191,6 @@ releases:
       <li>Changed text on the welcome screen</li>
 
     </ul>
-
 - version: 1.2.0
   unix-timestamp: 1505520000
   description: |-
@@ -285,7 +207,6 @@ releases:
       <li>Added AgentForward and ProxyCommand support</li>
 
     </ul>
-
 - version: 1.1.9
   unix-timestamp: 1505520000
   description: |-
@@ -296,7 +217,6 @@ releases:
       <li>Updated screenshot</li>
 
     </ul>
-
 - version: 1.1.8
   unix-timestamp: 1505520000
   description: |-
@@ -309,7 +229,6 @@ releases:
       <li>Added more entry fields to the AddBookmark form</li>
 
     </ul>
-
 - version: 1.1.7
   unix-timestamp: 1505433600
   description: |-
@@ -328,7 +247,6 @@ releases:
       <li>Added no bookmark found screen when searching wont find anything</li>
 
     </ul>
-
 - version: 1.1.6
   unix-timestamp: 1505174400
   description: |-
@@ -343,7 +261,6 @@ releases:
       <li>Added a workaround for a bug where some hosts wouldn&apos;t show up</li>
 
     </ul>
-
 - version: 1.1.5
   unix-timestamp: 1505001600
   description: |-
@@ -354,7 +271,6 @@ releases:
       <li>Changed the description and my name</li>
 
     </ul>
-
 - version: 1.1.4
   unix-timestamp: 1505001600
   description: |-
@@ -365,7 +281,6 @@ releases:
       <li>Updated screenshot because the last contained a white background</li>
 
     </ul>
-
 - version: 1.1.3
   unix-timestamp: 1504656000
   description: |-
@@ -378,7 +293,6 @@ releases:
       <li>Added a nice empty file message when the file is empty</li>
 
     </ul>
-
 - version: 1.1.2
   unix-timestamp: 1504569600
   description: |-
@@ -389,7 +303,6 @@ releases:
       <li>Fixed scheme loading</li>
 
     </ul>
-
 - version: 1.1.1
   unix-timestamp: 1504483200
   description: |-
@@ -400,7 +313,6 @@ releases:
       <li>Added debhelper dependency</li>
 
     </ul>
-
 - version: 1.1.0
   unix-timestamp: 1504483200
   description: |-
@@ -411,7 +323,6 @@ releases:
       <li>Added support for use of ssh username and port number</li>
 
     </ul>
-
 - version: 1.0.1
   unix-timestamp: 1503619200
   description: |-
@@ -422,7 +333,6 @@ releases:
       <li>Lowered minimal cmake version</li>
 
     </ul>
-
 - version: 1.0.0
   unix-timestamp: 1503619200
   description: |-
@@ -433,10 +343,10 @@ releases:
       <li>First release</li>
 
     </ul>
-
 redirect_from:
   - /com.github.bartzaalberg.bookmark-manager.desktop/
 ---
+
 <p>A simple tool to manage your SSH bookmarks from the .ssh/config file. Add, edit, and remove straight from the application. Start in a terminal inside the app, or use your own favorite terminal. You can even add your bookmarks to your app launcher as shortcuts!</p>
 <p>Features:</p>
 <ul>

@@ -1,27 +1,24 @@
 ---
-app_id: "com.github.artemanufrij.showmypictures.desktop"
+app_id: com.github.artemanufrij.showmypictures.desktop
 title: "Memories"
 summary: "Manage local image files"
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/memories/"
 help_page: "https://github.com/artemanufrij/showmypictures/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures/3488A9F755D974D347219613C5F3CF2E/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
 color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 2
 releases:
-- version: 0.3.0
-  unix-timestamp: 1532390400
-
 - version: 0.2.8
   unix-timestamp: 1526083200
   description: |-
@@ -32,7 +29,6 @@ releases:
       <li>Context menu &apos;Save as…&apos; for pictures. [Ctrl+s]</li>
 
     </ul>
-
 - version: 0.2.7
   unix-timestamp: 1524614400
   description: |-
@@ -45,7 +41,6 @@ releases:
     </ul>
 
     <p>Small UI improvements</p>
-
 - version: 0.2.6
   unix-timestamp: 1522368000
   description: |-
@@ -56,7 +51,6 @@ releases:
       <li>Scroll through the pictures opened from a SMB:// source</li>
 
     </ul>
-
 - version: 0.2.5
   unix-timestamp: 1521504000
   description: |-
@@ -69,7 +63,6 @@ releases:
       <li>Support for GIF files</li>
 
     </ul>
-
 - version: 0.2.4
   unix-timestamp: 1520640000
   description: |-
@@ -82,7 +75,6 @@ releases:
       <li>Notification about counter of imported files</li>
 
     </ul>
-
 - version: 0.2.3
   unix-timestamp: 1520640000
   description: |-
@@ -95,7 +87,6 @@ releases:
       <li>New Screenshots for AppCenter</li>
 
     </ul>
-
 - version: 0.2.2
   unix-timestamp: 1519776000
   description: |-
@@ -114,7 +105,6 @@ releases:
       <li>Speed up start behaviour for &quot;Fast View&quot;</li>
 
     </ul>
-
 - version: 0.2.1
   unix-timestamp: 1519516800
   description: |-
@@ -125,7 +115,6 @@ releases:
       <li>Fast view mode. Open a separate Window for external files (without loading library content)</li>
 
     </ul>
-
 - version: 0.2.0
   unix-timestamp: 1518393600
   description: |-
@@ -138,7 +127,6 @@ releases:
       <li>Additional settings: &quot;check for missing files on start up&quot; and &quot;check for duplicats on start up&quot;</li>
 
     </ul>
-
 - version: 0.1.5
   unix-timestamp: 1517788800
   description: |-
@@ -151,7 +139,6 @@ releases:
       <li>Show picture details in Dupplicates View</li>
 
     </ul>
-
 - version: 0.1.4
   unix-timestamp: 1517356800
   description: |-
@@ -180,7 +167,6 @@ releases:
       <li>Order pictures by hour, minute, second inside an album</li>
 
     </ul>
-
 - version: 0.1.3
   unix-timestamp: 1516924800
   description: |-
@@ -217,7 +203,6 @@ releases:
       <li>Open external files</li>
 
     </ul>
-
 - version: 0.1.2
   unix-timestamp: 1516579200
   description: |-
@@ -240,7 +225,6 @@ releases:
       <li>Start up behavior (much faster)</li>
 
     </ul>
-
 - version: 0.1.1
   unix-timestamp: 1516320000
   description: |-
@@ -267,13 +251,12 @@ releases:
       <li>Move to Exiv2</li>
 
     </ul>
-
 - version: 0.1.0
   unix-timestamp: 1515974400
-
 redirect_from:
   - /com.github.artemanufrij.showmypictures.desktop/
 ---
+
 <p>A very fast image viewer designed extra for large local libraries.</p>
 <p>Features:</p>
 <ul>

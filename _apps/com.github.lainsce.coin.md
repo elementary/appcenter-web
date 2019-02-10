@@ -1,46 +1,22 @@
 ---
-app_id: "com.github.lainsce.coin"
+app_id: com.github.lainsce.coin.desktop
 title: "Coin"
 summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
 developer: "Lains"
 homepage: "https://github.com/lainsce/coin/"
-help_page: #
-dist: juno
+help_page: "#"
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/6AA95BFAA0A04BBA9C4A2522BDC0B5B5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/6AA95BFAA0A04BBA9C4A2522BDC0B5B5/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/6AA95BFAA0A04BBA9C4A2522BDC0B5B5/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/6AA95BFAA0A04BBA9C4A2522BDC0B5B5/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
 color:
   primary: "#badbad"
   primary-text: "#212121"
-price: 
+price: 0
 releases:
-- version: 1.2.4
-  unix-timestamp: 1536278400
-  description: |-
-    <p>Release: Ticker Ticking</p>
-
-    <ul>
-
-      <li>A new change of value ticker for the day.</li>
-
-      <li>Added Bitcoin Cash virtual currency.</li>
-
-    </ul>
-
-- version: 1.2.3
-  unix-timestamp: 1531440000
-  description: |-
-    <p>Release: 1 2 3, hello Juno!</p>
-
-    <ul>
-
-      <li>Some Translations.</li>
-
-    </ul>
-
 - version: 1.2.1
   unix-timestamp: 1523059200
   description: |-
@@ -51,7 +27,6 @@ releases:
       <li>The names of the currencies are now translatable.</li>
 
     </ul>
-
 - version: 1.2.0
   unix-timestamp: 1509062400
   description: |-
@@ -62,7 +37,6 @@ releases:
       <li>Minor fixes all around.</li>
 
     </ul>
-
 - version: 1.1.9
   unix-timestamp: 1508457600
   description: |-
@@ -77,7 +51,6 @@ releases:
       <li>Adds support for high definition icons.</li>
 
     </ul>
-
 - version: 1.1.8
   unix-timestamp: 1507852800
   description: |-
@@ -90,7 +63,6 @@ releases:
       <li>Minor fixes to make Coin more aesthetically appealing.</li>
 
     </ul>
-
 - version: 1.1.7
   unix-timestamp: 1505606400
   description: |-
@@ -101,7 +73,6 @@ releases:
       <li>Add Brazilian Portuguese translations.</li>
 
     </ul>
-
 - version: 1.1.6
   unix-timestamp: 1505606400
   description: |-
@@ -112,7 +83,6 @@ releases:
       <li>Use GResources to load the GTK CSS Styling</li>
 
     </ul>
-
 - version: 1.1.5
   unix-timestamp: 1504742400
   description: |-
@@ -127,10 +97,10 @@ releases:
       <li>Add South African Rand (ZAR).</li>
 
     </ul>
-
 redirect_from:
   - /com.github.lainsce.coin.desktop/
 ---
+
 <p>Track the virtual currencies in real world currency value with this handy applet</p>
 <ul>
   <li>Choose which currency and virtual currency to use for tracking</li>

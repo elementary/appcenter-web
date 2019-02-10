@@ -1,76 +1,50 @@
 ---
-app_id: "com.github.gijsgoudzwaard.image-optimizer"
+app_id: com.github.gijsgoudzwaard.image-optimizer.desktop
 title: "Image Optimizer"
 summary: "Simple lossless image compression"
 developer: "Gijs Goudzwaard"
 homepage: "https://github.com/gijsgoudzwaard/image-optimizer"
 help_page: "https://github.com/gijsgoudzwaard/image-optimizer/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/072800B955C30DF3B8FE0FDF6241AF42/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/gijsgoudzwaard.image-optimizer.desktop/1581663F94DB3B7A857C4860C8E9CE94/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
 color:
   primary: "#687ddb"
   primary-text: "#ffffff"
 price: 2
 releases:
-- version: 0.1.11
-  unix-timestamp: 1533254400
-  description: |-
-    <p>Getting things ready for Juno, #27 should be fixed.</p>
-
-- version: 0.1.10
-  unix-timestamp: 1530576000
-  description: |-
-    <p>Fixed unmet dependencies.</p>
-
-- version: 0.1.9
-  unix-timestamp: 1530576000
-  description: |-
-    <p>Getting things ready for Juno.</p>
-
-- version: 0.1.8
-  unix-timestamp: 1530576000
-  description: |-
-    <p>Getting things ready for Juno.</p>
-
 - version: 0.1.7
   unix-timestamp: 1516406400
   description: |-
     <p>This release fixes the context menu in Files.</p>
-
 - version: 0.1.6
   unix-timestamp: 1516233600
   description: |-
     <p>This release adds a context menu in Files for images that will allow easier image optimizations.</p>
-
 - version: 0.1.4
   unix-timestamp: 1508112000
   description: |-
     <p>This release changes the upload button to fit the Elementary OS HIG better.</p>
-
 - version: 0.1.3
   unix-timestamp: 1507507200
   description: |-
     <p>This release changes the upload icon to fit the Elementary OS HIG better.</p>
-
 - version: 0.1.2
   unix-timestamp: 1507075200
   description: |-
     <p>This release changes the icon to fit the Elementary OS HIG better.</p>
-
 redirect_from:
   - /com.github.gijsgoudzwaard.image-optimizer.desktop/
 ---
-<p>Compress your images with ease without the cost of loosing the images quality using JpegOptim and OptiPng.</p>
+
+<p>Compress your images with ease using JpegOptim and OptiPng</p>
 <p>Features:</p>
 <ul>
-  <li>Compress bmp, jpg / jpeg, png, pnm and tiff with lossless compression</li>
-  <li>Works offline, always ready where and whenever needed</li>
-  <li>A clean interface, optimize your images effortlessly</li>
-  <li>Easily quit the application by pressing Ctrl + Q</li>
+  <li>Easily quit the application by pressing Control + q</li>
+  <li>Compress jpg / jpeg, png, bmp, pnm and tiff with lossless compression</li>
 </ul>
