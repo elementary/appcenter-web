@@ -6,10 +6,11 @@ puts 'loading AppTemplate class'
 class AppTemplate
 	attr_accessor :template, :mediaBase, :releaseHash
 
-	def initialize(yaml, release)
+	def initialize(yaml, release, base)
 		@yaml = yaml
-		@mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
+		@base = base
 		@release = release
+		@mediaBase = "https://appstream.elementary.io/appcenter/media/#{base}"
 		@template = %{
 
 		---
@@ -53,7 +54,10 @@ class AppTemplate
 	end
 	def get_screenshots(screenshot)
 		parts = screenshot["source-image"]["url"].split('/')
-		parts[2] = parts[2].split('.desktop')[0]
+		# Loki treats its release URLS differently so we must account for that
+		unless @release == 'loki'
+			parts[2] = parts[2].split('.desktop')[0]
+		end
 		@releaseHash = parts[0...4].join('/')
 		return "  - #{mediaBase}/#{parts.join('/')}"
 	end

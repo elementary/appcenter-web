@@ -18,7 +18,7 @@ module CreateAppEntries
 
 			streamed.each do |s|
 				if s['Type'] == 'desktop-application'
-					AppTemplate.new(s, release).save("_apps/#{s['Package']}.md")
+					AppTemplate.new(s, release, base).save("_apps/#{s['Package']}.md")
 				end
 			end
 		# end
