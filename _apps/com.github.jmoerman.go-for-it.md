@@ -7,16 +7,34 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.6.10
+  unix-timestamp: 1550016000
+  description: |-
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Pressing delete while editing a task description would remove the task instead of removing a character.</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated french translations.</li>
+
+    </ul>
 - version: 1.6.9
   unix-timestamp: 1543708800
   description: |-
