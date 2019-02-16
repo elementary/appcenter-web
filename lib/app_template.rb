@@ -53,13 +53,9 @@ class AppTemplate
 		"\"#{value}\""
 	end
 	def get_screenshots(screenshot)
-		parts = screenshot["source-image"]["url"].split('/')
-		# Loki treats its release URLS differently so we must account for that
-		unless @release == 'loki'
-			parts[2] = parts[2].split('.desktop')[0]
-		end
-		@releaseHash = parts[0...4].join('/')
-		return "  - #{mediaBase}/#{parts.join('/')}"
+		url = screenshot["source-image"]["url"]
+		@releaseHash = url.split('/')[0...4].join('/')
+		return "  - #{mediaBase}/#{url}"
 	end
 
 	# Helper method to create a string for included icons
