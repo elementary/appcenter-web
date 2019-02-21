@@ -7,16 +7,28 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/241C193A225A67FBEC91FB0128C3FE14/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/241C193A225A67FBEC91FB0128C3FE14/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/241C193A225A67FBEC91FB0128C3FE14/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/241C193A225A67FBEC91FB0128C3FE14/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
+- version: 1.0.3
+  unix-timestamp: 1550534400
+  description: |-
+    <ul>
+
+      <li>Show a confirmation dialog when trying to quit the app if a recording is in progress</li>
+
+      <li>Add Lithuanian translation (by welaq)</li>
+
+      <li>Update Japanese translation</li>
+
+    </ul>
 - version: 1.0.2
   unix-timestamp: 1547942400
   description: |-

@@ -7,27 +7,117 @@ homepage: "https://github.com/naaando/lyrics"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/77317FE141DA1ED38ABA21D048490646/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 1
 releases:
+- version: 0.7.3
+  unix-timestamp: 1550448000
+  description: |-
+    <ul>
+
+      <li>Fix error where a searched lyric is not displayed if lyrics wasn&apos;t displaying already</li>
+
+    </ul>
+- version: 0.7.2
+  unix-timestamp: 1550102400
+  description: |-
+    <ul>
+
+      <li>Fix repositories returning null collections</li>
+
+    </ul>
+- version: 0.7.1
+  unix-timestamp: 1549584000
+  description: |-
+    <ul>
+
+      <li>Fix settings popover menu closing on click</li>
+
+    </ul>
+- version: 0.7.0
+  unix-timestamp: 1549584000
+  description: |-
+    <ul>
+
+      <li>Let clicks pass through the window when it is translucid</li>
+
+      <li>Hide headerbar widgets when the app goes backdrop</li>
+
+      <li>Makes headerbar clickable on ghost mode to drag and to grab focus</li>
+
+    </ul>
+- version: 0.6.0
+  unix-timestamp: 1548979200
+  description: |-
+    <ul>
+
+      <li>Add lyric search</li>
+
+      <li>Remove Cairo dependency</li>
+
+      <li>Remove Granite dependency</li>
+
+    </ul>
 - version: 0.5.2
   unix-timestamp: 1548806400
+  description: |-
+    <ul>
+
+      <li>Reduce spacing spent on margins and borders</li>
+
+      <li>Saves window&apos;s width and height properties now</li>
+
+      <li>Under the hood code improvements</li>
+
+    </ul>
 - version: 0.5.1
   unix-timestamp: 1548806400
+  description: |-
+    <ul>
+
+      <li>Reset font on restore settings</li>
+
+    </ul>
 - version: 0.5.0
   unix-timestamp: 1548806400
+  description: |-
+    <ul>
+
+      <li>Make possible to choose custom fonts</li>
+
+      <li>Make the app translatable</li>
+
+      <li>Add brazillian portuguese translation</li>
+
+      <li>Add french translation</li>
+
+      <li>Fixes for packaging to flatpak</li>
+
+    </ul>
 - version: 0.4.5
   unix-timestamp: 1547596800
+  description: |-
+    <ul>
+
+      <li>Fix when playing setting</li>
+
+      <li>Fixes lyric parsing</li>
+
+      <li>Fix play and pause icons on player control button</li>
+
+      <li>Fix error where lyrics don&apos;t stop after closing the player</li>
+
+    </ul>
 - version: 0.4.1
   unix-timestamp: 1547337600
   description: |-
