@@ -7,20 +7,40 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/A0E2D912B1C611BD0A3A415D9E7A96C6/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 1.7.3
+  unix-timestamp: 1551398400
+  description: |-
+    <p>Release: Betamax Tracker</p>
+
+    <ul>
+
+      <li>Some UX redefinition in the sidebar, to avoid complicating it.</li>
+
+    </ul>
+- version: 1.7.2
+  unix-timestamp: 1551398400
+  description: |-
+    <p>Release: Kodachrome Selector</p>
+
+    <ul>
+
+      <li>Open files without adding duplicate entries, and clear sidbar is you really need to (it has a confirm dialog).</li>
+
+    </ul>
 - version: 1.7.0
   unix-timestamp: 1550793600
   description: |-

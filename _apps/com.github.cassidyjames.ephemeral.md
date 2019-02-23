@@ -7,18 +7,50 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/887F3AF189259456971F96764437FDF3/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/73708EF08E683C41F489D9BE4F106A94/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
 releases:
+- version: 4.1.2
+  unix-timestamp: 1550793600
+  description: |-
+    <p>URL Entry Fixes</p>
+
+    <ul>
+
+      <li>Updated and corrected several autocomplete domains</li>
+
+      <li>No longer attempt to force HTTPS on protocol-less domains—fixes several popular sites</li>
+
+      <li>Strip whitespace from URL entry before navigating—fixes instances where trying to navigate to a domain would perform
+
+    a search</li> </ul>
+- version: 4.1.1
+  unix-timestamp: 1550707200
+  description: |-
+    <p>URL Suggestion Fixes</p>
+
+    <ul>
+
+      <li>Corrected joinmastodon.org TLD</li>
+
+      <li>Added additional useful sites</li>
+
+      <li>Added descriptions for more sites</li>
+
+      <li>Removed dead sites</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 4.1.0
   unix-timestamp: 1550188800
   description: |-
