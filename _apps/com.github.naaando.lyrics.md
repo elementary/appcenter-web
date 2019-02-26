@@ -7,19 +7,29 @@ homepage: "https://github.com/naaando/lyrics"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/9163F6BEBAFF69C7A0B9CC68C0A87618/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 1
 releases:
+- version: 0.7.4
+  unix-timestamp: 1550880000
+  description: |-
+    <ul>
+
+      <li>It solves the problem of the window undoing the resize when going to backdrop if it was shortened horizontally.</li>
+
+      <li>Update translation files</li>
+
+    </ul>
 - version: 0.7.3
   unix-timestamp: 1550448000
   description: |-

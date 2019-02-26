@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/DAC5BE5BF9AFA12C77A40A35EED0BBD7/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/DAC5BE5BF9AFA12C77A40A35EED0BBD7/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/DAC5BE5BF9AFA12C77A40A35EED0BBD7/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/DAC5BE5BF9AFA12C77A40A35EED0BBD7/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.0.5
+  unix-timestamp: 1551398400
+  description: |-
+    <p>Release: Color and Save Tasks</p>
+
+    <ul>
+
+      <li>Fixed: Exporting and opening tasks should preserve their colors as well.</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1551398400
   description: |-
