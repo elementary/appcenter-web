@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/24608AB242C898F7B6CE451AA769A47B/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
 color:
   primary: "#fff3ae"
   primary-text: "#555864"
 price: 3
 releases:
+- version: 1.5.5
+  unix-timestamp: 1550793600
+  description: |-
+    <p>Release: A Small Change of Pace</p>
+
+    <ul>
+
+      <li>Notes are now saved in a better location not prone to autodeletion.</li>
+
+      <li>Updated Lithuanian translations.</li>
+
+    </ul>
 - version: 1.5.4
   unix-timestamp: 1548633600
   description: |-

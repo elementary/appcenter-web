@@ -7,18 +7,80 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/3C6108AB064639C6B279F25D055CBB65/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
 releases:
+- version: 4.2.0
+  unix-timestamp: 1550880000
+  description: |-
+    <p>Blaze It</p>
+
+    <ul>
+
+      <li>New option to close the window when opening a page in an external browser</li>
+
+      <li>The web view is now focused when navigating</li>
+
+    </ul>
+- version: 4.1.2
+  unix-timestamp: 1550793600
+  description: |-
+    <p>URL Entry Fixes</p>
+
+    <ul>
+
+      <li>Updated and corrected several autocomplete domains</li>
+
+      <li>No longer attempt to force HTTPS on protocol-less domains—fixes several popular sites</li>
+
+      <li>Strip whitespace from URL entry before navigating—fixes instances where trying to navigate to a domain would perform
+
+    a search</li> </ul>
+- version: 4.1.1
+  unix-timestamp: 1550707200
+  description: |-
+    <p>URL Suggestion Fixes</p>
+
+    <ul>
+
+      <li>Corrected joinmastodon.org TLD</li>
+
+      <li>Added additional useful sites</li>
+
+      <li>Added descriptions for more sites</li>
+
+      <li>Removed dead sites</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 4.1.0
+  unix-timestamp: 1550188800
+  description: |-
+    <p>All New Search + Suggestions</p>
+
+    <ul>
+
+      <li>The URL entry will offer to complete over 400 popular sites*</li>
+
+      <li>New Search Engine choice in the Menu</li>
+
+      <li>Switched to Startpage.com by default</li>
+
+      <li>Happy birthday, Katie!</li>
+
+    </ul>
+
+    <p>*This data is all shipped with Ephemeral itself, and Ephemeral still does not touch the network until you explicitly navigate somewhere. The list of domains is heavily inspired by a similar feature in Firefox Focus. Domains being included in completion suggestions are not an endorsement, it simply means that domain is relatively popular.</p>
 - version: 4.0.4
   unix-timestamp: 1549929600
   description: |-
@@ -208,13 +270,14 @@ redirect_from:
   <li>Search right from the URL bar</li>
   <li>Set as your default browser for true privacy by default</li>
   <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
+  <li>Pick between privacy-respecting search engines from the menu</li>
 </ul>
 <p>Ephemeral protects you in four key ways:</p>
 <p>1️⃣ Always incognito. From the second you open an Ephemeral window until you close it (or hit the Erase button), Ephemeral is in private browsing mode. That means history, cookies, local storage, passwords, etc. are all blown away as soon as you leave.</p>
 <p>2️⃣ Contained. Every Ephemeral window is a separate instance of the browser engine. This means pages are kept separate from one another. Sign into a service in one window, and other Ephemeral windows will have no idea you’re signed in.</p>
 <p>3️⃣ No third-party cookies. Out of the box, Ephemeral blocks cookies from third-party sources. This cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
 <p>4️⃣ No telemetry. Ephemeral does not touch the network until you explicitly load a web page or perform a search. Even then, no usage data is ever collected—I have no idea what you do with Ephemeral, and I don&apos;t want to know!</p>
-<p>Ephemeral also uses DuckDuckGo — the search engine that doesn’t track you — by default to avoid as much Google tracking as possible.</p>
+<p>Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference.</p>
 <p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there.</p>
 <p>The best part of Ephemeral comes when you use it as your default browser: make privacy a habit by opening links in a private browser by default, knowing you can always jump back into a less private browser with one click.</p>
 <p>Remember, Ephemeral and any browser&apos;s incognito or private mode can only do so much: they mitigate some tracking and don&apos;t store data on your device, but they won&apos;t stop your ISP, government, or determined websites from tracking you.</p>
