@@ -7,20 +7,30 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/C6DFEDE9E646E71B5A370BCB337DAE4A/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 1.7.4
+  unix-timestamp: 1551398400
+  description: |-
+    <p>Release: VHS Tape Mixer</p>
+
+    <ul>
+
+      <li>Reworked a lot of the internals so actions don&apos;t kill files. [Adam Bieńkowski - &amp;at;donadigo]</li>
+
+    </ul>
 - version: 1.7.3
   unix-timestamp: 1551398400
   description: |-
@@ -50,11 +60,11 @@ releases:
 
     <ul>
 
-      <li>- Rewrote all Sidebar functions</li>
+      <li>Rewrote all Sidebar functions</li>
 
-      <li>- Removed LaTeX because it was lagging the app...</li>
+      <li>Removed LaTeX because it was lagging the app...</li>
 
-      <li>- All File Management functions rewritten from scratch!</li>
+      <li>All File Management functions rewritten from scratch!</li>
 
     </ul>
 - version: 1.6.8
