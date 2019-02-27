@@ -8,20 +8,14 @@ module CreateAppEntries
 	server_info['Releases'].each { |r|
 		release = r[0]
 		base =r[1]['base']
-		# server_info['Bases'].each { |base|
-			# Fetch compressed YAML file from elementary servers
-			# servers to do not serve https requests
-# binding.pry
-			streamed = YAML.load_stream(File.open("_data/appcenter-apps-#{base}.yaml"))
+		streamed = YAML.load_stream(File.open("_data/appcenter-apps-#{base}.yaml"))
 
-			puts "found #{streamed.length} apps for #{release} on #{base}"
+		puts "found #{streamed.length} apps for #{release} on #{base}"
 
-			streamed.each do |s|
-				if s['Type'] == 'desktop-application'
-					AppTemplate.new(s, release, base).save("_apps/#{s['Package']}.md")
-				end
+		streamed.each do |s|
+			if s['Type'] == 'desktop-application'
+				AppTemplate.new(s, release, base).save("_apps/#{s['Package']}.md")
 			end
-		# end
-		# }
+		end
 	}
 end
