@@ -1,22 +1,56 @@
 ---
-app_id: com.github.lainsce.coin.desktop
+app_id: com.github.lainsce.coin
 title: "Coin"
 summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
-developer: "Lains"
+developer: "((dev))"
 homepage: "https://github.com/lainsce/coin/"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.coin.desktop/BF2CB016EE0E9C2D95146871FA789D3F/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
 color:
   primary: "#badbad"
   primary-text: "#212121"
 price: 0
 releases:
+- version: 1.2.5
+  unix-timestamp: 1552608000
+  description: |-
+    <p>Release: Spanish Peso</p>
+
+    <ul>
+
+      <li>Added translations into Spanish, French, Japanese, Dutch, and Catalan.</li>
+
+      <li>Minor fixes.</li>
+
+    </ul>
+- version: 1.2.4
+  unix-timestamp: 1536278400
+  description: |-
+    <p>Release: Ticker Ticking</p>
+
+    <ul>
+
+      <li>A new change of value ticker for the day.</li>
+
+      <li>Added Bitcoin Cash virtual currency.</li>
+
+    </ul>
+- version: 1.2.3
+  unix-timestamp: 1531440000
+  description: |-
+    <p>Release: 1 2 3, hello Juno!</p>
+
+    <ul>
+
+      <li>Some Translations.</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1523059200
   description: |-

@@ -1,23 +1,131 @@
 ---
-app_id: com.github.bartzaalberg.php-tester.desktop
+app_id: com.github.bartzaalberg.php-tester
 title: "PHP Tester"
 summary: "Test some PHP code!"
-developer: "Bart Zaalberg"
+developer: "((dev))"
 homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/bartzaalberg.php-tester.desktop/2249A6FFD4316C496B092A051ABFCE04/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/64x64/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/128x128/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/EDBE48FA739A28622163F431B3B5F1C3/icons/64x64@2/com.github.bartzaalberg.php-tester_com.github.bartzaalberg.php-tester.png
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
 price: 0
 releases:
+- version: 1.8.2
+  unix-timestamp: 1549065600
+  description: |-
+    <p>Added metadata French translation</p>
+
+    <ul>
+
+      <li>Added metadata French translation</li>
+
+    </ul>
+- version: 1.8.1
+  unix-timestamp: 1548547200
+  description: |-
+    <p>Added metadata translation</p>
+
+    <ul>
+
+      <li>Added metadata translation</li>
+
+    </ul>
+- version: 1.8.0
+  unix-timestamp: 1548460800
+  description: |-
+    <p>Added metadata translation</p>
+
+    <ul>
+
+      <li>Added metadata translation</li>
+
+    </ul>
+- version: 1.7.0
+  unix-timestamp: 1548288000
+  description: |-
+    <p>Remember size, maximized, and position</p>
+
+    <ul>
+
+      <li>Fixed single-instancing</li>
+
+      <li>Fixed about appcenter shortcut</li>
+
+      <li>Remember size, maximized, and position</li>
+
+    </ul>
+- version: 1.6.3
+  unix-timestamp: 1548115200
+  description: |-
+    <p>Fixed a crash</p>
+
+    <ul>
+
+      <li>Fixed crash on saved php version is not installed</li>
+
+    </ul>
+- version: 1.6.2
+  unix-timestamp: 1547683200
+  description: |-
+    <p>Added French translation</p>
+
+    <ul>
+
+      <li>The application is now available in French thanks to NathanBnm!</li>
+
+    </ul>
+- version: 1.6.1
+  unix-timestamp: 1547164800
+  description: |-
+    <p>Bug fixes, expanded php</p>
+
+    <ul>
+
+      <li>PHP can now be found if executable doesnt contain version</li>
+
+      <li>Fixed stuck in copy paste menu when no php is found</li>
+
+    </ul>
+- version: 1.6.0
+  unix-timestamp: 1547078400
+  description: |-
+    <p>Added PHP path option</p>
+
+    <ul>
+
+      <li>You can now change the PHP path</li>
+
+      <li>Fixed a fatal error on startup when no PHP is found</li>
+
+    </ul>
+- version: 1.5.6
+  unix-timestamp: 1537574400
+  description: |-
+    <p>Updated build system</p>
+
+    <ul>
+
+      <li>Migrated from Cmake to Meson</li>
+
+    </ul>
+- version: 1.5.5
+  unix-timestamp: 1537488000
+  description: |-
+    <p>Updated release for Juno</p>
+
+    <ul>
+
+      <li>Added Houston CI</li>
+
+    </ul>
 - version: 1.5.4
   unix-timestamp: 1527379200
   description: |-

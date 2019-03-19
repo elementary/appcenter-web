@@ -2,7 +2,7 @@
 app_id: com.github.alecaddd.taxi.desktop
 title: "Taxi"
 summary: "The FTP Client that drives you anywhere"
-developer: "Alessandro Castellani"
+developer: "((dev))"
 homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "#"
 dist: juno

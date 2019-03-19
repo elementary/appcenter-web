@@ -2,7 +2,7 @@
 app_id: com.github.dcharles525.pho
 title: "Pho"
 summary: "Pho for 4chan"
-developer: "David Johnson"
+developer: "((dev))"
 homepage: "https://github.com/dcharles525/pho"
 help_page: "#"
 dist: juno

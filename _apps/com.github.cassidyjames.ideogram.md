@@ -2,7 +2,7 @@
 app_id: com.github.cassidyjames.ideogram
 title: "Ideogram"
 summary: "Insert emoji anywhere 🎉"
-developer: "Cassidy James Blaede"
+developer: "((dev))"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno

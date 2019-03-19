@@ -2,7 +2,7 @@
 app_id: com.github.efdos.mupengui
 title: "MupenGUI"
 summary: "Easy Mupen64Plus FrontEnd"
-developer: "Douglas Muratore"
+developer: "((dev))"
 homepage: "http://github.com/efdos/MupenGUI"
 help_page: "http://github.com/efdos/MupenGUI/issues"
 dist: juno

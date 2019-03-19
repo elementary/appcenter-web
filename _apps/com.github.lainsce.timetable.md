@@ -2,21 +2,31 @@
 app_id: com.github.lainsce.timetable
 title: "Timetable"
 summary: "Plot out your own timetable for the week and organize it"
-developer: "Lains"
+developer: "((dev))"
 homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/3E2203261FD47479D9649C641FE822B3/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.0.6
+  unix-timestamp: 1552608000
+  description: |-
+    <p>Release: Wispy Weekends</p>
+
+    <ul>
+
+      <li>Fixed: Hiding and showing the weekend columns now is respected across app openings.</li>
+
+    </ul>
 - version: 1.0.5
   unix-timestamp: 1551398400
   description: |-

@@ -2,7 +2,7 @@
 app_id: com.github.danrabbit.harvey.desktop
 title: "Harvey"
 summary: "The hero that Gotham needs right now"
-developer: "Daniel Foré"
+developer: "((dev))"
 homepage: "http://danielfore.com"
 help_page: "#"
 dist: juno

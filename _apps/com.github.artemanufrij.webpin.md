@@ -1,23 +1,103 @@
 ---
-app_id: com.github.artemanufrij.webpin.desktop
+app_id: com.github.artemanufrij.webpin
 title: "Webpin"
 summary: "A simple app to pin websites on the desktop"
-developer: "Artem Anufrij"
+developer: "((dev))"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.webpin.desktop/879F6A91C5D82053536CED3DC51B3214/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
 color:
   primary: "#399cd2"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.3
+  unix-timestamp: 1542499200
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Theme switcher</li>
+
+      <li>Option for minimal UI</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Cache choosed icon instead to reference it</li>
+
+    </ul>
+- version: 1.0.2
+  unix-timestamp: 1541116800
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Sort items inside app overview</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Custom icon was replaced by default one</li>
+
+    </ul>
+- version: 1.0.1
+  unix-timestamp: 1540857600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Navigation buttons</li>
+
+    </ul>
+- version: 1.0.0
+  unix-timestamp: 1539993600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Moved to Meson</li>
+
+      <li>Support for local .html files</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Restore correct window size</li>
+
+      <li>Grabing page icon</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+    </ul>
+- version: 0.3.0
+  unix-timestamp: 1532390400
 - version: 0.2.10
   unix-timestamp: 1524614400
   description: |-

@@ -2,17 +2,17 @@
 app_id: com.github.santileortiz.iconoscope
 title: "Iconoscope"
 summary: "Explore the icon database in your system."
-developer: "Santiago León O."
+developer: "((dev))"
 homepage: "https://github.com/santileortiz/Iconoscope"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/64x64/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/128x128/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/64x64@2/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/64x64/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/128x128/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/icons/64x64@2/com.github.santileortiz.iconoscope_com.github.santileortiz.iconoscope.png
 color:
   primary: "#ffed6b"
   primary-text: "#692b00"

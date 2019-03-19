@@ -44,7 +44,14 @@ YAML.load_stream(componentsData) do |doc|
 
 	appFile.sub!('((title))', doc['Name']['C'])
 	appFile.sub!('((summary))', doc['Summary']['C'])
-	appFile.sub!('((dev))', doc['DeveloperName']['C'])
+	# appFile.sub!('((dev))', doc['DeveloperName']['C'])
+
+	if not doc['DeveloperName'].nil?
+		dev = doc['Url']['homepage']
+	else
+		dev = ""
+	end
+
 	appFile.sub!('((description))', doc['Description']['C'])
 	appFile.sub!('((package))', doc['Package'])
 	appFile.sub!('((id))', doc['ID'])

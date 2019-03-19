@@ -2,7 +2,7 @@
 app_id: com.github.jeremyvaartjes.ping
 title: "Ping!"
 summary: "Test your API against some data"
-developer: "Jeremy Vaartjes"
+developer: "((dev))"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno

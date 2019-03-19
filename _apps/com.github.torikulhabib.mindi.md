@@ -2,7 +2,7 @@
 app_id: com.github.torikulhabib.mindi
 title: "Mindi"
 summary: "A simple Video to Audio converter"
-developer: "torikul habib"
+developer: "((dev))"
 homepage: "https://github.com/torikulhabib/mindi"
 help_page: "#"
 dist: juno

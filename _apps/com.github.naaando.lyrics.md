@@ -2,30 +2,54 @@
 app_id: com.github.naaando.lyrics
 title: "Lyrics"
 summary: "The beautiful way to sing your songs"
-developer: "Fernando da Silva Sousa"
+developer: "((dev))"
 homepage: "https://github.com/naaando/lyrics"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/3D437E2D80884516437B9CFC75995829/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/icons/64x64/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/icons/128x128/com.github.naaando.lyrics_com.github.naaando.lyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/icons/64x64@2/com.github.naaando.lyrics_com.github.naaando.lyrics.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 1
 releases:
+- version: 0.7.6
+  unix-timestamp: 1552003200
+  description: |-
+    <ul>
+
+      <li>Fixes file saving when the directory to save don&apos;t exists</li>
+
+      <li>Fix bug where selecting a lyric from the search dialog don&apos;t display it</li>
+
+    </ul>
+- version: 0.7.5
+  unix-timestamp: 1551830400
+  description: |-
+    <ul>
+
+      <li>Fix bug where the lyrics start to overlap.</li>
+
+      <li>Remove legacy code for old lyric displayers</li>
+
+      <li>Fix warnings related to custom font provider</li>
+
+      <li>Fix warnings related to ClickThroughHelper</li>
+
+    </ul>
 - version: 0.7.4
   unix-timestamp: 1550880000
   description: |-
     <ul>
 
-      <li>It solves the problem of the window undoing the resize when going to backdrop if it was shortened horizontally.</li>
+      <li>(Contribuition by Torikul Habib) Fix a bug where the window increases the minimum width on backdrop.</li>
 
       <li>Update translation files</li>
 

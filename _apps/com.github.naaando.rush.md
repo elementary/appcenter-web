@@ -2,23 +2,31 @@
 app_id: com.github.naaando.rush
 title: "Rush"
 summary: "A timer to use pomodoro technique"
-developer: "Fernando da Silva Sousa"
+developer: "((dev))"
 homepage: "https://github.com/naaando/rush"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/icons/64x64/com.github.naaando.rush_com.github.naaando.rush.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/icons/128x128/com.github.naaando.rush_com.github.naaando.rush.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/174BAA313F6A84B60F3CC5927C1BA531/icons/64x64@2/com.github.naaando.rush_com.github.naaando.rush.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/icons/64x64/com.github.naaando.rush_com.github.naaando.rush.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/icons/128x128/com.github.naaando.rush_com.github.naaando.rush.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/icons/64x64@2/com.github.naaando.rush_com.github.naaando.rush.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 1
 releases:
+- version: 0.2.2
+  unix-timestamp: 1551484800
+  description: |-
+    <ul>
+
+      <li>Fix broken appdata</li>
+
+    </ul>
 - version: 0.2.1
   unix-timestamp: 1550966400
   description: |-

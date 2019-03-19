@@ -1,26 +1,114 @@
 ---
-app_id: com.github.philip-scott.spice-up.desktop
+app_id: com.github.philip-scott.spice-up
 title: "Spice-Up"
 summary: "Create simple and beautiful presentations"
-developer: "Felipe Escoto"
+developer: "((dev))"
 homepage: "https://github.com/Philip-Scott/Spice-up"
 help_page: "https://github.com/Philip-Scott/Spice-up/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/philip-scott.spice-up.desktop/D50B11188270A0598E025AEC85B2040A/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"
-price: 0
+price: 20
 releases:
+- version: 1.8.0
+  unix-timestamp: 1547942400
+  description: |-
+    <p>Multi-Files and More!</p>
+
+    <ul>
+
+      <li>Spice-Up will now prevent your computer from suspending and hide your cursor while presenting!</li>
+
+      <li>You can now open more than one file at the time! Makes copy-pasting slides or images between presentations easier</li>
+
+      <li>Spice-Up now uses the new tooltips to show the keyboard shortcuts!</li>
+
+      <li>There are also now keyboard shortcuts for a lot of actions such as Bring Forward and adding a new slide</li>
+
+      <li>Opening the presenter notes now automatically focuses it for faster note-taking</li>
+
+      <li>Fixed a small visual bug when returning to the editor while on the last slide</li>
+
+      <li>Exporting a presentation will now always have the .pdf extension</li>
+
+    </ul>
+- version: 1.7.0
+  unix-timestamp: 1539648000
+  description: |-
+    <p>Smart Clipboard</p>
+
+    <ul>
+
+      <li>The Clipboard is now super smart!</li>
+
+      <li>You can now paste text and images into Spice-Up for external apps!</li>
+
+      <li>And you can also copy text and images to apps outside of Spice-Up</li>
+
+      <li>Pasting a slide to another app with paste it as an image. Sharing your work is even easier now!</li>
+
+      <li>Fixed shadows on the Slide Previews not showing up, making the slide appear flat.</li>
+
+      <li>Fixed problem with canvas showing items moved a bit when resizing.</li>
+
+    </ul>
+- version: 1.6.1
+  unix-timestamp: 1538524800
+  description: |-
+    <p>Slide Transitions and the Slide List Redesign</p>
+
+    <ul>
+
+      <li>After so long, Slide Transitions are finally here! Use them to make your presentations more interesting</li>
+
+      <li>The New Slide Button will now always appear at the bottom, and new slides will now be added after the currently
+
+    selected slide</li>
+
+      <li>You can right click the slide, and select from the actions there.</li>
+
+      <li>From that right click menu, you can now select which slide will be shown in the thumbnail!</li>
+
+      <li>Presenter notes has been moved to the main window. Toggle the editor from the new button on the headerbar!</li>
+
+      <li>Some color and Style changes!</li>
+
+      <li>Fixed the problem where empty slides would refuse to render on the Slide List!</li>
+
+      <li>Fixed: Non-editable items on the toolbar now show up properly</li>
+
+    </ul>
+- version: 1.5.2
+  unix-timestamp: 1534982400
+  description: |-
+    <p>A Very Juno Update</p>
+
+    <ul>
+
+      <li>Spice-Up is now ready for elementary OS Juno!</li>
+
+      <li>Even more colors and gradients for you to make your presentations even better!</li>
+
+      <li>Files and Templates now show a label with it&apos;s name on the welcome screen</li>
+
+      <li>You can now copy and paste styles on the color pickers!</li>
+
+      <li>New templates will now be fetched from the web, so expect more to come!</li>
+
+      <li>New translations for Japanese, Catalan, Portuguese, Dutch!</li>
+
+    </ul>
 - version: 1.3.2
   unix-timestamp: 1519084800
   description: |-
@@ -52,7 +140,7 @@ releases:
 
       <li>You can also pick colors from the screen.</li>
 
-      <li>Fonts are search-able now</li>
+      <li>Fonts are searchable now</li>
 
       <li>Font-styles are now styled (pun intended)</li>
 
@@ -124,7 +212,7 @@ releases:
 
       <li>You can now make Text and Shapes transparent, right from the custom color picker!</li>
 
-      <li>Fixed: Double clicking would sometimes unselect the item.</li>
+      <li>Fixed: Double clicking would sometimes deselect the item.</li>
 
       <li>Fixed: The text on the roundness slider was hard to read.</li>
 
@@ -167,13 +255,15 @@ redirect_from:
   - /com.github.philip-scott.spice-up.desktop/
 ---
 
-<p>Everything you need to create simple and beautiful presentations with text, images, and shapes. Add some spice to your presentations with a wide variety of background patterns and beautiful color palette.</p>
-<p>Features Include:</p>
+<p>Create presentations that stand out! Spice-Up has everything you need to create simple and beautiful presentations. Get your ideas across with beautiful designed templates, or start from scratch with a blank canvas. Either way, you will add some spice to your presentations with a wide variety of background patterns and a beautiful color palette.</p>
+<p>Easy-to-design slides and powerful features:</p>
 <ul>
-  <li>Exporting to PDF!</li>
-  <li>Presentation Browser: Scroll through the presentations you have made and jump right into them with one click!.</li>
+  <li>Export to PDF!</li>
+  <li>Presentation Browser: Scroll through the presentations you have made and jump right into them with one click!</li>
   <li>Controller Support: If you have a USB or Bluetooth controller, plug it in and control your slides!</li>
-  <li>Templates, so you can whip up a presentation in a blink of an eye.</li>
-  <li>You can edit images in your favorite editor, and it will automatically update when saved</li>
-  <li>Open Spice-Up files from a web browser by drag and drop if the app is not installed!</li>
+  <li>Share your Spice-Up files and open them from a web browser if the app is not installed, no extra software needed!</li>
+  <li>Open and edit images in your favorite editor, and it will automatically update when saved.</li>
+  <li>Templates, a touch of creativity is all you need to make presentations in a blink of an eye.</li>
+  <li>Bring your presentation to life with slide show transitions.</li>
+  <li>Present like a pro with slide-by-slide notes only viewable by you!</li>
 </ul>

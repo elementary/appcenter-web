@@ -2,7 +2,7 @@
 app_id: com.github.arshubham.gitignore
 title: "gitIgnore"
 summary: ".gitignore reference for various languages"
-developer: "Shubham Arora"
+developer: "((dev))"
 homepage: "https://shubhamarora.in"
 help_page: "https://github.com/arshubham/gitignore/issues"
 dist: juno

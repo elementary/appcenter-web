@@ -1,25 +1,58 @@
 ---
-app_id: com.github.needle-and-thread.vocal.desktop
+app_id: com.github.needle-and-thread.vocal
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
-developer: "Needle & Thread"
+developer: "((dev))"
 homepage: "http://github.com/needle-and-thread/vocal"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/needle-and-thread.vocal.desktop/7D04EE73C9E016534F02D968C5F19094/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
 color:
   primary: "#603461"
   primary-text: "#fff"
 price: 5
 releases:
+- version: 2.3
+  unix-timestamp: 1541346569
+  description: |-
+    <p>Vocal&apos;s first release for elementary OS Juno!</p>
+
+    <ul>
+
+      <li>Added new in-app volume controls</li>
+
+      <li>Dramatic improvements to the new episode count badges</li>
+
+      <li>Improved the search view to make it clear when Vocal is loading results from iTunes</li>
+
+      <li>Podcasts licensed as Creative Commons now display a Creative Commons logo</li>
+
+      <li>Improved look and feel throughout the app</li>
+
+      <li>New episodes are now sorted by release date rather than just their position in the RSS feed (most users will not
+
+    notice a difference as this was an edge-case)</li>
+
+      <li>Fixed navigation issues that could cause new users to get stuck during the setup process</li>
+
+      <li>Fixed several issues with the new episodes view button either being visible when it should not be, or not being
+
+    visible when it should</li>
+
+      <li>Database handling and performance improvements</li>
+
+      <li>General stability improvements</li>
+
+    </ul>
 - version: 2.2
   unix-timestamp: 1524422931
   description: |-

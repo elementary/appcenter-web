@@ -2,7 +2,7 @@
 app_id: com.github.jeremyvaartjes.comgen
 title: "Comgen"
 summary: "Comment Generator: generate styled comments for your code."
-developer: "Jeremy Vaartjes"
+developer: "((dev))"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno

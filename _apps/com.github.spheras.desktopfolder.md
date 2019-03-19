@@ -2,27 +2,105 @@
 app_id: com.github.spheras.desktopfolder
 title: "Desktop Folder"
 summary: "Bring your desktop back to life"
-developer: "DesktopFolder Developers"
+developer: "((dev))"
 homepage: "https://github.com/spheras/desktopfolder"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/spheras.desktopfolder/720171A3E869374B643898D71FF8E6AA/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
 price: 0
 releases:
+- version: 1.1.0
+  unix-timestamp: 1550275200
+  description: |-
+    <p>1.1.0 release.</p>
+
+    <ul>
+
+      <li>Free, Grid and Automatic arrangements</li>
+
+      <li>Drag &amp; Drop without Ctrl Key and autodetection</li>
+
+      <li>Transifex translations integration, new translations added</li>
+
+      <li>File Synchronization Threads</li>
+
+      <li>Animations Fx</li>
+
+      <li>Hide/Show Desktop Panel and Icons</li>
+
+      <li>Vertical/Horizontal Icons Arrangement</li>
+
+      <li>Folder Panels with Scrollbars</li>
+
+      <li>Folder/File Info Dialog</li>
+
+      <li>Other minor functionality added</li>
+
+      <li>Minor bugfixing</li>
+
+    </ul>
+- version: 1.0.10
+  unix-timestamp: 1541548800
+  description: |-
+    <p>1.0.10 release.</p>
+
+    <ul>
+
+      <li>Change Icon for Files, and SVG selections</li>
+
+      <li>Auto alignment for initial files</li>
+
+      <li>Ubuntu Budgie compatible</li>
+
+      <li>fully update to Gtk+3.22</li>
+
+      <li>Minor bugfixes and stabilization</li>
+
+    </ul>
+- version: 1.0.8
+  unix-timestamp: 1539561600
+  description: |-
+    <p>Release: Juno publication.</p>
+
+    <ul>
+
+      <li>Minor bugfix release</li>
+
+      <li>Juno publication release</li>
+
+    </ul>
+- version: 1.0.7
+  unix-timestamp: 1537401600
+  description: |-
+    <p>Release: Updated for Elementary Juno and other minor features.</p>
+
+    <ul>
+
+      <li>Change Wallpaper from Desktop right click</li>
+
+      <li>Dutch Translation by @Vistaus</li>
+
+      <li>Improved Russian Translation by @ingumsky</li>
+
+      <li>Updated project for GTK+ 3.22 and Elementary Juno</li>
+
+      <li>Minor Bugfixes are included for this release</li>
+
+    </ul>
 - version: 1.0.6
   unix-timestamp: 1518739200
   description: |-
-    <p>Release: Italian and minor improvements</p>
+    <p>Release: Italian and minor improvements.</p>
 
     <ul>
 
@@ -30,7 +108,7 @@ releases:
 
       <li>Saving settings performance improvements</li>
 
-      <li>*~ files are ignored now</li>
+      <li>Files *~ are ignored now</li>
 
     </ul>
 - version: 1.0.5
@@ -40,9 +118,7 @@ releases:
 
     <ul>
 
-      <li>Desktop Background</li>
-
-      <li>Rename in Place</li>
+      <li>Desktop Background &amp; Rename in Place</li>
 
       <li>Different Notes Status (top, back, normal)</li>
 
@@ -76,7 +152,7 @@ releases:
 - version: 1.0.2
   unix-timestamp: 1508371200
   description: |-
-    <p>1.0.2 release</p>
+    <p>1.0.2 release.</p>
 
     <ul>
 
@@ -92,13 +168,11 @@ releases:
 
       <li>Drag and Drop folders (recursive copy)</li>
 
-      <li>Undo/Redo and others over Text Notes</li>
-
-      <li>Menu Redesign</li>
+      <li>Undo/Redo and others over Text Notes &amp; Menu Redesign</li>
 
       <li>Lithuanian and French translations</li>
 
-      <li>Minor Bugfixing</li>
+      <li>Minor Bugfixing included with this release</li>
 
     </ul>
 redirect_from:

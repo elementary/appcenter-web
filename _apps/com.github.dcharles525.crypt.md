@@ -1,27 +1,33 @@
 ---
 app_id: com.github.dcharles525.crypt
 title: "Crypt"
-summary: "Making the crypto market more cryptic!"
-developer: "David Johnson"
+summary: "View and Watch Crypto Currency With Ease!"
+developer: "((dev))"
 homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/2D6C90D6B62D7F3604A745AA4521EC67/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/2D6C90D6B62D7F3604A745AA4521EC67/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/2D6C90D6B62D7F3604A745AA4521EC67/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/2D6C90D6B62D7F3604A745AA4521EC67/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/2D6C90D6B62D7F3604A745AA4521EC67/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
 color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
 releases:
+- version: 1.3.0
+  unix-timestamp: 1552435200
+  description: |-
+    <p>Fixed tons of bugs with help from @NathanBnm</p>
+
+    <p>Click on candles to see information for that time period</p>
 - version: 1.2.0
   unix-timestamp: 1550275200
   description: |-
-    <p>Translations (Thanks to @NathanBrim for french translations!!)</p>
+    <p>Translations (Thanks to @NathanBnm for French translations!)</p>
 
     <p>Change refresh rate</p>
 
@@ -60,6 +66,7 @@ redirect_from:
 <ul>
   <li>Data refreshes every minute!</li>
   <li>View hourly, daily, and weekly charts!</li>
+  <li>Click on candles to inspect information!</li>
   <li>View full coin information!</li>
   <li>See information in USD, EUR, GBP, and more!!</li>
   <li>Change refresh rate to save on data!</li>

@@ -2,7 +2,7 @@
 app_id: com.github.danrabbit.lookbook
 title: "LookBook"
 summary: "Browse and find system icons"
-developer: "Daniel Foré"
+developer: "((dev))"
 homepage: "http://danielfore.com"
 help_page: "#"
 dist: juno

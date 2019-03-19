@@ -2,7 +2,7 @@
 app_id: com.github.tkashkin.boiler
 title: "Boiler"
 summary: "Control your kettle remotely"
-developer: "Anatoliy Kashkin"
+developer: "((dev))"
 homepage: "https://tkashkin.tk/projects/boiler/"
 help_page: "#"
 dist: juno

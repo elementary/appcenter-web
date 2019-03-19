@@ -2,22 +2,32 @@
 app_id: com.github.lainsce.beemy
 title: "Beemy"
 summary: "A cute little Body Mass Index calculator"
-developer: "Lains"
+developer: "((dev))"
 homepage: "https://github.com/lainsce/beemy/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/85FFC18B058B200865FDC01E6EAED449/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/85FFC18B058B200865FDC01E6EAED449/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/85FFC18B058B200865FDC01E6EAED449/icons/64x64/com.github.lainsce.beemy_com.github.lainsce.beemy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/85FFC18B058B200865FDC01E6EAED449/icons/128x128/com.github.lainsce.beemy_com.github.lainsce.beemy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/85FFC18B058B200865FDC01E6EAED449/icons/64x64@2/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/64x64/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/128x128/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/64x64@2/com.github.lainsce.beemy_com.github.lainsce.beemy.png
 color:
   primary: "#c6262e"
   primary-text: "#f5f5f5"
 price: 1
 releases:
+- version: 1.0.4
+  unix-timestamp: 1552608000
+  description: |-
+    <p>Release: Small Gains</p>
+
+    <ul>
+
+      <li>French translation</li>
+
+    </ul>
 - version: 1.0.3
   unix-timestamp: 1542326400
   description: |-

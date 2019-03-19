@@ -1,23 +1,31 @@
 ---
-app_id: com.github.alcadica.develop.desktop
+app_id: com.github.alcadica.develop
 title: "Develop"
 summary: "Creates elementary OS apps and widgets"
-developer: "Alcadica"
+developer: "((dev))"
 homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/alcadica.develop.desktop/ABEA72FBEE157E4628262A6A32DDE31B/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
 releases:
+- version: 0.0.7
+  unix-timestamp: 1538265600
+  description: |-
+    <ul>
+
+      <li>Publish the app on Juno</li>
+
+    </ul>
 - version: 0.0.6
   unix-timestamp: 1529712000
   description: |-

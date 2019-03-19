@@ -2,7 +2,7 @@
 app_id: com.github.bleakgrey.tootle
 title: "Tootle"
 summary: "Lightning fast client for Mastodon"
-developer: "bleak_grey"
+developer: "((dev))"
 homepage: "https://github.com/bleakgrey"
 help_page: "#"
 dist: juno

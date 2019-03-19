@@ -2,7 +2,7 @@
 app_id: com.github.cassidyjames.ephemeral
 title: "Ephemeral"
 summary: "The always-incognito web browser"
-developer: "Cassidy James Blaede"
+developer: "((dev))"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno

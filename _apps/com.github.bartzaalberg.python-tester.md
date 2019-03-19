@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.python-tester
 title: "Python Tester"
 summary: "Test some Python code!"
-developer: "Bart Zaalberg"
+developer: "((dev))"
 homepage: "https://github.com/bartzaalberg/python-tester"
 help_page: "https://github.com/bartzaalberg/python-tester/issues"
 dist: juno

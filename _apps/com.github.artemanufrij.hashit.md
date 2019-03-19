@@ -1,22 +1,50 @@
 ---
-app_id: com.github.artemanufrij.hashit.desktop
+app_id: com.github.artemanufrij.hashit
 title: "Hash It"
 summary: "Generate and verify file hashes"
-developer: "Artem Anufrij"
+developer: "((dev))"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/hashit/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.hashit.desktop/99A58C78F86F55E766FA81098B09FC5A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/B38C6A3C123DAB9CBD4A07BF5BC335EE/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.hashit.desktop/99A58C78F86F55E766FA81098B09FC5A/icons/64x64/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.hashit.desktop/99A58C78F86F55E766FA81098B09FC5A/icons/128x128/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.hashit.desktop/99A58C78F86F55E766FA81098B09FC5A/icons/64x64@2/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/B38C6A3C123DAB9CBD4A07BF5BC335EE/icons/64x64/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
 color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.0
+  unix-timestamp: 1540857600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Switch to meson</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+      <li>Lithuanian (by welaq)</li>
+
+    </ul>
+- version: 0.2.0
+  unix-timestamp: 1532390400
+  description: |-
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Norwegian Bokmål (by Harald H)</li>
+
+    </ul>
 - version: 0.1.11
   unix-timestamp: 1522368000
   description: |-
@@ -89,7 +117,7 @@ redirect_from:
   - /com.github.artemanufrij.hashit.desktop/
 ---
 
-<p>A tool that allows you to ensure a file hasn&apos;t become corrupted.</p>
+<p>A tool that allows you to ensure a file hasn&apos;t become corrupted by comparing its hashsum</p>
 <ul>
   <li>Verify files with a reference hash to ensure the integrity of files</li>
   <li>Generate file hashes to allow yourself and others to verify file integrity</li>

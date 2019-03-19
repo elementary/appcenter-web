@@ -2,23 +2,25 @@
 app_id: com.github.artemanufrij.showmypictures.desktop
 title: "Memories"
 summary: "Manage local image files"
-developer: "Artem Anufrij"
+developer: "((dev))"
 homepage: "http://anufrij.org/memories/"
 help_page: "https://github.com/artemanufrij/showmypictures/issues"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.showmypictures.desktop/BE9D559D44C73CDB803D6B43FE053E07/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/icons/64x64/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/icons/128x128/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/icons/64x64@2/com.github.artemanufrij.showmypictures_com.github.artemanufrij.showmypictures.png
 color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 2
 releases:
+- version: 0.3.0
+  unix-timestamp: 1532390400
 - version: 0.2.8
   unix-timestamp: 1526083200
   description: |-
