@@ -5,124 +5,32 @@ summary: "Focus on your writing"
 developer: "Lains"
 homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0066FD9C34B4F3AB8A289AB2B4C6CEC2/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/lainsce.quilter/CA6F3CBE9503D7FD90704FE8805228AE/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
-price: 10
+price: 0
 releases:
-- version: 1.7.4
-  unix-timestamp: 1551398400
-  description: |-
-    <p>Release: VHS Tape Mixer</p>
-
-    <ul>
-
-      <li>Reworked a lot of the internals so actions don&apos;t kill files. [Adam Bieńkowski - &amp;at;donadigo]</li>
-
-    </ul>
-- version: 1.7.3
-  unix-timestamp: 1551398400
-  description: |-
-    <p>Release: Betamax Tracker</p>
-
-    <ul>
-
-      <li>Some UX redefinition in the sidebar, to avoid complicating it.</li>
-
-    </ul>
-- version: 1.7.2
-  unix-timestamp: 1551398400
-  description: |-
-    <p>Release: Kodachrome Selector</p>
-
-    <ul>
-
-      <li>Open files without adding duplicate entries, and clear sidbar is you really need to (it has a confirm dialog).</li>
-
-    </ul>
-- version: 1.7.0
-  unix-timestamp: 1550793600
-  description: |-
-    <p>Release: Visually Stunning</p>
-
-    <p>Quilter received a visual upgrade, and also an awesome backend tuneup.</p>
-
-    <ul>
-
-      <li>Rewrote all Sidebar functions</li>
-
-      <li>Removed LaTeX because it was lagging the app...</li>
-
-      <li>All File Management functions rewritten from scratch!</li>
-
-    </ul>
-- version: 1.6.8
-  unix-timestamp: 1539907200
-  description: |-
-    <p>Release: Side Serve Sheets</p>
-
-    <ul>
-
-      <li>After 5 months, the Sidebar has appeared. Track your recent stories files there, or hide it. Your choice.</li>
-
-    </ul>
-- version: 1.6.7
-  unix-timestamp: 1539302400
-  description: |-
-    <p>Release: Choice Looks Better</p>
-
-    <ul>
-
-      <li>All tracking choices as well as preview font choices are better shown.</li>
-
-    </ul>
-- version: 1.6.6
-  unix-timestamp: 1537488000
-  description: |-
-    <p>Release: Stylish Readable Stories</p>
-
-    <ul>
-
-      <li>All text passes a contrast check to be readable now.</li>
-
-    </ul>
-- version: 1.6.2
-  unix-timestamp: 1537488000
-  description: |-
-    <p>Release: Track Your Stuff Up</p>
-
-    <ul>
-
-      <li>You can now set what to track in the document: Characters, Words, or Lines.</li>
-
-    </ul>
-- version: 1.6.1
-  unix-timestamp: 1534464000
-  description: |-
-    <p>Release: Font Forgery</p>
-
-    <ul>
-
-      <li>You can now set the font size for Edit View in the Preferences.</li>
-
-    </ul>
 - version: 1.6.0
-  unix-timestamp: 1532044800
+  unix-timestamp: 1529625600
   description: |-
     <p>Release: Sepia &amp; Blues</p>
 
     <ul>
+
+      <li>A new sidebar, with the current document&apos;s Table of Contents as well as the 5 most recently opened documents
+
+    for easy jumping. (thanks Robert San!)</li>
 
       <li>A new Mode between Light &amp; Dark, the Sepia Mode.</li>
 
@@ -132,9 +40,9 @@ releases:
 
       <li>A redesign of the main menu.</li>
 
-      <li>Search any term inside your document.</li>
+      <li>Toggle Preview Mode&apos;s extensions in the Settings.</li>
 
-      <li>Change Preview Mode&apos;s font style on-the-fly.</li>
+      <li>Change Preview Mode&apos;s font style on-the-fly and in Settings.</li>
 
       <li>Toggle Typewrite Mode for use on Focus Mode: Mimic a typerwriter when editing.</li>
 
@@ -217,6 +125,108 @@ releases:
       <li>The New File button will not purge old files.</li>
 
     </ul>
+- version: 1.4.9
+  unix-timestamp: 1517529600
+  description: |-
+    <p>Release: New Sheets Won&apos;t Crumple Old Ones, part 1</p>
+
+    <ul>
+
+      <li>The autosave switch in preferences now saves its last state.</li>
+
+      <li>Fixed the changing of type of focus mode highlighting.</li>
+
+      <li>Minor fixes.</li>
+
+    </ul>
+- version: 1.4.6
+  unix-timestamp: 1516924800
+  description: |-
+    <p>Release: New Menu &amp; Fries</p>
+
+    <ul>
+
+      <li>The main menu now houses the Dark/Focus Mode buttons previously shown on the statusbar.</li>
+
+      <li>The statusbar now shows number of lines, deprecating the toggle in the preferences to show line numbers.</li>
+
+      <li>Preferences Dialog had a reorganization of items.</li>
+
+      <li>Disabling autosaving in preferences will make you save files manually now with the Save button.</li>
+
+    </ul>
+- version: 1.4.5
+  unix-timestamp: 1515801600
+  description: |-
+    <p>Release: Focus Mode with a Glasses Push-up</p>
+
+    <ul>
+
+      <li>In the Preferences, select if you want Focus Mode to highlight the sentence or the paragraph. (Contributed by
+
+    Michał &quot;wyhasany&quot; Rowicki)</li>
+
+      <li>Add Polish translation</li>
+
+    </ul>
+- version: 1.4.4
+  unix-timestamp: 1515110400
+  description: |-
+    <p>Release: Highlight Your Path</p>
+
+    <ul>
+
+      <li>In Preview Mode, your code block now have syntax higlighting</li>
+
+      <li>Saving Files and Opening Files are now safer, with the subtitle always updating accordingly</li>
+
+    </ul>
+- version: 1.4.3
+  unix-timestamp: 1510876800
+  description: |-
+    <p>Release: Writing With Numbers</p>
+
+    <ul>
+
+      <li>Added the option to show line numbers.</li>
+
+    </ul>
+- version: 1.4.2
+  unix-timestamp: 1510272000
+  description: |-
+    <p>Release: Polishing The Inkwell</p>
+
+    <ul>
+
+      <li>Fixed as many minor bugs as possible.</li>
+
+    </ul>
+- version: 1.4.1
+  unix-timestamp: 1509667200
+  description: |-
+    <p>Release: Geometric Dreams</p>
+
+    <ul>
+
+      <li>Set your margins in the Preferences.</li>
+
+      <li>Set your text spacing in the Preferences.</li>
+
+    </ul>
+- version: 1.4.0
+  unix-timestamp: 1509062400
+  description: |-
+    <p>Release: Indication Stories</p>
+
+    <ul>
+
+      <li>Show that the file is unsaved/saved.</li>
+
+      <li>Show that either Focus or Dark Mode are really active on the statusbar buttons.</li>
+
+      <li>Show how much reading time your story has.</li>
+
+    </ul>
 redirect_from:
   - /com.github.lainsce.quilter.desktop/
 ---
@@ -229,8 +239,6 @@ redirect_from:
   <li>Preview your story in the Preview Mode.</li>
   <li>Configure whether to have Focus Mode or not.</li>
   <li>Configure whether to have Dark Mode or not.</li>
-  <li>Configure whether to have Sepia Mode or not.</li>
   <li>Fullscreen your writing area with F11.</li>
-  <li>Search anytime with the shortcut Ctrl + F</li>
   <li>Quit anytime with the shortcut Ctrl + Q</li>
 </ul>

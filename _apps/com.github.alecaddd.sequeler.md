@@ -1,179 +1,25 @@
 ---
-app_id: com.github.alecaddd.sequeler
+app_id: com.github.alecaddd.sequeler.desktop
 title: "Sequeler"
 summary: "Friendly SQL Client"
 developer: "Alessandro Castellani"
 homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/alecaddd.sequeler.desktop/340F21A191CACA54C8344CE1AC834956/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
-price: 25
+price: 5
 releases:
-- version: 0.6.7
-  unix-timestamp: 1546387200
-  description: |-
-    <p>Critical bug fix!</p>
-
-    <ul>
-
-      <li>CRITICAL: Fixes missing GSettings Schema, restore lost connections.</li>
-
-      <li>Other small bug fixes and improvements.</li>
-
-    </ul>
-- version: 0.6.6
-  unix-timestamp: 1546041600
-  description: |-
-    <p>Implemented SSH tunneling</p>
-
-    <ul>
-
-      <li>WARNING: This release packs many updates and something could break. Please, backup your connections.</li>
-
-      <li>Connect via SSH to a remote Database.</li>
-
-      <li>Major code refactor to handle UI updates via async methods.</li>
-
-      <li>Use Stack container to show a loading Spinner during fetch or data processing methods.</li>
-
-      <li>Major performance improvements to the table search and dropdown schema switcher.</li>
-
-      <li>Bug fixes and other improvements.</li>
-
-    </ul>
-- version: 0.6.5
-  unix-timestamp: 1544832000
-  description: |-
-    <p>Fancy New Icon!</p>
-
-    <ul>
-
-      <li>New fancy Icon.</li>
-
-      <li>Use GtkNativeDialog.</li>
-
-      <li>Bug fixes and Improvements.</li>
-
-    </ul>
-- version: 0.6.4
-  unix-timestamp: 1544313600
-  description: |-
-    <p>Open SQLite files</p>
-
-    <ul>
-
-      <li>Open SQLite files directly in Sequeler.</li>
-
-      <li>Right click to copy data inside a column.</li>
-
-      <li>Bug fixes and Improvements.</li>
-
-    </ul>
-- version: 0.6.3
-  unix-timestamp: 1537315200
-  description: |-
-    <p>UI Fixes and Performance Improvements</p>
-
-    <ul>
-
-      <li>UI fix for logout button.</li>
-
-      <li>View shortcuts on preferences dropdown.</li>
-
-      <li>Performance Improvements.</li>
-
-      <li>Italian translation.</li>
-
-    </ul>
-- version: 0.6.2
-  unix-timestamp: 1536624000
-  description: |-
-    <p>Export all the things!</p>
-
-    <ul>
-
-      <li>Export results from Query Tab.</li>
-
-      <li>Export in CSV or Plain Text format.</li>
-
-      <li>Sort Columns order everywhere.</li>
-
-      <li>Brazilian translation.</li>
-
-    </ul>
-- version: 0.6.1
-  unix-timestamp: 1536278400
-  description: |-
-    <p>Here comes the power of Pagination!!!</p>
-
-    <ul>
-
-      <li>Paginate results in the Content tab.</li>
-
-      <li>Query messages UI improvements.</li>
-
-      <li>Relations table bug fixes.</li>
-
-    </ul>
-- version: 0.6.0
-  unix-timestamp: 1535068800
-  description: |-
-    <p>We got Multi SQL Query support.</p>
-
-    <ul>
-
-      <li>Ability to handle multiple SQL queries.</li>
-
-      <li>Execute the currently highlighted query.</li>
-
-      <li>Improved Library Popover UI.</li>
-
-      <li>Use native GTK+ CSS attributes for better Light/Dark mode.</li>
-
-      <li>Random UI improvements.</li>
-
-    </ul>
-- version: 0.5.9
-  unix-timestamp: 1531785600
-  description: |-
-    <p>Urgent! Fixed broken Tabs for translated version.</p>
-- version: 0.5.8
-  unix-timestamp: 1531699200
-  description: |-
-    <p>Light and Dark Mode Switch!</p>
-
-    <ul>
-
-      <li>Better Dark/Light mode switch in header bar.</li>
-
-      <li>Add Russian translation.</li>
-
-      <li>Updated Welcome screen with New Window command.</li>
-
-      <li>Code cleanup.</li>
-
-    </ul>
-- version: 0.5.7
-  unix-timestamp: 1530835200
-  description: |-
-    <p>Official Juno release!</p>
-
-    <ul>
-
-      <li>Missing filter name on SQLite File Dialog.</li>
-
-    </ul>
 - version: 0.5.6
   unix-timestamp: 1529884800
   description: |-
@@ -439,8 +285,6 @@ redirect_from:
 <p>Features Include:</p>
 <ul>
   <li>Test Connections before saving them</li>
-  <li>View Table structure, content, and relations</li>
-  <li>Write multiple custom SQL Queries</li>
   <li>Switch between light and dark mode</li>
-  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), multiple instances (ctrl+n)</li>
-</ul>
+  <li>Handy keyboard shortcuts to quit (ctrl+q), access library (ctrl+l), create new connection (ctrl+n), and open preferences
+(ctrl+,)</li> </ul>

@@ -1,33 +1,25 @@
 ---
-app_id: com.github.timecraft.notifier
+app_id: com.github.timecraft.notifier.desktop
 title: "Notifier"
 summary: "Never forget to do something"
 developer: "Timecraft"
 homepage: "https://github.com/Timecraft/notifier"
 help_page: "https://github.com/Timecraft/notifier/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/icons/64x64/com.github.timecraft.notifier_com.github.timecraft.notifier.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/icons/128x128/com.github.timecraft.notifier_com.github.timecraft.notifier.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/icons/64x64@2/com.github.timecraft.notifier_com.github.timecraft.notifier.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/icons/64x64/com.github.timecraft.notifier_com.github.timecraft.notifier.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/icons/128x128/com.github.timecraft.notifier_com.github.timecraft.notifier.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/timecraft.notifier.desktop/BE38B73D67E4B1939C57E68191E48E0A/icons/64x64@2/com.github.timecraft.notifier_com.github.timecraft.notifier.png
 color:
   primary: "#ffe16b"
   primary-text: "#000000"
 price: 0
 releases:
-- version: 2.1.1
-  unix-timestamp: 1539648000
-  description: |-
-    <p>Icons now install properly!</p>
-- version: 2.1.0
-  unix-timestamp: 1539475200
-  description: |-
-    <p>Hello Juno.</p>
 - version: 2.0.0
   unix-timestamp: 1529971200
   description: |-

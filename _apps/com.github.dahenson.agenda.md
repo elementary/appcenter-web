@@ -5,14 +5,14 @@ summary: "Get things done"
 developer: "Dane Henson"
 homepage: "http://brainofdane.com"
 help_page: "#"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/64x64/com.github.dahenson.agenda_com.github.dahenson.agenda.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/128x128/com.github.dahenson.agenda_com.github.dahenson.agenda.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/64x64@2/com.github.dahenson.agenda_com.github.dahenson.agenda.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/64x64/com.github.dahenson.agenda_com.github.dahenson.agenda.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/128x128/com.github.dahenson.agenda_com.github.dahenson.agenda.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/icons/64x64@2/com.github.dahenson.agenda_com.github.dahenson.agenda.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"

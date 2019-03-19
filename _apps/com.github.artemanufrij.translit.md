@@ -1,34 +1,22 @@
 ---
-app_id: com.github.artemanufrij.translit
+app_id: com.github.artemanufrij.translit.desktop
 title: "Translit"
 summary: "Translit is a simple method of encoding Cyrillic letters with Latin ones"
 developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/translit"
 help_page: "https://github.com/artemanufrij/translit/issues"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.translit/36271DC7879F673AAF41358F7439A674/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.translit.desktop/E33101FC9B97076DF3D871559559F981/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.translit/36271DC7879F673AAF41358F7439A674/icons/64x64/com.github.artemanufrij.translit_com.github.artemanufrij.translit.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.translit.desktop/E33101FC9B97076DF3D871559559F981/icons/64x64/com.github.artemanufrij.translit_com.github.artemanufrij.translit.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.translit.desktop/E33101FC9B97076DF3D871559559F981/icons/128x128/com.github.artemanufrij.translit_com.github.artemanufrij.translit.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/artemanufrij.translit.desktop/E33101FC9B97076DF3D871559559F981/icons/64x64@2/com.github.artemanufrij.translit_com.github.artemanufrij.translit.png
 color:
   primary: "#4d4d4d"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
-- version: 1.0.0
-  unix-timestamp: 1540166400
-  description: |-
-    <p>New:</p>
-
-    <ul>
-
-      <li>Save and restore window size and position</li>
-
-    </ul>
-- version: 0.2.1
-  unix-timestamp: 1534723200
-- version: 0.2.0
-  unix-timestamp: 1532390400
 - version: 0.1.6
   unix-timestamp: 1520294400
   description: |-
@@ -81,7 +69,6 @@ redirect_from:
   - /com.github.artemanufrij.translit.desktop/
 ---
 
-<p>The term is derived from transliteration, the system of replacing letters of one alphabet with letters of another</p>
 <p>Supported languages:</p>
 <ul>
   <li>Russian</li>

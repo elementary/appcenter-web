@@ -5,14 +5,14 @@ summary: "A focused eBook reader"
 developer: "Siddhartha Das"
 homepage: "https://babluboy.github.io/bookworm"
 help_page: "https://github.com/babluboy/bookworm/wiki"
-dist: juno
+dist: loki
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/64x64/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/128x128/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/64x64@2/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/64x64/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/128x128/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
+  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/babluboy.bookworm/646B38928E52A81C148FD8D39E892F23/icons/64x64@2/com.github.babluboy.bookworm_com.github.babluboy.bookworm.png
 color:
   primary: "#e29ffc"
   primary-text: "#260063"
