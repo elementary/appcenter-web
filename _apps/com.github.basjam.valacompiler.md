@@ -2,7 +2,7 @@
 app_id: com.github.basjam.valacompiler
 title: "ValaCompiler"
 summary: "A Simple GUI for valac"
-developer: "((dev))"
+developer: "Basem Kheyar"
 homepage: "https://github.com/basjam/ValaCompiler/"
 help_page: "#"
 dist: juno

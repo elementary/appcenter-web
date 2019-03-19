@@ -2,7 +2,7 @@
 app_id: com.github.spheras.desktopfolder
 title: "Desktop Folder"
 summary: "Bring your desktop back to life"
-developer: "((dev))"
+developer: "DesktopFolder Developers"
 homepage: "https://github.com/spheras/desktopfolder"
 help_page: "#"
 dist: juno

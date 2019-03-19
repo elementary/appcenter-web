@@ -2,7 +2,7 @@
 app_id: com.github.philip-scott.notes-up
 title: "Notes-Up"
 summary: "Your New Notebook"
-developer: "((dev))"
+developer: "Felipe Escoto"
 homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/Notes-up/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.babluboy.nutty
 title: "Nutty"
 summary: "A simple utility for network information"
-developer: "((dev))"
+developer: "Siddhartha Das"
 homepage: "https://babluboy.github.io/nutty"
 help_page: "https://github.com/babluboy/nutty/wiki"
 dist: juno

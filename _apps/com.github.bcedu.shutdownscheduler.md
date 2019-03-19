@@ -2,7 +2,7 @@
 app_id: com.github.bcedu.shutdownscheduler
 title: "Shutdown Scheduler"
 summary: "Schedule your computer's shutdown easily"
-developer: "((dev))"
+developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.calo001.fondo
 title: "Fondo"
 summary: "Find the most beautiful wallpapers"
-developer: "((dev))"
+developer: "Carlos Lopez"
 homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.timecraft.notifier
 title: "Notifier"
 summary: "Never forget to do something"
-developer: "((dev))"
+developer: "Timecraft"
 homepage: "https://github.com/Timecraft/notifier"
 help_page: "https://github.com/Timecraft/notifier/issues"
 dist: juno

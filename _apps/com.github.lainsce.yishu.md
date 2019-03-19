@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.yishu
 title: "Yishu"
 summary: "A bespoke and simple Todo.txt client"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
 dist: juno

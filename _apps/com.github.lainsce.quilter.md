@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.quilter
 title: "Quilter"
 summary: "Focus on your writing"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno

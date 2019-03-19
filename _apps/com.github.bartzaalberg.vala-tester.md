@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.vala-tester
 title: "Vala Tester"
 summary: "Test some Vala code!"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/vala-tester"
 help_page: "https://github.com/bartzaalberg/vala-tester/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.mdh34.quickdocs
 title: "quickDocs"
 summary: "Quickly Read Developer Docs"
-developer: "((dev))"
+developer: "Matt Harris"
 homepage: "https://github.com/mdh34/quickDocs"
 help_page: "#"
 dist: juno

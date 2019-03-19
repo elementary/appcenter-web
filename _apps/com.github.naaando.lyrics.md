@@ -2,7 +2,7 @@
 app_id: com.github.naaando.lyrics
 title: "Lyrics"
 summary: "The beautiful way to sing your songs"
-developer: "((dev))"
+developer: "Fernando da Silva Sousa"
 homepage: "https://github.com/naaando/lyrics"
 help_page: "#"
 dist: juno

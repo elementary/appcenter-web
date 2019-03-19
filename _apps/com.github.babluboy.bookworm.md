@@ -2,7 +2,7 @@
 app_id: com.github.babluboy.bookworm
 title: "Bookworm"
 summary: "A focused eBook reader"
-developer: "((dev))"
+developer: "Siddhartha Das"
 homepage: "https://babluboy.github.io/bookworm"
 help_page: "https://github.com/babluboy/bookworm/wiki"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.mdh34.hackup
 title: "HackUp"
 summary: "Read Hacker News from the desktop"
-developer: "((dev))"
+developer: "Matt Harris"
 homepage: "https://github.com/mdh34/hackup"
 help_page: "#"
 dist: juno

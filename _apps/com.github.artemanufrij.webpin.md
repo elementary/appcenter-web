@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.webpin
 title: "Webpin"
 summary: "A simple app to pin websites on the desktop"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
 dist: juno

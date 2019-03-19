@@ -2,7 +2,7 @@
 app_id: com.github.robertsanseries.ciano
 title: "Ciano"
 summary: "A multimedia file converter"
-developer: "((dev))"
+developer: "Robert San"
 homepage: "https://robertsanseries.github.io/ciano/"
 help_page: "https://github.com/robertsanseries/ciano/issues"
 dist: juno

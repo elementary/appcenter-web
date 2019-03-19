@@ -2,7 +2,7 @@
 app_id: com.github.bernardodsanderson.vido
 title: "VIDO"
 summary: "Online Video Downloader"
-developer: "((dev))"
+developer: "Bernardo Anderson"
 homepage: "http://github.com/bernardodsanderson/vido"
 help_page: "#"
 dist: juno

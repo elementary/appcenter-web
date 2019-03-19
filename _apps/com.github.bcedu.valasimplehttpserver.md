@@ -2,7 +2,7 @@
 app_id: com.github.bcedu.valasimplehttpserver
 title: "VServer"
 summary: "Acces to your files from any device in the same network"
-developer: "((dev))"
+developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/ValaSimpleHTTPServer"
 help_page: "https://github.com/bcedu/ValaSimpleHTTPServer/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.notejot
 title: "Notejot"
 summary: "Jot your ideas"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
 dist: juno

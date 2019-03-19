@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.playmyvideos
 title: "Cinema"
 summary: "A video player for watching local video files"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "http://anufrij.org/cinema/"
 help_page: "https://github.com/artemanufrij/playmyvideos/issues"
 dist: juno

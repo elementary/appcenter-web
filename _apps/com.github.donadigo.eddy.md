@@ -2,7 +2,7 @@
 app_id: com.github.donadigo.eddy.desktop
 title: "Eddy"
 summary: "Install and Manage .deb Files"
-developer: "((dev))"
+developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/eddy"
 help_page: "https://github.com/donadigo/eddy"
 dist: juno

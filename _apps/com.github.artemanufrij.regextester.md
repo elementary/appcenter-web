@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.regextester
 title: "Regex Tester"
 summary: "A simple app for testing regular expressions"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/regextester"
 help_page: "https://github.com/artemanufrij/regextester/issues"
 dist: juno

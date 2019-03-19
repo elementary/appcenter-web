@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.lottery
 title: "Lottery"
 summary: "Who will be the winner?"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/lottery"
 help_page: "https://github.com/bartzaalberg/lottery/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.arshubham.cipher
 title: "Cipher"
 summary: "Encode and decode text"
-developer: "((dev))"
+developer: "Shubham Arora"
 homepage: "https://github.com/arshubham/cipher"
 help_page: "https://shubhamarora.in"
 dist: juno

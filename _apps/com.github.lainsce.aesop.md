@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.aesop
 title: "Aesop"
 summary: "The simplest PDF viewer around"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno

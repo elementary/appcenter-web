@@ -2,7 +2,7 @@
 app_id: com.github.philip-scott.spice-up
 title: "Spice-Up"
 summary: "Create simple and beautiful presentations"
-developer: "((dev))"
+developer: "Felipe Escoto"
 homepage: "https://github.com/Philip-Scott/Spice-up"
 help_page: "https://github.com/Philip-Scott/Spice-up/issues"
 dist: juno

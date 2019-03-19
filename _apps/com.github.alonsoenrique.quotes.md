@@ -2,7 +2,7 @@
 app_id: com.github.alonsoenrique.quotes
 title: "Quotes"
 summary: "Quotes for daily inspiration"
-developer: "((dev))"
+developer: "Alonso Enrique"
 homepage: "https://github.com/AlonsoEnrique"
 help_page: "#"
 dist: juno

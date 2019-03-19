@@ -2,7 +2,7 @@
 app_id: com.github.alcinnz.odysseus
 title: "Odysseus web browser"
 summary: "A simple and performant yet powerful window onto the open decentralized web"
-developer: "((dev))"
+developer: "Adrian Cochrane"
 homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: juno

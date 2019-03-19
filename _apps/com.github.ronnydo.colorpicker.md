@@ -2,7 +2,7 @@
 app_id: com.github.ronnydo.colorpicker
 title: "Color Picker"
 summary: "The most intuitive Color Picker to speed up your workflow"
-developer: "((dev))"
+developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/ColorPicker"
 help_page: "#"
 dist: juno

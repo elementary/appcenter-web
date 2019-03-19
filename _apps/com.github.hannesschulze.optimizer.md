@@ -2,7 +2,7 @@
 app_id: com.github.hannesschulze.optimizer
 title: "Optimizer"
 summary: "Clean up your system"
-developer: "((dev))"
+developer: "Hannes Schulze"
 homepage: "https://github.com/hannesschulze/optimizer"
 help_page: "#"
 dist: juno

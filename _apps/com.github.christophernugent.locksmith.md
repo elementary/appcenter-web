@@ -2,7 +2,7 @@
 app_id: com.github.christophernugent.locksmith
 title: "Locksmith"
 summary: "Generate strong, secure passwords"
-developer: "((dev))"
+developer: "Christopher Nugent"
 homepage: "https://github.com/ChristopherNugent/Locksmith"
 help_page: "https://github.com/ChristopherNugent/Locksmith/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.cassidyjames.principles
 title: "Principles"
 summary: "Remember Dieter Rams' ten principles of good design"
-developer: "((dev))"
+developer: "Cassidy James Blaede"
 homepage: "https://github.com/cassidyjames/principles"
 help_page: "https://cassidyjames.com/support"
 dist: juno

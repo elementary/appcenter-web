@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.recipes
 title: "Recipes"
 summary: "A markdown recipes application"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/recipes"
 help_page: "https://github.com/bartzaalberg/recipes/issues"
 dist: juno

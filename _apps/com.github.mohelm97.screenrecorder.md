@@ -2,7 +2,7 @@
 app_id: com.github.mohelm97.screenrecorder
 title: "Screen Recorder"
 summary: "A simple screen recording app for daily use."
-developer: "((dev))"
+developer: "Mohammed ALMadhoun"
 homepage: "https://github.com/mohelm97/screenrecorder"
 help_page: "https://github.com/mohelm97/screenrecorder/issues"
 dist: juno

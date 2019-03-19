@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.findfileconflicts
 title: "File Conflicts Finder"
 summary: "Helps to detect and solve possible file conflicts"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "http://anufrij.org"
 help_page: "https://github.com/artemanufrij/findfileconflicts/issues"
 dist: juno

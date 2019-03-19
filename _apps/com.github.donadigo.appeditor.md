@@ -2,7 +2,7 @@
 app_id: com.github.donadigo.appeditor
 title: "AppEditor"
 summary: "Edit application menu"
-developer: "((dev))"
+developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/appeditor"
 help_page: "https://github.com/donadigo/appeditor"
 dist: juno

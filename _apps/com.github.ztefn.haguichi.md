@@ -2,7 +2,7 @@
 app_id: com.github.ztefn.haguichi
 title: "Haguichi"
 summary: "A graphical frontend for Hamachi"
-developer: "((dev))"
+developer: "Stephen Brandt"
 homepage: "https://www.haguichi.net/"
 help_page: "https://www.haguichi.net/tips-and-tricks/"
 dist: juno

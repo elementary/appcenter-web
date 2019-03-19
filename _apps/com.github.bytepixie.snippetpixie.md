@@ -2,7 +2,7 @@
 app_id: com.github.bytepixie.snippetpixie
 title: "Snippet Pixie"
 summary: "Your little expandable snippet helper"
-developer: "((dev))"
+developer: "Byte Pixie"
 homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.alainm23.planner
 title: "Planner"
 summary: "Never worry about forgetting things again"
-developer: "((dev))"
+developer: "Alain M."
 homepage: "https://github.com/alainm23/planner"
 help_page: "https://www.paypal.me/alainm23"
 dist: juno

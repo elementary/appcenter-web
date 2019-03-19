@@ -2,7 +2,7 @@
 app_id: com.github.stsdc.monitor
 title: "Monitor"
 summary: "Manage processes and monitor system resources"
-developer: "((dev))"
+developer: "Stanisław Dac"
 homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
 dist: juno

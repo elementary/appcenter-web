@@ -2,7 +2,7 @@
 app_id: com.github.bbuhler.hostsmanager
 title: "HostsManager"
 summary: "Manage your /etc/hosts file"
-developer: "((dev))"
+developer: "Benjamin Buhler"
 homepage: "https://github.com/bbuhler/HostsManager"
 help_page: "https://github.com/bbuhler/HostsManager/issues"
 dist: juno

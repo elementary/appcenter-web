@@ -2,7 +2,7 @@
 app_id: com.github.gijsgoudzwaard.image-optimizer
 title: "Image Optimizer"
 summary: "Simple lossless image compression"
-developer: "((dev))"
+developer: "Gijs Goudzwaard"
 homepage: "https://github.com/gijsgoudzwaard/image-optimizer"
 help_page: "https://github.com/gijsgoudzwaard/image-optimizer/issues"
 dist: juno

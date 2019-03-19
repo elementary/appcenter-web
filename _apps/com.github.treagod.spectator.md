@@ -2,7 +2,7 @@
 app_id: com.github.treagod.spectator
 title: "Spectator"
 summary: "Comfortably test your REST APIs!"
-developer: "((dev))"
+developer: "Spectator Developers"
 homepage: "#"
 help_page: "#"
 dist: juno

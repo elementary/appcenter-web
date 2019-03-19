@@ -2,7 +2,7 @@
 app_id: com.github.parnold-x.nasc
 title: "NaSC"
 summary: "Do maths like a normal person"
-developer: "((dev))"
+developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/nasc"
 help_page: "https://github.com/parnold-x/nasc/issues"
 dist: juno

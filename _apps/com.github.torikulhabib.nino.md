@@ -2,7 +2,7 @@
 app_id: com.github.torikulhabib.nino
 title: "Nino"
 summary: "A network monitor widget"
-developer: "((dev))"
+developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/nino"
 help_page: "#"
 dist: juno

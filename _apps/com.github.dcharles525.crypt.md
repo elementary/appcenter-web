@@ -2,7 +2,7 @@
 app_id: com.github.dcharles525.crypt
 title: "Crypt"
 summary: "View and Watch Crypto Currency With Ease!"
-developer: "((dev))"
+developer: "David Johnson"
 homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno

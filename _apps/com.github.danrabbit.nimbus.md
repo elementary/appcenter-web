@@ -2,7 +2,7 @@
 app_id: com.github.danrabbit.nimbus
 title: "Nimbus"
 summary: "See outside without going there"
-developer: "((dev))"
+developer: "Daniel Foré"
 homepage: "http://danielfore.com"
 help_page: "#"
 dist: juno

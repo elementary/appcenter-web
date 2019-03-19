@@ -2,7 +2,7 @@
 app_id: com.github.ryonakano.reco
 title: "Reco"
 summary: "Record talks to remember the contents later"
-developer: "((dev))"
+developer: "Ryo Nakano"
 homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: juno

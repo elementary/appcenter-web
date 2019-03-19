@@ -2,7 +2,7 @@
 app_id: com.github.phase1geo.minder
 title: "Minder"
 summary: "Create, develop and visualize your ideas"
-developer: "((dev))"
+developer: "Trevor Williams"
 homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno

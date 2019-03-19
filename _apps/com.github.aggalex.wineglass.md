@@ -2,7 +2,7 @@
 app_id: com.github.aggalex.wineglass
 title: "Wineglass"
 summary: "A GUI for Wine"
-developer: "((dev))"
+developer: "Alex Angelou"
 homepage: "http://github.com/aggalex/Wineglass/"
 help_page: "http://github.com/aggalex/Wineglass/issues"
 dist: juno

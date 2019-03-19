@@ -2,7 +2,7 @@
 app_id: com.github.santileortiz.iconoscope
 title: "Iconoscope"
 summary: "Explore the icon database in your system."
-developer: "((dev))"
+developer: "Santiago León O."
 homepage: "https://github.com/santileortiz/Iconoscope"
 help_page: "#"
 dist: juno

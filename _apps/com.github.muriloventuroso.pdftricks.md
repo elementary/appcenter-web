@@ -2,7 +2,7 @@
 app_id: com.github.muriloventuroso.pdftricks
 title: "PDF Tricks"
 summary: "Tricks for PDF Files"
-developer: "((dev))"
+developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/pdftricks"
 help_page: "#"
 dist: juno

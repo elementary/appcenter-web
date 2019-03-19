@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.snaptastic
 title: "Snaptastic"
 summary: "A manager for snaps"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: juno

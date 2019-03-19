@@ -2,7 +2,7 @@
 app_id: com.github.bcedu.museic
 title: "MuseIC"
 summary: "Simple and fast music player with remote control"
-developer: "((dev))"
+developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/MuseIC"
 help_page: "https://github.com/bcedu/MuseIC/issues"
 dist: juno

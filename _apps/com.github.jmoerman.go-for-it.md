@@ -2,7 +2,7 @@
 app_id: com.github.jmoerman.go-for-it
 title: "Go For It!"
 summary: "A stylish to-do list with built-in productivity timer"
-developer: "((dev))"
+developer: "The Go For It! developers"
 homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.bookmark-manager
 title: "Bookmark Manager"
 summary: "Manage your SSH bookmarks"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
 dist: juno

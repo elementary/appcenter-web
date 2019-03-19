@@ -2,7 +2,7 @@
 app_id: com.github.plugarut.pwned-checker
 title: "Pwned Checker"
 summary: "Check if your password has been leaked"
-developer: "((dev))"
+developer: "Tudor Plugaru"
 homepage: "https://github.com/PlugaruT/pwned-checker"
 help_page: "#"
 dist: juno

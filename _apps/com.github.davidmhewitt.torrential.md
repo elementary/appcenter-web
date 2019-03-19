@@ -2,7 +2,7 @@
 app_id: com.github.davidmhewitt.torrential
 title: "Torrential"
 summary: "Download torrents in style"
-developer: "((dev))"
+developer: "David Hewitt"
 homepage: "https://github.com/davidmhewitt/torrential"
 help_page: "https://github.com/davidmhewitt/torrential/issues"
 dist: juno

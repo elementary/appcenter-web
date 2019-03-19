@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.translit
 title: "Translit"
 summary: "Translit is a simple method of encoding Cyrillic letters with Latin ones"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/translit"
 help_page: "https://github.com/artemanufrij/translit/issues"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.elfenware.badger
 title: "Badger"
 summary: "Remind yourself to not sit and stare at the screen for too long"
-developer: "((dev))"
+developer: "Elfenware"
 homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
 dist: juno

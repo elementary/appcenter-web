@@ -2,7 +2,7 @@
 app_id: com.github.panosx2.brightness
 title: "Dimmer"
 summary: "Change screen's brightness"
-developer: "((dev))"
+developer: "Panos P."
 homepage: "https://github.com/panosx2/brightness"
 help_page: "https://github.com/panosx2/brightness"
 dist: juno

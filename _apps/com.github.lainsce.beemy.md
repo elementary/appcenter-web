@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.beemy
 title: "Beemy"
 summary: "A cute little Body Mass Index calculator"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/beemy/"
 help_page: "#"
 dist: juno

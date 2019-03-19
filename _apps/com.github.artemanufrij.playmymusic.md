@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.playmymusic
 title: "Melody"
 summary: "A music player for listening local music files, online radios and Audio CD's"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "http://anufrij.org/melody/"
 help_page: "https://github.com/artemanufrij/playmymusic/issues"
 dist: juno

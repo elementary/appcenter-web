@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.palaura
 title: "Palaura"
 summary: "Find any word's definition with this handy dictionary"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/palaura/"
 help_page: "#"
 dist: juno

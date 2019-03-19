@@ -2,7 +2,7 @@
 app_id: com.github.needle-and-thread.vocal
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
-developer: "((dev))"
+developer: "Needle & Thread"
 homepage: "http://github.com/needle-and-thread/vocal"
 help_page: "#"
 dist: juno

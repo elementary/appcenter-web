@@ -2,7 +2,7 @@
 app_id: com.github.fleury08.prettifier
 title: "Prettifier"
 summary: "Prettify your JSON/XML outputs"
-developer: "((dev))"
+developer: "Jaroslav Staněk"
 homepage: "https://jstanek.eu/"
 help_page: "https://github.com/fleury08/prettifier/issues"
 dist: juno

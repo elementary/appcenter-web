@@ -2,7 +2,7 @@
 app_id: com.github.rapidfingers.translator
 title: "Translator"
 summary: "Translator"
-developer: "((dev))"
+developer: "RapidFingers"
 homepage: "https://rapidfingers.github.io/Translator/"
 help_page: "#"
 dist: juno

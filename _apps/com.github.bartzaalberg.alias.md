@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.alias
 title: "Alias"
 summary: "Simplify your commands"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/alias"
 help_page: "https://github.com/bartzaalberg/alias/issues"
 dist: juno

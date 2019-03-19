@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.graphui
 title: "GraphUI"
 summary: "Graph Visualization"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/graphui/issues"
 dist: juno

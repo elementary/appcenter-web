@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.hashit
 title: "Hash It"
 summary: "Generate and verify file hashes"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/hashit/issues"
 dist: juno

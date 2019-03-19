@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.dot-matrix
 title: "Dot Matrix"
 summary: "The glyph playground of creativity from simple lines"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/dot-matrix/"
 help_page: "#"
 dist: juno

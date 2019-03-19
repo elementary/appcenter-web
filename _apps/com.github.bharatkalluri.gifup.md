@@ -2,7 +2,7 @@
 app_id: com.github.bharatkalluri.gifup.desktop
 title: "Gifup"
 summary: "Create GIFs from Videos quickly!"
-developer: "((dev))"
+developer: "Bharat Kalluri"
 homepage: "https://github.com/bharatkalluri/gifup"
 help_page: "https://github.com/bharatkalluri/gifup/issues"
 dist: juno

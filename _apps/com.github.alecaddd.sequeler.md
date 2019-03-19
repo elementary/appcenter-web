@@ -2,7 +2,7 @@
 app_id: com.github.alecaddd.sequeler
 title: "Sequeler"
 summary: "Friendly SQL Client"
-developer: "((dev))"
+developer: "Alessandro Castellani"
 homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno

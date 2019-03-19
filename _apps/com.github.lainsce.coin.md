@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.coin
 title: "Coin"
 summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/coin/"
 help_page: "#"
 dist: juno

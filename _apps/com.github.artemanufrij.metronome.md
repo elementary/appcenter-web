@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.metronome.desktop
 title: "Metronome"
 summary: "A simple click"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/metronome"
 help_page: "https://github.com/artemanufrij/metronome/issues"
 dist: juno

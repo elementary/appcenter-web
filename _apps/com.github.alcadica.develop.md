@@ -2,7 +2,7 @@
 app_id: com.github.alcadica.develop
 title: "Develop"
 summary: "Creates elementary OS apps and widgets"
-developer: "((dev))"
+developer: "Alcadica"
 homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
 dist: juno

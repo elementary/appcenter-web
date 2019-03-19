@@ -2,7 +2,7 @@
 app_id: com.github.muriloventuroso.givemelyrics
 title: "Give Me Lyrics"
 summary: "Lyrics for your songs"
-developer: "((dev))"
+developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.djaler.formatter
 title: "Formatter"
 summary: "A simple device formatter"
-developer: "((dev))"
+developer: "Kirill Romanov"
 homepage: "https://github.com/djaler/formatter"
 help_page: "https://github.com/djaler/formatter/issues"
 dist: juno

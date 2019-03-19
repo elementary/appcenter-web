@@ -2,7 +2,7 @@
 app_id: com.github.bartzaalberg.php-tester
 title: "PHP Tester"
 summary: "Test some PHP code!"
-developer: "((dev))"
+developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
 dist: juno

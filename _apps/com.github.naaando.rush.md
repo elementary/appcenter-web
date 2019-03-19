@@ -2,7 +2,7 @@
 app_id: com.github.naaando.rush
 title: "Rush"
 summary: "A timer to use pomodoro technique"
-developer: "((dev))"
+developer: "Fernando da Silva Sousa"
 homepage: "https://github.com/naaando/rush"
 help_page: "#"
 dist: juno

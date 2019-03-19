@@ -2,7 +2,7 @@
 app_id: com.github.writeas.writeas-gtk
 title: "Write.as"
 summary: "Publish a thought in seconds"
-developer: "((dev))"
+developer: "Write.as"
 homepage: "https://write.as/"
 help_page: "https://write.as/contact"
 dist: juno

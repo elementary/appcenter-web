@@ -2,7 +2,7 @@
 app_id: com.github.peteruithoven.resizer
 title: "Resizer"
 summary: "Quickly resize images from the context menu"
-developer: "((dev))"
+developer: "Peter Uithoven"
 homepage: "https://github.com/peteruithoven/resizer"
 help_page: "https://github.com/peteruithoven/resizer/issues"
 dist: juno

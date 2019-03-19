@@ -2,7 +2,7 @@
 app_id: com.github.davidmhewitt.clipped
 title: "Clipped"
 summary: "Manage your clipboard with ease"
-developer: "((dev))"
+developer: "David Hewitt"
 homepage: "https://github.com/davidmhewitt/clipped"
 help_page: "https://github.com/davidmhewitt/clipped/issues"
 dist: juno

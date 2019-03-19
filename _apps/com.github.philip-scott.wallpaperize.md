@@ -2,7 +2,7 @@
 app_id: com.github.philip-scott.wallpaperize
 title: "Wallpaperize"
 summary: "Beautify your oddly-sized wallpapers"
-developer: "((dev))"
+developer: "Felipe Escoto"
 homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/wallpaperize/issues"
 dist: juno

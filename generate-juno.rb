@@ -42,15 +42,17 @@ YAML.load_stream(componentsData) do |doc|
 
 	appFile = template.dup
 
-	appFile.sub!('((title))', doc['Name']['C'])
+	title = doc['Name']['C']
+	appFile.sub!('((title))', title)
+
 	appFile.sub!('((summary))', doc['Summary']['C'])
-	# appFile.sub!('((dev))', doc['DeveloperName']['C'])
 
 	if not doc['DeveloperName'].nil?
-		dev = doc['Url']['homepage']
+		dev = doc['DeveloperName']['C']
 	else
-		dev = ""
+		dev = title + " Developers"
 	end
+	appFile.sub!('((dev))', dev)
 
 	appFile.sub!('((description))', doc['Description']['C'])
 	appFile.sub!('((package))', doc['Package'])

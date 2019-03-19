@@ -2,7 +2,7 @@
 app_id: com.github.jeremypw.gnonograms
 title: "Gnonograms"
 summary: "Create and solve gnonogram puzzles"
-developer: "((dev))"
+developer: "Jeremy Paul Wootten"
 homepage: "https://github.com/jeremypw/gnonograms"
 help_page: "https://github.com/jeremypw/gnonograms"
 dist: juno

@@ -2,7 +2,7 @@
 app_id: com.github.cassidyjames.palette
 title: "Palette"
 summary: "View and copy colors from the elementary brand palette"
-developer: "((dev))"
+developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno

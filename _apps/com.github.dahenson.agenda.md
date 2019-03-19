@@ -2,7 +2,7 @@
 app_id: com.github.dahenson.agenda
 title: "Agenda"
 summary: "Get things done"
-developer: "((dev))"
+developer: "Dane Henson"
 homepage: "http://brainofdane.com"
 help_page: "#"
 dist: juno

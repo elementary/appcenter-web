@@ -2,7 +2,7 @@
 app_id: com.github.muriloventuroso.easyssh
 title: "EasySSH"
 summary: "SSH Connection Manager"
-developer: "((dev))"
+developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/easyssh"
 help_page: "#"
 dist: juno

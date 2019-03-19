@@ -2,7 +2,7 @@
 app_id: com.github.lainsce.timetable
 title: "Timetable"
 summary: "Plot out your own timetable for the week and organize it"
-developer: "((dev))"
+developer: "Lains"
 homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
 dist: juno

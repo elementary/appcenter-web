@@ -2,7 +2,7 @@
 app_id: com.github.artemanufrij.showmypictures.desktop
 title: "Memories"
 summary: "Manage local image files"
-developer: "((dev))"
+developer: "Artem Anufrij"
 homepage: "http://anufrij.org/memories/"
 help_page: "https://github.com/artemanufrij/showmypictures/issues"
 dist: juno
