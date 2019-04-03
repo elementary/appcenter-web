@@ -7,13 +7,13 @@ homepage: "https://github.com/bcedu/ValaSimpleHTTPServer"
 help_page: "https://github.com/bcedu/ValaSimpleHTTPServer/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/icons/64x64/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/icons/128x128/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/29DCC3E2D10132F6EE551262A713DA50/icons/64x64@2/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/icons/64x64/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/icons/128x128/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/FF2CD5E3BD9988434C64991A1F75D4E8/icons/64x64@2/com.github.bcedu.valasimplehttpserver_com.github.bcedu.valasimplehttpserver.png
 color:
   primary: "#56A9E3"
   primary-text: "rgb(0,0,0)"

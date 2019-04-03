@@ -7,18 +7,31 @@ homepage: "https://github.com/bartzaalberg/lottery"
 help_page: "https://github.com/bartzaalberg/lottery/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/A27C6F9A575F7E27204B12997B981365/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/icons/64x64/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/icons/128x128/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/icons/64x64@2/com.github.bartzaalberg.lottery_com.github.bartzaalberg.lottery.png
 color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#fe2e56"
 price: 0
 releases:
+- version: 1.6.0
+  unix-timestamp: 1552953600
+  description: |-
+    <p>Added dark mode</p>
+
+    <ul>
+
+      <li>Added dark mode</li>
+
+      <li>Fixed dialog size</li>
+
+    </ul>
 - version: 1.5.0
   unix-timestamp: 1551916800
   description: |-
@@ -272,4 +285,5 @@ redirect_from:
   <li>Randomly generate a winner!</li>
   <li>Use cool shortcuts to make it easier!</li>
   <li>Import CSV files</li>
+  <li>Choose between light and dark with dark mode</li>
 </ul>

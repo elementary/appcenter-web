@@ -7,12 +7,11 @@ homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/DDD4BBE469C48C80BC4979652117A94F/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"

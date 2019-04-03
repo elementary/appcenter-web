@@ -7,14 +7,48 @@ homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/Notes-up/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/9247594E1E7C97B0FBCD1E74BBCB8E75/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/98901428BDF85D07F2F1851F01408C72/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/9247594E1E7C97B0FBCD1E74BBCB8E75/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/98901428BDF85D07F2F1851F01408C72/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
 color:
-  primary: "#D0F3FF"
-  primary-text: "#004B66"
+  primary: "#BEDAFF"
+  primary-text: "#274771"
 price: 12
 releases:
+- version: 2.0.0
+  unix-timestamp: 1553472000
+  description: |-
+    <p>The Future of Notes-Up!</p>
+
+    <ul>
+
+      <li>Tags! Tags is the new and hot way to organize your notes! Add them from the new Page Info toolbar!</li>
+
+      <li>When you add a new tag to a note, Notes-Up will add them to the Sidebar to quickly filter all notes using the
+
+    tag!</li>
+
+      <li>Talking about the Sidebar, it has a fresh new look, and a new All Notes button to show all your notes in the pages
+
+    list!</li>
+
+      <li>Your note information now appears in the new Page Info Toolbar. It shows where is it and when it was created and
+
+    updated</li>
+
+      <li>You can now edit the title of the note without making it the first line of the file from the Page Info Toolbar!</li>
+
+      <li>Move pages to another notebook with a simple button from the Page Info Toolbar</li>
+
+      <li>You can now link to other pages from within the viewer!</li>
+
+      <li>Write in a paper-like theme as well as a new dark mode.</li>
+
+      <li>Exporting Markdown files is now possible form within Notes-Up!</li>
+
+      <li>And a lot of work went into making Notes-Up better on the inside! This will speed up the development of future
+
+    versions!</li> </ul>
 - version: 1.6.3
   unix-timestamp: 1545350400
   description: |-
@@ -109,12 +143,15 @@ redirect_from:
   - /com.github.philip-scott.notes-up.desktop/
 ---
 
-<p>Write beautiful notes fast and easy using Markdown</p>
-<p>Features include:</p>
+<p>The intuitive writing app for everyone, from students to developers!</p>
+<p>With powerful features like:</p>
 <ul>
-  <li>Multiple notebook support</li>
-  <li>Easy-to-use markdown editor</li>
-  <li>Exporting to PDF</li>
-  <li>Plugins: such as embedding Youtube videos</li>
+  <li>Easy-to-use markdown editor.</li>
+  <li>Notebooks and tags, quickly find and organize your notes</li>
+  <li>Your work is saved automatically as you write, you will never loose your work!</li>
+  <li>Plugins: such as embedding YouTube videos and setting text color</li>
+  <li>Export as PDF and Markdown files</li>
+  <li>Cross-Note Links to quickly reference other notes</li>
+  <li>3 Beautiful app themes to help you create the best writing environment,</li>
   <li>And much more!</li>
 </ul>

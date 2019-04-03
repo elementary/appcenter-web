@@ -7,17 +7,31 @@ homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/F2B55959D14392DDD8301FA28A0D4F13/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/F2B55959D14392DDD8301FA28A0D4F13/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/D219F7C524314F813B7CE1E3ABDB5C9D/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/F2B55959D14392DDD8301FA28A0D4F13/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/F2B55959D14392DDD8301FA28A0D4F13/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/F2B55959D14392DDD8301FA28A0D4F13/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
 color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
 releases:
+- version: 1.4.0
+  unix-timestamp: 1553644800
+  description: |-
+    <p>App adapts to network condidtions better</p>
+
+    <p>New main coin area (more coin customization coming soon!)</p>
+
+    <p>Lots of extra guards put in place to boost stability</p>
+
+    <p>Bug fixes</p>
+- version: 1.3.1
+  unix-timestamp: 1552435200
+  description: |-
+    <p>Bug fixes</p>
 - version: 1.3.0
   unix-timestamp: 1552435200
   description: |-

@@ -7,19 +7,31 @@ homepage: "https://github.com/bartzaalberg/alias"
 help_page: "https://github.com/bartzaalberg/alias/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/AA87818A2EBC9DF50547E5AC665BB098/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/6DCD8F07AD109F183B664787B1E4C140/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
 color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
 price: 0
 releases:
+- version: 1.5.0
+  unix-timestamp: 1553040000
+  description: |-
+    <p>Dark mode and shortcut labels</p>
+
+    <ul>
+
+      <li>Added dark mode</li>
+
+      <li>Added shortcut labels to buttons</li>
+
+    </ul>
 - version: 1.4.0
   unix-timestamp: 1548806400
   description: |-
@@ -203,4 +215,5 @@ redirect_from:
 <ul>
   <li>Manage your aliases</li>
   <li>Use handy shortcuts to navigate the app</li>
+  <li>Choose between light and dark with dark mode</li>
 </ul>

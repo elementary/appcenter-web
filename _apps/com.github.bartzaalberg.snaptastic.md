@@ -7,18 +7,32 @@ homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/0F61C9E5ED876AD2B045BE56A5C7A9B0/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
 price: 3
 releases:
+- version: 1.1.0
+  unix-timestamp: 1555459200
+  description: |-
+    <p>Added dark mode and tooltip shortcuts</p>
+
+    <ul>
+
+      <li>Added dark mode</li>
+
+      <li>Added shortcuts to the button labels</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1549411200
   description: |-
@@ -416,4 +430,5 @@ redirect_from:
   <li>Update, remove, and view information about your installed snaps</li>
   <li>Search through your installed snaps</li>
   <li>Install snaps from web a uri</li>
+  <li>Choose between light and dark with dark mode</li>
 </ul>

@@ -7,18 +7,72 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/FF4DE3AAD36609C4321DC9804EAE95DE/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
 releases:
+- version: 5.0.1
+  unix-timestamp: 1554163200
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated Russian translations thanks to Artem Polishchuk</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.0.0
+  unix-timestamp: 1554076800
+  description: |-
+    <p>No foolin&apos;. Two major new features:</p>
+
+    <ul>
+
+      <li>🔍️ New Custom Search Engine setting in the Menu</li>
+
+      <li>⭐️ Add your own websites to the suggestions using the new button in the URL entry</li>
+
+    </ul>
+
+    <p>Plus the usual iterative improvements:</p>
+
+    <ul>
+
+      <li>Various URL entry fixes and tweaks</li>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 4.2.1
+  unix-timestamp: 1553212800
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Cześć! Translated to Polish thanks to Paweł Jerzy Przybysz</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+      <li>Updated Lithuanian translations thanks to @welaq</li>
+
+    </ul>
 - version: 4.2.0
   unix-timestamp: 1550880000
   description: |-
@@ -277,8 +331,8 @@ redirect_from:
 <p>2️⃣ Contained. Every Ephemeral window is a separate instance of the browser engine. This means pages are kept separate from one another. Sign into a service in one window, and other Ephemeral windows will have no idea you’re signed in.</p>
 <p>3️⃣ No third-party cookies. Out of the box, Ephemeral blocks cookies from third-party sources. This cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
 <p>4️⃣ No telemetry. Ephemeral does not touch the network until you explicitly load a web page or perform a search. Even then, no usage data is ever collected—I have no idea what you do with Ephemeral, and I don&apos;t want to know!</p>
-<p>Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference.</p>
-<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there.</p>
+<p>Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
+<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there—optionally closing the window to get out of your way.</p>
 <p>The best part of Ephemeral comes when you use it as your default browser: make privacy a habit by opening links in a private browser by default, knowing you can always jump back into a less private browser with one click.</p>
 <p>Remember, Ephemeral and any browser&apos;s incognito or private mode can only do so much: they mitigate some tracking and don&apos;t store data on your device, but they won&apos;t stop your ISP, government, or determined websites from tracking you.</p>
 <p>For the best protection, always use a VPN.</p>

@@ -7,19 +7,35 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/EC1C18D5B4A9EE259B749D00CBB83B50/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.6.8
+  unix-timestamp: 1552953600
+  description: |-
+    <p>Bug fixes and improvements</p>
+
+    <ul>
+
+      <li>Properly handle EXPLAIN SQL statement.</li>
+
+      <li>Properly handle querying capitlized PostgreSQL tables.</li>
+
+      <li>Improved async methods for internal views.</li>
+
+      <li>Updated translations.</li>
+
+    </ul>
 - version: 0.6.7
   unix-timestamp: 1546387200
   description: |-
@@ -435,12 +451,19 @@ redirect_from:
 ---
 
 <p>Easily connect to your local or remote database</p>
-<p>Store your Database Connections in the built-in library, type and execute SQL commands directly in the App, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Store your Database Connections in the library, connect over SSH tunnel, type and execute SQL commands directly in the app, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Supported Databases:</p>
+<ul>
+  <li>SQLite</li>
+  <li>MySQL</li>
+  <li>MariaDB</li>
+  <li>PostgreSQL</li>
+</ul>
 <p>Features Include:</p>
 <ul>
   <li>Test Connections before saving them</li>
   <li>View Table structure, content, and relations</li>
   <li>Write multiple custom SQL Queries</li>
   <li>Switch between light and dark mode</li>
-  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), multiple instances (ctrl+n)</li>
+  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), open a new window (ctrl+n)</li>
 </ul>

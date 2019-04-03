@@ -7,16 +7,54 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/CEE53749012385D1B27E37BE202F7ADB/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.7.1
+  unix-timestamp: 1552867200
+  description: |-
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Some widgets failed to load a fallback icon when the first attempt at loading an icon failed.</li>
+
+    </ul>
+- version: 1.7.0
+  unix-timestamp: 1552694400
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>You can now have more than one to-do list.</li>
+
+      <li>The application design has been updated. The application now uses less vertical space if a headerbar is used.</li>
+
+      <li>The default stylesheet has been improved, resulting in improved looks when the application is used on elementary
+
+    OS.</li>
+
+      <li>Not using the elementary or Adwaita theme, or a theme with a similar color scheme? You can now select a different
+
+    stylesheet in the settings window.</li> </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Go For It! now properly exports that it uses notifications.</li>
+
+      <li>Non ascii character were not properly parsed when parsing contexts and projects.</li>
+
+    </ul>
 - version: 1.6.10
   unix-timestamp: 1550016000
   description: |-
@@ -83,48 +121,6 @@ releases:
     <ul>
 
       <li>Dragging a selected task could cause the timer to state that all tasks are finished.</li>
-
-    </ul>
-- version: 1.6.6
-  unix-timestamp: 1523923200
-  description: |-
-    <p>Updated translations:</p>
-
-    <ul>
-
-      <li>Lithuanian</li>
-
-    </ul>
-- version: 1.6.5
-  unix-timestamp: 1519603200
-  description: |-
-    <p>Bugfixes:</p>
-
-    <ul>
-
-      <li>Strings containing whitespace consisting of multiple spaces were not parsed correctly, which could lead to crashes.</li>
-
-    </ul>
-- version: 1.6.4
-  unix-timestamp: 1515024000
-  description: |-
-    <p>Improvements:</p>
-
-    <ul>
-
-      <li>The task list and the rest of the main application window now have the same background color.</li>
-
-    </ul>
-
-    <p>Updated translations:</p>
-
-    <ul>
-
-      <li>Czech</li>
-
-      <li>Spanish</li>
-
-      <li>Japanese</li>
 
     </ul>
 redirect_from:

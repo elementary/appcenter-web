@@ -7,11 +7,11 @@ homepage: "https://rapidfingers.github.io/Translator/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/755038E78C8374AAA50CD7A16C281323/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/755038E78C8374AAA50CD7A16C281323/icons/64x64/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/755038E78C8374AAA50CD7A16C281323/icons/128x128/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/755038E78C8374AAA50CD7A16C281323/icons/64x64@2/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/icons/64x64/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/icons/128x128/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/icons/64x64@2/com.github.rapidfingers.translator_com.github.rapidfingers.translator.png
 color:
   primary: "#28619F"
   primary-text: "rgb(255, 255, 255)"
@@ -85,6 +85,42 @@ releases:
       <li>Fix useless translate on language combobox click</li>
 
       <li>Fixed lack of translation, when text is changed during the transfer</li>
+
+    </ul>
+- version: 1.3.2
+  unix-timestamp: 1548633600
+  description: |-
+    <ul>
+
+      <li>Fixes for Juno</li>
+
+    </ul>
+- version: 1.4.0
+  unix-timestamp: 1553299200
+  description: |-
+    <ul>
+
+      <li>Clear button (thanks to camellan)</li>
+
+      <li>Copy button (thanks to camellan)</li>
+
+      <li>More languages and translations (thanks to camellan)</li>
+
+      <li>Bug fixes (thanks to camellan)</li>
+
+    </ul>
+- version: 1.4.1
+  unix-timestamp: 1553990400
+  description: |-
+    <ul>
+
+      <li>Translations to brazilian portuguese (thanks to korndorfer)</li>
+
+      <li>Fix appdata translations (thanks to NathanBnm)</li>
+
+      <li>Save theme settings (thanks to camellan)</li>
+
+      <li>Fix dark theme color</li>
 
     </ul>
 redirect_from:
