@@ -7,19 +7,31 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D334007A514EBE23F822ECD8B0C974A6/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.0
+  unix-timestamp: 1554595200
+  description: |-
+    <p>Bite-Size fixes</p>
+
+    <ul>
+
+      <li>Removed unused libfixposix.</li>
+
+      <li>Fixed pagination issue when clicking too fast while fetching big data.</li>
+
+    </ul>
 - version: 0.6.9
   unix-timestamp: 1554163200
   description: |-

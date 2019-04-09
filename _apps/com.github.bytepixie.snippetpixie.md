@@ -7,17 +7,25 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C8E359C012620E2C620E629973AAC76C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C8E359C012620E2C620E629973AAC76C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/EC6170E88906EFABF5529A420E1DEBCD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/EC6170E88906EFABF5529A420E1DEBCD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C8E359C012620E2C620E629973AAC76C/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C8E359C012620E2C620E629973AAC76C/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C8E359C012620E2C620E629973AAC76C/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/EC6170E88906EFABF5529A420E1DEBCD/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/EC6170E88906EFABF5529A420E1DEBCD/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/EC6170E88906EFABF5529A420E1DEBCD/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.1.2
+  unix-timestamp: 1554508800
+  description: |-
+    <ul>
+
+      <li>Improved active window/control detection when switching via Alt-Tab.</li>
+
+    </ul>
 - version: 1.1.1
   unix-timestamp: 1554249600
   description: |-
@@ -25,7 +33,7 @@ releases:
 
       <li>Improved performance, compatibility, and stability.</li>
 
-      <li>Added French translations. Huge thanks to @NathanBnm on GitHub! 🇨🇵️</li>
+      <li>Added French translations. Huge thanks to @NathanBnm@NathanBnm on GitHub! 🇨🇵️</li>
 
     </ul>
 - version: 1.1.0
