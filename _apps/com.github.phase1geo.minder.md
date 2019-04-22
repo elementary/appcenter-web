@@ -7,19 +7,54 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 5
 releases:
+- version: 1.2.1
+  unix-timestamp: 1554854400
+  description: |-
+    <ul>
+
+      <li>Fixing appdata.xml file omission.</li>
+
+      <li>Removing automatic style apply when the affects is set to certain values.</li>
+
+    </ul>
+- version: 1.2
+  unix-timestamp: 1554768000
+  description: |-
+    <ul>
+
+      <li>Added Spanish translation.</li>
+
+      <li>Added support for Control-Return/Tab to support adding newlines/tabs in a node&apos;s title.</li>
+
+      <li>Improved node title editing support for selection and cursor movement.</li>
+
+      <li>Added support for automatically opening Minder files from Files.</li>
+
+      <li>Added ability to modify styles of nodes and links.</li>
+
+      <li>Changed layouts to be stored on a per tree basis instead of a per document basis.</li>
+
+      <li>Added support for exporting to the Mermaid format.</li>
+
+      <li>Added support for disabling/enabling displaying markup in node title.</li>
+
+      <li>Improved the look of the fold indicators.</li>
+
+      <li>Lots of bug fixes.</li>
+
+    </ul>
 - version: 1.1.3
   unix-timestamp: 1539388800
   description: |-
@@ -99,7 +134,7 @@ releases:
 
       <li>Changing button display in map inspector.</li>
 
-      <li>Cleaning up Export menu to include a single &quot;Export...&quot; option.</li>
+      <li>Cleaning up Export menu to include a single &quot;Export…&quot; option.</li>
 
       <li>Fixing issue where modified node title in node inspector was lost when input focus was changed.</li>
 

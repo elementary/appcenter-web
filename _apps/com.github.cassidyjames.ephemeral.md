@@ -7,18 +7,24 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/86B7F92944DA845766C3C827A4994DBE/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/B851A351DDB794942064C4F2CEC3D4C4/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "@GRAPE_900"
   primary-text: "@GRAPE_100"
 price: 9
 releases:
+- version: 5.0.3
+  unix-timestamp: 1554681600
+  description: |-
+    <p>Updated Catalan translations thanks to Mario Rodrigo.</p>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 5.0.2
   unix-timestamp: 1554163200
   description: |-
