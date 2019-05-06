@@ -7,17 +7,33 @@ homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/546D852386B3F3AAB4C965238F376388/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/546D852386B3F3AAB4C965238F376388/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/546D852386B3F3AAB4C965238F376388/icons/64x64/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/546D852386B3F3AAB4C965238F376388/icons/128x128/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/546D852386B3F3AAB4C965238F376388/icons/64x64@2/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/64x64/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/128x128/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/64x64@2/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
 color:
   primary: "#64728a"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.1.0
+  unix-timestamp: 1556150400
+  description: |-
+    <ul>
+
+      <li>French translation from @NathanBnm.</li>
+
+      <li>Tooltips added to header bar by @NathanBnm.</li>
+
+      <li>The app now shows the proper currency symbol instead of a dollar symbol.</li>
+
+      <li>You will now see both the currency of the subscription and the converted value for each subscription.</li>
+
+      <li>The add subscription window now has a search field and items in the list are sorted.</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1554595200
   description: |-

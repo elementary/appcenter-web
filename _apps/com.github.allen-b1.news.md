@@ -1,22 +1,40 @@
 ---
-app_id: com.github.allen-b1.news.desktop
+app_id: com.github.allen-b1.news
 title: "News"
-summary: "Read RSS feeds"
+summary: "Read Atom and RSS feeds"
 developer: "Allen B"
 homepage: "https://github.com/allen-b1/news"
 help_page: "https://github.com/allen-b1/news/issues/new"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/allen-b1.news.desktop/422193662D12479E323B929735B5DFC5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/9A9BA4110B0B9D594833D593DC31221E/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/allen-b1.news.desktop/422193662D12479E323B929735B5DFC5/icons/64x64/com.github.allen-b1.news_com.github.allen-b1.news.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/allen-b1.news.desktop/422193662D12479E323B929735B5DFC5/icons/128x128/com.github.allen-b1.news_com.github.allen-b1.news.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/allen-b1.news.desktop/422193662D12479E323B929735B5DFC5/icons/64x64@2/com.github.allen-b1.news_com.github.allen-b1.news.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/9A9BA4110B0B9D594833D593DC31221E/icons/64x64/com.github.allen-b1.news_com.github.allen-b1.news.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/9A9BA4110B0B9D594833D593DC31221E/icons/128x128/com.github.allen-b1.news_com.github.allen-b1.news.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/9A9BA4110B0B9D594833D593DC31221E/icons/64x64@2/com.github.allen-b1.news_com.github.allen-b1.news.png
 color:
   primary: "#f20050"
   primary-text: "#FFF"
 price: 0
 releases:
+- version: 1.3
+  unix-timestamp: 1556409600
+  description: |-
+    <ul>
+
+      <li>Allowed opening a feed from the command line</li>
+
+      <li>Added the ability to view feed information</li>
+
+      <li>Switched to relative date time strings (e.g. now, 5m ago)</li>
+
+      <li>Toasts will show up instead of info bars</li>
+
+      <li>Sources will stay after closing and reopening the app</li>
+
+      <li>Added support for Atom feeds</li>
+
+    </ul>
 - version: 1.2
   unix-timestamp: 1528848000
   description: |-
@@ -41,4 +59,5 @@ redirect_from:
   - /com.github.allen-b1.news.desktop/
 ---
 
-<p>Read the contents of RSS feeds.</p>
+<p>Read the contents of Atom and RSS feeds.</p>
+<p>Supports RSS 2.0 and Atom only</p>

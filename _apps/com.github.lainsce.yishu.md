@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/4B0AEA83BC3DCA6A84C80A4E296A4455/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/71C7CA4570338028ACE3568FE7E16F26/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/4B0AEA83BC3DCA6A84C80A4E296A4455/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/4B0AEA83BC3DCA6A84C80A4E296A4455/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/4B0AEA83BC3DCA6A84C80A4E296A4455/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/71C7CA4570338028ACE3568FE7E16F26/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/71C7CA4570338028ACE3568FE7E16F26/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/71C7CA4570338028ACE3568FE7E16F26/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
 color:
   primary: "#dee8bc"
   primary-text: "#333333"
 price: 0
 releases:
+- version: 1.1.1
+  unix-timestamp: 1556236800
+  description: |-
+    <p>Release: Contrast Rebellion</p>
+
+    <ul>
+
+      <li>Fixed some contrast in colors.</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1552608000
   description: |-

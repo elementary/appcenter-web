@@ -7,16 +7,30 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/B7FC2DB5E1AD4E8E1361B37CF9D11845/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/B7FC2DB5E1AD4E8E1361B37CF9D11845/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/B7FC2DB5E1AD4E8E1361B37CF9D11845/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/B7FC2DB5E1AD4E8E1361B37CF9D11845/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.0.7
+  unix-timestamp: 1556236800
+  description: |-
+    <p>Release: Guillemet</p>
+
+    <ul>
+
+      <li>Fixed: The app would open other files than PDFs.</li>
+
+      <li>Fixed: The app couldn&apos;t be maximized.</li>
+
+      <li>Fixed: Some translations weren&apos;t working.</li>
+
+    </ul>
 - version: 1.0.6
   unix-timestamp: 1552608000
   description: |-

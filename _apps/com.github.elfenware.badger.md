@@ -7,16 +7,38 @@ homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/C3E8A41D9AC61583955AEBDE26D7FEA8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/C3E8A41D9AC61583955AEBDE26D7FEA8/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/C3E8A41D9AC61583955AEBDE26D7FEA8/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/C3E8A41D9AC61583955AEBDE26D7FEA8/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
 releases:
+- version: 2.0.1
+  unix-timestamp: 1556236800
+  description: |-
+    <ul>
+
+      <li>Fix: &quot;Never&quot; option not disabling the timer</li>
+
+    </ul>
+- version: 2.0.0
+  unix-timestamp: 1555632000
+  description: |-
+    <ul>
+
+      <li>Add: 🎉️ Most awaited feature, custom timers! 🎉️</li>
+
+      <li>Update: French translations (@NathanBnm)</li>
+
+      <li>Update: Lithuanian translations (@welaq)</li>
+
+      <li>Update: Danish translations (@siigdev)</li>
+
+    </ul>
 - version: 1.3.0
   unix-timestamp: 1553904000
   description: |-

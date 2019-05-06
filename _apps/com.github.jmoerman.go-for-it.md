@@ -7,16 +7,32 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/9F4F173674DC21D87DC75694E578A2D9/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.7.2
+  unix-timestamp: 1556150400
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Switched to weblate for translations.</li>
+
+      <li>Allow sorting by priority.</li>
+
+      <li>The following translations were updated: Portuguese, Spanish, Lithuanian, Korean, Norwegian Bokmål.</li>
+
+      <li>The ctrl+n shortcut was added to quickly create new tasks or lists.</li>
+
+    </ul>
 - version: 1.7.1
   unix-timestamp: 1552867200
   description: |-

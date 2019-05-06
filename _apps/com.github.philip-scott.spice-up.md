@@ -7,20 +7,38 @@ homepage: "https://github.com/Philip-Scott/Spice-up"
 help_page: "https://github.com/Philip-Scott/Spice-up/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/4E527DBE700E430994D6707E313620D2/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/icons/64x64/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/icons/128x128/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/icons/64x64@2/com.github.philip-scott.spice-up_com.github.philip-scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"
 price: 20
 releases:
+- version: 1.8.2
+  unix-timestamp: 1557014400
+  description: |-
+    <p>Privacy Mode and Translations</p>
+
+    <ul>
+
+      <li>Spice-Up now respects privacy settings. When enabled, it will not show recently opened presentations.</li>
+
+      <li>The external templates fetcher service has been removed.</li>
+
+      <li>French translation updated by NathanBnm</li>
+
+      <li>German translation added by herrhotzenplotz</li>
+
+      <li>A big thanks to all the translators for your work!</li>
+
+    </ul>
 - version: 1.8.0
   unix-timestamp: 1547942400
   description: |-

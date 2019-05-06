@@ -7,14 +7,30 @@ homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/Notes-up/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/98901428BDF85D07F2F1851F01408C72/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/98901428BDF85D07F2F1851F01408C72/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/icons/64x64/com.github.philip-scott.notes-up_com.github.philip-scott.notes-up.png
 color:
   primary: "#BEDAFF"
   primary-text: "#274771"
 price: 12
 releases:
+- version: 2.0.2
+  unix-timestamp: 1557014400
+  description: |-
+    <p>The Future of Notes-Up, now with fixes!</p>
+
+    <ul>
+
+      <li>Searching now highlights text in the viewer and editor</li>
+
+      <li>Fixed: App theme overwrote the editor theme</li>
+
+      <li>Russian translation added by Tim77. Thank you and all the other translators for your work!</li>
+
+    </ul>
 - version: 2.0.0
   unix-timestamp: 1553472000
   description: |-
