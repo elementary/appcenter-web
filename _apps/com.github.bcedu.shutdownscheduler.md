@@ -7,18 +7,36 @@ homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/FF49F756E04D4DD45F88164DE6C96FAA/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.4.0
+  unix-timestamp: 1555804800
+  description: |-
+    <p>App rewriten from scratch</p>
+
+    <ul>
+
+      <li>The window is now resisable</li>
+
+      <li>The app remembers the size and the position of the window when it&apos;s reopened</li>
+
+      <li>The app is now translatable</li>
+
+      <li>Catalan translations has benn added</li>
+
+      <li>The configuration popover is now a new view of the app that can be accessed at any moment with the configuration
+
+    button from the top-right corner.</li> </ul>
 - version: 1.3.2
   unix-timestamp: 1543536000
   description: |-

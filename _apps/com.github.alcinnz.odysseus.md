@@ -7,19 +7,45 @@ homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"
 price: 1
 releases:
+- version: 1.5.12
+  unix-timestamp: 1554854400
+  description: |-
+    <p>Webfeed discovery support!</p>
+
+    <p>Full Dutch localization</p>
+
+    <p>Fix topsites editing</p>
+
+    <p>Lower threshold for sourcing topsites from browser history</p>
+
+    <p>Minor performance improvements</p>
+- version: 1.5.11
+  unix-timestamp: 1552089600
+  description: |-
+    <p>Enable MSE, full French translations.</p>
+- version: 1.5.10
+  unix-timestamp: 1540684800
+  description: |-
+    <p>Minor visual corrections.</p>
+
+    <p>Visually tie status icons to addressbar again,
+
+                revert having icons in application menu.</p>
+
+    <p>Fixes for other themes.</p>
 - version: 1.5.8
   unix-timestamp: 1539475200
   description: |-
