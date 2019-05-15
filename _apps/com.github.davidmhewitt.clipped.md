@@ -7,16 +7,30 @@ homepage: "https://github.com/davidmhewitt/clipped"
 help_page: "https://github.com/davidmhewitt/clipped/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/D1AA04022A81FF686BEDA89350EDE6A3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/D1AA04022A81FF686BEDA89350EDE6A3/icons/64x64/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/D1AA04022A81FF686BEDA89350EDE6A3/icons/128x128/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/D1AA04022A81FF686BEDA89350EDE6A3/icons/64x64@2/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/icons/64x64/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/icons/128x128/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/icons/64x64@2/com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
 color:
   primary: "#e3bab1"
   primary-text: "#2b313d"
 price: 0
 releases:
+- version: 1.1.1
+  unix-timestamp: 1557878400
+  description: |-
+    <ul>
+
+      <li>Possible fixes for opening Clipped with shortcut</li>
+
+      <li>Added HiDPI icons</li>
+
+      <li>Fix for occasional crash when deleting items</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1557532800
   description: |-

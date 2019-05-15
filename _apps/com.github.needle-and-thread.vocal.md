@@ -7,21 +7,27 @@ homepage: "http://github.com/needle-and-thread/vocal"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/E6C5556D8DCB4DF1577C3F486FBA08FA/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
 color:
   primary: "#603461"
   primary-text: "#fff"
 price: 5
 releases:
+- version: 2.4.1
+  unix-timestamp: 1557775222
+  description: |-
+    <p>This is a small point release that includes a fix for the progress bar, which in version 2.4.0
+
+                had an issue where only the left half of the progress bar could be used for seeking.</p>
 - version: 2.4
   unix-timestamp: 1554918082
   description: |-
