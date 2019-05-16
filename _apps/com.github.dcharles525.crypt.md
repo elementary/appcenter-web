@@ -7,23 +7,35 @@ homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/8D98DAD49733E878A43C057898424A9F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/8D98DAD49733E878A43C057898424A9F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/8D98DAD49733E878A43C057898424A9F/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/8D98DAD49733E878A43C057898424A9F/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/8D98DAD49733E878A43C057898424A9F/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
 color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
 releases:
+- version: 1.6.0
+  unix-timestamp: 1557273600
+  description: |-
+    <p>Limit Notifications (right click on the table)</p>
+
+    <p>Reworked some dialog UI</p>
+
+    <p>Using Gtk.Paned on the home tab so you can make the charts larger</p>
+
+    <p>Translation updates @NathanBnm</p>
 - version: 1.5.0
   unix-timestamp: 1555200000
   description: |-
     <p>You can now customize the coin list (right click for menu)</p>
 
-    <p>Lots of stablization effrots</p>
+    <p>Lots of stablization efforts</p>
 
     <p>Reworked the header</p>
 
