@@ -13,6 +13,21 @@
 @import "apps";
 @import "home";
 
+:root {
+  color-scheme: light dark;
+  --bg: #fff;
+  --fg: #333;
+  --accent: #7239b3;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #3b3f45;
+    --fg: #d4d4d4;
+    --accent: #a56de2;
+  }
+}
+
 html,
 body {
   box-sizing: border-box;
@@ -20,8 +35,8 @@ body {
   padding: 0;
 
   font-family: $ui-font;
-  background-color: #fff;
-  color: #333;
+  background-color: var(--bg);
+  color: var(--fg);
 }
 
 *,
