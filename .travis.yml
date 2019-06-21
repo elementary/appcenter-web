@@ -1,5 +1,9 @@
 ---
 
+branches:
+  only:
+    - .*
+
 language: ruby
 
 rvm:
