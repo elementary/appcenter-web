@@ -2,7 +2,8 @@
 
 branches:
   only:
-    - .*
+    - gh-pages
+    - /.*/
 
 language: ruby
 
