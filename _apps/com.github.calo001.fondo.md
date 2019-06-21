@@ -7,24 +7,48 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9118EB9BF401C72EBE1174ED41B8B244/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/B0CA20293BFBBFB38C429F6159D2F095/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.3.2
+  unix-timestamp: 1561075200
+  description: |-
+    <p>Important fixes</p>
+
+    <ul>
+
+      <li>Login screen does not use selected wallpaper</li>
+
+      <li>Wallpaper doesn&apos;t change when applying on Ubuntu Mate 18.04</li>
+
+    </ul>
+- version: 1.3.1
+  unix-timestamp: 1560038400
+  description: |-
+    <p>Update</p>
+
+    <ul>
+
+      <li>Dutch (Netherlands) translation</li>
+
+    </ul>
 - version: 1.3.0
   unix-timestamp: 1559952000
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Keep your favorite photos with you, the photo history has arrived!</li>
@@ -45,6 +69,8 @@ releases:
 - version: 1.2.4
   unix-timestamp: 1557792000
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Remove G+ option from Share popup</li>
@@ -53,6 +79,8 @@ releases:
 - version: 1.2.3
   unix-timestamp: 1552608000
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Update the set of screenshots</li>
@@ -63,6 +91,8 @@ releases:
 - version: 1.2.2
   unix-timestamp: 1552608000
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Added Dutch (Netherlands) translation</li>
@@ -71,6 +101,8 @@ releases:
 - version: 1.2.1
   unix-timestamp: 1548115200
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Add french translations</li>
@@ -79,6 +111,8 @@ releases:
 - version: 1.2.0
   unix-timestamp: 1546732800
   description: |-
+    <p>Updates</p>
+
     <ul>
 
       <li>Search by category and query</li>
@@ -91,6 +125,8 @@ releases:
 - version: 1.1.4
   unix-timestamp: 1537574400
   description: |-
+    <p>Updates</p>
+
     <ul>
 
       <li>New screenshots with awesome photos</li>
@@ -101,6 +137,8 @@ releases:
 - version: 1.1.3
   unix-timestamp: 1537056000
   description: |-
+    <p>Fixes and improvements</p>
+
     <ul>
 
       <li>Orthographic corrections in the Spanish translation</li>
@@ -111,6 +149,8 @@ releases:
 - version: 1.1.2
   unix-timestamp: 1536796800
   description: |-
+    <p>A very nice update with new features</p>
+
     <ul>
 
       <li>Responsive, resizable window</li>

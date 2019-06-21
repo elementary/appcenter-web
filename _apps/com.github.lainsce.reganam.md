@@ -7,16 +7,30 @@ homepage: "https://github.com/lainsce/reganam/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/D4CA3DCC1A3690B002852A8D7BEA4D1E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/0A34FF071322676E2A9845FD6A990E25/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/D4CA3DCC1A3690B002852A8D7BEA4D1E/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/D4CA3DCC1A3690B002852A8D7BEA4D1E/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/D4CA3DCC1A3690B002852A8D7BEA4D1E/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/0A34FF071322676E2A9845FD6A990E25/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/0A34FF071322676E2A9845FD6A990E25/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/0A34FF071322676E2A9845FD6A990E25/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
 color:
   primary: "#715344"
   primary-text: "#fafafa"
 price: 3
 releases:
+- version: 1.0.5
+  unix-timestamp: 1561161600
+  description: |-
+    <p>Release: Welcome to the Planet</p>
+
+    <ul>
+
+      <li>Add: People and Housing.</li>
+
+      <li>Fix: When Max level is reached, build/research buttons are disabled.</li>
+
+      <li>Fix: More text available to be translated.</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1561075200
   description: |-
@@ -36,7 +50,7 @@ releases:
 
       <li>Fix: There was some game locking bugs happening that would make the game unplayable. (fixed by Kai Gillmann [Silberling
 
-    on GitHub]</li> </ul>
+    on GitHub])</li> </ul>
 - version: 1.0.2
   unix-timestamp: 1559260800
   description: |-
