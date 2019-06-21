@@ -7,19 +7,29 @@ homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6E1F260E8D328240B12C81B739F7B3F3/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"
 price: 1
 releases:
+- version: 1.5.17
+  unix-timestamp: 1558310400
+  description: |-
+    <p>Reader Mode</p>
+
+    <p>Minor layout fix</p>
+
+    <p>Show download count</p>
+
+    <p>Preparation to support a global dark mode</p>
 - version: 1.5.12
   unix-timestamp: 1554854400
   description: |-
