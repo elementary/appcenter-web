@@ -1,10 +1,23 @@
+---
+
 branches:
   only:
     - gh-pages
+    - /.*/
+
 language: ruby
+
 rvm:
   - 2.5
-script: ruby ./generate-loki.rb; ruby ./generate-juno.rb
+
+install:
+  - gem uninstall bundler
+  - gem install bundler --version '1.17.3'
+
+script:
+  - ruby ./generate-loki.rb
+  - ruby ./generate-juno.rb
+
 deploy:
   provider: pages
   skip-cleanup: true

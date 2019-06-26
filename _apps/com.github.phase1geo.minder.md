@@ -7,18 +7,63 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 5
 releases:
+- version: 1.3.1
+  description: |-
+    <ul>
+
+      <li>Fixing issue with export functions.</li>
+
+    </ul>
+- version: 1.3.0
+  unix-timestamp: 1558310400
+  description: |-
+    <p>Let&apos;s stay connected!</p>
+
+    <ul>
+
+      <li>Added support for creating a visual connection between any two nodes.</li>
+
+      <li>Added ability to show/hide all connections in the map.</li>
+
+      <li>Added support for remembering the last selected child of a node when navigating the map with the keyboard.</li>
+
+      <li>When escape key is used when editing text, editing mode is ended without reverting text.</li>
+
+      <li>Created unique contextual menus depending on what is selected in the mind map.</li>
+
+      <li>Changed Node sidebar tab to Current which shows either the currently selected node or connection.</li>
+
+      <li>Improved link drawing when a node tree is being moved.</li>
+
+      <li>Switched from using GtkFileChooserDialog to GtkFileChooserNative.</li>
+
+      <li>Added support for inserting emoji when editing text in the mind map (use Control-period).</li>
+
+      <li>Improved readability of theme name when the theme is selected.</li>
+
+      <li>Fixed issue where changing a global style was not saved/applied to new nodes.</li>
+
+      <li>Improved copy/paste support of nodes so that copied items can be pasted in other mind maps.</li>
+
+      <li>Added support for dynamically changing to dark mode in the UI if the prefer-dark desktop gsetting is set.</li>
+
+      <li>Added ability to show/hide each panel within the style inspector.</li>
+
+      <li>Removed support for Loki builds.</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1554854400
   description: |-
@@ -186,9 +231,16 @@ redirect_from:
 <p>Use the power of mind-mapping to make your ideas come to life.</p>
 <ul>
   <li>Quickly create visual mind-maps using the keyboard and automatic layout.</li>
-  <li>Gorgeous themes.</li>
-  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown and PlainText formats.</li>
-  <li>Printer support.</li>
+  <li>Choose from many tree layout choices</li>
   <li>Add notes, tasks and images to your nodes.</li>
+  <li>Add node-to-node connections with optional text and notes.</li>
+  <li>Stylize nodes, links and connections to add more meaning and improve readability.</li>
+  <li>Quick search of node and connection titles and notes, including filtering options.</li>
+  <li>Zoom in to focus on certain ideas or zoom out to see the bigger picture.</li>
+  <li>Unlimited undo/redo of any change.</li>
+  <li>Automatically saves in the background.</li>
   <li>Colorized node branches.</li>
+  <li>Gorgeous themes and animations.</li>
+  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText and Mermaid formats.</li>
+  <li>Printer support.</li>
 </ul>

@@ -7,19 +7,23 @@ homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/EA6E742642EB99ED3D5A24CC3B8C5F37/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
 color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
 releases:
+- version: 1.6.1
+  unix-timestamp: 1559952000
+  description: |-
+    <p>Danish Translations thanks to @siigdev</p>
 - version: 1.6.0
   unix-timestamp: 1557273600
   description: |-

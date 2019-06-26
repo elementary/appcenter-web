@@ -7,18 +7,42 @@ homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D398E4B59AE44138DFED7A173886FE6F/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/E8245DA63357DD9506014BDC7126E11F/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.5.0
+  unix-timestamp: 1555804800
+  description: |-
+    <p>App rewriten from scratch</p>
+
+    <ul>
+
+      <li>The window is now resisable</li>
+
+      <li>The app remembers the size and the position of the window when it&apos;s reopened</li>
+
+      <li>The app is now translatable</li>
+
+      <li>Catalan translations has benn added</li>
+
+      <li>French translations has benn added</li>
+
+      <li>The configuration popover is now a new view of the app that can be accessed at any moment with the configuration
+
+    button from the top-right corner.</li>
+
+      <li>Big Fixes</li>
+
+    </ul>
 - version: 1.4.0
   unix-timestamp: 1555804800
   description: |-
@@ -52,7 +76,7 @@ releases:
 
     <ul>
 
-      <li>Allow customize fas acces buttons</li>
+      <li>Allow customize fas access buttons</li>
 
     </ul>
 - version: 1.1.1
@@ -62,7 +86,7 @@ releases:
 
     <ul>
 
-      <li>Change the fast acces button &quot;2 h.&quot; for &quot;5 min.&quot;</li>
+      <li>Change the fast access button &quot;2 h.&quot; for &quot;5 min.&quot;</li>
 
     </ul>
 - version: 1.1.0
@@ -89,7 +113,7 @@ redirect_from:
 <ul>
   <li>Choose the specific time when you want to shutdown your computer</li>
   <li>Fast access buttons to add time</li>
-  <li>Customize the fast acces buttons with your own times</li>
+  <li>Customize the fast access buttons with your own times</li>
   <li>Watch the remaining time at any time in the program, or just make a fast look to the progress bar of the icon</li>
   <li>Cancel the scheduled shutdown with just a button</li>
 </ul>

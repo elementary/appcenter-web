@@ -7,20 +7,72 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B04F254488A632922B907E666ED77010/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 1.9.1
+  unix-timestamp: 1559952000
+  description: |-
+    <p>Release: Export without Errors</p>
+
+    <ul>
+
+      <li>Fixed: Exports to PDF while in other modes visual glitches.</li>
+
+    </ul>
+- version: 1.9.0
+  unix-timestamp: 1559174400
+  description: |-
+    <p>Release: I Said Fixes!</p>
+
+    <ul>
+
+      <li>Fixed: Backend technical confusion with files.</li>
+
+    </ul>
+- version: 1.8.7
+  unix-timestamp: 1559174400
+  description: |-
+    <p>Release: Did Anyone Say Minor Fixes?</p>
+
+    <ul>
+
+      <li>Fixed: Local image syntax wrongly picked up with links or two : in succession.</li>
+
+    </ul>
+- version: 1.8.6
+  unix-timestamp: 1559174400
+  description: |-
+    <p>Release: Even MORE Minor Fixes</p>
+
+    <ul>
+
+      <li>Other tiny fixes with the sidebar.</li>
+
+    </ul>
+- version: 1.8.5
+  unix-timestamp: 1559174400
+  description: |-
+    <p>Release: Minor Fixes</p>
+
+    <ul>
+
+      <li>Fixed: Various Sidebar fixes for safety of your files.</li>
+
+      <li>Other: Minor fixes in styling.</li>
+
+    </ul>
 - version: 1.8.4
   unix-timestamp: 1556236800
   description: |-
