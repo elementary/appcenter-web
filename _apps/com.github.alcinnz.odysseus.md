@@ -7,19 +7,25 @@ homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/6A3C1266CF4269B71FE45C3CB32FA949/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0BA736AA1023E9C13F84452E878F07B0/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"
 price: 1
 releases:
+- version: 1.6.0
+  unix-timestamp: 1562716800
+  description: |-
+    <p>Personalized recommendations</p>
+
+    <p>Performance optimizations (tidies up database)</p>
 - version: 1.5.17
   unix-timestamp: 1558310400
   description: |-
@@ -189,5 +195,6 @@ that matter to you.</p>
   <li>DuckDuckGo integration</li>
   <li>Browser history</li>
   <li>Topsites with initial hand-curated recommendations</li>
+  <li>Personalized link recommendations</li>
 </ul>
 <p>These features are completed to a high degree of polish.</p>

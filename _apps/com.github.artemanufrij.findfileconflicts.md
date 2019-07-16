@@ -7,15 +7,27 @@ homepage: "http://anufrij.org"
 help_page: "https://github.com/artemanufrij/findfileconflicts/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/91F74A74DE7DA4DF8CCA45C087DEE2CD/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/icons/64x64/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/icons/128x128/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/icons/64x64@2/com.github.artemanufrij.findfileconflicts_com.github.artemanufrij.findfileconflicts.png
 color:
   primary: "#a62100"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.1.3
+  unix-timestamp: 1563235200
+  description: |-
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
 - version: 1.1.2
   unix-timestamp: 1541116800
   description: |-

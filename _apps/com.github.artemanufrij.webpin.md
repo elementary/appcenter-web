@@ -7,17 +7,39 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/52E698BBCE5F337AA17F0FED5884869D/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
 color:
   primary: "#399cd2"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.4
+  unix-timestamp: 1563148800
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Enable Media Source Extensions (by Cassidy James Blaede)</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+      <li>Spanish (by Manueljlin)</li>
+
+      <li>Lithuanian (by welaq)</li>
+
+    </ul>
 - version: 1.0.3
   unix-timestamp: 1542499200
   description: |-

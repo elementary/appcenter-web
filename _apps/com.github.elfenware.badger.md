@@ -7,11 +7,11 @@ homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/7571057E3A87B5EA55FA7E959F2F0540/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
 color:
   primary: "#fff"
   primary-text: "#333"

@@ -7,19 +7,82 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/254E8477104E52EC11F67FA2AA75CA6E/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 5
 releases:
+- version: 1.4.1
+  unix-timestamp: 1563062400
+  description: |-
+    <ul>
+
+      <li>Fixed issue with automatic layout that was introduced in 1.4.0.</li>
+
+    </ul>
+- version: 1.4.0
+  unix-timestamp: 1562112000
+  description: |-
+    <ul>
+
+      <li>Added support for focus mode.</li>
+
+      <li>Added support for multiple documents with tabs.</li>
+
+      <li>Added support for resizing the inspector sidebar.</li>
+
+      <li>Added support for creating a new node directly from editing an existing node presssing Return or Tab.</li>
+
+      <li>Added support for adding a new parent node to an existing node.</li>
+
+      <li>Added support for importing/exporting to FreeMind and Freeplane formats.</li>
+
+      <li>Added support for sorting children either alphabetically or randomly.</li>
+
+      <li>Added support for creating a link from one node to another node in the same map.</li>
+
+      <li>Added support for building a Flatpak.</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Removed markup from translated strings.</li>
+
+      <li>Standardized tooltips that display accelerator information.</li>
+
+      <li>Changed the way that node/connection titles are displayed in inspector.</li>
+
+      <li>Changed app terminal script to allow command-line arguments to be passed to debug subcommand.</li>
+
+      <li>Changed header bar and widget colors to match Minder brand color.</li>
+
+      <li>Changed search icon in header bar to a symbolic icon to improve readability.</li>
+
+      <li>When note tooltip is displayed, markup text is rendered for improved readability.</li>
+
+      <li>Enhanced app script to allow command-line arguments to be passed to debug subcommand.</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Fixed an issue with calculating connection endpoints when a portion of the node is not visible.</li>
+
+      <li>Fixed file naming issue when a file is imported.</li>
+
+      <li>Fixed issue with displaying resized nodes on open or application startup.</li>
+
+    </ul>
 - version: 1.3.1
+  unix-timestamp: 1559433600
   description: |-
     <ul>
 
@@ -236,11 +299,14 @@ redirect_from:
   <li>Add node-to-node connections with optional text and notes.</li>
   <li>Stylize nodes, links and connections to add more meaning and improve readability.</li>
   <li>Quick search of node and connection titles and notes, including filtering options.</li>
-  <li>Zoom in to focus on certain ideas or zoom out to see the bigger picture.</li>
+  <li>Zoom in or enable focus mode to focus on certain ideas or zoom out to see the bigger picture.</li>
+  <li>Enter focus mode to better view and understand portions of the map.</li>
   <li>Unlimited undo/redo of any change.</li>
   <li>Automatically saves in the background.</li>
   <li>Colorized node branches.</li>
+  <li>Open multiple mindmaps with the use of tabs.</li>
   <li>Gorgeous themes and animations.</li>
-  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText and Mermaid formats.</li>
+  <li>Import from OPML, FreeMind and Freeplane formats.</li>
+  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText, FreeMind, Freeplane and Mermaid formats.</li>
   <li>Printer support.</li>
 </ul>

@@ -1,24 +1,34 @@
 ---
 app_id: com.github.jeremyvaartjes.comgen
 title: "Comgen"
-summary: "Comment Generator: generate styled comments for your code."
+summary: "Comment Generator: generate styled comments for your code"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/icons/64x64/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/icons/128x128/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/1014C63330020BA13AE4F0133E144FEB/icons/64x64@2/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/icons/64x64/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/icons/128x128/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/icons/64x64@2/com.github.jeremyvaartjes.comgen_com.github.jeremyvaartjes.comgen.png
 color:
   primary: "#ffffe1"
   primary-text: "#747a68"
 price: 1
 releases:
+- version: 1.1.0
+  unix-timestamp: 1561420800
+  description: |-
+    <ul>
+
+      <li>Multiple fonts now supported. Font files use the figlet font format.</li>
+
+      <li>French translation update by @NathanBnm</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1550275200
   description: |-

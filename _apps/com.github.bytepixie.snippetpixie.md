@@ -7,17 +7,27 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/FCC1FE30EF04F9A73D68484906B4A6C8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/FCC1FE30EF04F9A73D68484906B4A6C8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/FCC1FE30EF04F9A73D68484906B4A6C8/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/FCC1FE30EF04F9A73D68484906B4A6C8/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/FCC1FE30EF04F9A73D68484906B4A6C8/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.2.1
+  unix-timestamp: 1562716800
+  description: |-
+    <ul>
+
+      <li>Various fixes for snap.</li>
+
+      <li>Updated credits to use GitHub handles and add Nathan as a translator (long overdue)!</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1555891200
   description: |-

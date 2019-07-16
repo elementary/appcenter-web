@@ -7,19 +7,23 @@ homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/E7D4C1B787559DBEFB024DF0A84D9CA2/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/icons/64x64/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/icons/128x128/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/icons/64x64@2/com.github.dcharles525.crypt_com.github.dcharles525.crypt.png
 color:
   primary: "#00aeae"
   primary-text: "#000"
 price: 10
 releases:
+- version: 1.7.0
+  unix-timestamp: 1563840000
+  description: |-
+    <p>Track all your coins and gains with &quot;Wallet&quot;!</p>
 - version: 1.6.1
   unix-timestamp: 1559952000
   description: |-
@@ -104,6 +108,7 @@ redirect_from:
 
 <p>Ever want to view the crypto market in native Vala/GTK? Well look no more Crypt is all you need to look at charts, prices, and other information while using less than 50mb of RAM.</p>
 <ul>
+  <li>Track all your coins and gains with &quot;Wallet&quot;!</li>
   <li>Data refreshes every minute!</li>
   <li>View hourly, daily, and weekly charts!</li>
   <li>Click on candles to inspect information!</li>

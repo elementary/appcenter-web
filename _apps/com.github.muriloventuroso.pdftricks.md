@@ -7,17 +7,27 @@ homepage: "https://github.com/muriloventuroso/pdftricks"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E350875E0CF0F7C4526EEA6BD609C714/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E350875E0CF0F7C4526EEA6BD609C714/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/9E33646DE6EB0CB5977FF393BA24A06C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/9E33646DE6EB0CB5977FF393BA24A06C/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E350875E0CF0F7C4526EEA6BD609C714/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E350875E0CF0F7C4526EEA6BD609C714/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E350875E0CF0F7C4526EEA6BD609C714/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/9E33646DE6EB0CB5977FF393BA24A06C/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/9E33646DE6EB0CB5977FF393BA24A06C/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/9E33646DE6EB0CB5977FF393BA24A06C/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.2.6
+  unix-timestamp: 1561334400
+  description: |-
+    <p>Disable button when is processing</p>
+
+    <p>Fix build with vala 0.44</p>
+
+    <p>Update Translations</p>
+
+    <p>Bugfix</p>
 - version: 0.2.5
   unix-timestamp: 1555891200
   description: |-

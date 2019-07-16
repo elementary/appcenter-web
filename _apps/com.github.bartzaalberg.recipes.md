@@ -7,19 +7,29 @@ homepage: "https://github.com/bartzaalberg/recipes"
 help_page: "https://github.com/bartzaalberg/recipes/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/icons/64x64/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/icons/128x128/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/1D5B75625D9AE6BB6CD7D461D971941A/icons/64x64@2/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/icons/64x64/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/icons/128x128/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/47F55ACA970E5C07A323FDF72973E27B/icons/64x64@2/com.github.bartzaalberg.recipes_com.github.bartzaalberg.recipes.png
 color:
   primary: "#fff"
   primary-text: "#006DF0"
 price: 1
 releases:
+- version: 1.2.0
+  unix-timestamp: 1561939200
+  description: |-
+    <p>Added number of people</p>
+
+    <ul>
+
+      <li>Added number of people</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1553731200
   description: |-

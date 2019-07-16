@@ -7,20 +7,67 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/13EDC743E676CC6432E6DC61F18CB506/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
 color:
   primary: "#4fad51"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.3.0
+  unix-timestamp: 1562198400
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Add new UI</li>
+
+      <li>Add initial support for Philips Hue devices</li>
+
+      <li>Add discovery for Philips Hue bridges</li>
+
+      <li>Add page to configure Philips Hue bridges</li>
+
+      <li>Add service to save configurations</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Update welcome view</li>
+
+      <li>Add mode switch for dark theme if freedesktop schema is not available</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German</li>
+
+      <li>Russian (by camellan)</li>
+
+    </ul>
 - version: 0.2.0
   unix-timestamp: 1560470400
   description: |-
@@ -67,4 +114,5 @@ redirect_from:
 <p>Supported devices:</p>
 <ul>
   <li>LIFX</li>
+  <li>Philips Hue</li>
 </ul>

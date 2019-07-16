@@ -7,20 +7,30 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AC5A14CA7C46058C34E439ABE427312B/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/3250B4EDCB8709F9F1ABF1746C76F44E/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 1.9.2
+  unix-timestamp: 1561680000
+  description: |-
+    <p>Release: Sidebar File Cleaner-o-matic</p>
+
+    <ul>
+
+      <li>Added: &quot;Remove All Files&quot; button on the sidebar, this way, no files will be harmed with the old close
+
+    file buttons.</li> </ul>
 - version: 1.9.1
   unix-timestamp: 1559952000
   description: |-

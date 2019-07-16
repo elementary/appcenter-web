@@ -7,16 +7,50 @@ homepage: "https://github.com/lainsce/reganam/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/9691397C1202187278A7CDEDA445B54C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/9691397C1202187278A7CDEDA445B54C/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/9691397C1202187278A7CDEDA445B54C/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/9691397C1202187278A7CDEDA445B54C/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
 color:
   primary: "#715344"
   primary-text: "#fafafa"
 price: 3
 releases:
+- version: 1.1.1
+  unix-timestamp: 1561766400
+  description: |-
+    <p>Release: Patched Synths, part 2</p>
+
+    <ul>
+
+      <li>Minor fixes in the research level algorithms</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1561680000
+  description: |-
+    <p>Release: Patched Synths</p>
+
+    <ul>
+
+      <li>Minor fixes</li>
+
+    </ul>
+- version: 1.0.9
+  unix-timestamp: 1561593600
+  description: |-
+    <p>Release: Planet Buster</p>
+
+    <ul>
+
+      <li>Add: Reset All Button under a Cog menu.</li>
+
+      <li>Add: Population Housing research</li>
+
+      <li>Fix: Synthesizers pricing bug</li>
+
+    </ul>
 - version: 1.0.8
   unix-timestamp: 1561420800
   description: |-

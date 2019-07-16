@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.screencast.desktop
+app_id: com.github.artemanufrij.screencast
 title: "Screencast"
 summary: "A simple screen recorder"
 developer: "Artem Anufrij"
@@ -7,17 +7,35 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/screencast/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/icons/64x64/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/icons/128x128/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast.desktop/2BF3C055346F65DB7E24FCD2CB759912/icons/64x64@2/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/icons/64x64/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/icons/128x128/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/icons/64x64@2/com.github.artemanufrij.screencast_com.github.artemanufrij.screencast.png
 color:
   primary: "#3A1412"
   primary-text: "rgb(255,244,230)"
 price: 1
 releases:
+- version: 1.0.0
+  unix-timestamp: 1563148800
+  description: |-
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>German (by Maik Marschner)</li>
+
+      <li>Russian (by Stas)</li>
+
+      <li>French (by eurruby)</li>
+
+      <li>Portuguese (by Fernando Júnior, Deyvison Rocha)</li>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+    </ul>
 - version: 0.3.0
   unix-timestamp: 1532390400
   description: |-
@@ -104,7 +122,7 @@ redirect_from:
   - /com.github.artemanufrij.screencast.desktop/
 ---
 
-<p>Screencast makes it simple to record your screen.</p>
+<p>Screencast makes it simple to record your screen for making something like video tutorials</p>
 <ul>
   <li>Record the whole screen</li>
   <li>Select an area of the screen to record</li>
