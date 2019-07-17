@@ -7,17 +7,33 @@ homepage: "https://github.com/bartzaalberg/sudokular"
 help_page: "https://github.com/bartzaalberg/sudokular/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/60ABD73431553E0CFEBD75A07EA9CBD7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/60ABD73431553E0CFEBD75A07EA9CBD7/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/60ABD73431553E0CFEBD75A07EA9CBD7/icons/64x64/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/60ABD73431553E0CFEBD75A07EA9CBD7/icons/128x128/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/60ABD73431553E0CFEBD75A07EA9CBD7/icons/64x64@2/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/64x64/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/128x128/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/64x64@2/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
 color:
   primary: "rgb(230, 199, 168)"
   primary-text: "rgb(0, 0, 0)"
 price: 0
 releases:
+- version: 1.0.1
+  unix-timestamp: 1563321600
+  description: |-
+    <p>Small fixes</p>
+
+    <ul>
+
+      <li>Do not resume games when content is null</li>
+
+      <li>Generate save game on start</li>
+
+      <li>Simplified building steps</li>
+
+      <li>Removed depracated Granite.Application</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1562716800
   description: |-

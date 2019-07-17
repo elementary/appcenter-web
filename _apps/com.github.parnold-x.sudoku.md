@@ -1,23 +1,26 @@
 ---
-app_id: com.github.parnold-x.sudoku.desktop
+app_id: com.github.parnold-x.sudoku
 title: "Sudoku"
 summary: "The number that is alone"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/sudoku"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.sudoku.desktop/081D0B3A42444413680ACDD32322CA7A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.sudoku/D4264594A0C0B984FCA2C3A1ABAC1C23/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.sudoku.desktop/081D0B3A42444413680ACDD32322CA7A/icons/64x64/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.sudoku.desktop/081D0B3A42444413680ACDD32322CA7A/icons/128x128/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.sudoku.desktop/081D0B3A42444413680ACDD32322CA7A/icons/64x64@2/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.sudoku/D4264594A0C0B984FCA2C3A1ABAC1C23/icons/64x64/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.sudoku/D4264594A0C0B984FCA2C3A1ABAC1C23/icons/128x128/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.sudoku/D4264594A0C0B984FCA2C3A1ABAC1C23/icons/64x64@2/com.github.parnold-x.sudoku_com.github.parnold-x.sudoku.png
 color:
   primary: "rgb(230, 199, 168)"
   primary-text: "rgb(0, 0, 0)"
 price: 0
 releases:
-
+- version: 0.3.0
+  unix-timestamp: 1563321600
+  description: |-
+    <p>Release for Juno</p>
 redirect_from:
   - /com.github.parnold-x.sudoku.desktop/
 ---

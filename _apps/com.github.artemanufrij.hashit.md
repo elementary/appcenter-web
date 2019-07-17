@@ -7,14 +7,38 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/hashit/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/B38C6A3C123DAB9CBD4A07BF5BC335EE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/BB369ACB0F22419ACEE6C94CEA4515B0/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/B38C6A3C123DAB9CBD4A07BF5BC335EE/icons/64x64/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/BB369ACB0F22419ACEE6C94CEA4515B0/icons/64x64/com.github.artemanufrij.hashit_com.github.artemanufrij.hashit.png
 color:
   primary: "#404040"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.1.0
+  unix-timestamp: 1563321600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Save last used algorithm</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+      <li>Catalan (by Mario Rodrigo)</li>
+
+      <li>Spanish (by Mario Rodrigo)</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1540857600
   description: |-
