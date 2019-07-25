@@ -7,16 +7,20 @@ homepage: "https://github.com/aimproxy/cyfrif"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/F1FCBD95122E28B3B402C2286A189C85/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/F1FCBD95122E28B3B402C2286A189C85/icons/64x64/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/F1FCBD95122E28B3B402C2286A189C85/icons/128x128/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/F1FCBD95122E28B3B402C2286A189C85/icons/64x64@2/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/icons/64x64/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/icons/128x128/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/icons/64x64@2/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
 color:
-  primary: "#512DA8"
-  primary-text: "#000000"
+  primary: "#4c158a"
+  primary-text: "#fff"
 price: 0
 releases:
+- version: 0.1.7
+  unix-timestamp: 1564012800
+  description: |-
+    <p>New Icon and Change AppCenter Color</p>
 - version: 0.1.6
   unix-timestamp: 1562716800
   description: |-
