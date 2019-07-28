@@ -7,16 +7,27 @@ homepage: "https://github.com/lainsce/dot-matrix/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/965CD58551F6FDA6E6158390441FBBD4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/965CD58551F6FDA6E6158390441FBBD4/icons/64x64/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/965CD58551F6FDA6E6158390441FBBD4/icons/128x128/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/965CD58551F6FDA6E6158390441FBBD4/icons/64x64@2/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/icons/64x64/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/icons/128x128/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/icons/64x64@2/com.github.lainsce.dot-matrix_com.github.lainsce.dot-matrix.png
 color:
   primary: "#72DEC1"
   primary-text: "#000"
 price: 5
 releases:
+- version: 1.2.3
+  unix-timestamp: 1564617600
+  description: |-
+    <p>Release: Magnific Colors</p>
+
+    <ul>
+
+      <li>Fixed: Ecosystem Colors now are correctly used through the UI</li>
+
+    </ul>
 - version: 1.2.2
   unix-timestamp: 1564444800
   description: |-
