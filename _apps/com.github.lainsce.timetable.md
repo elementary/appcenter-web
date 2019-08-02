@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/D654050D2A562372327A6D129D3E0B88/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/918D5A596D117639A718CDC34AC410E1/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/D654050D2A562372327A6D129D3E0B88/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/D654050D2A562372327A6D129D3E0B88/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/D654050D2A562372327A6D129D3E0B88/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.0.7
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Release: Draggy Days</p>
+
+    <ul>
+
+      <li>Fixed: Drag and drop your tasks away and organize them that way.</li>
+
+    </ul>
 - version: 1.0.6
   unix-timestamp: 1552608000
   description: |-

@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/niu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/24046648E967B5E1A46607CB9160E7AC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/54312D7B4E0B5E464CB2C2F3E5A0F990/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/24046648E967B5E1A46607CB9160E7AC/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/24046648E967B5E1A46607CB9160E7AC/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/24046648E967B5E1A46607CB9160E7AC/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/54312D7B4E0B5E464CB2C2F3E5A0F990/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/54312D7B4E0B5E464CB2C2F3E5A0F990/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/54312D7B4E0B5E464CB2C2F3E5A0F990/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
 color:
   primary: "#222222"
   primary-text: "#00DAC7"
 price: 0
 releases:
+- version: 1.0.2
+  unix-timestamp: 1564617600
+  description: |-
+    <p>Release: Setup the Clock</p>
+
+    <ul>
+
+      <li>Fixed: backend calculations</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1563926400
   description: |-

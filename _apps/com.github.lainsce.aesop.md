@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/9C7B92F085B6490BD32FEED8E7EAA2D1/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.1.0
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Release: Flourish</p>
+
+    <ul>
+
+      <li>Fixed: Page button now displays correct page number, and the page on app opening is also correct.</li>
+
+      <li>Fixed: Page size now takes advantage of the window to size itself.</li>
+
+    </ul>
 - version: 1.0.7
   unix-timestamp: 1556236800
   description: |-

@@ -3,30 +3,84 @@ app_id: com.github.treagod.spectator
 title: "Spectator"
 summary: "Comfortably test your REST APIs!"
 developer: "Marvin Ahlgrimm"
-homepage: "#"
+homepage: "https://github.com/treagod/spectator"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/screenshots/image-5_orig.png
+
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/C4B9241E2EB3C4EE72C30F5BEA83B5A3/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic//icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 6
 releases:
+- version: 0.4.0
+  unix-timestamp: 1564272000
+  description: |-
+    <p>Introduction of request collections</p>
+
+    <ul>
+
+      <li>Added collection and history view in sidebar
+
+                Requests can now be grouped into collectionsEach request will be saved in a seperate history</li>
+
+      <li>Added keyboard shortcuts
+
+                Ctlr+n: Create a new requestCtlr+Shift+n: Create a new collectionCtlr+l: Switch to collection view in sidebarCtlr+h:
+
+    Switch to history view in sidebarCtlr+,: Open settings dialog</li>
+
+      <li>Sidebar is now resizable</li>
+
+      <li>WebKit will now be lazy-loaded</li>
+
+      <li>Added more translations</li>
+
+    </ul>
 - version: 0.3.1
   unix-timestamp: 1559088000
+  description: |-
+    <p>Fix streamed data behaviour</p>
+
+    <ul>
+
+      <li>Fixed a (reintroduced )bug where chunked data was not displayed</li>
+
+    </ul>
 - version: 0.3.0
   unix-timestamp: 1558396800
+  description: |-
+    <p>Improvement of JavaScript</p>
+
+    <ul>
+
+      <li>Added JavaScript Console</li>
+
+      <li>Displayed time of response is now more accurate</li>
+
+      <li>Added XML parsing and create new view for XML responses</li>
+
+      <li>Unified sourcecode views</li>
+
+      <li>Sourcecode views are using a monospace font by default</li>
+
+      <li>Added configuration for sourcecode views</li>
+
+    </ul>
 - version: 0.2.1
   unix-timestamp: 1553558400
+  description: |-
+    <p>Fix streamed data behaviour</p>
+
+    <ul>
+
+      <li>Solves a bug where streamed data will not be shown until request finished (which might be never)</li>
+
+    </ul>
 - version: 0.2.0
   unix-timestamp: 1552780800
   description: |-
