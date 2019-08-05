@@ -7,28 +7,28 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/1C22EA049794CC25E93E1DAA403CCD7E/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/C7B22937EFB2F97204D9041CEE46E603/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
-- version: 2.0.0
-  unix-timestamp: 1559347200
+- version: 2.1.0
+  unix-timestamp: 1564790400
   description: |-
     <ul>
 
-      <li>Allow to record system sound</li>
+      <li>Allow to cancel/pause countdown before recording</li>
 
-      <li>Fix the timer does not stop in accordance with the recording</li>
+      <li>Save recordings when the app window is destroyed</li>
 
-      <li>Update Japanese translation</li>
+      <li>Fix the app freezes on closing an error dialog</li>
 
     </ul>
 redirect_from:

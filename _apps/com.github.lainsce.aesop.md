@@ -7,11 +7,11 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/6B24F1605BB318F3665D82E399E494A6/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
@@ -118,7 +118,6 @@ redirect_from:
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>
-  <li>Go fullscreen with F11</li>
   <li>Open any PDF file from anywhere, even externally</li>
   <li>Print the current viewed document</li>
 </ul>

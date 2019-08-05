@@ -7,22 +7,22 @@ homepage: "https://github.com/torikulhabib/mindi"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/icons/64x64/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/icons/128x128/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/3634AA925B47BCDE6F6CE74FCB7A89CD/icons/64x64@2/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/icons/64x64/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/icons/128x128/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/icons/64x64@2/com.github.torikulhabib.mindi_com.github.torikulhabib.mindi.png
 color:
   primary: "#525"
   primary-text: "#d1ff82"
 price: 6
 releases:
-- version: 2.0.6
-  unix-timestamp: 1564185600
+- version: 2.1.1
+  unix-timestamp: 1564876800
   description: |-
     <p>Fix and add feature</p>
 
@@ -37,6 +37,8 @@ releases:
       <li>Check link.</li>
 
       <li>Fix.</li>
+
+      <li>New icon by fatih20.</li>
 
       <li>Updated Dutch translation bt Heimen Stoffels.</li>
 

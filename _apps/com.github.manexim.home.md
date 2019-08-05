@@ -7,21 +7,69 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-7_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-8_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/CC91F4151FBC700CFAAAACAAB2661CF5/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
 color:
-  primary: "#4fad51"
+  primary: "#fafafa"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.4.0
+  unix-timestamp: 1564876800
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Set custom device icons</li>
+
+      <li>Set dim level for dimmable bulbs</li>
+
+      <li>Set color for supported bulbs</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>UI styling</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>Russian (by camellan)</li>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+      <li>Japanese (by ryonakano)</li>
+
+      <li>Portuguese (by aimproxy)</li>
+
+      <li>Polish (by oskarkunik)</li>
+
+    </ul>
 - version: 0.3.0
   unix-timestamp: 1562198400
   description: |-

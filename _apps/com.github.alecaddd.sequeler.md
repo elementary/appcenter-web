@@ -7,19 +7,31 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/1BE818C2BCCEAA96CD619E7307F88959/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/C28B045FAE259B2AF15D7041F4DA34C4/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.1
+  unix-timestamp: 1564704000
+  description: |-
+    <p>PostgreSQL Fixes</p>
+
+    <ul>
+
+      <li>Fixed PostgreSQL relationship table.</li>
+
+      <li>Fixed wrong response message when handling non select queries.</li>
+
+    </ul>
 - version: 0.7.0
   unix-timestamp: 1554595200
   description: |-
