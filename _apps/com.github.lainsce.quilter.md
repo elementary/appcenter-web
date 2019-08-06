@@ -7,20 +7,30 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/99A01B10256BDDDA3DB162ACFFAA9319/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 1.9.5
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Release: Backend Blues</p>
+
+    <ul>
+
+      <li>Fixed: Many backend problems were fixed to count here.</li>
+
+    </ul>
 - version: 1.9.3
   unix-timestamp: 1564617600
   description: |-
