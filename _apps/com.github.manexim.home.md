@@ -7,23 +7,63 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-6_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-7_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/screenshots/image-8_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-7_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/screenshots/image-8_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/28E1901ED13D57AC4B8A44500667307E/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/icons/64x64/com.github.manexim.home_com.github.manexim.home.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/icons/128x128/com.github.manexim.home_com.github.manexim.home.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/F05F69B262C5D3B1CEB9B8574F84B14D/icons/64x64@2/com.github.manexim.home_com.github.manexim.home.png
 color:
   primary: "#fafafa"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.4.1
+  unix-timestamp: 1565136000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Show loading page if no device is found</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>Russian (by camellan)</li>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+      <li>Japanese (by ryonakano)</li>
+
+      <li>Portuguese (by aimproxy)</li>
+
+      <li>Polish (by oskarkunik)</li>
+
+    </ul>
 - version: 0.4.0
   unix-timestamp: 1564876800
   description: |-
