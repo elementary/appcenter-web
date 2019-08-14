@@ -4,25 +4,29 @@ title: "Byte"
 summary: "Rediscover your music"
 developer: "Alain M."
 homepage: "https://github.com/alainm23/byte"
-help_page: "#"
+help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/A54952576791A228EB29F7E590D730B9/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#333333"
   primary-text: "#FE2851"
 price: 3
 releases:
-- version: 0.1
-  unix-timestamp: 1564963200
+- version: 0.1.2
+  unix-timestamp: 1565395200
+  description: |-
+    <p>Fix some error and performance improvement</p>
+- version: 0.1.1
+  unix-timestamp: 1565049600
   description: |-
     <p>Initial release</p>
 redirect_from:

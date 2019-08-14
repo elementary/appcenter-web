@@ -7,17 +7,25 @@ homepage: "https://github.com/muriloventuroso/easyssh"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/3D40ECCDF70246EC1FD5A968D524B08A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/3D40ECCDF70246EC1FD5A968D524B08A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/61748CB06FEC47B7272DB45D146F4C10/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/61748CB06FEC47B7272DB45D146F4C10/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/3D40ECCDF70246EC1FD5A968D524B08A/icons/64x64/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/3D40ECCDF70246EC1FD5A968D524B08A/icons/128x128/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/3D40ECCDF70246EC1FD5A968D524B08A/icons/64x64@2/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/61748CB06FEC47B7272DB45D146F4C10/icons/64x64/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/61748CB06FEC47B7272DB45D146F4C10/icons/128x128/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/61748CB06FEC47B7272DB45D146F4C10/icons/64x64@2/com.github.muriloventuroso.easyssh_com.github.muriloventuroso.easyssh.png
 color:
   primary: "#ffe16b"
   primary-text: "#000"
 price: 4
 releases:
+- version: 1.6.2
+  unix-timestamp: 1565481600
+  description: |-
+    <p>Change tab name</p>
+
+    <p>Extra arguments</p>
+
+    <p>Bugfix</p>
 - version: 1.6.1
   unix-timestamp: 1559260800
   description: |-
