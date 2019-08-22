@@ -7,20 +7,49 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/BC72C49C4E88BFB5F888C5D81CB2EC0E/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/05664FC38E43465F1CF5704C001A7692/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#333333"
   primary-text: "#FE2851"
 price: 3
 releases:
+- version: 0.1.3
+  description: |-
+    <p>This update brings improvements in the synchronization of your library as well as some new features</p>
+
+    <ul>
+
+      <li>The new Artist view was added.</li>
+
+      <li>Now you can edit and delete your Playlist.</li>
+
+      <li>&apos;New Playlist&apos; Option in &apos;Add to Playlist&apos; Popover.</li>
+
+      <li>Byte now correctly imports your album covers.</li>
+
+      <li>Improvements in online radio search. Now the radios are sorted by the number of positive votes.</li>
+
+    </ul>
+
+    <p>Translations</p>
+
+    <ul>
+
+      <li>French translation @NathanBnm 🇲🇫️</li>
+
+      <li>Japanese translation @ryonakano 🇯🇵️</li>
+
+      <li>Spanish translation @alainm23</li>
+
+    </ul>
 - version: 0.1.2
   unix-timestamp: 1565395200
   description: |-
