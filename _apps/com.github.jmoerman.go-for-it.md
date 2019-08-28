@@ -7,16 +7,38 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/03A6D120CF520102371EA45CE8AC19EB/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.7.3
+  unix-timestamp: 1566777600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Escape now cancels the editing of a task.</li>
+
+      <li>The following translations were updated: Turkish, German, Norwegian Bokmål, Japanese, Polish, Telugu.</li>
+
+    </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Work around a ListBox bug which could cause situations where no row is selected even though suitable rows exist.</li>
+
+      <li>Keep the row focussed when the user stops editing a row.</li>
+
+    </ul>
 - version: 1.7.2
   unix-timestamp: 1556150400
   description: |-
