@@ -7,20 +7,30 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/57D11F358794B866E5A77FEB3F5ABD9D/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/9332BDD805362472B5B6E19175BB2EBB/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.0.0
+  unix-timestamp: 1567123200
+  description: |-
+    <p>Release: Layout Lambada</p>
+
+    <ul>
+
+      <li>Added: New Layout; Half-Width, check it out by changing layouts on the statusbar.</li>
+
+    </ul>
 - version: 1.9.5
   unix-timestamp: 1564963200
   description: |-

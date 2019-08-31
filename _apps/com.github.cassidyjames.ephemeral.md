@@ -7,18 +7,32 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/A83E030BB3EE1DFA2EBACC39A9C37AAF/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/78DFFCFDD96CAE752263C11F9A711C39/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 5.3.0
+  unix-timestamp: 1567036800
+  description: |-
+    <p>Hello from Thessaloniki</p>
+
+    <ul>
+
+      <li>Fixed window closing: now closing the first window does not close the rest</li>
+
+      <li>Simplified “Erase” to always close the window instead of sometimes opening a new one</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 5.2.1
   unix-timestamp: 1564272000
   description: |-
