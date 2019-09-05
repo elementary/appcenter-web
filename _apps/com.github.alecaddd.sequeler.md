@@ -7,19 +7,33 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/7F13E15289A9E86A80F59B507F6E9260/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.3
+  unix-timestamp: 1567296000
+  description: |-
+    <p>Raw Query Improvements</p>
+
+    <ul>
+
+      <li>Strip comments from SQL raw queries.</li>
+
+      <li>Better handle complex queries on multiple lines.</li>
+
+      <li>Speed up query rendering.</li>
+
+    </ul>
 - version: 0.7.2
   unix-timestamp: 1564963200
   description: |-

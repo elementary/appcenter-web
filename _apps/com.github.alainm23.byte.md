@@ -7,21 +7,34 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/704FB11475E1BFE27CC4EA73F476C26F/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#FE2851"
   primary-text: "#0A005D"
 price: 3
 releases:
+- version: 0.1.6
+  unix-timestamp: 1567555200
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>3 new themes added</li>
+
+      <li>Fix icon name in French translation @NathanBnm</li>
+
+    </ul>
 - version: 0.1.5
+  unix-timestamp: 1566864000
   description: |-
     <p>This update brings some new features and bug fixes:</p>
 
@@ -39,6 +52,7 @@ releases:
 
     </ul>
 - version: 0.1.4
+  unix-timestamp: 1566777600
   description: |-
     <p>This update brings some new features and bug fixes:</p>
 
@@ -56,6 +70,7 @@ releases:
 
     </ul>
 - version: 0.1.3
+  unix-timestamp: 1566172800
   description: |-
     <p>This update brings improvements in the synchronization of your library as well as some new features</p>
 
