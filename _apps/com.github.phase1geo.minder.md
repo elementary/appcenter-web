@@ -7,18 +7,64 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/4EE210562D402505362772E8AC62B824/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
-price: 5
+price: 10
 releases:
+- version: 1.5.0
+  unix-timestamp: 1567814400
+  description: |-
+    <ul>
+
+      <li>Added export to yEd.</li>
+
+      <li>Added ability to create, edit and delete custom themes.</li>
+
+      <li>Added new quick entry mode, allowing node trees to be input within a text editor.</li>
+
+      <li>Added Control-W keyboard shortcut to close the current tab.</li>
+
+      <li>Added shortcut exploration help window (use F1 key to display).</li>
+
+    </ul>
+
+    <ul>
+
+      <li>New search icon which has better contrast for Minder&apos;s themed header bar (thanks to Nararyans R.I.).</li>
+
+      <li>New non-symbolic sidebar icon in header bar (thanks to Nararyans R.I.).</li>
+
+      <li>New Minder application icon which fits in with the elementary OS color scheme better (thansk to Nararyans R.I.).</li>
+
+      <li>New focus icon in header bar (thanks to Nararyans R.I.).</li>
+
+      <li>Improved styling when creating a new node/connection.</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Fixed issue where separate trees in same mind-map where allowed to overlap.</li>
+
+      <li>Fixed node link drawing issue when using manual layout mode.</li>
+
+      <li>Fixed issues drawing arrows properly when straight node links were being used.</li>
+
+      <li>Fixed display issues with the node fill switch in the style inspector.</li>
+
+      <li>Fixed support for cut, copy and pasting connection title text.</li>
+
+      <li>Fixed keyboard shortcut for toggling focus mode.</li>
+
+    </ul>
 - version: 1.4.1
   unix-timestamp: 1563062400
   description: |-
@@ -305,8 +351,9 @@ redirect_from:
   <li>Automatically saves in the background.</li>
   <li>Colorized node branches.</li>
   <li>Open multiple mindmaps with the use of tabs.</li>
-  <li>Gorgeous themes and animations.</li>
+  <li>Built-in and customizable theming.</li>
+  <li>Gorgeous animations.</li>
   <li>Import from OPML, FreeMind and Freeplane formats.</li>
-  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText, FreeMind, Freeplane and Mermaid formats.</li>
+  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText, FreeMind, Freeplane, yEd and Mermaid formats.</li>
   <li>Printer support.</li>
 </ul>

@@ -7,11 +7,11 @@ homepage: "https://github.com/bbuhler/HostsManager"
 help_page: "https://github.com/bbuhler/HostsManager/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/225BEADD10193969C47E92074E4C1874/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/225BEADD10193969C47E92074E4C1874/icons/64x64/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/225BEADD10193969C47E92074E4C1874/icons/128x128/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/225BEADD10193969C47E92074E4C1874/icons/64x64@2/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/64x64/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/128x128/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/64x64@2/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
 color:
   primary: "#fff"
   primary-text: "#333"
