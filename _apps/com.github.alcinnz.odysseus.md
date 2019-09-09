@@ -20,17 +20,6 @@ color:
   primary-text: "#000"
 price: 1
 releases:
-  unix-timestamp: 1567900800
-  description: |-
-    <p>Expose YouTube webfeeds.</p>
-
-    <p>Fix personalized recommendation display.</p>
-
-    <p>Performance fixes for personalized recommendations.</p>
-
-    <p>Use non-colourful icons.</p>
-
-    <p>Integrate history link deeper into topsites display.</p>
 - version: 1.6.0
   unix-timestamp: 1562716800
   description: |-

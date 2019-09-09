@@ -122,15 +122,15 @@ YAML.load_stream(componentsData) do |doc|
 		doc['Releases'].each do |release|
 			unless release['version'].nil?
 				releases += "- version: " + release['version'].to_s + "\n"
-			end
-			unless release['unix-timestamp'].nil?
-				releases += "  unix-timestamp: " + release['unix-timestamp'].to_s + "\n"
-			end
-			unless release['description'].nil?
-				releases += "  description: |-\n"
-				release['description']['C'].each_line do |line|
-					releases += "    " + line + "\n"
-				end
+			  unless release['unix-timestamp'].nil?
+				  releases += "  unix-timestamp: " + release['unix-timestamp'].to_s + "\n"
+			  end
+			  unless release['description'].nil?
+				  releases += "  description: |-\n"
+				  release['description']['C'].each_line do |line|
+					  releases += "    " + line + "\n"
+				  end
+			  end
 			end
 		end
 	end
