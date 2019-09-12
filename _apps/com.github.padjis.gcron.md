@@ -7,16 +7,26 @@ homepage: "https://github.com/padjis/gcron"
 help_page: "https://github.com/padjis/gcron/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/3103979EE60BA6C7B33547C6EAFC7149/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/2976D7514F24961777CA06C84DBAE402/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/3103979EE60BA6C7B33547C6EAFC7149/icons/64x64/com.github.padjis.gcron_com.github.padjis.gcron.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/3103979EE60BA6C7B33547C6EAFC7149/icons/128x128/com.github.padjis.gcron_com.github.padjis.gcron.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/3103979EE60BA6C7B33547C6EAFC7149/icons/64x64@2/com.github.padjis.gcron_com.github.padjis.gcron.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/2976D7514F24961777CA06C84DBAE402/icons/64x64/com.github.padjis.gcron_com.github.padjis.gcron.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/2976D7514F24961777CA06C84DBAE402/icons/128x128/com.github.padjis.gcron_com.github.padjis.gcron.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/2976D7514F24961777CA06C84DBAE402/icons/64x64@2/com.github.padjis.gcron_com.github.padjis.gcron.png
 color:
   primary: "#fff"
   primary-text: "#333"
-price: 0
+price: 1
 releases:
+- version: 1.0.1
+  unix-timestamp: 1568160000
+  description: |-
+    <ul>
+
+      <li>Delete button red</li>
+
+      <li>Bold logs error messages</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1567814400
   description: |-
