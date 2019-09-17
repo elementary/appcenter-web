@@ -7,18 +7,36 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/820614125D677D7BC84E926CE97BF8C7/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 5.4.0
+  unix-timestamp: 1568678400
+  description: |-
+    <p>McSipes</p>
+
+    <ul>
+
+      <li>Quickly disable or re-enable JavaScript from the menu</li>
+
+      <li>Use Ctrl+D to add/remove a site from the suggestions</li>
+
+      <li>Find text on the page with Ctrl+F</li>
+
+      <li>New Paste and Go item in the URL bar context menu</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 5.3.2
   unix-timestamp: 1568592000
   description: |-
@@ -447,6 +465,9 @@ redirect_from:
   <li>Set as your default browser for true privacy by default</li>
   <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
   <li>Pick between privacy-respecting search engines from the menu</li>
+  <li>Quickly disable or re-enable JavaScript from the menu</li>
+  <li>Add a website to the URL suggestions with the ⭐️ icon or Ctrl+D</li>
+  <li>Find text on the page with Ctrl+F</li>
 </ul>
 <p>Ephemeral protects you in five key ways:</p>
 <p>1️⃣ Always incognito. From the second you open an Ephemeral window until you close it (or hit the Erase button), Ephemeral is in private browsing mode. That means history, cookies, local storage, passwords, etc. are all blown away as soon as you leave.</p>

@@ -7,20 +7,32 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/FBEA124F97B8C17475FB95C2B1D5E38D/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#FE2851"
   primary-text: "#0A005D"
 price: 3
 releases:
+- version: 0.1.7
+  unix-timestamp: 1568678400
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>A new green theme color was added @redian23</li>
+
+      <li>Added an new indicator to know if a favorite songs</li>
+
+    </ul>
 - version: 0.1.6
   unix-timestamp: 1567555200
   description: |-
