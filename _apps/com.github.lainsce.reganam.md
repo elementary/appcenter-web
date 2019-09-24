@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/reganam/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/63F8ECF527D4EFEC83F14608E35B9DF7/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
 color:
   primary: "#715344"
   primary-text: "#fafafa"
 price: 3
 releases:
+- version: 1.1.2
+  unix-timestamp: 1569196800
+  description: |-
+    <p>Release: Population, Please Leave My Metal Alone!</p>
+
+    <ul>
+
+      <li>Fixed usage of metal to hydrogen instead for building houses</li>
+
+    </ul>
 - version: 1.1.1
   unix-timestamp: 1561766400
   description: |-

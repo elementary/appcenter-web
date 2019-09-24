@@ -7,21 +7,39 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/A6C6AF580E4A9B811B2038B075CD3FDC/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.3.4
+  unix-timestamp: 1569110400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Turkish translation</li>
+
+    </ul>
+
+    <p>Fix</p>
+
+    <ul>
+
+      <li>German translation don&apos;t work</li>
+
+    </ul>
 - version: 1.3.3
   unix-timestamp: 1565222400
   description: |-

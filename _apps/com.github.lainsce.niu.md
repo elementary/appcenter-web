@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/niu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/EB4190404E1E771AEDD97440EC087F3C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/EB4190404E1E771AEDD97440EC087F3C/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/EB4190404E1E771AEDD97440EC087F3C/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/EB4190404E1E771AEDD97440EC087F3C/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
 color:
   primary: "#222222"
   primary-text: "#00DAC7"
 price: 0
 releases:
+- version: 1.0.4
+  unix-timestamp: 1565222400
+  description: |-
+    <p>Release: World Clock</p>
+
+    <ul>
+
+      <li>Added: French Translation</li>
+
+    </ul>
 - version: 1.0.3
   unix-timestamp: 1565222400
   description: |-
