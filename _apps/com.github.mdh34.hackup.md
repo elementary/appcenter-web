@@ -7,18 +7,22 @@ homepage: "https://github.com/mdh34/hackup"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/icons/64x64/com.github.mdh34.hackup_com.github.mdh34.hackup.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/icons/128x128/com.github.mdh34.hackup_com.github.mdh34.hackup.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/90AA8EFC23AFB65C364C059ADDD9BBE1/icons/64x64@2/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/icons/64x64/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/icons/128x128/com.github.mdh34.hackup_com.github.mdh34.hackup.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/icons/64x64@2/com.github.mdh34.hackup_com.github.mdh34.hackup.png
 color:
   primary: "#000"
   primary-text: "#FFFFFF"
 price: 2
 releases:
+- version: 1.1.8
+  unix-timestamp: 1569369600
+  description: |-
+    <p>New icon courtesy of Fatih20</p>
 - version: 1.1.7
   unix-timestamp: 1559001600
   description: |-

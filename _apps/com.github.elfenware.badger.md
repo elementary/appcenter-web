@@ -7,16 +7,32 @@ homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/D4422CC4B5F9DA1D5AB8468F26D626A7/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
 releases:
+- version: 2.2.0
+  unix-timestamp: 1569456000
+  description: |-
+    <ul>
+
+      <li>Add: Turkish translation (@libreajans)</li>
+
+    </ul>
+- version: 2.1.0
+  unix-timestamp: 1562889600
+  description: |-
+    <ul>
+
+      <li>Add: Dutch translation (@Vistaus)</li>
+
+    </ul>
 - version: 2.0.1
   unix-timestamp: 1556236800
   description: |-
