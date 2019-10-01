@@ -17,6 +17,24 @@ color:
   primary-text: "#fff"
 price: 6
 releases:
+- version: 0.4.1
+  unix-timestamp: 1569801600
+  description: |-
+    <p>Collection improvements</p>
+
+    <ul>
+
+      <li>Fixed a bug where it was not possible to scroll through the collections
+
+                if there are to many collection or request items in the collection-sidebar</li>
+
+      <li>Fixed a bug where clicking on the &quot;Update&quot; button when editing a collection
+
+                nothing happend</li>
+
+      <li>The right-click menu of a request item now allows the user to clone a request</li>
+
+    </ul>
 - version: 0.4.0
   unix-timestamp: 1564272000
   description: |-

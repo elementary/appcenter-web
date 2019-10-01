@@ -7,18 +7,32 @@ homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/D431803D09FF805632E6C534A59D9812/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.6.1
+  unix-timestamp: 1569715200
+  description: |-
+    <p>Update release</p>
+
+    <ul>
+
+      <li>New logo by @Fatih20</li>
+
+      <li>`Continue` and `Cancel` buttons now are red</li>
+
+      <li>Window is not resizable to mantaine the buttons making a circle</li>
+
+    </ul>
 - version: 1.5.0
   unix-timestamp: 1555804800
   description: |-
