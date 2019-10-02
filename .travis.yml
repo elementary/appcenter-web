@@ -1,10 +1,17 @@
+---
+
 branches:
   only:
     - gh-pages
+    - /.*/
+
 language: ruby
+
 rvm:
   - 2.5
+
 script: ruby ./bin/run.rb
+
 deploy:
   provider: pages
   skip-cleanup: true

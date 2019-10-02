@@ -7,24 +7,130 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3B0BE8F5995FE617055D85BF8F436821/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.3.4
+  unix-timestamp: 1569110400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Turkish translation</li>
+
+    </ul>
+
+    <p>Fix</p>
+
+    <ul>
+
+      <li>German translation don&apos;t work</li>
+
+    </ul>
+- version: 1.3.3
+  unix-timestamp: 1565222400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added German translation</li>
+
+    </ul>
+- version: 1.3.2
+  unix-timestamp: 1561075200
+  description: |-
+    <p>Important fixes</p>
+
+    <ul>
+
+      <li>Login screen does not use selected wallpaper</li>
+
+      <li>Wallpaper doesn&apos;t change when applying on Ubuntu Mate 18.04</li>
+
+    </ul>
+- version: 1.3.1
+  unix-timestamp: 1560038400
+  description: |-
+    <p>Update</p>
+
+    <ul>
+
+      <li>Dutch (Netherlands) translation</li>
+
+    </ul>
+- version: 1.3.0
+  unix-timestamp: 1559952000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Keep your favorite photos with you, the photo history has arrived!</li>
+
+      <li>New way of navigating with a bottom bar that allows you to go to: Today, Categories and History</li>
+
+      <li>Speed up your search with the photo filter by Orientation: Portrait, Landscape or Any</li>
+
+      <li>Learn more about a photo with the Detail popup in the full screen view</li>
+
+      <li>Focus on Search entry with Ctrl+F</li>
+
+      <li>When doing a search, the total number of results are displayed</li>
+
+      <li>Gradient animation in scrollbar, mode switch and placeholder photo</li>
+
+    </ul>
+- version: 1.2.4
+  unix-timestamp: 1557792000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Remove G+ option from Share popup</li>
+
+    </ul>
+- version: 1.2.3
+  unix-timestamp: 1552608000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Update the set of screenshots</li>
+
+      <li>Fix error in appdata</li>
+
+    </ul>
+- version: 1.2.2
+  unix-timestamp: 1552608000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Dutch (Netherlands) translation</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1548115200
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Add french translations</li>
@@ -33,6 +139,8 @@ releases:
 - version: 1.2.0
   unix-timestamp: 1546732800
   description: |-
+    <p>Updates</p>
+
     <ul>
 
       <li>Search by category and query</li>
@@ -45,6 +153,8 @@ releases:
 - version: 1.1.4
   unix-timestamp: 1537574400
   description: |-
+    <p>Updates</p>
+
     <ul>
 
       <li>New screenshots with awesome photos</li>
@@ -55,6 +165,8 @@ releases:
 - version: 1.1.3
   unix-timestamp: 1537056000
   description: |-
+    <p>Fixes and improvements</p>
+
     <ul>
 
       <li>Orthographic corrections in the Spanish translation</li>
@@ -65,6 +177,8 @@ releases:
 - version: 1.1.2
   unix-timestamp: 1536796800
   description: |-
+    <p>A very nice update with new features</p>
+
     <ul>
 
       <li>Responsive, resizable window</li>
@@ -85,16 +199,13 @@ redirect_from:
 ---
 
 <p>Find a variety of the most beautiful wallpapers from Unsplash.com the world’s most generous community of photographers.</p>
-<p>Fondo allows you to see thousands of beautiful photographs from the most recent to the one you are to looking for. Give a simple click on a picture to set as wallpaper, wait until the download is complete and enjoy!</p>
-<p>Have a simple and elegant interface, you can change from light mode to dark mode as you prefer.</p>
+<p>Fondo allows you to see thousands of beautiful photographs from the most recent to the one you are to looking for. Give a single click on a picture, wait until the download is complete and enjoy your new wallpaper!</p>
+<p>Have a minimalist, simple and elegant interface, additionally, you can change from light mode to dark mode as you prefer.</p>
 <p>Main features:</p>
 <ul>
-  <li>Scroll down to load more photos</li>
-  <li>A single click on the photo to put as a wallpaper</li>
-  <li>Right click for more wallpaper display options</li>
-  <li>See the photo in full screen</li>
-  <li>Change the size of the window, the window is responsive</li>
-  <li>Share with your friends a link to photo from Unsplash</li>
-  <li>Search by categories or write what you want to search in the top input</li>
-  <li>Use Ctrl + Q to exit</li>
+  <li>To infinity and beyond!: Use the infinite scroll to load more photos</li>
+  <li>Find out what you like: Search by categories or type in the search bar</li>
+  <li>Keep your favorite photos with you: Every new wallpaper is saved in the history</li>
+  <li>Share with your friends: Select a variety of options for sharing an Unsplash link to the photo</li>
+  <li>Filter by orientation: Portrait, Landscape or Any</li>
 </ul>

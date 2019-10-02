@@ -7,16 +7,52 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/8C13BA037A6C6A0214F91F808EE1AF0B/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.1.0
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Release: Flourish</p>
+
+    <ul>
+
+      <li>Fixed: Page button now displays correct page number, and the page on app opening is also correct.</li>
+
+      <li>Fixed: Page size now takes advantage of the window to size itself.</li>
+
+    </ul>
+- version: 1.0.7
+  unix-timestamp: 1556236800
+  description: |-
+    <p>Release: Guillemet</p>
+
+    <ul>
+
+      <li>Fixed: The app would open other files than PDFs.</li>
+
+      <li>Fixed: The app couldn&apos;t be maximized.</li>
+
+      <li>Fixed: Some translations weren&apos;t working.</li>
+
+    </ul>
+- version: 1.0.6
+  unix-timestamp: 1552608000
+  description: |-
+    <p>Release: Bullet Point</p>
+
+    <ul>
+
+      <li>French Translation.</li>
+
+    </ul>
 - version: 1.0.5
   unix-timestamp: 1538697600
   description: |-
@@ -82,7 +118,6 @@ redirect_from:
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>
-  <li>Go fullscreen with F11</li>
   <li>Open any PDF file from anywhere, even externally</li>
   <li>Print the current viewed document</li>
 </ul>

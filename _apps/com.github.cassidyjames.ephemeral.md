@@ -7,18 +7,212 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/4CB0736BC3AD26384A5163358EDB7052/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
-  primary: "@GRAPE_900"
-  primary-text: "@GRAPE_100"
+  primary: "#3b2a7d"
+  primary-text: "#fff"
 price: 9
 releases:
+- version: 5.4.0
+  unix-timestamp: 1568678400
+  description: |-
+    <p>McSipes</p>
+
+    <ul>
+
+      <li>Quickly disable or re-enable JavaScript from the menu</li>
+
+      <li>Use Ctrl+D to add/remove a site from the suggestions</li>
+
+      <li>Find text on the page with Ctrl+F</li>
+
+      <li>New Paste and Go item in the URL bar context menu</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.3.2
+  unix-timestamp: 1568592000
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.3.1
+  unix-timestamp: 1568332800
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Italian translations thanks to @meliurwen</li>
+
+      <li>Updated Spanish translations thanks to Adolfo Jayme-Barrientos</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.3.0
+  unix-timestamp: 1567036800
+  description: |-
+    <p>Hello from Thessaloniki</p>
+
+    <ul>
+
+      <li>Fixed window closing: now closing the first window does not close the rest</li>
+
+      <li>Simplified “Erase” to always close the window instead of sometimes opening a new one</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.2.1
+  unix-timestamp: 1564272000
+  description: |-
+    <p>Summer cleaning! Because that’s a thing, right?</p>
+
+    <ul>
+
+      <li>Fixed the “Open Link in New Window” menu item to actually do what it says</li>
+
+      <li>Fixed opening target=&quot;_blank&quot; links in a new window with Ctrl- or middle-click</li>
+
+      <li>Updated the base color in menus and dialog windows from the default elementary slate-ish black to a new deep,
+
+    dark blue-ish purple</li>
+
+      <li>Tweaked the “Open Link Externally” dialog to better isolate protocols like “mailto” or “tel”</li>
+
+      <li>Significantly cleaned up and reorganized the codebase to make future features and fixes easier</li>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.1.1
+  unix-timestamp: 1561334400
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Catalán and Spanish translations thanks to Mario Rodrigo</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.1.0
+  unix-timestamp: 1557878400
+  description: |-
+    <p>Some great UI refinements!</p>
+
+    <ul>
+
+      <li>URL entry suggestions are much snazzier thanks to Hannes Schulze</li>
+
+      <li>JavaScript alerts now follow the elementary HIG thanks to David Hewitt</li>
+
+    </ul>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Ciao! Translated to Italian thanks to @meliurwen</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.0.3
+  unix-timestamp: 1554681600
+  description: |-
+    <p>Updated Catalan translations thanks to Mario Rodrigo.</p>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.0.2
+  unix-timestamp: 1554163200
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Updated Spanish translations thanks to Adolfo Jayme-Barrientos</li>
+
+      <li>Code cleanup</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.0.1
+  unix-timestamp: 1554163200
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated Russian translations thanks to Artem Polishchuk</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 5.0.0
+  unix-timestamp: 1554076800
+  description: |-
+    <p>No foolin&apos;. Two major new features:</p>
+
+    <ul>
+
+      <li>🔍️ New Custom Search Engine setting in the Menu</li>
+
+      <li>⭐️ Add your own websites to the suggestions using the new button in the URL entry</li>
+
+    </ul>
+
+    <p>Plus the usual iterative improvements:</p>
+
+    <ul>
+
+      <li>Various URL entry fixes and tweaks</li>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 4.2.1
+  unix-timestamp: 1553212800
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Cześć! Translated to Polish thanks to Paweł Jerzy Przybysz</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+      <li>Updated Lithuanian translations thanks to @welaq</li>
+
+    </ul>
 - version: 4.2.0
   unix-timestamp: 1550880000
   description: |-
@@ -271,14 +465,18 @@ redirect_from:
   <li>Set as your default browser for true privacy by default</li>
   <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
   <li>Pick between privacy-respecting search engines from the menu</li>
+  <li>Quickly disable or re-enable JavaScript from the menu</li>
+  <li>Add a website to the URL suggestions with the ⭐️ icon or Ctrl+D</li>
+  <li>Find text on the page with Ctrl+F</li>
 </ul>
-<p>Ephemeral protects you in four key ways:</p>
+<p>Ephemeral protects you in five key ways:</p>
 <p>1️⃣ Always incognito. From the second you open an Ephemeral window until you close it (or hit the Erase button), Ephemeral is in private browsing mode. That means history, cookies, local storage, passwords, etc. are all blown away as soon as you leave.</p>
 <p>2️⃣ Contained. Every Ephemeral window is a separate instance of the browser engine. This means pages are kept separate from one another. Sign into a service in one window, and other Ephemeral windows will have no idea you’re signed in.</p>
 <p>3️⃣ No third-party cookies. Out of the box, Ephemeral blocks cookies from third-party sources. This cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
 <p>4️⃣ No telemetry. Ephemeral does not touch the network until you explicitly load a web page or perform a search. Even then, no usage data is ever collected—I have no idea what you do with Ephemeral, and I don&apos;t want to know!</p>
-<p>Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference.</p>
-<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there.</p>
-<p>The best part of Ephemeral comes when you use it as your default browser: make privacy a habit by opening links in a private browser by default, knowing you can always jump back into a less private browser with one click.</p>
+<p>5️⃣️ Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
+<p>The best part of Ephemeral comes when you use it as your default browser:</p>
+<p>Make privacy a habit by opening links in a private browser by default, knowing you can always jump back into something less private like Firefox, Chrome, Opera, Brave—or any other installed browser—with one click.</p>
 <p>Remember, Ephemeral and any browser&apos;s incognito or private mode can only do so much: they mitigate some tracking and don&apos;t store data on your device, but they won&apos;t stop your ISP, government, or determined websites from tracking you.</p>
+<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there—optionally closing the window to get out of your way.</p>
 <p>For the best protection, always use a VPN.</p>

@@ -7,20 +7,59 @@ homepage: "http://github.com/needle-and-thread/vocal"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/72E58EB8AC9F3D8AAADE07CB2A9F9E01/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/64x64/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/128x128/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/icons/64x64@2/com.github.needle-and-thread.vocal_com.github.needle-and-thread.vocal.png
 color:
   primary: "#603461"
   primary-text: "#fff"
 price: 5
 releases:
+- version: 2.4.1
+  unix-timestamp: 1557775222
+  description: |-
+    <p>This is a small point release that includes a fix for the progress bar, which in version 2.4.0
+
+                had an issue where only the left half of the progress bar could be used for seeking.</p>
+- version: 2.4
+  unix-timestamp: 1554918082
+  description: |-
+    <p>This release is packed to the gills with new features and stability enhancements!
+
+                A first for any podcast app, you can now submit Creative Commons licensed podcast
+
+                episodes to the Internet Archive directly from within Vocal. Many other requested
+
+                changes and quality of life improvments can also be found, such as chronological feeds
+
+                and a new theme switcher. The full changelog is as follows:</p>
+
+    <ul>
+
+      <li>You can now switch between &apos;light&apos; and &apos;dark&apos; modes using the option in the gear menu</li>
+
+      <li>Built-in Internet Archive episode uploads (for Creative Commons licensed feeds)</li>
+
+      <li>Better search results</li>
+
+      <li>Scrolling while hovering over the seekbar now seeks through the current episode</li>
+
+      <li>Support for Atom podcast feeds</li>
+
+      <li>Dramatically improved episode browsing (can now list both reverse-chronological or chronological - your choice)</li>
+
+      <li>New and updated translations throughout many languages</li>
+
+      <li>Lots of stability and performance enhancements under the hood</li>
+
+    </ul>
 - version: 2.3
   unix-timestamp: 1541346569
   description: |-
@@ -160,5 +199,6 @@ redirect_from:
   <li>Smart library management</li>
   <li>Playback position saving</li>
   <li>Library importing and exporting</li>
+  <li>Internet Archive integration</li>
   <li>... and much more!</li>
 </ul>

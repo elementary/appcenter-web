@@ -7,18 +7,26 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/icons/64x64/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/icons/128x128/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/1C5C1F25497660E14ED1CCAE8400FE5D/icons/64x64@2/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/64x64/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/128x128/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/64x64@2/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
 color:
   primary: "#0e141f"
   primary-text: "#fafafa"
 price: 1
 releases:
+- version: 1.1.2
+  unix-timestamp: 1554768000
+  description: |-
+    <p>Dutch translations thanks to Heimen Stoffels</p>
+- version: 1.1.1
+  unix-timestamp: 1553299200
+  description: |-
+    <p>French translations thanks to @NathanBnm</p>
 - version: 1.1.0
   unix-timestamp: 1548374400
   description: |-

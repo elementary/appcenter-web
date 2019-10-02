@@ -7,19 +7,103 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/D8AB0B0A74036A9E3C912DCA03B75C07/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.3
+  unix-timestamp: 1567296000
+  description: |-
+    <p>Raw Query Improvements</p>
+
+    <ul>
+
+      <li>Strip comments from SQL raw queries.</li>
+
+      <li>Better handle complex queries on multiple lines.</li>
+
+      <li>Speed up query rendering.</li>
+
+    </ul>
+- version: 0.7.2
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Sweet Query Tab Improvements</p>
+
+    <ul>
+
+      <li>Edit font size of the Query Tab.</li>
+
+      <li>Edit background style of the Query Tab.</li>
+
+      <li>Save and remember the Query Tab size.</li>
+
+    </ul>
+- version: 0.7.1
+  unix-timestamp: 1564704000
+  description: |-
+    <p>PostgreSQL Fixes</p>
+
+    <ul>
+
+      <li>Fixed PostgreSQL relationship table.</li>
+
+      <li>Fixed wrong response message when handling non select queries.</li>
+
+    </ul>
+- version: 0.7.0
+  unix-timestamp: 1554595200
+  description: |-
+    <p>Bite-Size fixes</p>
+
+    <ul>
+
+      <li>Removed unused libfixposix.</li>
+
+      <li>Fixed pagination issue when clicking too fast while fetching big data.</li>
+
+    </ul>
+- version: 0.6.9
+  unix-timestamp: 1554163200
+  description: |-
+    <p>Bug fixes and improvements</p>
+
+    <ul>
+
+      <li>Rewritten pagination to use LIMIT and OFFSET.</li>
+
+      <li>Faster pagination and content viewing for big data.</li>
+
+      <li>Show records count in table&apos;s list.</li>
+
+      <li>Bug fixes and other improvements.</li>
+
+    </ul>
+- version: 0.6.8
+  unix-timestamp: 1552953600
+  description: |-
+    <p>Bug fixes and improvements</p>
+
+    <ul>
+
+      <li>Properly handle EXPLAIN SQL statement.</li>
+
+      <li>Properly handle querying capitlized PostgreSQL tables.</li>
+
+      <li>Improved async methods for internal views.</li>
+
+      <li>Updated translations.</li>
+
+    </ul>
 - version: 0.6.7
   unix-timestamp: 1546387200
   description: |-
@@ -435,12 +519,19 @@ redirect_from:
 ---
 
 <p>Easily connect to your local or remote database</p>
-<p>Store your Database Connections in the built-in library, type and execute SQL commands directly in the App, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Store your Database Connections in the library, connect over SSH tunnel, type and execute SQL commands directly in the app, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Supported Databases:</p>
+<ul>
+  <li>SQLite</li>
+  <li>MySQL</li>
+  <li>MariaDB</li>
+  <li>PostgreSQL</li>
+</ul>
 <p>Features Include:</p>
 <ul>
   <li>Test Connections before saving them</li>
   <li>View Table structure, content, and relations</li>
   <li>Write multiple custom SQL Queries</li>
   <li>Switch between light and dark mode</li>
-  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), multiple instances (ctrl+n)</li>
+  <li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), open a new window (ctrl+n)</li>
 </ul>

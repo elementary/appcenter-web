@@ -7,16 +7,54 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/graphui/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/125BCC292BB5D760ADB805BD65F0A147/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/64x64/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/128x128/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/93193E0D010A1062C36056A65E85723A/icons/64x64@2/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/125BCC292BB5D760ADB805BD65F0A147/icons/64x64/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/125BCC292BB5D760ADB805BD65F0A147/icons/128x128/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/125BCC292BB5D760ADB805BD65F0A147/icons/64x64@2/com.github.artemanufrij.graphui_com.github.artemanufrij.graphui.png
 color:
   primary: "#A3907C"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.1.1
+  unix-timestamp: 1564012800
+  description: |-
+    <p>Fix:</p>
+
+    <ul>
+
+      <li>Open File Dialog on keypress &apos;0&apos;</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1563321600
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Quit app by Ctrl+Q</li>
+
+    </ul>
+- version: 1.0.3
+  unix-timestamp: 1563235200
+  description: |-
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Cancel button for &quot;Open File Dialog&quot;</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
 - version: 1.0.2
   unix-timestamp: 1541030400
 - version: 1.0.1

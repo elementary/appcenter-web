@@ -7,21 +7,29 @@ homepage: "https://github.com/calo001/luna"
 help_page: "https://github.com/calo001/luna/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/icons/64x64/com.github.calo001.luna_com.github.calo001.luna.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/icons/128x128/com.github.calo001.luna_com.github.calo001.luna.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/icons/64x64@2/com.github.calo001.luna_com.github.calo001.luna.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/ADA8A25BCEAFB0123FDA9098BA79B17F/icons/128x128@2/com.github.calo001.luna_com.github.calo001.luna.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/icons/64x64/com.github.calo001.luna_com.github.calo001.luna.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/icons/128x128/com.github.calo001.luna_com.github.calo001.luna.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/icons/64x64@2/com.github.calo001.luna_com.github.calo001.luna.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/icons/128x128@2/com.github.calo001.luna_com.github.calo001.luna.png
 color:
   primary: "#fafafa"
   primary-text: "#485a6c"
 price: 0
 releases:
+- version: 1.1.3
+  unix-timestamp: 1552608000
+  description: |-
+    <ul>
+
+      <li>Added Dutch (Netherlands) translation</li>
+
+    </ul>
 - version: 1.1.2
   unix-timestamp: 1549670400
   description: |-

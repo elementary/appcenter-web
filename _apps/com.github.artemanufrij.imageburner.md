@@ -7,16 +7,40 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/imageburner/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/ABFFFFF1300B11CDA03661968DA9339F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/11FC340D65E0343AD34D972E5CE0929D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/ABFFFFF1300B11CDA03661968DA9339F/icons/64x64/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/ABFFFFF1300B11CDA03661968DA9339F/icons/128x128/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/ABFFFFF1300B11CDA03661968DA9339F/icons/64x64@2/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/11FC340D65E0343AD34D972E5CE0929D/icons/64x64/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/11FC340D65E0343AD34D972E5CE0929D/icons/128x128/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.imageburner/11FC340D65E0343AD34D972E5CE0929D/icons/64x64@2/com.github.artemanufrij.imageburner_com.github.artemanufrij.imageburner.png
 color:
   primary: "#3E9AD6"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.2
+  unix-timestamp: 1541289600
+  description: |-
+    <p>Fix:</p>
+
+    <ul>
+
+      <li>Missing contractor (thanks to Torikul Habib)</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Russian (by Camellan)</li>
+
+      <li>Japanese (by Ciarán Ainsworth and Ryo Nakano)</li>
+
+      <li>Turkish (by ibrakap)</li>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1540339200
   description: |-

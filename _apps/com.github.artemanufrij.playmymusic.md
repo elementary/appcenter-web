@@ -1,22 +1,42 @@
 ---
 app_id: com.github.artemanufrij.playmymusic
 title: "Melody"
-summary: "A music player for listening local music files, online radios and Audio CD's"
+summary: "A music player for listening to local music files, online radios and audio CD's"
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/melody/"
 help_page: "https://github.com/artemanufrij/playmymusic/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/8CB0A25CA2C3BBDEB0F75CC40BED0335/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/icons/64x64/com.github.artemanufrij.playmymusic_com.github.artemanufrij.playmymusic.png
 color:
   primary: "#004988"
   primary-text: "rgb(255,255,255)"
 price: 5
 releases:
+- version: 2.2.1
+  unix-timestamp: 1563148800
+  description: |-
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Fix playlist import on relative paths and symlinks (by Davide Pucci)</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Dutch (by Heimen Stoffels)</li>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
 - version: 2.2.0
   unix-timestamp: 1542672000
   description: |-

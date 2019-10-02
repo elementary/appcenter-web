@@ -7,18 +7,48 @@ homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/03D3B8EAD0B851E9242998D4C45612FA/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
 price: 3
 releases:
+- version: 1.2.0
+  unix-timestamp: 1561939200
+  description: |-
+    <p>Added and updated translations</p>
+
+    <ul>
+
+      <li>Updated French translation</li>
+
+      <li>Added Russian translation</li>
+
+      <li>Updated Japanese translation</li>
+
+      <li>Added Turkish translation</li>
+
+    </ul>
+- version: 1.1.0
+  unix-timestamp: 1555459200
+  description: |-
+    <p>Added dark mode and tooltip shortcuts</p>
+
+    <ul>
+
+      <li>Added dark mode</li>
+
+      <li>Added shortcuts to the button labels</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1549411200
   description: |-
@@ -34,7 +64,7 @@ releases:
 - version: 1.0.0
   unix-timestamp: 1548806400
   description: |-
-    <p>Added French metadata translation</p>
+    <p>Added French metadata translations</p>
 
     <ul>
 
@@ -46,7 +76,7 @@ releases:
 - version: 0.8.0
   unix-timestamp: 1548547200
   description: |-
-    <p>Added metadata translation</p>
+    <p>Added metadata translations</p>
 
     <ul>
 
@@ -416,4 +446,5 @@ redirect_from:
   <li>Update, remove, and view information about your installed snaps</li>
   <li>Search through your installed snaps</li>
   <li>Install snaps from web a uri</li>
+  <li>Choose between light and dark with dark mode</li>
 </ul>

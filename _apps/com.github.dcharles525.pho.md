@@ -7,17 +7,25 @@ homepage: "https://github.com/dcharles525/pho"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/icons/64x64/com.github.dcharles525.pho_com.github.dcharles525.pho.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/icons/128x128/com.github.dcharles525.pho_com.github.dcharles525.pho.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/906E6FC4351114B4DA280EC135BBB60E/icons/64x64@2/com.github.dcharles525.pho_com.github.dcharles525.pho.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/icons/64x64/com.github.dcharles525.pho_com.github.dcharles525.pho.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/icons/128x128/com.github.dcharles525.pho_com.github.dcharles525.pho.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/icons/64x64@2/com.github.dcharles525.pho_com.github.dcharles525.pho.png
 color:
   primary: "#fff"
   primary-text: "#000"
 price: 3
 releases:
+- version: 1.6.0
+  unix-timestamp: 1549756800
+  description: |-
+    <p>Added ability to translate.</p>
+
+    <p>Fixed a style bug</p>
+
+    <p>French Translation by @NathanBnm</p>
 - version: 1.5.2
   unix-timestamp: 1546387200
   description: |-

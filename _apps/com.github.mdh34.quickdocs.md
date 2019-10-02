@@ -7,19 +7,27 @@ homepage: "https://github.com/mdh34/quickDocs"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/64x64/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/128x128/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/705E30C774D87EC3ABE2640D9F0C294C/icons/64x64@2/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/icons/64x64/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/icons/128x128/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/icons/64x64@2/com.github.mdh34.quickdocs_com.github.mdh34.quickdocs.png
 color:
   primary: "#4c158a"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
+- version: 2.2.6
+  unix-timestamp: 1559001600
+  description: |-
+    <ul>
+
+      <li>Added a &apos;find in page&apos; searchbar</li>
+
+    </ul>
 - version: 2.2.5
   unix-timestamp: 1548028800
   description: |-

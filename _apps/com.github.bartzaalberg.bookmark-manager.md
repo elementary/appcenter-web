@@ -7,18 +7,29 @@ homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/22EE405DA596373A3C25F87095D06C85/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/icons/64x64/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/icons/128x128/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/icons/64x64@2/com.github.bartzaalberg.bookmark-manager_com.github.bartzaalberg.bookmark-manager.png
 color:
   primary: "#0a8ce4"
   primary-text: "#FFFFFF"
 price: 3
 releases:
+- version: 1.6.1
+  unix-timestamp: 1550016000
+  description: |-
+    <p>Dark mode, shortcut labels</p>
+
+    <ul>
+
+      <li>Added dark mode</li>
+
+    </ul>
 - version: 1.6.1
   unix-timestamp: 1550016000
   description: |-
@@ -428,4 +439,5 @@ redirect_from:
   <li>Add, remove, and update bookmarks</li>
   <li>Choose between all your terminals, and the in-app terminal</li>
   <li>Add your SSH bookmarks to the app launcher!</li>
+  <li>Choose between light and dark with the dark mode</li>
 </ul>

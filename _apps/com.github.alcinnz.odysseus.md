@@ -7,19 +7,61 @@ homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/0A8195F4D8AD203F56D626045D638BFB/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#f7785b"
   primary-text: "#000"
 price: 1
 releases:
+- version: 1.6.0
+  unix-timestamp: 1562716800
+  description: |-
+    <p>Personalized recommendations</p>
+
+    <p>Performance optimizations (tidies up database)</p>
+- version: 1.5.17
+  unix-timestamp: 1558310400
+  description: |-
+    <p>Reader Mode</p>
+
+    <p>Minor layout fix</p>
+
+    <p>Show download count</p>
+
+    <p>Preparation to support a global dark mode</p>
+- version: 1.5.12
+  unix-timestamp: 1554854400
+  description: |-
+    <p>Webfeed discovery support!</p>
+
+    <p>Full Dutch localization</p>
+
+    <p>Fix topsites editing</p>
+
+    <p>Lower threshold for sourcing topsites from browser history</p>
+
+    <p>Minor performance improvements</p>
+- version: 1.5.11
+  unix-timestamp: 1552089600
+  description: |-
+    <p>Enable MSE, full French translations.</p>
+- version: 1.5.10
+  unix-timestamp: 1540684800
+  description: |-
+    <p>Minor visual corrections.</p>
+
+    <p>Visually tie status icons to addressbar again,
+
+                revert having icons in application menu.</p>
+
+    <p>Fixes for other themes.</p>
 - version: 1.5.8
   unix-timestamp: 1539475200
   description: |-
@@ -140,18 +182,12 @@ redirect_from:
   - /com.github.alcinnz.odysseus.desktop/
 ---
 
-<p>Odysseus is a convenient and privacy-respecting web browser, that increasingly,
-gently, and unobtrusively guides you wherever you want to go online.</p>
-<p>Through this well thought out simplicity Odysseus lets you focus on the webpages
-that matter to you.</p>
-<p>High-level features:</p>
+<p>Odysseus is a simple yet powerful web browser focusing on new ways to discover the webpages you need and want, without relying on central webservices invading your privacy.</p>
+<p>These discovery features include:</p>
 <ul>
-  <li>Tabbed web browsing</li>
-  <li>Find-in-page</li>
-  <li>Downloads</li>
-  <li>Opens non-webpage links in 3rd party apps, or suggests ones to install</li>
-  <li>DuckDuckGo integration</li>
-  <li>Browser history</li>
-  <li>Topsites with initial hand-curated recommendations</li>
+  <li>Top sites, with initial handcurated recommendations</li>
+  <li>Personalized suggestions, harvested from the pages you visit</li>
+  <li>Webfeed discovery, integrating with existing feedreaders</li>
+  <li>Easily skimmed browser history, with full-text search</li>
+  <li>Failing to open a link, suggests compatible apps to install</li>
 </ul>
-<p>These features are completed to a high degree of polish.</p>

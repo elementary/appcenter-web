@@ -7,70 +7,26 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/56DE63C883531A93D54F9D6009479E43/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/B83E9504BDE7A1B196432EEEF9E0D99A/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
-- version: 1.0.3
-  unix-timestamp: 1550534400
+- version: 2.2.1
+  unix-timestamp: 1569283200
   description: |-
     <ul>
 
-      <li>Show a confirmation dialog when trying to quit the app if a recording is in progress</li>
+      <li>Fix recording won&apos;t success when changing the file format</li>
 
-      <li>Add Lithuanian translation (by welaq)</li>
-
-      <li>Update Japanese translation</li>
-
-    </ul>
-- version: 1.0.2
-  unix-timestamp: 1547942400
-  description: |-
-    <ul>
-
-      <li>Save and restore settings</li>
-
-      <li>Support both do-not-ask-where-to-save flow and ask-where-to-save flow</li>
-
-      <li>Organized UI</li>
-
-      <li>Some small bug fixes</li>
-
-      <li>Add French translation (by NathanBnm)</li>
-
-      <li>Update Japanese translation</li>
-
-    </ul>
-- version: 1.0.1
-  unix-timestamp: 1545782400
-  description: |-
-    <ul>
-
-      <li>Allow to set recording length</li>
-
-      <li>Fix the countdown is weird when recording more than twice</li>
-
-      <li>Localization improvement</li>
-
-      <li>Update Japanese translation</li>
-
-    </ul>
-- version: 1.0.0
-  unix-timestamp: 1544313600
-  description: |-
-    <ul>
-
-      <li>Support recording with AAC, FLAC, Ogg Vorbis, Opus and MP3 formats</li>
-
-      <li>Show a notification after recorded successfully</li>
-
-      <li>Add Japanese translation</li>
+      <li>Add Spanish translation (by fitojb)</li>
 
     </ul>
 redirect_from:
@@ -78,14 +34,14 @@ redirect_from:
 ---
 
 <p>An audio recording app that helps you recall things talked later.</p>
-<p>Useful when:</p>
+<p>Useful for:</p>
 <ul>
-  <li>you join a discussion and take your minutes later</li>
-  <li>you want to record talk with your friends or lover</li>
-  <li>you want to stream videos on the Internet</li>
+  <li>Joining meetings and taking minutes later</li>
+  <li>Recording conversations with a friend or lover</li>
+  <li>Streaming videos on the Internet</li>
 </ul>
 <p>Features include:</p>
 <ul>
   <li>Timed recording</li>
-  <li>Available format: AAC, FLAC, MP3, Ogg Vorbis, Opus and WAV</li>
+  <li>Available formats: AAC, FLAC, MP3, Ogg Vorbis, Opus, and WAV</li>
 </ul>

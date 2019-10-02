@@ -7,17 +7,41 @@ homepage: "https://github.com/alainm23/planner"
 help_page: "https://www.paypal.me/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/4356BABD0E079E5EF40257AC6A6B4F31/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffe16b"
   primary-text: "#000"
-price: 15
+price: 9
 releases:
+- version: 1.2.4
+  unix-timestamp: 1553731200
+  description: |-
+    <ul>
+
+      <li>Stability and performance improvements</li>
+
+      <li>New view &quot;All tasks&quot; and &quot;Tasks completed&quot;</li>
+
+      <li>Markdown support</li>
+
+      <li>Improved quick search</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>Dutch (Heimen Stoffels)</li>
+
+      <li>Brazilian (Raphael Cabral)</li>
+
+    </ul>
 - version: 1.2.3
   unix-timestamp: 1548720000
   description: |-

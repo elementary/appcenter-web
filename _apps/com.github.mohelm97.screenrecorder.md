@@ -7,27 +7,27 @@ homepage: "https://github.com/mohelm97/screenrecorder"
 help_page: "https://github.com/mohelm97/screenrecorder/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/4AFBD194E233DB6018B604A451AE6B1E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/4AFBD194E233DB6018B604A451AE6B1E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/4AFBD194E233DB6018B604A451AE6B1E/icons/64x64/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/4AFBD194E233DB6018B604A451AE6B1E/icons/128x128/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/4AFBD194E233DB6018B604A451AE6B1E/icons/64x64@2/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/icons/64x64/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/icons/128x128/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/icons/64x64@2/com.github.mohelm97.screenrecorder_com.github.mohelm97.screenrecorder.png
 color:
   primary: "#c6262e"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
-- version: 0.1.0
-  unix-timestamp: 1545004800
+- version: 0.2
+  unix-timestamp: 1552435200
   description: |-
-    <ul>
+    <p>Add scaling option</p>
 
-      <li>Initial release
+    <p>Minor bug fixes</p>
 
-    See AppData</li>
-
-    </ul>
+    <p>New translations</p>
+- version: 0.1
+  unix-timestamp: 1545004800
 redirect_from:
   - /com.github.mohelm97.screenrecorder.desktop/
 ---

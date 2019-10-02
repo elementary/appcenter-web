@@ -1,26 +1,49 @@
 ---
 app_id: com.github.torikulhabib.nino
 title: "Nino"
-summary: "A network monitor widget"
+summary: "A Widgets network monitor"
 developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/nino"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/icons/64x64/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/icons/128x128/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/10278CC4525F38252B3FBF2382B2FF37/icons/64x64@2/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/icons/64x64/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/icons/128x128/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/icons/64x64@2/com.github.torikulhabib.nino_com.github.torikulhabib.nino.png
 color:
   primary: "#525"
   primary-text: "#d1ff82"
 price: 6
 releases:
+- version: 1.3.1
+  unix-timestamp: 1564963200
+  description: |-
+    <p>Fix and add feature</p>
+
+    <ul>
+
+      <li>New icon by fatih20.</li>
+
+      <li>Click through when inactive.</li>
+
+      <li>Color.</li>
+
+      <li>Fix.</li>
+
+      <li>Thanks ryonakano for fix code.</li>
+
+      <li>Updated Dutch translation bt Heimen Stoffels.</li>
+
+    </ul>
 - version: 1.2.0
-  unix-timestamp: 1542412800
+  unix-timestamp: 1554681600
   description: |-
     <p>Fix and add feature</p>
 
@@ -45,7 +68,7 @@ redirect_from:
   - /com.github.torikulhabib.nino.desktop/
 ---
 
-<p>An internet speed monitor apps.</p>
+<p>An internet speed monitor</p>
 <p>Features:</p>
 <ul>
   <li>Small window application features.</li>

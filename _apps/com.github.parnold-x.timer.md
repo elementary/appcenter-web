@@ -1,22 +1,26 @@
 ---
-app_id: com.github.parnold-x.timer.desktop
+app_id: com.github.parnold-x.timer
 title: "Timer"
 summary: "The ultimate tea timer"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/timer"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.timer.desktop/4928CE6C3856006A35A3F66DDB0CAFB5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.timer.desktop/4928CE6C3856006A35A3F66DDB0CAFB5/icons/64x64/com.github.parnold-x.timer_com.github.parnold-x.timer.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.timer.desktop/4928CE6C3856006A35A3F66DDB0CAFB5/icons/128x128/com.github.parnold-x.timer_com.github.parnold-x.timer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/parnold-x.timer.desktop/4928CE6C3856006A35A3F66DDB0CAFB5/icons/64x64@2/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/64x64/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/128x128/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/64x64@2/com.github.parnold-x.timer_com.github.parnold-x.timer.png
 color:
   primary: "rgb(234, 255, 198)"
   primary-text: "rgb(23, 107, 0)"
 price: 0
 releases:
+- version: 0.3.0
+  unix-timestamp: 1563494400
+  description: |-
+    <p>Release for Juno</p>
 - version: 0.2.0
   unix-timestamp: 1512086400
   description: |-

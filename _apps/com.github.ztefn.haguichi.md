@@ -7,21 +7,39 @@ homepage: "https://www.haguichi.net/"
 help_page: "https://www.haguichi.net/tips-and-tricks/"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/CC4361B08F423DE67239FBEE1E0CEE75/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
 color:
-  primary: "#FF4444"
-  primary-text: "#FFFFFF"
+  primary: "#FFE0CC"
+  primary-text: "#FF4444"
 price: 0
 releases:
+- version: 1.142.0
+  unix-timestamp: 1564099200
+  description: |-
+    <ul>
+
+      <li>Implemented FileChooserNative for GTK+ version 3.20 and later.</li>
+
+      <li>Nodes are now drawn using a custom cell renderer with specific style context instead of separate icon resources.</li>
+
+      <li>Changed symbol to indicate network ownership from outlined to filled star.</li>
+
+      <li>Added support for Flatpak.</li>
+
+      <li>Removed autostart desktop file.</li>
+
+      <li>Updated Russian translation.</li>
+
+    </ul>
 - version: 1.141.1
   unix-timestamp: 1544918400
   description: |-

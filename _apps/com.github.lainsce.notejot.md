@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/6C586A67BA1BFF708EEDA01FE7800828/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
 color:
   primary: "#fff3ae"
   primary-text: "#555864"
 price: 3
 releases:
+- version: 1.5.6
+  unix-timestamp: 1564617600
+  description: |-
+    <p>Release: Pin with Gusto</p>
+
+    <ul>
+
+      <li>Notes&apos;s pin icon rotates when active.</li>
+
+      <li>Under/overshoot style when there more text.</li>
+
+    </ul>
 - version: 1.5.5
   unix-timestamp: 1550793600
   description: |-

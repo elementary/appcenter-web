@@ -7,18 +7,18 @@ homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/wallpaperize/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/2573055161BCCA878B2329EE932E1BDE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/B93CD2D1E5A6B748C5F40A2750EEA7C9/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/2573055161BCCA878B2329EE932E1BDE/icons/64x64/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/2573055161BCCA878B2329EE932E1BDE/icons/128x128/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/2573055161BCCA878B2329EE932E1BDE/icons/64x64@2/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/B93CD2D1E5A6B748C5F40A2750EEA7C9/icons/64x64/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/B93CD2D1E5A6B748C5F40A2750EEA7C9/icons/128x128/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.wallpaperize/B93CD2D1E5A6B748C5F40A2750EEA7C9/icons/64x64@2/com.github.philip-scott.wallpaperize_com.github.philip-scott.wallpaperize.png
 color:
   primary: "#FCEDC5"
   primary-text: "#482C4B"
 price: 2
 releases:
-- version: 1.2.7
-  unix-timestamp: 1534982400
+- version: 1.2.8
+  unix-timestamp: 1557014400
   description: |-
     <p>Juno Release</p>
 
