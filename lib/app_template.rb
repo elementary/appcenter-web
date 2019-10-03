@@ -26,9 +26,9 @@ class AppTemplate
 		icons:<% @yaml["Icon"] && @yaml["Icon"]["cached"].each do |i| %>
 		<%= get_icons(i) %><% end %>
 		color:
-		  primary: <%= @yaml["Custom"] ? stringify(@yaml['Custom']['x-appcenter-color-primary']) : "#4c158a" %>
-		  primary-text: <%= @yaml["Custom"] ? stringify(@yaml['Custom']['x-appcenter-color-primary-text']) : "#fff" %>
-		price: <%= @yaml["Custom"] ? @yaml["Custom"]["x-appcenter-suggested-price"] : "0" %>
+		  primary: <%= @yaml["Custom"] && @yaml["Custom"]["x-appcenter-color-primary"] ? stringify(@yaml["Custom"]["x-appcenter-color-primary"]) : "#4c158a" %>
+		  primary-text: <%= @yaml["Custom"] && @yaml["Custom"]["x-appcenter-color-primary-text"] ? stringify(@yaml["Custom"]["x-appcenter-color-primary-text"]) : "#fff" %>
+		price: <%= @yaml["Custom"] && @yaml["Custom"]["x-appcenter-suggested-price"] ? @yaml["Custom"]["x-appcenter-suggested-price"] : "0" %>
 		releases:<% @yaml["Releases"] && @yaml["Releases"].each do |r| %>
 		<%= get_releases(r) %><% end %>
 		redirect_from:
