@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/elementary/appcenter-web.svg?branch=gh-pages)](https://travis-ci.com/elementary/appcenter-web)
+[![Build Status](https://travis-ci.org/elementary/appcenter-web.svg?branch=gh-pages)](https://travis-ci.org/elementary/appcenter-web)
 
 # AppCenter Web
 
