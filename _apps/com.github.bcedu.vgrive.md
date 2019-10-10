@@ -7,14 +7,14 @@ homepage: "https://github.com/bcedu/VGrive"
 help_page: "https://github.com/bcedu/VGrive/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/icons/64x64/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/icons/128x128/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/21D1600DCEAEE8140889770066B5616D/icons/64x64@2/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/icons/64x64/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/icons/128x128/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/A493486B4E2109E5203580FC59AFE21C/icons/64x64@2/com.github.bcedu.vgrive_com.github.bcedu.vgrive.png
 color:
   primary: "#a56de2"
   primary-text: "rgb(0,0,0)"
