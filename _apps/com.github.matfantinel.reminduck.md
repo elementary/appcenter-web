@@ -7,14 +7,14 @@ homepage: "https://github.com/matfantinel/reminduck"
 help_page: "https://github.com/matfantinel/reminduck/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/A1DE8445968D048EBDAE73A0A64A4488/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/A1DE8445968D048EBDAE73A0A64A4488/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/A1DE8445968D048EBDAE73A0A64A4488/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/A1DE8445968D048EBDAE73A0A64A4488/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
 color:
   primary: "#fff394"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "rgb(0, 0, 0)"
 price: 1
 releases:
 - version: 1.0.0
