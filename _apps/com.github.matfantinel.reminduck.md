@@ -1,22 +1,34 @@
 ---
 app_id: com.github.matfantinel.reminduck
 title: "Reminduck"
-summary: "Don't forget about your stuff in an adorably annoying way."
+summary: "Remember your stuff in an adorably annoying way."
 developer: "Matheus Fantinel"
 homepage: "https://github.com/matfantinel/reminduck"
 help_page: "https://github.com/matfantinel/reminduck/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1DD2E585D99B3899B4A3F686769B05B4/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/E4AC3FBC2F78D2947847BA24FC5A2C7E/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
 color:
   primary: "#fff394"
   primary-text: "rgb(0, 0, 0)"
-price: 1
+price: 0
 releases:
+- version: 1.1.0
+  unix-timestamp: 1570752000
+  description: |-
+    <ul>
+
+      <li>Support the unofficial &quot;Prefer Dark Theme&quot; setting 🌝️</li>
+
+      <li>This should also make it work with other dark GTK themes</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1570579200
   description: |-
