@@ -7,18 +7,36 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.0.0
+  unix-timestamp: 1570924800
+  description: |-
+    <p>Adding Some Polish 💅️</p>
+
+    <ul>
+
+      <li>💻️ Touchpad gesture navigation: Use a two-finger swipe to move back or forward through your browsing history</li>
+
+      <li>🔗️ More room for the URL entry to breathe: spacing on each side plus a maximum width means the window is easier to grab and move around</li>
+
+      <li>UI styling fixes, plus dark style fixes for newer versions of WebKit</li>
+
+      <li>Code cleaning to keep things fresh and clean</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 5.4.0
   unix-timestamp: 1568678400
   description: |-
