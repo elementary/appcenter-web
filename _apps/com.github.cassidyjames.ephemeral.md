@@ -7,18 +7,31 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/296E9000B6494D68AD3B7F798DC974EC/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/6376EAB6DB4ECDF4E65CB5DF2BE21882/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.1.0
+  description: |-
+    <p>🎉️ Emoji (and international character) support for domains! Punycode means domains like i❤tacos.ws will show up properly in the URL entry, while phishing domains should still show up like xn--80ak6aa92e.com</p>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 6.0.0
   unix-timestamp: 1570924800
   description: |-
