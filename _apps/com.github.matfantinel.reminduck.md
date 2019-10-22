@@ -7,14 +7,14 @@ homepage: "https://github.com/matfantinel/reminduck"
 help_page: "https://github.com/matfantinel/reminduck/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/1C8DF40539ADFC54280DEB09C687279C/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/341A3D867105E0504860F0514B295441/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
 color:
   primary: "#3D3D3D"
   primary-text: "#FFF394"
@@ -54,6 +54,6 @@ redirect_from:
   - /com.github.matfantinel.reminduck.desktop/
 ---
 
-<p>Reminduck is a simple reminder app made to be quick and easy - it focuses on simple reminders with set time and date and nothing else.</p>
-<p>It does not aim to provide a complete control of your reminder needs (yet), but sometimes simple is just enough.</p>
+<p>Reminduck is a simple reminder app made to be quick and easy - it focuses on simple or recurrent reminders with set time and date and nothing else.</p>
+<p>It&apos;s perfect if all you want are simple or daily/weekly/monthly reminders. Anything more than that is not achievable by Reminduck right now - but you can help! Open an issue or a pull request if you have any ideas or requests.</p>
 <p>And it quacks.</p>
