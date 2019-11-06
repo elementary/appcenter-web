@@ -7,20 +7,50 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/BC97E5A99BF546C55C488B04843D437F/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.0.3
+  unix-timestamp: 1573084800
+  description: |-
+    <p>Release: Kling Klang</p>
+
+    <ul>
+
+      <li>Fixed: Outline tab shouldn&apos;t make the sidebar grow in size anymore.</li>
+
+      <li>Fixed: A rogue file in your Home folder shouldn&apos;t happen anymore.</li>
+
+    </ul>
+- version: 2.0.2
+  unix-timestamp: 1573084800
+  description: |-
+    <p>Release: Let&apos;s Make It Whirr</p>
+
+    <ul>
+
+      <li>Fixed: Save As for a file will update the UI accordingly after usage.</li>
+
+      <li>Fixed: Outline tab is cleaned when pressing the Remove All Files button.</li>
+
+      <li>Fixed: File names of deleted files are not reused.</li>
+
+      <li>Fixed: Reading Time is properly reset when pressing the Remove All Files button.</li>
+
+      <li>Fixed: Reading Time is properly updated as text is typed.</li>
+
+    </ul>
 - version: 2.0.1
   unix-timestamp: 1569801600
   description: |-
