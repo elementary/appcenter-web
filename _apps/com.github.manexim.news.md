@@ -7,16 +7,72 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/018CB4B82D6BF23A5139DC6A243841C0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/018CB4B82D6BF23A5139DC6A243841C0/icons/64x64/com.github.manexim.news_com.github.manexim.news.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/018CB4B82D6BF23A5139DC6A243841C0/icons/128x128/com.github.manexim.news_com.github.manexim.news.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/018CB4B82D6BF23A5139DC6A243841C0/icons/64x64@2/com.github.manexim.news_com.github.manexim.news.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/icons/64x64/com.github.manexim.news_com.github.manexim.news.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/icons/128x128/com.github.manexim.news_com.github.manexim.news.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/icons/64x64@2/com.github.manexim.news_com.github.manexim.news.png
 color:
   primary: "#fafafa"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.1.5
+  unix-timestamp: 1573344000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Add cache for images</li>
+
+      <li>Show message while loading articles</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+    </ul>
+- version: 0.1.4
+  unix-timestamp: 1573344000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Set title in HeaderBar</li>
+
+    </ul>
 - version: 0.1.3
   unix-timestamp: 1572998400
   description: |-

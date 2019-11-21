@@ -7,11 +7,11 @@ homepage: "https://github.com/djaler/formatter"
 help_page: "https://github.com/djaler/formatter/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6FC10B771CD9D55DBDB1681251DAA631/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6CF0500199B0B2323DF868CA518AC11D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6FC10B771CD9D55DBDB1681251DAA631/icons/64x64/com.github.djaler.formatter_com.github.djaler.formatter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6FC10B771CD9D55DBDB1681251DAA631/icons/128x128/com.github.djaler.formatter_com.github.djaler.formatter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6FC10B771CD9D55DBDB1681251DAA631/icons/64x64@2/com.github.djaler.formatter_com.github.djaler.formatter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6CF0500199B0B2323DF868CA518AC11D/icons/64x64/com.github.djaler.formatter_com.github.djaler.formatter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6CF0500199B0B2323DF868CA518AC11D/icons/128x128/com.github.djaler.formatter_com.github.djaler.formatter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/6CF0500199B0B2323DF868CA518AC11D/icons/64x64@2/com.github.djaler.formatter_com.github.djaler.formatter.png
 color:
   primary: "#3E9AD6"
   primary-text: "rgb(255,255,255)"

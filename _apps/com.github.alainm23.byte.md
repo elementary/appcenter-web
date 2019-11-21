@@ -7,21 +7,43 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/09C100C2F738A3641DCDD74685D67917/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/09C100C2F738A3641DCDD74685D67917/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/8246638BF525790820830A5F92503B64/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/09C100C2F738A3641DCDD74685D67917/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/09C100C2F738A3641DCDD74685D67917/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/09C100C2F738A3641DCDD74685D67917/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#FE2851"
   primary-text: "#0A005D"
 price: 3
 releases:
+- version: 0.1.19
+  unix-timestamp: 1573516800
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>The songs now bring more information according to the type of sort.</li>
+
+      <li>When a radio is playing, it is now possible to stop playback and play again.</li>
+
+    </ul>
+- version: 0.1.16
+  unix-timestamp: 1572393600
+  description: |-
+    <ul>
+
+      <li>Fix LINGUAS error @ryonakano</li>
+
+      <li>Added Dutch translation @Vistaus</li>
+
+      <li>Updated Russian translation @camellan</li>
+
+    </ul>
 - version: 0.1.9
+  unix-timestamp: 1572307200
   description: |-
     <ul>
 
@@ -31,6 +53,18 @@ releases:
 
     </ul>
 - version: 0.1.8
+  unix-timestamp: 1571270400
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>A new green theme color was added @redian23</li>
+
+      <li>Added an new indicator to know if a favorite songs</li>
+
+    </ul>
+- version: 0.1.7
   unix-timestamp: 1570579200
   description: |-
     <p>This update brings some new features and bug fixes:</p>
@@ -40,18 +74,6 @@ releases:
       <li>Turkish translation @ibrakap</li>
 
       <li>Fixing style errors</li>
-
-    </ul>
-- version: 0.1.7
-  unix-timestamp: 1568678400
-  description: |-
-    <p>This update brings some new features and bug fixes:</p>
-
-    <ul>
-
-      <li>A new green theme color was added @redian23</li>
-
-      <li>Added an new indicator to know if a favorite songs</li>
 
     </ul>
 - version: 0.1.6
