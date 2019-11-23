@@ -7,17 +7,19 @@ homepage: "https://github.com/ChristopherNugent/Locksmith"
 help_page: "https://github.com/ChristopherNugent/Locksmith/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/C6B1618F3150BDDEA8D8097BA1228BD6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/C6B1618F3150BDDEA8D8097BA1228BD6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/C6B1618F3150BDDEA8D8097BA1228BD6/icons/64x64/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/C6B1618F3150BDDEA8D8097BA1228BD6/icons/128x128/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/C6B1618F3150BDDEA8D8097BA1228BD6/icons/64x64@2/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/icons/64x64/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/icons/128x128/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/icons/64x64@2/com.github.christophernugent.locksmith_com.github.christophernugent.locksmith.png
 color:
   primary: "#FFFFFF"
   primary-text: "#000000"
-price: 0
+price: 1
 releases:
+- version: 1.6.0
+  unix-timestamp: 1574208000
 - version: 1.5.1
   unix-timestamp: 1555286400
 - version: 1.4
