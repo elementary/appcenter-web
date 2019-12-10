@@ -7,17 +7,23 @@ homepage: "http://github.com/bernardodsanderson/vido"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/BF43C588E06F2DA642F15128FD76CCEC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/BF43C588E06F2DA642F15128FD76CCEC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/BF43C588E06F2DA642F15128FD76CCEC/icons/64x64/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/BF43C588E06F2DA642F15128FD76CCEC/icons/128x128/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/BF43C588E06F2DA642F15128FD76CCEC/icons/64x64@2/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/icons/64x64/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/icons/128x128/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/icons/64x64@2/com.github.bernardodsanderson.vido_com.github.bernardodsanderson.vido.png
 color:
   primary: "#F2C94C"
   primary-text: "#333"
 price: 1
 releases:
+- version: 1.3.1
+  unix-timestamp: 1575417600
+  description: |-
+    <p>Spanish Translation (thanks riesp)</p>
+
+    <p>Travis CI integration (thanks meisenzahl)</p>
 - version: 1.3.0
   unix-timestamp: 1561248000
   description: |-

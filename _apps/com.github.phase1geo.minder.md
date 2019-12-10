@@ -7,18 +7,34 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BF5CC88EDE505EBC348F733EFA771DC4/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.5.1
+  unix-timestamp: 1574467200
+  description: |-
+    <ul>
+
+      <li>Improved various icons (thanks to Nararyans R.I.)</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Downgraded Node.js to fix Travis CI builds</li>
+
+      <li>Fixed various compiler errors/warnings</li>
+
+    </ul>
 - version: 1.5.0
   unix-timestamp: 1567814400
   description: |-
