@@ -7,28 +7,26 @@ homepage: "https://github.com/jeremypw/gnonograms"
 help_page: "https://github.com/jeremypw/gnonograms"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/icons/64x64/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/icons/128x128/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/00AAA2E53F5C08F418B35E618E4981D5/icons/64x64@2/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/64x64/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/128x128/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/64x64@2/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
 color:
   primary: "#d4d4d4"
   primary-text: "#180297"
 price: 0
 releases:
-- version: 1.4.2
-  unix-timestamp: 1574208000
+- version: 1.4.3
+  unix-timestamp: 1575936000
   description: |-
     <ul>
 
       <li>French translations</li>
 
       <li>Redesigned headerbar</li>
-
-      <li>Use separate gnonograms library</li>
 
       <li>Commandline options</li>
 
