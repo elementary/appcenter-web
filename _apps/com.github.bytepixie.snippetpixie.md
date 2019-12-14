@@ -7,17 +7,27 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.2.2
+  unix-timestamp: 1575936000
+  description: |-
+    <ul>
+
+      <li>Added man pages for snippetpixie and snippetpixie-placeholders.</li>
+
+      <li>Minor fixes for compile time warnings.</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1562716800
   description: |-
@@ -59,7 +69,7 @@ releases:
 
       <li>Improved performance, compatibility, and stability.</li>
 
-      <li>Added French translations. Huge thanks to @NathanBnm@NathanBnm on GitHub! 🇨🇵️</li>
+      <li>Added French translations. Huge thanks to @NathanBnm on GitHub! 🇨🇵️</li>
 
     </ul>
 - version: 1.1.0

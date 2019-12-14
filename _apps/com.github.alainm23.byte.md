@@ -7,17 +7,37 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/E58FCD608F4AE55B48F8D77C64B31F38/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/E58FCD608F4AE55B48F8D77C64B31F38/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/E58FCD608F4AE55B48F8D77C64B31F38/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/E58FCD608F4AE55B48F8D77C64B31F38/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/E58FCD608F4AE55B48F8D77C64B31F38/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#FE2851"
   primary-text: "#0A005D"
 price: 3
 releases:
+- version: 0.2.3
+  unix-timestamp: 1576022400
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Byte now starts faster 🚀️.</li>
+
+      <li>An indicator was added that records all the playback radio station history.</li>
+
+      <li>Fixed a bug by not showing the default covers (Flathub).</li>
+
+      <li>Fixed a bug that blocks the application at startup.</li>
+
+      <li>Update French translation @NathanBnm</li>
+
+      <li>Update Spanish translation @alainm23</li>
+
+    </ul>
 - version: 0.2
   unix-timestamp: 1575590400
   description: |-
