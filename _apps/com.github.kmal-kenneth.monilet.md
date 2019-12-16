@@ -1,22 +1,26 @@
 ---
-app_id: com.github.kmal-kenneth.monilet.desktop
+app_id: com.github.kmal-kenneth.monilet
 title: "Monilet"
 summary: "A monitor widget."
 developer: "Kenet Acuña"
 homepage: "http://github.com/kmal-kenneth"
 help_page: "#"
-dist: loki
+dist: juno
 screenshots:
 
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial//icons/64x64/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial//icons/128x128/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial//icons/64x64@2/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic//icons/128x128/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64@2/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
 color:
   primary: "#292B37"
   primary-text: "#DCDFE4"
 price: 0
 releases:
+- version: 0.2.0
+  unix-timestamp: 1576281600
+  description: |-
+    <p>Release: Arriving in Juno.</p>
 - version: 0.1.8
   unix-timestamp: 1516838400
   description: |-
