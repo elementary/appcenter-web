@@ -7,17 +7,21 @@ homepage: "https://github.com/gijsgoudzwaard/image-optimizer"
 help_page: "https://github.com/gijsgoudzwaard/image-optimizer/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E431B83BDA2628E090DE69C17F2A59DD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E431B83BDA2628E090DE69C17F2A59DD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E431B83BDA2628E090DE69C17F2A59DD/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E431B83BDA2628E090DE69C17F2A59DD/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E431B83BDA2628E090DE69C17F2A59DD/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
 color:
   primary: "#687ddb"
   primary-text: "#ffffff"
 price: 2
 releases:
+- version: 0.1.17
+  unix-timestamp: 1576454400
+  description: |-
+    <p>Added Polish translations.</p>
 - version: 0.1.16
   unix-timestamp: 1570060800
   description: |-

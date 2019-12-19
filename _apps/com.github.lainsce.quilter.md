@@ -7,20 +7,40 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/B3D2B95E6467FF4360EB514FD51C0F41/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.0.4
+  unix-timestamp: 1576800000
+  description: |-
+    <p>Release: Minority Report</p>
+
+    <ul>
+
+      <li>Added: Instead of a Remove All Button, an individual Remove button for each file.</li>
+
+      <li>Added: New Outline icon, better reflects what Outline is.</li>
+
+      <li>Added: Helpful tooltip for operation of Replace button.</li>
+
+      <li>Added: Sync scroll of Edit view to Preview when in Half-Width Layout. (Note: Won&apos;t sync Preview scroll to
+
+    Edit View.)</li>
+
+      <li>Fixed: Changed tooltip on search button to fit HIG.</li>
+
+    </ul>
 - version: 2.0.3
   unix-timestamp: 1573084800
   description: |-
