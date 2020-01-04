@@ -7,20 +7,38 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/236771EEFA8680753ED5CF4C3D5E4417/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/DC67C8B3B9C28E6C9192702FD963F385/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.0.5
+  unix-timestamp: 1577404800
+  description: |-
+    <p>Release: Fixes Galore</p>
+
+    <ul>
+
+      <li>Changed: Syntax for local file/image is now /folder/(image.png/file.md) (:image/:file)</li>
+
+      <li>Fixed: Changed tooltips to include keybinds if they have it.</li>
+
+      <li>Fixed: When removing a file from the Sidebar, move to the next one immediately.</li>
+
+      <li>Fixed: Local image syntax actually provides the image you wanted to appear.</li>
+
+      <li>Fixed: Minor styling fixes.</li>
+
+    </ul>
 - version: 2.0.4
   unix-timestamp: 1576800000
   description: |-

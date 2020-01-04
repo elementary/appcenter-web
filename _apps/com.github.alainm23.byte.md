@@ -7,17 +7,31 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/F10379F34364F4008A4F55DCA5CB6FD5/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
-  primary: "#FE2851"
-  primary-text: "#0A005D"
+  primary: "#2D0941"
+  primary-text: "#fe2851"
 price: 3
 releases:
+- version: 0.2.5
+  unix-timestamp: 1577664000
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Fixing error loading songs in your playlists.</li>
+
+      <li>The error that does not allow adding a song as a favorite is fixed.</li>
+
+      <li>Notifications now show album covers correctly.</li>
+
+    </ul>
 - version: 0.2.3
   unix-timestamp: 1576022400
   description: |-

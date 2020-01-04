@@ -7,18 +7,58 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/37A58930E2E7CACE05BC660FC02B4DD2/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.6.0
+  unix-timestamp: 1577318400
+  description: |-
+    <ul>
+
+      <li>Added ability to delete a single node (instead of the node and its subtree) in the contextual menu.</li>
+
+      <li>When a new document is first saved, the first root node text is used as the default filename.</li>
+
+      <li>Added multi-select support which includes:
+
+                Changing stylesCopy, cut, paste and delete supportConnect two selected nodesCreate node links between two
+
+    or more selected nodesFold/unfold selected nodes</li>
+
+      <li>Added support for URLs in node titles.</li>
+
+      <li>Added support for Markdown within a note
+
+                Notes are syntax highlightedEmbedded URLs can be opened by Control-Clicking on them</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Updated application icon and other recently improved icons for improved readability (thanks to Nararyans R.I.).</li>
+
+      <li>Improved look and readability of theme icons in the sidebar.</li>
+
+      <li>Changed sidebar to display theme icons in a grid layout.</li>
+
+      <li>Improved various export format output.</li>
+
+    </ul>
+
+    <ul>
+
+      <li>Fixed various compiler warnings/errors after compiling with latest version of Vala compiler.</li>
+
+    </ul>
 - version: 1.5.1
   unix-timestamp: 1574467200
   description: |-
