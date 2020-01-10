@@ -7,17 +7,33 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C9B4931CB6ABC37DF5F043C45D310538/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#2D0941"
   primary-text: "#fe2851"
 price: 3
 releases:
+- version: 0.3
+  unix-timestamp: 1578528000
+  description: |-
+    <p>Hello 2020 🎉️: New icon and a very requested feature arrives.</p>
+
+    <ul>
+
+      <li>🌟️ New icon: Byte needs a new icon, with a better design and make it more elementary. Thank you very much to @Fatih20 The new Byte icon looks great.</li>
+
+      <li>📁️ Folder navigation is here 🚀️.</li>
+
+      <li>🚀️ New navigation system: Byte is now smarter to remember what view you left behind.</li>
+
+      <li>👉️ Direct access to see the artist, album or playlist: Anticlick to a song &gt; Go to &gt; select an option</li>
+
+    </ul>
 - version: 0.2.5
   unix-timestamp: 1577664000
   description: |-
