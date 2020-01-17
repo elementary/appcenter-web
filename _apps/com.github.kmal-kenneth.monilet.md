@@ -4,7 +4,7 @@ title: "Monilet"
 summary: "A monitor widget."
 developer: "Kenet Acuña"
 homepage: "http://github.com/kmal-kenneth"
-help_page: "#"
+help_page: "http://github.com/kmal-kenneth/issues"
 dist: juno
 screenshots:
 
@@ -17,6 +17,10 @@ color:
   primary-text: "#DCDFE4"
 price: 0
 releases:
+- version: 0.2.1
+  unix-timestamp: 1578614400
+  description: |-
+    <p>Release: Add Polish to the supported languages.</p>
 - version: 0.2.0
   unix-timestamp: 1576281600
   description: |-

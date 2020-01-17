@@ -7,17 +7,27 @@ homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D829FA9861A5D5510B9FD8A22BB21E4A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D829FA9861A5D5510B9FD8A22BB21E4A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D829FA9861A5D5510B9FD8A22BB21E4A/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D829FA9861A5D5510B9FD8A22BB21E4A/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D829FA9861A5D5510B9FD8A22BB21E4A/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
 releases:
+- version: 0.21.0
+  unix-timestamp: 1579046400
+  description: |-
+    <p>UI improvements</p>
+
+    <ul>
+
+      <li>Improves UI</li>
+
+    </ul>
 - version: 0.20.1
   unix-timestamp: 1573430400
   description: |-

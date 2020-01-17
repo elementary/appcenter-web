@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/5754967F363CC2A9F5CA9F3C5557E750/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
 color:
   primary: "#fff3ae"
   primary-text: "#555864"
 price: 3
 releases:
+- version: 1.6.0
+  unix-timestamp: 1578873600
+  description: |-
+    <p>Release: Translations &amp; Searches</p>
+
+    <ul>
+
+      <li>Lots of translations added.</li>
+
+      <li>Now one can search for Notejot in the apps menu faster with better keywords.</li>
+
+    </ul>
 - version: 1.5.6
   unix-timestamp: 1564617600
   description: |-
