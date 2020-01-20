@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/A6D6919DD7B1B61F60B37B33082E332C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/A6D6919DD7B1B61F60B37B33082E332C/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/A6D6919DD7B1B61F60B37B33082E332C/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/A6D6919DD7B1B61F60B37B33082E332C/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
 color:
   primary: "#dee8bc"
   primary-text: "#333333"
 price: 0
 releases:
+- version: 1.1.3
+  unix-timestamp: 1579824000
+  description: |-
+    <p>Release: Wow Factor</p>
+
+    <ul>
+
+      <li>Added: Add Task button as a Floating Action Button</li>
+
+      <li>Small design fixes</li>
+
+    </ul>
 - version: 1.1.2
   unix-timestamp: 1564444800
   description: |-
