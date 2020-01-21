@@ -3,43 +3,51 @@ app_id: com.github.alainm23.planner
 title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
-homepage: "https://github.com/alainm23/planner"
-help_page: "https://www.paypal.me/alainm23"
+homepage: "https://https://planner-todo.web.app"
+help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6BFD15B0336B913DF522F033216790E2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6BFD15B0336B913DF522F033216790E2/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6BFD15B0336B913DF522F033216790E2/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6BFD15B0336B913DF522F033216790E2/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6BFD15B0336B913DF522F033216790E2/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
-  primary: "#ffe16b"
-  primary-text: "#000"
-price: 9
+  primary: "#ffffff"
+  primary-text: "#000000"
+price: 15
 releases:
-- version: 1.2.4
-  unix-timestamp: 1553731200
+- version: 2.0.8
+  unix-timestamp: 1579219200
   description: |-
-    <ul>
-
-      <li>Stability and performance improvements</li>
-
-      <li>New view &quot;All tasks&quot; and &quot;Tasks completed&quot;</li>
-
-      <li>Markdown support</li>
-
-      <li>Improved quick search</li>
-
-    </ul>
-
-    <p>Translations:</p>
+    <p>Planner 2 is here...</p>
 
     <ul>
 
-      <li>Dutch (Heimen Stoffels)</li>
+      <li>🚀️ Complete redesign of the UI.</li>
 
-      <li>Brazilian (Raphael Cabral)</li>
+      <li>🏅️ New icon.</li>
+
+      <li>🤚️ Drag and Order arrived: Sort your tasks wherever you want.</li>
+
+      <li>💯️ Progress indicator for each project.</li>
+
+      <li>💪️ Be more productive and organize your tasks by &apos;Sections&apos;.</li>
+
+      <li>📅️ Visualize your events and plan your day better.</li>
+
+      <li>💎️ Magic Button arrived: Drag and Drop and create your tasks wherever you want.</li>
+
+      <li>⏲️ Improved reminder system, now you can create one or more reminders, you decide.</li>
+
+      <li>🌙️ Better integration with the dark theme.</li>
+
+      <li>☁️ Synchronize your Projects, Task and Sections thanks to Todoist.</li>
+
+      <li>👷️ Support for Todoist offline: Work without an internet connection and when everything is reconnected it will be synchronized.</li>
+
+      <li>🎉️ and much more.</li>
 
     </ul>
 - version: 1.2.3
@@ -189,19 +197,35 @@ redirect_from:
 ---
 
 <p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
-<p>How Planner works</p>
+<p>How Planner works:</p>
 <p>1. Collect your Ideas - The Inbox is your default task list in Planner. When you add a task, it goes straight to your Inbox unless you specify that the task goes into a project.</p>
 <p>2. Get Organized - Create a project for each of your goals, then add the steps to reach them. Review these regularly to stay on top of things.</p>
 <p>3. Calendar and Events - See your calendar events and plan your time effectively. Planner will remind you on the right day.</p>
-<p>4. Be even more organized - Add a deadline to your tasks, create labels, use checklists.</p>
-<p>5. Share your progress - Share all the progress of your project or some special task, all this in Markdown.</p>
-<p>6. Support for Github Issues - Connect your account and start receiving notifications of every new issue in your repositories</p>
-<p>Other features</p>
+<p>4. Be even more organized - Add a duedate to your tasks, create labels, use checklists.</p>
+<p>🚀️ Planner 2 is here...</p>
 <ul>
-  <li>Reminders notifications</li>
-  <li>Import and export your projects</li>
-  <li>Different themes to choose</li>
-  <li>Weather forecast</li>
-  <li>Quick Find</li>
-  <li>Night mode</li>
+  <li>🚀️ Complete redesign of the UI.</li>
+  <li>🏅️ New icon.</li>
+  <li>🤚️ Drag and Order arrived: Sort your tasks wherever you want.</li>
+  <li>💯️ Progress indicator for each project.</li>
+  <li>💪️ Be more productive and organize your tasks by &apos;Sections&apos;.</li>
+  <li>📅️ Visualize your events and plan your day better.</li>
+  <li>💎️ Magic Button arrived: Drag and Drop and create your tasks wherever you want.</li>
+  <li>⏲️ Improved reminder system, now you can create one or more reminders, you decide.</li>
+  <li>🌙️ Better integration with the dark theme.</li>
+  <li>☁️ Synchronize your Projects, Task and Sections thanks to Todoist.</li>
+  <li>👷️ Support for Todoist offline: Work without an internet connection and when everything is reconnected it will be synchronized.</li>
+  <li>🎉️ and much more.</li>
+</ul>
+<p>☁️ Support for Todoist:</p>
+<ul>
+  <li>Synchronize your Projects, Task and Sections thanks to Todoist.</li>
+  <li>Support for Todoist offline: Work without an internet connection and when everything is reconnected it will be synchronized.</li>
+</ul>
+<p>* Planner not created by, affiliated with, or supported by Doist</p>
+<p>💎️ Other features:</p>
+<ul>
+  <li>⏲️ Reminders notifications</li>
+  <li>🔍️ Quick Find</li>
+  <li>🌙️ Night mode</li>
 </ul>
