@@ -7,17 +7,31 @@ homepage: "https://jeremy.vaartj.es"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/64x64/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/128x128/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/E030F6C7B7CD45E039343A22E47E6461/icons/64x64@2/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/icons/64x64/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/icons/128x128/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/icons/64x64@2/com.github.jeremyvaartjes.subminder_com.github.jeremyvaartjes.subminder.png
 color:
   primary: "#64728a"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.2.0
+  unix-timestamp: 1579996800
+  description: |-
+    <ul>
+
+      <li>French translation update from @NathanBnm</li>
+
+      <li>Spanish translation from @fitojb</li>
+
+      <li>Dutch translation from @Vistaus</li>
+
+      <li>Icon now resembles gold coin</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1556150400
   description: |-

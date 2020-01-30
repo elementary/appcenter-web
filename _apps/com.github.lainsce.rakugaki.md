@@ -7,21 +7,47 @@ homepage: "https://github.com/lainsce/rakugaki/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/8A4CE7ACA9F6C6FC2BF57ACFA389ACBE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/8A4CE7ACA9F6C6FC2BF57ACFA389ACBE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/8A4CE7ACA9F6C6FC2BF57ACFA389ACBE/icons/64x64/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/8A4CE7ACA9F6C6FC2BF57ACFA389ACBE/icons/128x128/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/8A4CE7ACA9F6C6FC2BF57ACFA389ACBE/icons/64x64@2/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/icons/64x64/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/icons/128x128/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/icons/64x64@2/com.github.lainsce.rakugaki_com.github.lainsce.rakugaki.png
 color:
   primary: "#1EFE89"
   primary-text: "#000"
 price: 5
 releases:
+- version: 1.0.5
+  unix-timestamp: 1580601600
+  description: |-
+    <p>Release: Asa</p>
+
+    <ul>
+
+      <li>Fixed: Line smoothing.</li>
+
+      <li>Fixed: Halftone.</li>
+
+    </ul>
+- version: 1.0.4
+  unix-timestamp: 1580428800
+  description: |-
+    <p>Release: Ongaku</p>
+
+    <ul>
+
+      <li>Added: Eraser function</li>
+
+      <li>Fixed: Grid should be a guide, so it is top-most.</li>
+
+      <li>And other small changes.</li>
+
+    </ul>
 - version: 1.0.3
   unix-timestamp: 1579219200
   description: |-
-    <p>Release: Ongaku</p>
+    <p>Release: Yoru</p>
 
     <ul>
 

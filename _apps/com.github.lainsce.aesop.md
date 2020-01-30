@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/4D1FC7F5AB0F53D833362D4B2FC0578E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/4D1FC7F5AB0F53D833362D4B2FC0578E/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/4D1FC7F5AB0F53D833362D4B2FC0578E/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/4D1FC7F5AB0F53D833362D4B2FC0578E/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.2.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Release: Page Ears</p>
+
+    <ul>
+
+      <li>Minor backend fixes.</li>
+
+    </ul>
 - version: 1.1.4
   unix-timestamp: 1579046400
   description: |-
