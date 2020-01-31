@@ -7,19 +7,37 @@ homepage: "https://github.com/matfantinel/reminduck"
 help_page: "https://github.com/matfantinel/reminduck/issues"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/B0452F67A0A90975F5A01D00F4553FE6/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/icons/64x64/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/icons/128x128/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/icons/64x64@2/com.github.matfantinel.reminduck_com.github.matfantinel.reminduck.png
 color:
   primary: "#3D3D3D"
   primary-text: "#FFF394"
 price: 0
 releases:
+- version: 1.5.6
+  unix-timestamp: 1580428800
+  description: |-
+    <ul>
+
+      <li>- 🇩🇪 German translation (@Technipion)</li>
+
+      <li>- 🇮🇹 Updated italian translation (@albanobattistella)</li>
+
+    </ul>
+- version: 1.5.5
+  unix-timestamp: 1579305600
+  description: |-
+    <ul>
+
+      <li>🐞 Enable translations on Flatpak</li>
+
+    </ul>
 - version: 1.5.0
   unix-timestamp: 1578614400
   description: |-

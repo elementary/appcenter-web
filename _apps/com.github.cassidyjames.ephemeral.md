@@ -7,18 +7,49 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E20122F49F856F8FB276181101E13CC0/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/0B5B880126388A8527933B98C64947CD/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.2.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Dark Style Rises</p>
+
+    <ul>
+
+      <li>A new toggle lets you choose light or dark style for sites, assuming they support the `prefers-color-scheme` CSS
+
+    query</li>
+
+      <li>Stopped defaulting to dark style by default since it can break some sites</li>
+
+      <li>Set the window title to help distinguish different pages from the dock</li>
+
+      <li>Simplified &quot;Open page in…&quot; menu and logic to always expose all options</li>
+
+    </ul>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 6.1.1
   unix-timestamp: 1572912000
   description: |-
