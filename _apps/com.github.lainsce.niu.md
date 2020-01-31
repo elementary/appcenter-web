@@ -7,11 +7,11 @@ homepage: "https://github.com/lainsce/niu/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/9EB3DB0109F07E21D84BE728E1F97003/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/9EB3DB0109F07E21D84BE728E1F97003/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/9EB3DB0109F07E21D84BE728E1F97003/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/9EB3DB0109F07E21D84BE728E1F97003/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
 color:
   primary: "#222222"
   primary-text: "#00DAC7"
