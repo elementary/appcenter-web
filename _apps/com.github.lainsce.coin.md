@@ -7,16 +7,28 @@ homepage: "https://github.com/lainsce/coin/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/EDDA87A945DC222A9445ED9D5611ABA3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/EDDA87A945DC222A9445ED9D5611ABA3/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/EDDA87A945DC222A9445ED9D5611ABA3/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/EDDA87A945DC222A9445ED9D5611ABA3/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
 color:
   primary: "#badbad"
   primary-text: "#212121"
 price: 0
 releases:
+- version: 1.3.0
+  unix-timestamp: 1581033600
+  description: |-
+    <p>Release: Portuguese Reis</p>
+
+    <ul>
+
+      <li>Added: Hungarian Forint.</li>
+
+      <li>Fixed: Symbols of Bitcoin Cash, Tezos and Cardano Ada.</li>
+
+    </ul>
 - version: 1.2.8
   unix-timestamp: 1580342400
   description: |-

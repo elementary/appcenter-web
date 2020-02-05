@@ -7,16 +7,30 @@ homepage: "https://github.com/lainsce/palaura/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/BE073B72169770359DBDE6EAFD977951/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/3C75E2CE96BF89388FDD961095C9165D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/BE073B72169770359DBDE6EAFD977951/icons/64x64/com.github.lainsce.palaura_com.github.lainsce.palaura.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/BE073B72169770359DBDE6EAFD977951/icons/128x128/com.github.lainsce.palaura_com.github.lainsce.palaura.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/BE073B72169770359DBDE6EAFD977951/icons/64x64@2/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/3C75E2CE96BF89388FDD961095C9165D/icons/64x64/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/3C75E2CE96BF89388FDD961095C9165D/icons/128x128/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/3C75E2CE96BF89388FDD961095C9165D/icons/64x64@2/com.github.lainsce.palaura_com.github.lainsce.palaura.png
 color:
   primary: "#ddbdbd"
   primary-text: "#333333"
-price: 5
+price: 8
 releases:
+- version: 1.2.0
+  unix-timestamp: 1581033600
+  description: |-
+    <p>Release: Hot Revival</p>
+
+    <ul>
+
+      <li>Update: In the lack of a better API that is free of charge, I decided to continue using the one in-app.
+
+    As such, the new pricing will help accomodate the costs.</li>
+
+      <li>Minor fixes.</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1561852800
   description: |-
