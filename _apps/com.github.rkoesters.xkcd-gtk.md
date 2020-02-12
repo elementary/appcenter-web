@@ -7,18 +7,30 @@ homepage: "https://github.com/rkoesters/xkcd-gtk"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/icons/64x64/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/icons/128x128/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/E29921810DC272FDE66A058E82E75915/icons/64x64@2/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/icons/64x64/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/icons/128x128/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/icons/64x64@2/com.github.rkoesters.xkcd-gtk_com.github.rkoesters.xkcd-gtk.png
 color:
   primary: "#96a8c8"
   primary-text: "#1a1a1a"
 price: 0
 releases:
+- version: 1.3.2
+  unix-timestamp: 1581120000
+  description: |-
+    <ul>
+
+      <li>Add Italian translations (Thanks to albanobattistella)</li>
+
+      <li>Minor performance improvement to bookmarks menu</li>
+
+      <li>Fix a bug (race condition)</li>
+
+    </ul>
 - version: 1.3.1
   unix-timestamp: 1573171200
   description: |-
@@ -46,7 +58,7 @@ releases:
 
       <li>Add support for translations (user interface only, comics will remain in their original language)</li>
 
-      <li>Add French translations (Thanks to @NathanBnm)</li>
+      <li>Add French translations (Thanks to NathanBnm)</li>
 
     </ul>
 - version: 1.1.3

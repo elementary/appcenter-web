@@ -7,20 +7,32 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/4905D57F8B0AE71654B4D5A412E91F1C/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.1.1
+  unix-timestamp: 1581638400
+  description: |-
+    <p>Release: Swift Scenes</p>
+
+    <ul>
+
+      <li>Fixed: Would duplicate files when open in the sidebar</li>
+
+      <li>Fixed: If the sidebar was empty and Quilter was reopened, last file contents would still appear</li>
+
+    </ul>
 - version: 2.1.0
   unix-timestamp: 1579219200
   description: |-
