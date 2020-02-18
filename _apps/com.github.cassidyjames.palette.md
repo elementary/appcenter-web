@@ -7,19 +7,35 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
 color:
-  primary: "@BANANA_300"
-  primary-text: "@BLACK_500"
+  primary: "#ffe16b"
+  primary-text: "#333333"
 price: 6
 releases:
+- version: 3.1.7
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Fix .desktop translation error</p>
+- version: 3.1.6
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Italian translations thanks to Mirko Brombin</li>
+
+      <li>Polish translations thanks to Michał Nowakowski</li>
+
+    </ul>
 - version: 3.1.5
   unix-timestamp: 1547510400
   description: |-

@@ -7,16 +7,32 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/F8B9053640D585957CD328B5577E357D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/F8B9053640D585957CD328B5577E357D/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/F8B9053640D585957CD328B5577E357D/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/F8B9053640D585957CD328B5577E357D/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
 color:
   primary: "#fff394"
   primary-text: "#333333"
 price: 2
 releases:
+- version: 1.3.2
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Fix .desktop translation error</p>
+- version: 1.3.1
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Danish translations thanks to Rasmus Lindegaard</li>
+
+      <li>Polish translations thanks to Michał Nowakowski</li>
+
+    </ul>
 - version: 1.3.0
   unix-timestamp: 1572998400
   description: |-

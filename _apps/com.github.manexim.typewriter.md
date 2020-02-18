@@ -7,16 +7,50 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/17E46ACFAB7153B3D2E30D32E2FD3862/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/17E46ACFAB7153B3D2E30D32E2FD3862/icons/64x64/com.github.manexim.typewriter_com.github.manexim.typewriter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/17E46ACFAB7153B3D2E30D32E2FD3862/icons/128x128/com.github.manexim.typewriter_com.github.manexim.typewriter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/17E46ACFAB7153B3D2E30D32E2FD3862/icons/64x64@2/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/icons/64x64/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/icons/128x128/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/icons/64x64@2/com.github.manexim.typewriter_com.github.manexim.typewriter.png
 color:
   primary: "#fafafa"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.3.0
+  unix-timestamp: 1581724800
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Add menu to set zoom level</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+    </ul>
 - version: 0.2.0
   unix-timestamp: 1581120000
   description: |-
