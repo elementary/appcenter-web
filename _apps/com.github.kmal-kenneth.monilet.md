@@ -7,16 +7,28 @@ homepage: "http://github.com/kmal-kenneth"
 help_page: "http://github.com/kmal-kenneth/issues"
 dist: juno
 screenshots:
-
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic//icons/128x128/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64@2/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/icons/64x64/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/icons/128x128/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/icons/64x64@2/com.github.kmal-kenneth.monilet_com.github.kmal-kenneth.monilet.png
 color:
   primary: "#292B37"
   primary-text: "#DCDFE4"
 price: 0
 releases:
+- version: 0.2.2
+  unix-timestamp: 1581206400
+  description: |-
+    <p>Release: It works on small details, such as languages and store previews.</p>
+
+    <ul>
+
+      <li>Add French to the supported languages.</li>
+
+      <li>Fixed the preview error in the store.</li>
+
+    </ul>
 - version: 0.2.1
   unix-timestamp: 1578614400
   description: |-
