@@ -7,17 +7,35 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/989E552F9096BA2AAD0B0BEC4D4574B0/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.3.0
+  unix-timestamp: 1582416000
+  description: |-
+    <ul>
+
+      <li>Vastly improved compatibility with a wide variety of applications.</li>
+
+      <li>Now works with Chrome, Chromium and Electron apps.</li>
+
+      <li>Much faster abbreviation detection.</li>
+
+      <li>Much nicer to the system in general.</li>
+
+      <li>Alas, recent Firefox versions no longer compatible, hope to support in the future.</li>
+
+      <li>A few terminal emulators blacklisted to avoid problems, hope to support in the future.</li>
+
+    </ul>
 - version: 1.2.2
   unix-timestamp: 1575936000
   description: |-

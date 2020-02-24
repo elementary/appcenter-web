@@ -1,18 +1,18 @@
 ---
 app_id: com.github.alainm23.planner
 title: "Planner"
-summary: "Never worry about forgetting things again"
+summary: "Task and project manager with support for Todoist developer for Gnu/Linux"
 developer: "Alain M."
 homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: juno
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/592C6292BCDB37853C547B31E0F50AA7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/592C6292BCDB37853C547B31E0F50AA7/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/592C6292BCDB37853C547B31E0F50AA7/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/592C6292BCDB37853C547B31E0F50AA7/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/592C6292BCDB37853C547B31E0F50AA7/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
