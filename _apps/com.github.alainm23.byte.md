@@ -5,7 +5,7 @@ summary: "Rediscover your music"
 developer: "Alain M."
 homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "Manager tasks"
 developer: "Juarez Franco"
 homepage: "#"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/juarezfranco.tarefas-desktop/04A2804799B7348F180E60395B7EFDBC/screenshots/image-1_orig.png
 icons:

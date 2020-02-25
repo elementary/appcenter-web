@@ -5,7 +5,7 @@ summary: "Tricks for PDF Files"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/pdftricks"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/screenshots/image-2_orig.png

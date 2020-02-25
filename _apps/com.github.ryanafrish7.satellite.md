@@ -5,7 +5,7 @@ summary: "Monitor how the system resources are being utilized"
 developer: "Afrish Khan S"
 homepage: "https://github.com/RyanAfrish7/satellite"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryanafrish7.satellite/FF3DB5089BE63A26C1C0E2E1CF1819A7/screenshots/image-1_orig.png
 icons:

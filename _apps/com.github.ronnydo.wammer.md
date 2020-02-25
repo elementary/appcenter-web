@@ -5,7 +5,7 @@ summary: "Jamming your WiFi network"
 developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/Wammer"
 help_page: "https://github.com/RonnyDo/Wammer/"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/16550D2B251AFC5010D44AFBB1ABD792/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/16550D2B251AFC5010D44AFBB1ABD792/screenshots/image-2_orig.png

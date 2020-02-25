@@ -5,7 +5,7 @@ summary: "The ultimate tea timer"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/timer"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/screenshots/image-1_orig.png
 icons:

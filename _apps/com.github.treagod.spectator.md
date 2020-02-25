@@ -5,7 +5,7 @@ summary: "Comfortably test your REST APIs!"
 developer: "Marvin Ahlgrimm"
 homepage: "https://github.com/treagod/spectator"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
 
 icons:

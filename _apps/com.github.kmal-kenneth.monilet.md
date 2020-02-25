@@ -5,7 +5,7 @@ summary: "A monitor widget."
 developer: "Kenet Acuña"
 homepage: "http://github.com/kmal-kenneth"
 help_page: "http://github.com/kmal-kenneth/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/screenshots/image-1_orig.png
 icons:

@@ -5,7 +5,7 @@ summary: "Insert emoji anywhere 🎉"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/screenshots/image-1_orig.png
 icons:

@@ -5,7 +5,7 @@ summary: "Manage local image files"
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/memories/"
 help_page: "https://github.com/artemanufrij/showmypictures/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.showmypictures.desktop/3488A9F755D974D347219613C5F3CF2E/screenshots/image-2_orig.png

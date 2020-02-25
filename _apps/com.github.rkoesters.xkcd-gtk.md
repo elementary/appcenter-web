@@ -5,7 +5,7 @@ summary: "Read xkcd: a webcomic of romance, sarcasm, math, and language"
 developer: "Ryan Koesters"
 homepage: "https://github.com/rkoesters/xkcd-gtk"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-2_orig.png

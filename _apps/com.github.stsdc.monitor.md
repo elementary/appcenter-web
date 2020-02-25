@@ -5,7 +5,7 @@ summary: "Manage processes and monitor system resources"
 developer: "Stanisław Dac"
 homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E432D82D928C1B2CE15C9BFA96F889AD/screenshots/image-1_orig.png
 icons:

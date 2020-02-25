@@ -5,7 +5,7 @@ summary: "Find the most beautiful wallpapers"
 developer: "Carlos Lopez"
 homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-2_orig.png

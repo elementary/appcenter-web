@@ -5,7 +5,7 @@ summary: "The simplest PDF viewer around"
 developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/screenshots/image-1_orig.png
 icons:

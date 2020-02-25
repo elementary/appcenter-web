@@ -5,7 +5,7 @@ summary: "Task and project manager with support for Todoist developer for Gnu/Li
 developer: "Alain M."
 homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/90118C451C3CF3BEF73586D6DAC6FA6C/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "Schedule your computer's shutdown easily"
 developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-2_orig.png

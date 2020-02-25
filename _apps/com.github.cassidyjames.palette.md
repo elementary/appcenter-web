@@ -5,7 +5,7 @@ summary: "View and copy colors from the elementary brand palette"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-2_orig.png

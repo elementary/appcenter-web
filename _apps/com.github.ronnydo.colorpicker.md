@@ -5,7 +5,7 @@ summary: "The most intuitive Color Picker to speed up your workflow"
 developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/ColorPicker"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/screenshots/image-2_orig.png

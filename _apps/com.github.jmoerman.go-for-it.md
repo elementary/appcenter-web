@@ -5,7 +5,7 @@ summary: "A stylish to-do list with built-in productivity timer"
 developer: "The Go For It! developers"
 homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/screenshots/image-1_orig.png
 icons:

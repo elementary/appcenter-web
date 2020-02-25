@@ -5,7 +5,7 @@ summary: "Get things done"
 developer: "Dane Henson"
 homepage: "http://brainofdane.com"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/015A6D37490D2CB01C85DC41EDA15975/screenshots/image-2_orig.png

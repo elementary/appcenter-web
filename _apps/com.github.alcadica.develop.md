@@ -5,7 +5,7 @@ summary: "Creates easily apps and widgets"
 developer: "Alcadica"
 homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-2_orig.png

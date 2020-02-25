@@ -5,7 +5,7 @@ summary: "Plot out your own timetable for the week and organize it"
 developer: "Lains"
 homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/screenshots/image-1_orig.png
 icons:

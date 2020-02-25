@@ -5,7 +5,7 @@ summary: "Read Atom and RSS feeds"
 developer: "Allen B"
 homepage: "https://github.com/allen-b1/news"
 help_page: "https://github.com/allen-b1/news/issues/new"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/9A9BA4110B0B9D594833D593DC31221E/screenshots/image-1_orig.png
 icons:

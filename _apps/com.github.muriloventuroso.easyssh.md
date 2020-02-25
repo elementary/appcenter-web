@@ -5,7 +5,7 @@ summary: "SSH Connection Manager"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/easyssh"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/6C7D6638D18B0C398B0C6C95F2DF469E/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.easyssh/6C7D6638D18B0C398B0C6C95F2DF469E/screenshots/image-2_orig.png

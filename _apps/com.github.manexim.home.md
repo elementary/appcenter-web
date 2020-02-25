@@ -5,7 +5,7 @@ summary: "Control your smart home gadgets"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/7C6F8C9EC7992D85B738F5D448729F8A/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/7C6F8C9EC7992D85B738F5D448729F8A/screenshots/image-2_orig.png

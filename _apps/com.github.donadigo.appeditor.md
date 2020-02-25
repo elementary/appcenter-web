@@ -5,7 +5,7 @@ summary: "Edit application menu"
 developer: "Adam Bieńkowski"
 homepage: "https://github.com/donadigo/appeditor"
 help_page: "https://github.com/donadigo/appeditor"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_orig.png
 icons:

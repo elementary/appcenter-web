@@ -5,7 +5,7 @@ summary: "Translit is a simple method of encoding Cyrillic letters with Latin on
 developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/translit"
 help_page: "https://github.com/artemanufrij/translit/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.translit/36271DC7879F673AAF41358F7439A674/screenshots/image-1_orig.png
 icons:

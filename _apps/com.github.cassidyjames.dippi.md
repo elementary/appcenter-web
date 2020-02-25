@@ -5,7 +5,7 @@ summary: "Calculate display info like DPI and aspect ratio"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "Track each task's time in a simple inobtrusive way"
 developer: "Lains"
 homepage: "https://github.com/lainsce/khronos/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.khronos/9818B4288B802F800CC8FFEE5D7FB225/screenshots/image-1_orig.png
 icons:

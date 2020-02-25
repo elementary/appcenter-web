@@ -5,7 +5,7 @@ summary: "Personal budget manager"
 developer: "Cleiton Floss"
 homepage: "https://cjfloss.github.io/"
 help_page: "https://github.com/cjfloss/envelope/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_orig.png

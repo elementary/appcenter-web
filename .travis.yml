@@ -12,7 +12,7 @@ rvm:
 
 script:
   - ruby ./generate-loki.rb
-  - ruby ./generate-juno.rb
+  - ruby ./generate-hera.rb
 
 deploy:
   provider: pages

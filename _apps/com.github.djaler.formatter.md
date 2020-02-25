@@ -5,7 +5,7 @@ summary: "A simple device formatter"
 developer: "Kirill Romanov"
 homepage: "https://github.com/djaler/formatter"
 help_page: "https://github.com/djaler/formatter/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/djaler.formatter/5AC92CFC8880C262BEE2696A0414091D/screenshots/image-1_orig.png
 icons:

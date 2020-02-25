@@ -5,7 +5,7 @@ summary: "Focus on your writing"
 developer: "Lains"
 homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-2_orig.png

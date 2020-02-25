@@ -5,7 +5,7 @@ summary: "Roll the dice"
 developer: "Patrick Csikos"
 homepage: "https://github.com/zelikos/rannum"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/C67F27E7ECAD27184FFED939017747E0/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/C67F27E7ECAD27184FFED939017747E0/screenshots/image-2_orig.png

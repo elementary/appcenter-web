@@ -5,7 +5,7 @@ summary: "Simplify your commands"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/alias"
 help_page: "https://github.com/bartzaalberg/alias/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-2_orig.png

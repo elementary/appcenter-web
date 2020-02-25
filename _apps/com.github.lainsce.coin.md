@@ -5,7 +5,7 @@ summary: "Never miss out on the monetary value of a virtual currency with this h
 developer: "Lains"
 homepage: "https://github.com/lainsce/coin/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/screenshots/image-1_orig.png
 icons:

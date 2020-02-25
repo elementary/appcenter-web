@@ -5,7 +5,7 @@ summary: "Graph Visualization"
 developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/graphui/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.graphui/125BCC292BB5D760ADB805BD65F0A147/screenshots/image-1_orig.png
 icons:

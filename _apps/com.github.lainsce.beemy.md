@@ -5,7 +5,7 @@ summary: "A cute little Body Mass Index calculator"
 developer: "Lains"
 homepage: "https://github.com/lainsce/beemy/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/screenshots/image-2_orig.png

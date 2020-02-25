@@ -5,7 +5,7 @@ summary: "The best news sources, all in one place"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/screenshots/image-1_orig.png
 icons:

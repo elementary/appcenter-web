@@ -5,7 +5,7 @@ summary: "Remind yourself to not sit and stare at the screen for too long"
 developer: "Elfenware"
 homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/2B4B58D506B91CF9F0273BD125E0989A/screenshots/image-1_orig.png
 icons:

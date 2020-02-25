@@ -5,7 +5,7 @@ summary: "Watch and track date and time in an innovative way with this handy app
 developer: "Lains"
 homepage: "https://github.com/lainsce/niu/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/screenshots/image-1_orig.png
 icons:

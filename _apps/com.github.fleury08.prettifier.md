@@ -5,7 +5,7 @@ summary: "Prettify your JSON/XML outputs"
 developer: "Jaroslav Staněk"
 homepage: "https://jstanek.eu/"
 help_page: "https://github.com/fleury08/prettifier/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/fleury08.prettifier/865647F3B57C14923E1AE67C6651C2FE/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/fleury08.prettifier/865647F3B57C14923E1AE67C6651C2FE/screenshots/image-2_orig.png

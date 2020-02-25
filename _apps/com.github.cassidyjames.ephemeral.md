@@ -5,7 +5,7 @@ summary: "The always-incognito web browser"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/5CF00EAD09635332F4A3A05174C72774/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/5CF00EAD09635332F4A3A05174C72774/screenshots/image-2_orig.png

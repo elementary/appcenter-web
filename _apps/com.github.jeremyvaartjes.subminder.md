@@ -5,7 +5,7 @@ summary: "Keep tabs on your subscriptions"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "A Great Podcast Client for the Modern Free Desktop"
 developer: "Needle & Thread"
 homepage: "http://github.com/needle-and-thread/vocal"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-2_orig.png

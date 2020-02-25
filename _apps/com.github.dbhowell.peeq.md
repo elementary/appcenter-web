@@ -5,7 +5,7 @@ summary: "Postgresql Client with programmer utilities"
 developer: "David Howell"
 homepage: "https://github.com/dbhowell/peeq"
 help_page: "https://github.com/dbhowell/peeq/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-2_orig.png

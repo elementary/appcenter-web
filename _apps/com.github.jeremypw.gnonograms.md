@@ -5,7 +5,7 @@ summary: "Create and solve gnonogram puzzles"
 developer: "Jeremy Paul Wootten"
 homepage: "https://github.com/jeremypw/gnonograms"
 help_page: "https://github.com/jeremypw/gnonograms"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-2_orig.png

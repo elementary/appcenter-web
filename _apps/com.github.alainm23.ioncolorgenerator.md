@@ -5,7 +5,7 @@ summary: "Create custom color for your Ionic app’s UI"
 developer: "Alain M."
 homepage: "https://github.com/alainm23/ioncolorgenerator"
 help_page: "https://www.patreon.com/alainm23"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.ioncolorgenerator/E302A4A26DCC1E180ED3462F0F7284A9/screenshots/image-1_orig.png
 icons:

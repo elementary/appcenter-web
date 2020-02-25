@@ -5,7 +5,7 @@ summary: "Browse and find system icons"
 developer: "Daniel Foré"
 homepage: "http://danielfore.com"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.lookbook/0E81FDB1987678C9B9F2466502A3DE9F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.lookbook/0E81FDB1987678C9B9F2466502A3DE9F/screenshots/image-2_orig.png

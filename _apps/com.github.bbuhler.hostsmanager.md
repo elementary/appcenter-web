@@ -5,7 +5,7 @@ summary: "Manage your /etc/hosts file"
 developer: "Benjamin Buhler"
 homepage: "https://github.com/bbuhler/HostsManager"
 help_page: "https://github.com/bbuhler/HostsManager/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/DFAA9E0DF9839A6847DFCB568B4E9147/screenshots/image-1_orig.png
 icons:

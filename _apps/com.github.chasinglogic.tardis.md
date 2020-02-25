@@ -5,7 +5,7 @@ summary: "Automatically manage backups"
 developer: "Mathew Robinson"
 homepage: "https://github.com/chasinglogic/tardis"
 help_page: "https://github.com/chasinglogic/tardis/issues"
-dist: juno
+dist: hera
 screenshots:
 
 icons:

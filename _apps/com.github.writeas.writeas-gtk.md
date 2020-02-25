@@ -5,7 +5,7 @@ summary: "Publish a thought in seconds"
 developer: "Write.as"
 homepage: "https://write.as/"
 help_page: "https://write.as/contact"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "A timer to use pomodoro technique"
 developer: "Fernando da Silva Sousa"
 homepage: "https://github.com/naaando/rush"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-2_orig.png

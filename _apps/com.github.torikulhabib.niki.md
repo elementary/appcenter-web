@@ -5,7 +5,7 @@ summary: "Media Player"
 developer: "Torikul Habib"
 homepage: "https://github.com/torikulhabib/niki"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.niki/25199EA37085175E04F83A37FDED0621/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.niki/25199EA37085175E04F83A37FDED0621/screenshots/image-2_orig.png

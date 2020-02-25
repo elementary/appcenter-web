@@ -5,7 +5,7 @@ summary: "A minimal writer with autosave"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/551838959B2570A41A5592A56E1035CC/screenshots/image-2_orig.png

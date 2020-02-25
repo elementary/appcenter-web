@@ -5,7 +5,7 @@ summary: "Display, understand and edit your cron configuration"
 developer: "padjis"
 homepage: "https://github.com/padjis/gcron"
 help_page: "https://github.com/padjis/gcron/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/4EC29388A06ED2C64E7A399702FA76A6/screenshots/image-1_orig.png
 icons:

@@ -5,7 +5,7 @@ summary: "A simple screen recording app for daily use."
 developer: "Mohammed ALMadhoun"
 homepage: "https://github.com/mohelm97/screenrecorder"
 help_page: "https://github.com/mohelm97/screenrecorder/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "View and Watch Crypto Currency With Ease!"
 developer: "David Johnson"
 homepage: "https://github.com/dcharles525/crypt"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-2_orig.png

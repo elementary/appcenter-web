@@ -5,7 +5,7 @@ summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
 homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/screenshots/image-2_orig.png

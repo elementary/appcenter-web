@@ -5,7 +5,7 @@ summary: "Do maths like a normal person"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/nasc"
 help_page: "https://github.com/parnold-x/nasc/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/screenshots/image-2_orig.png

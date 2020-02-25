@@ -5,7 +5,7 @@ summary: ".gitignore reference for various languages"
 developer: "Shubham Arora"
 homepage: "https://shubhamarora.in"
 help_page: "https://github.com/arshubham/gitignore/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/F1158456BFEABE1759FACDBE65CE6B11/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/F1158456BFEABE1759FACDBE65CE6B11/screenshots/image-2_orig.png

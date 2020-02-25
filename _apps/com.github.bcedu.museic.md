@@ -5,7 +5,7 @@ summary: "Simple and fast music player with remote control"
 developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/MuseIC"
 help_page: "https://github.com/bcedu/MuseIC/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.museic/52AEAB605780460D881CC868F2ABB919/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.museic/52AEAB605780460D881CC868F2ABB919/screenshots/image-2_orig.png

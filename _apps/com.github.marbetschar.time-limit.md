@@ -5,7 +5,7 @@ summary: "A simple and beautiful timer"
 developer: "Marco Betschart"
 homepage: "https://github.com/marbetschar/time-limit"
 help_page: "https://github.com/marbetschar/time-limit/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/screenshots/image-2_orig.png

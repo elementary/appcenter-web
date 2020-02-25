@@ -5,7 +5,7 @@ summary: "Test your JavaScript"
 developer: "Timecraft"
 homepage: "https://github.com/timecraft/js-test"
 help_page: "https://github.com/timecraft/js-test/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.js-test/BA466091904BD6704057BE6D398BF38D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.js-test/BA466091904BD6704057BE6D398BF38D/screenshots/image-2_orig.png

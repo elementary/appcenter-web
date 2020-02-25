@@ -5,7 +5,7 @@ summary: "A simple and performant yet powerful window onto the open decentralize
 developer: "Adrian Cochrane"
 homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-2_orig.png

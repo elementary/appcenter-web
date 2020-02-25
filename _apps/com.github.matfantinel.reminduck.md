@@ -5,7 +5,7 @@ summary: "Remember your stuff in an adorably annoying way."
 developer: "Matheus Fantinel"
 homepage: "https://github.com/matfantinel/reminduck"
 help_page: "https://github.com/matfantinel/reminduck/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.reminduck/37C5E6970555929D2724C4536B52639B/screenshots/image-2_orig.png

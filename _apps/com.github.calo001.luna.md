@@ -5,7 +5,7 @@ summary: "An amazing calendar widget"
 developer: "Carlos Lopez"
 homepage: "https://github.com/calo001/luna"
 help_page: "https://github.com/calo001/luna/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/698D9C2C7AA24A9CC908193D101AA2C8/screenshots/image-2_orig.png

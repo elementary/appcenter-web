@@ -5,7 +5,7 @@ summary: "Who will be the winner?"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/lottery"
 help_page: "https://github.com/bartzaalberg/lottery/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-2_orig.png

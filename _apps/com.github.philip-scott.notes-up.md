@@ -5,7 +5,7 @@ summary: "Your New Notebook"
 developer: "Felipe Escoto"
 homepage: "https://github.com/Philip-Scott"
 help_page: "https://github.com/Philip-Scott/Notes-up/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.notes-up/EBE087C53C3D769868095C0C2E7A0B43/screenshots/image-2_orig.png

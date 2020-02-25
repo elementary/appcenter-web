@@ -5,7 +5,7 @@ summary: "Jot your ideas"
 developer: "Lains"
 homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/screenshots/image-1_orig.png
 icons:

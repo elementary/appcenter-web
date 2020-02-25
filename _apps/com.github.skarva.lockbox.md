@@ -5,7 +5,7 @@ summary: "Lock your secrets up tight"
 developer: "skarva llc"
 homepage: "https://skarva.tech"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/skarva.lockbox/B49F90099E101A74C7C955D5233B60A4/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/skarva.lockbox/B49F90099E101A74C7C955D5233B60A4/screenshots/image-2_orig.png

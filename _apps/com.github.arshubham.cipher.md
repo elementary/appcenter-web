@@ -5,7 +5,7 @@ summary: "Encode and decode text"
 developer: "Shubham Arora"
 homepage: "https://github.com/arshubham/cipher"
 help_page: "https://shubhamarora.in"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.cipher/BAE7511EBA8BE5C4BA43B3C48654A636/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.cipher/BAE7511EBA8BE5C4BA43B3C48654A636/screenshots/image-2_orig.png

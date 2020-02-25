@@ -5,7 +5,7 @@ summary: "Want to just draw, sketch or doodle? This is the tool for you."
 developer: "Lains"
 homepage: "https://github.com/lainsce/rakugaki/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-2_orig.png

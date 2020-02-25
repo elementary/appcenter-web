@@ -5,7 +5,7 @@ summary: "Penpal Correspondence Organized"
 developer: "Raí B. Toffoletto"
 homepage: "https://toffoletto.me"
 help_page: "https://github.com/raibtoffoletto/litteris/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/raibtoffoletto.litteris/2C2BA883CDA9E281C32E467BFC103FB6/screenshots/image-1_orig.png
 icons:

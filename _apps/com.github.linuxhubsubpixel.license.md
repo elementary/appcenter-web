@@ -5,7 +5,7 @@ summary: "Choose your project license"
 developer: "Mirko Brombin"
 homepage: "https://github.com/linuxhubsubpixel/license"
 help_page: "https://github.com/linuxhubsubpixel/license"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/linuxhubsubpixel.license/0000E0DD1069BF881217979682BD0C8F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/linuxhubsubpixel.license/0000E0DD1069BF881217979682BD0C8F/screenshots/image-2_orig.png

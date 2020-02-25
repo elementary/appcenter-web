@@ -5,7 +5,7 @@ summary: "A multimedia file converter"
 developer: "Robert San"
 homepage: "https://robertsanseries.github.io/ciano/"
 help_page: "https://github.com/robertsanseries/ciano/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/robertsanseries.ciano/B954C3E71E1593E1E557A2B873AC3D62/screenshots/image-1_orig.png
 icons:

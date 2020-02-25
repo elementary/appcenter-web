@@ -5,7 +5,7 @@ summary: "A date countdown applet"
 developer: "Ricky Bassom"
 homepage: "https://github.com/rickybas/date-countdown"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/92226E8CAC602769FA71587F5420A256/screenshots/image-1_orig.png
 icons:

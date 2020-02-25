@@ -5,7 +5,7 @@ summary: "The number that is alone"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/sudokular"
 help_page: "https://github.com/bartzaalberg/sudokular/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/screenshots/image-2_orig.png

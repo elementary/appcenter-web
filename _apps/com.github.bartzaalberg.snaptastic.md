@@ -5,7 +5,7 @@ summary: "A manager for snaps"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-2_orig.png

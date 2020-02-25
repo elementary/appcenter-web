@@ -5,7 +5,7 @@ summary: "A simple app to pin websites on the desktop"
 developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-2_orig.png

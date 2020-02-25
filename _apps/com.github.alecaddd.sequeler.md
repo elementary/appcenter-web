@@ -5,7 +5,7 @@ summary: "Friendly SQL Client"
 developer: "Alessandro Castellani"
 homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-2_orig.png

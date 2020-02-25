@@ -5,7 +5,7 @@ summary: "Get psychic answers from this fortune teller"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/screenshots/image-2_orig.png

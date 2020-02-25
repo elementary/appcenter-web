@@ -5,7 +5,7 @@ summary: "Comment Generator: generate styled comments for your code"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-2_orig.png

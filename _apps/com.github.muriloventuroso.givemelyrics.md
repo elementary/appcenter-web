@@ -5,7 +5,7 @@ summary: "Lyrics for your songs"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/screenshots/image-2_orig.png

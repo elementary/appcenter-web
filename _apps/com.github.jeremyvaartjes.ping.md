@@ -5,7 +5,7 @@ summary: "Test your API against some data"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/700CF8A4BCC851E28EDE47C92C399A17/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/700CF8A4BCC851E28EDE47C92C399A17/screenshots/image-2_orig.png

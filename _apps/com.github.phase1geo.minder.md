@@ -5,7 +5,7 @@ summary: "Create, develop and visualize your ideas"
 developer: "Trevor Williams"
 homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-2_orig.png

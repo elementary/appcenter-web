@@ -5,7 +5,7 @@ summary: "Monitor the exchange rates of real-world currencies on your desktop"
 developer: "Matheus Fantinel"
 homepage: "https://github.com/matfantinel/moneta"
 help_page: "https://github.com/matfantinel/moneta/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/screenshots/image-2_orig.png

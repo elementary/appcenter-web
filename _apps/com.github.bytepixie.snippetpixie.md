@@ -5,7 +5,7 @@ summary: "Your little expandable text snippet helper"
 developer: "Byte Pixie"
 homepage: "https://www.snippetpixie.com"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/95AAD0DF93DFD4FC155FA04B351ABDFB/screenshots/image-2_orig.png

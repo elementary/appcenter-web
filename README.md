@@ -28,7 +28,7 @@ This guide assumes you're on elementary OS or a similar Ubuntu-based environment
 The list of apps is generated with a simple Ruby script. To rebuild the app list, run:
 
 ```shell
-ruby generate-loki.rb; ruby generate-juno.rb
+ruby generate-loki.rb; ruby generate-hera.rb
 ```
 
 This is automatically run daily by Travis CI.

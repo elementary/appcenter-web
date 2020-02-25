@@ -5,7 +5,7 @@ summary: "A bespoke and simple Todo.txt client"
 developer: "Lains"
 homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/screenshots/image-1_orig.png
 icons:

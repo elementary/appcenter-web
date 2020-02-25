@@ -5,7 +5,7 @@ summary: "Find any word's definition with this handy dictionary"
 developer: "Lains"
 homepage: "https://github.com/lainsce/palaura/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/3C75E2CE96BF89388FDD961095C9165D/screenshots/image-1_orig.png
 icons:
