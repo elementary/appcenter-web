@@ -1,10 +1,16 @@
 {% if page.dist == 'loki' %}
-  <p>
-    <strong>Note:</strong> This app is only available for elementary OS Loki. If you’re on elementary OS 5.1 Hera, it will not appear in AppCenter.
-    {% assign reach_out_link = page.homepage %}
-    {% unless page.help_page == "#" %}
-      {% assign reach_out_link = page.help_page %}
-    {% endunless %}
-      You can <a href="{{ reach_out_link }}" target="_blank">reach out to the developer</a> and ask that they update it for Hera.
-  </p>
+{% assign reach_out_link = page.homepage %}
+{% unless page.help_page == "#" %}
+  {% assign reach_out_link = page.help_page %}
+{% endunless %}
+
+<p>
+<strong>Note:</strong> This app is only available for elementary OS Loki. If you’re on elementary OS 5.1 Hera, it will not appear in AppCenter.
+
+{% unless reach_out_link == "#" %}
+    You can <a href="{{ reach_out_link }}" target="_blank">reach out to the developer</a> and ask that they update it for Hera.
+{% endunless %}
+
+</p>
+
 {% endif %}
