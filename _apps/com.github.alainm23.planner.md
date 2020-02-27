@@ -7,17 +7,103 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BFC339E8EC01E8F2F517B58ECB2C34AD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BFC339E8EC01E8F2F517B58ECB2C34AD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BFC339E8EC01E8F2F517B58ECB2C34AD/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BFC339E8EC01E8F2F517B58ECB2C34AD/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BFC339E8EC01E8F2F517B58ECB2C34AD/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
-price: 15
+price: 0
 releases:
+- version: 2.2.8
+  unix-timestamp: 1582675200
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+      <li>The translations were updated.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+- version: 2.2.6
+  unix-timestamp: 1582588800
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+- version: 2.2.2
+  unix-timestamp: 1582416000
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
 - version: 2.1.1
   unix-timestamp: 1580256000
   description: |-

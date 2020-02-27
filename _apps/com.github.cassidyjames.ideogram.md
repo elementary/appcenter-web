@@ -7,16 +7,20 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/0C017930E6AF47115AB48FCCC2BB151F/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/C54777879CA0DAA6D8313E605F494459/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/0C017930E6AF47115AB48FCCC2BB151F/icons/64x64/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/0C017930E6AF47115AB48FCCC2BB151F/icons/128x128/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/0C017930E6AF47115AB48FCCC2BB151F/icons/64x64@2/com.github.cassidyjames.ideogram_com.github.cassidyjames.ideogram.png
 color:
   primary: "#fff394"
   primary-text: "#333333"
 price: 2
 releases:
+- version: 1.3.3
+  unix-timestamp: 1582588800
+  description: |-
+    <p>Refreshed icons thanks to Micah Ilbery</p>
 - version: 1.3.2
   unix-timestamp: 1581897600
   description: |-
@@ -94,4 +98,4 @@ redirect_from:
 ---
 
 <p>Quickly insert emoji anywhere you can paste text, including non-native apps. Hit ⌘+E to open the emoji picker, choose the emoji you want, and it’s instantly copied and pasted into any focused text input. 👍</p>
-<p>Not feeling the default keyboard shortcut? Head to System Settings → Keyboard → Shortcuts → Custom to set it to anything you’d like.</p>
+<p>Not feeling the default keyboard shortcut? Head to System Settings → Keyboard → Shortcuts → Custom to set it to anything you’d like. 😀️</p>
