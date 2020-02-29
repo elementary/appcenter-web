@@ -7,16 +7,26 @@ homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/5D030CA88F3626D4E9331EB9AFA1D5D1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/D94A0CD8D0F4F73832ACC68832BAA1E2/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/5D030CA88F3626D4E9331EB9AFA1D5D1/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/5D030CA88F3626D4E9331EB9AFA1D5D1/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/5D030CA88F3626D4E9331EB9AFA1D5D1/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.2.1
+  unix-timestamp: 1583193600
+  description: |-
+    <p>Release: Ampersand</p>
+
+    <ul>
+
+      <li>Fixed: Major crash when opening PDFs.</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1580342400
   description: |-
