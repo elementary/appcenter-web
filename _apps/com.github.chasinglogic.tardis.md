@@ -15,22 +15,10 @@ icons:
 color:
   primary: "#4c158a"
   primary-text: "#fff"
-price: 0
+price: 5
 releases:
-- version: 1.0.0
-  unix-timestamp: 1581724800
-  description: |-
-    <p>This is the initial release of Tardis. These are the base features:</p>
-
-    <ul>
-
-      <li>Manage multiple backup devices</li>
-
-      <li>Automatically backup to devices on device change</li>
-
-      <li>Detection of devices which need a backup</li>
-
-    </ul>
+- version: v1.2.1
+  unix-timestamp: 1582934400
 redirect_from:
   - /com.github.chasinglogic.tardis.desktop/
 ---
