@@ -7,17 +7,33 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/CC94F3BA8AC636F05CADB3149BCE1BA5/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.2.14
+  unix-timestamp: 1583107200
+  description: |-
+    <p>Improved stability and some bug fixes.</p>
+
+    <ul>
+
+      <li>Fixed the error showing next week&apos;s tasks in today&apos;s view</li>
+
+      <li>Fix focus when changing views</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Wount&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
 - version: 2.2.8
   unix-timestamp: 1582675200
   description: |-

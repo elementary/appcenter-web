@@ -7,17 +7,33 @@ homepage: "https://github.com/matfantinel/moneta"
 help_page: "https://github.com/matfantinel/moneta/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/A2E9AA2837BBC712FBD0281D7B4B91C8/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
 price: 0
 releases:
+- version: 1.1.5
+  unix-timestamp: 1583193600
+  description: |-
+    <ul>
+
+      <li>⚠️ Important update about the future of Moneta</li>
+
+      <li>✨️ New currency: Kazakhstani Tenge (Arthur Aslanyan | @asahnoln)</li>
+
+      <li>🇷🇺️ Updated Russian translations (Arthur Aslanyan | @asahnoln)</li>
+
+      <li>✨️ New currency: Taiwan Dollar</li>
+
+      <li>👀️ Moneta now shows the current exchange rate in its window title in the taskbar if your OS supports it</li>
+
+    </ul>
 - version: 1.1.4
   unix-timestamp: 1581724800
   description: |-
