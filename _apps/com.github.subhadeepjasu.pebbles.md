@@ -7,21 +7,61 @@ homepage: "https://github.com/SubhadeepJasu/pebbles"
 help_page: "https://github.com/SubhadeepJasu/pebbles/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/icons/64x64/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/icons/128x128/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/78934A5630C22F085C97E1FCCC7C7310/icons/64x64@2/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/icons/64x64/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/icons/128x128/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/subhadeepjasu.pebbles/FBEBC9955973B932FCC16E48E04FD879/icons/64x64@2/com.github.subhadeepjasu.pebbles_com.github.subhadeepjasu.pebbles.png
 color:
   primary: "#84AEAA"
   primary-text: "rgb(39,40,99)"
 price: 0
 releases:
+- version: 1.0.3
+  unix-timestamp: 1584662400
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>[UI] Save and restore calculator state across invocations</li>
+
+      <li>[Converter] Save currency converter forex data after update</li>
+
+      <li>[Calculus] Fix derivative accuracy bug which caused it to output zero everytime</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Code structure fixed and improved by Nathan Bonnemains</li>
+
+      <li>[Calculus] Make Calculus button labels consistent with Scientific view</li>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>[Controls] Use Escape Key to close dialogues</li>
+
+    </ul>
 - version: 1.0.2
   unix-timestamp: 1583020800
   description: |-

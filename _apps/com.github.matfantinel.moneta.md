@@ -7,17 +7,31 @@ homepage: "https://github.com/matfantinel/moneta"
 help_page: "https://github.com/matfantinel/moneta/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/1275559E34304E693615099CC6CCB506/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
 price: 0
 releases:
+- version: 2.0.0
+  unix-timestamp: 1584057600
+  description: |-
+    <p>Moneta v2 is here! Some changes were made in order to make sure the app stays useful and still updates throughout the day:</p>
+
+    <ul>
+
+      <li>ℹ️ New source of information (API)</li>
+
+      <li>🕐️ Instead of updating every 10 minutes, updates are now hourly (on weekdays only)</li>
+
+      <li>👀️ Moneta now displays the last time the information was displayed for more transparency</li>
+
+    </ul>
 - version: 1.1.5
   unix-timestamp: 1583193600
   description: |-
@@ -72,6 +86,6 @@ redirect_from:
 <p>Features:</p>
 <ul>
   <li>Stays on top of your desktop, giving you a quick glimpse of the exchange rates during the day</li>
-  <li>Supports many different currencies and updates the rates many times throughout the day</li>
+  <li>Supports many different currencies and updates the rates every hour throughout weekdays</li>
   <li>Indicates whether the rate has increased or decreased compared to previous day</li>
 </ul>

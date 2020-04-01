@@ -7,21 +7,87 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/325663E7CA6CCEFB02F146C792E40F53/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.7.2
+  unix-timestamp: 1585180800
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for importing/exporting Outliner files (new app in AppCenter!).</li>
+
+      <li>Added map inspector switch to enable/disable automatic rotation of main branch link color selection.</li>
+
+      <li>Added ability to set all selected nodes to a specific color.</li>
+
+      <li>Added ability to set all selected nodes to a randomly selected link color.</li>
+
+      <li>Added ability to allow descendant nodes to have different link colors than ancestor nodes.</li>
+
+      <li>Added ability to cause a descendant node with a different color than its parent to re-use the parent color.</li>
+
+      <li>Added ability to select children nodes using Control-click.</li>
+
+      <li>Added ability to export a mind-map as a new Portable Minder filetype which will allow Minder files to be copied
+
+    between different users/filesystems.</li>
+
+      <li>Added ability to export to Org-Mode format.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated French translation (thanks to Nathan Bonnemains).</li>
+
+      <li>Improved OPML import support.</li>
+
+      <li>Changed ability to select a subtree by Control + double-click.</li>
+
+      <li>Changed ability to select all nodes of the current level by Control + triple-click.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed Travis CI version.</li>
+
+      <li>Fixed issue with adding a new child node that doesn&apos;t cause other descendant nodes to unfold.</li>
+
+      <li>Fixed issue with showing/hiding sidebar.</li>
+
+      <li>Fixed segmentation faults when loading a theme.</li>
+
+      <li>Fixed issue with the style inspector Change Affect value when selection changes (thanks to Viliam K.).</li>
+
+      <li>Fixed issue with node markup within the node text (thanks to Viliam K).</li>
+
+      <li>Fixed issue with tab state not being properly saved when a new tab is added.</li>
+
+      <li>Fixed bug with updating tab tooltip and saving tab state when filename is changed.</li>
+
+    </ul>
 - version: 1.6.0
   unix-timestamp: 1577318400
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Added ability to delete a single node (instead of the node and its subtree) in the contextual menu.</li>
@@ -42,6 +108,8 @@ releases:
 
     </ul>
 
+    <p>Changes</p>
+
     <ul>
 
       <li>Updated application icon and other recently improved icons for improved readability (thanks to Nararyans R.I.).</li>
@@ -54,6 +122,8 @@ releases:
 
     </ul>
 
+    <p>Bug Fixes</p>
+
     <ul>
 
       <li>Fixed various compiler warnings/errors after compiling with latest version of Vala compiler.</li>
@@ -62,11 +132,15 @@ releases:
 - version: 1.5.1
   unix-timestamp: 1574467200
   description: |-
+    <p>Changes</p>
+
     <ul>
 
       <li>Improved various icons (thanks to Nararyans R.I.)</li>
 
     </ul>
+
+    <p>Bug Fixes</p>
 
     <ul>
 
@@ -78,6 +152,8 @@ releases:
 - version: 1.5.0
   unix-timestamp: 1567814400
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Added export to yEd.</li>
@@ -92,6 +168,8 @@ releases:
 
     </ul>
 
+    <p>Changes</p>
+
     <ul>
 
       <li>New search icon which has better contrast for Minder&apos;s themed header bar (thanks to Nararyans R.I.).</li>
@@ -105,6 +183,8 @@ releases:
       <li>Improved styling when creating a new node/connection.</li>
 
     </ul>
+
+    <p>Bug Fixes</p>
 
     <ul>
 
@@ -132,6 +212,8 @@ releases:
 - version: 1.4.0
   unix-timestamp: 1562112000
   description: |-
+    <p>New</p>
+
     <ul>
 
       <li>Added support for focus mode.</li>
@@ -154,6 +236,8 @@ releases:
 
     </ul>
 
+    <p>Changes</p>
+
     <ul>
 
       <li>Removed markup from translated strings.</li>
@@ -173,6 +257,8 @@ releases:
       <li>Enhanced app script to allow command-line arguments to be passed to debug subcommand.</li>
 
     </ul>
+
+    <p>Bug Fixes</p>
 
     <ul>
 
@@ -409,7 +495,8 @@ redirect_from:
   <li>Open multiple mindmaps with the use of tabs.</li>
   <li>Built-in and customizable theming.</li>
   <li>Gorgeous animations.</li>
-  <li>Import from OPML, FreeMind and Freeplane formats.</li>
-  <li>Export to PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Markdown, PlainText, FreeMind, Freeplane, yEd and Mermaid formats.</li>
+  <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner and Portable Minder formats.</li>
+  <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, Portable
+Minder, SVG, PlainText and yEd formats.</li>
   <li>Printer support.</li>
 </ul>

@@ -7,20 +7,78 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/AD5CAB2D308A6B7013BBCAA206BD643C/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.2.2
+  unix-timestamp: 1585872000
+  description: |-
+    <p>Release: Small Fixes</p>
+
+    <ul>
+
+      <li>Small Fix: Added focus-full styling so that when focused and not half-width, the styling doesn&apos;t look bugged.</li>
+
+    </ul>
+- version: 2.2.1
+  unix-timestamp: 1585872000
+  description: |-
+    <p>Release: Small Fixes</p>
+
+    <ul>
+
+      <li>General small fixes to deliver the best Quilter can be.</li>
+
+    </ul>
+- version: 2.2.0
+  unix-timestamp: 1585267200
+  description: |-
+    <p>Release: Mysterious Mermaid</p>
+
+    <ul>
+
+      <li>Added: Mermaid.js integration for graphing purposes.</li>
+
+    </ul>
+- version: 2.1.3
+  unix-timestamp: 1584662400
+  description: |-
+    <p>Release: New Horizons</p>
+
+    <ul>
+
+      <li>Fixed: Can now move the window when in Focus Mode by holding mouse right-click on the &quot;Exit Focus Mode&quot;
+
+    button</li>
+
+      <li>Removed: Moon mode due to legacy</li>
+
+    </ul>
+- version: 2.1.2
+  unix-timestamp: 1584057600
+  description: |-
+    <p>Release: Calm Composing</p>
+
+    <ul>
+
+      <li>Fixed: Would not prompt to save files which were modified on changing between them</li>
+
+      <li>Fixed: Version info accessible on Terminal</li>
+
+      <li>Added: New UI for when Focus Mode is active</li>
+
+    </ul>
 - version: 2.1.1
   unix-timestamp: 1581638400
   description: |-
