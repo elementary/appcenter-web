@@ -7,19 +7,33 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.4
+  unix-timestamp: 1585612800
+  description: |-
+    <p>The 2020 release!</p>
+
+    <ul>
+
+      <li>Manually reorder saved connection.</li>
+
+      <li>Allow selecting a custom SSH public key.</li>
+
+      <li>Fix SSH tunnel crashes.</li>
+
+    </ul>
 - version: 0.7.3
   unix-timestamp: 1567296000
   description: |-
