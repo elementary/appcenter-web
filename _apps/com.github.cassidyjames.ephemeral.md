@@ -7,19 +7,33 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7EBB7F218ADA9867AA9CD68E852EE5D0/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/E8C5A7F3DE5EF03B18D55099752F286D/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.3.3
+  unix-timestamp: 1585699200
+  description: |-
+    <p>Fool me twice…</p>
+
+    <ul>
+
+      <li>Remove sometimes-problematic dark style workaround CSS since it was fixed in WebKit</li>
+
+      <li>Ensure correct browser icon size is set</li>
+
+      <li>Remove dark style toggle when forcing a -dark stylesheet</li>
+
+    </ul>
 - version: 6.3.2
   unix-timestamp: 1585267200
   description: |-
