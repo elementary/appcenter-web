@@ -7,20 +7,44 @@ homepage: "https://github.com/lainsce/quilter/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/6514C5DBD611CDF73B57846A6D281226/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/icons/64x64/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/icons/128x128/com.github.lainsce.quilter_com.github.lainsce.quilter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/381C7B15480C04319815B84E76CED639/icons/64x64@2/com.github.lainsce.quilter_com.github.lainsce.quilter.png
 color:
   primary: "#b8d2e2"
   primary-text: "#333333"
 price: 10
 releases:
+- version: 2.2.4
+  unix-timestamp: 1587686400
+  description: |-
+    <p>Release: Just What You Needed</p>
+
+    <ul>
+
+      <li>Added: Markdown support for Checkboxes and Highlighted text, as well as subscript and superscript.</li>
+
+      <li>Fix: Preview View backend fixed to enable footnotes and some other Markdown goodies, because before they&apos;d
+
+    not appear.</li> </ul>
+- version: 2.2.3
+  unix-timestamp: 1587081600
+  description: |-
+    <p>Release: Spring Cleaned</p>
+
+    <ul>
+
+      <li>Small Fix: Preview View titles shouldn&apos;t look smushed.</li>
+
+      <li>Small Fix: Improved Sidebar pane and View switchers contrast in Dark Mode.</li>
+
+    </ul>
 - version: 2.2.2
   unix-timestamp: 1585872000
   description: |-

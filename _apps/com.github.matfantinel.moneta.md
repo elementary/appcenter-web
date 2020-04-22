@@ -7,17 +7,31 @@ homepage: "https://github.com/matfantinel/moneta"
 help_page: "https://github.com/matfantinel/moneta/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/972A54287B0D829F0365F7D615572340/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
 price: 0
 releases:
+- version: 2.1.0
+  unix-timestamp: 1586476800
+  description: |-
+    <p>A few translation updates and a fix for the app freezing when changing currencies</p>
+
+    <ul>
+
+      <li>✔️ Fix freeze when changing currencies (Rajkumar S | @rajkumaar23)</li>
+
+      <li>🇧🇷️🇵🇹️ Portuguese translation</li>
+
+      <li>🇨🇵️🇪🇦️ Updated spanish and french translations</li>
+
+    </ul>
 - version: 2.0.0
   unix-timestamp: 1584057600
   description: |-

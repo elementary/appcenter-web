@@ -7,16 +7,46 @@ homepage: "https://github.com/lainsce/notejot/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/9C329326870069327FE21B23D65C2FAE/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/3E3748831FDC6777668D7E009CA5FF58/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/9C329326870069327FE21B23D65C2FAE/icons/64x64/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/9C329326870069327FE21B23D65C2FAE/icons/128x128/com.github.lainsce.notejot_com.github.lainsce.notejot.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/9C329326870069327FE21B23D65C2FAE/icons/64x64@2/com.github.lainsce.notejot_com.github.lainsce.notejot.png
 color:
   primary: "#fff3ae"
   primary-text: "#555864"
 price: 3
 releases:
+- version: 1.6.3
+  unix-timestamp: 1587081600
+  description: |-
+    <p>Release: Small Fixes</p>
+
+    <ul>
+
+      <li>UI Fix: Window Close button replaced by Delete Note button. (does the same action but prevents note loss)</li>
+
+    </ul>
+- version: 1.6.2
+  unix-timestamp: 1581033600
+  description: |-
+    <p>Release: Aesthetics</p>
+
+    <ul>
+
+      <li>Some UI minor fixes.</li>
+
+    </ul>
+- version: 1.6.1
+  unix-timestamp: 1579824000
+  description: |-
+    <p>Release: Minor Bump</p>
+
+    <ul>
+
+      <li>Some backend fixes.</li>
+
+    </ul>
 - version: 1.6.0
   unix-timestamp: 1578873600
   description: |-

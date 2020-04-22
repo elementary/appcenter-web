@@ -1,23 +1,93 @@
 ---
 app_id: com.github.alainm23.planner
 title: "Planner"
-summary: "Task and project manager with support for Todoist developer for Gnu/Linux"
+summary: "Task and project manager with support for Todoist developer for GNU/Linux"
 developer: "Alain M."
 homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/7C9848EFA2E2D93BE695FD42910F9AD1/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.3.2
+  unix-timestamp: 1586822400
+  description: |-
+    <p>Hi everyone! Planner 2.3 is here –  a big update for the Quick Find feature,</p>
+
+    <p>recurring tasks and design improvements.</p>
+
+    <p>QUICK FIND</p>
+
+    <ul>
+
+      <li>Quick Find was completely redesigned adding new features and improving the UX.</li>
+
+      <li>Task searches are now more accurate and highlighting matches.</li>
+
+      <li>Move faster between Projects and Views (Inbox, Today, Upcoming).</li>
+
+      <li>Filter your tasks by labels.</li>
+
+    </ul>
+
+    <p>RECURRING TASKS</p>
+
+    <ul>
+
+      <li>Since the release of Planner 2, Recurring tasks were one of the most requested features and now this is possible.</li>
+
+      <li>Work with recurring tasks in a local project or synchronized with Todoist.</li>
+
+      <li>Repeat your tasks every day, week, month or year.</li>
+
+    </ul>
+
+    <p>DESIGN ENHANCEMENTS AND MORE</p>
+
+    <ul>
+
+      <li>The design of the progress indicator for each project was improved.</li>
+
+      <li>The workspaces are now called Folders and the icon has been changed.</li>
+
+      <li>See your completed tasks in context.</li>
+
+      <li>URLs are now displayed in the task content as in the notes.</li>
+
+      <li>Added a progress indicator in the project view.</li>
+
+      <li>A new button was added to the side of a section to add tasks faster.</li>
+
+      <li>It&apos;s now possible to create and assign a label directly if it is not available.</li>
+
+      <li>Now you can undo the completed tasks.</li>
+
+      <li>The &apos;Move to project&apos; menu now displays the correct color for each project.</li>
+
+      <li>The dialog to create new projects has been redesigned.</li>
+
+      <li>The dialog to edit the preferences of a project has been redesigned.</li>
+
+      <li>The &apos;Upcoming&apos; view was improved.</li>
+
+      <li>Quick notifications were designed.</li>
+
+      <li>Planner animations are now more consistent.</li>
+
+      <li>Performance was improved.</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Cal&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
 - version: 2.2.14
   unix-timestamp: 1583107200
   description: |-

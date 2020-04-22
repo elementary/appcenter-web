@@ -7,19 +7,118 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E58057959DCB1EC494AAAD62204A859B/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/39EA7B71E0723927C03AD01CD33E9573/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.7.9
+  unix-timestamp: 1586563200
+  description: |-
+    <p>More fixes!</p>
+
+    <p>0.7.8 changelog</p>
+
+    <ul>
+
+      <li>Fixed usage attempt of wrong Vala method.</li>
+
+    </ul>
+
+    <p>0.7.7 changelog</p>
+
+    <ul>
+
+      <li>Fix nasty GSettings bug causing the app to crash.</li>
+
+      <li>Implement GDA Placeholder statement.</li>
+
+      <li>Improve Query Tab iconography.</li>
+
+    </ul>
+
+    <p>0.7.6 changelog</p>
+
+    <ul>
+
+      <li>Fix ORDER BY in PostgreSQL Relationship view.</li>
+
+      <li>Improve MySQL structure view.</li>
+
+      <li>Drop Granite.Settings in favour of GLib.Settings.</li>
+
+      <li>Implement Granite.Notebook on the Query tab.</li>
+
+      <li>Show query error messages inline.</li>
+
+    </ul>
+- version: 0.7.8
+  unix-timestamp: 1586563200
+  description: |-
+    <p>More fixes!</p>
+
+    <ul>
+
+      <li>Fixed usage attempt of wrong Vala method.</li>
+
+    </ul>
+- version: 0.7.7
+  unix-timestamp: 1586563200
+  description: |-
+    <p>Because 0.7.6 never happened!</p>
+
+    <ul>
+
+      <li>Fix nasty GSettings bug causing the app to crash.</li>
+
+      <li>Implement GDA Placeholder statement.</li>
+
+      <li>Improve Query Tab iconography.</li>
+
+    </ul>
+- version: 0.7.6
+  unix-timestamp: 1586390400
+  description: |-
+    <p>Query Tab Bonanza!</p>
+
+    <ul>
+
+      <li>Fix ORDER BY in PostgreSQL Relationship view.</li>
+
+      <li>Improve MySQL structure view.</li>
+
+      <li>Drop Granite.Settings in favour of GLib.Settings.</li>
+
+      <li>Implement Granite.Notebook on the Query tab.</li>
+
+      <li>Show query error messages inline.</li>
+
+    </ul>
+- version: 0.7.5
+  unix-timestamp: 1585958400
+  description: |-
+    <p>New features and improvements</p>
+
+    <ul>
+
+      <li>You can now duplicate connections.</li>
+
+      <li>Sorting columns now works as expected by actually running the ORDER BY query.</li>
+
+      <li>Quickly jump to a specific result page with the handy dandy pagination popover.</li>
+
+      <li>Show Comment Column inside table structure view.</li>
+
+    </ul>
 - version: 0.7.4
   unix-timestamp: 1585612800
   description: |-

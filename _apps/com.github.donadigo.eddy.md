@@ -1,5 +1,5 @@
 ---
-app_id: com.github.donadigo.eddy.desktop
+app_id: com.github.donadigo.eddy
 title: "Eddy"
 summary: "Install and Manage .deb Files"
 developer: "Adam Bieńkowski"
@@ -7,18 +7,48 @@ homepage: "https://github.com/donadigo/eddy"
 help_page: "https://github.com/donadigo/eddy"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy.desktop/47D8CCEC3A12EE01C36BAEA356A342CE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"
-price: 0
+price: 5
 releases:
+- version: 1.2.2
+  unix-timestamp: 1587081600
+  description: |-
+    <p>This release fixes comparing some package versions and includes new translations:</p>
+
+    <ul>
+
+      <li>Dutch translation (Stan Janssen)</li>
+
+      <li>Czech translation (Jan Marek)</li>
+
+      <li>French translation (Nathan Bonnemains)</li>
+
+      <li>Japanese translation (Ryo Nakano)</li>
+
+      <li>Danish translation (siigdev)</li>
+
+      <li>Portuguese translation (Hugo Carvalho)</li>
+
+      <li>Spanish translation (Antonio Luis Román, Cristian Molina)</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Some newer packages wrongly showed a button to downgrade</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1530662400
   description: |-
