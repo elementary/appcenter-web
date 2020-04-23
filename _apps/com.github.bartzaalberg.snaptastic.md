@@ -7,20 +7,30 @@ homepage: "https://github.com/bartzaalberg/snaptastic"
 help_page: "https://github.com/bartzaalberg/snaptastic/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7B2F257661E7243C66FC9AF460F02413/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/icons/64x64/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/icons/128x128/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/icons/64x64@2/com.github.bartzaalberg.snaptastic_com.github.bartzaalberg.snaptastic.png
 color:
   primary: "#fff"
   primary-text: "rgb(233, 84, 32)"
 price: 3
 releases:
+- version: 1.2.1
+  unix-timestamp: 1587427200
+  description: |-
+    <p>Fixed the wrong Dutch translations.</p>
+
+    <ul>
+
+      <li>Reverted Dutch translations</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1561939200
   description: |-
