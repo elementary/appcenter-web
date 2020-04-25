@@ -1,18 +1,18 @@
 ---
 app_id: com.github.alainm23.planner
 title: "Planner"
-summary: "Task and project manager with support for Todoist developer for GNU/Linux"
+summary: "Never worry about forgetting things again"
 developer: "Alain M."
 homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/DC6CCE498E1B5404CC70D44577995ADD/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
@@ -402,7 +402,6 @@ redirect_from:
   - /com.github.alainm23.planner.desktop/
 ---
 
-<p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
 <p>🚀️ Planner 2 is here...</p>
 <ul>
   <li>🚀️ Complete redesign of the UI.</li>
@@ -416,6 +415,7 @@ redirect_from:
   <li>🌙️ Better integration with the dark theme.</li>
   <li>🎉️ and much more.</li>
 </ul>
+<p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
 <p>How Planner works:</p>
 <p>1. Collect your Ideas - The Inbox is your default task list in Planner. When you add a task, it goes straight to your Inbox unless you specify that the task goes into a project.</p>
 <p>2. Get Organized - Create a project for each of your goals, then add the steps to reach them. Review these regularly to stay on top of things.</p>

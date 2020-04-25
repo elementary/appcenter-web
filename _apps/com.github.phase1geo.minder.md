@@ -7,18 +7,60 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/7756B34B626C70094BD4C32BAE382F58/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.7.3
+  unix-timestamp: 1587340800
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for using input methods.</li>
+
+      <li>Added Dutch translation (thanks to Heimen Stoffels).</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated README.md to indicate which version of valac should be used if building from source.</li>
+
+      <li>Changed unnamed default filename to use translated value.</li>
+
+      <li>Updated French translations (thanks to Nathan Bonnemains).</li>
+
+      <li>Changed tab colors to match current document background.</li>
+
+      <li>Adjusted dark theme to help with current tab contrast.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issue with New Document plank command to load application data before opening new tab.</li>
+
+      <li>Fixed build issues with compiling libarchive code using newer versions of libarchive and valac.</li>
+
+      <li>Fixed issues with translating shortcut cheetsheat strings.</li>
+
+      <li>Fixed issue with exporting images when manual layout mode is selected.</li>
+
+    </ul>
 - version: 1.7.2
   unix-timestamp: 1585180800
   description: |-
@@ -66,7 +108,7 @@ releases:
 
     <ul>
 
-      <li>Fixed Travis CI version.</li>
+      <li>Fixed NodeJS version for Travis CI.</li>
 
       <li>Fixed issue with adding a new child node that doesn&apos;t cause other descendant nodes to unfold.</li>
 
@@ -497,6 +539,6 @@ redirect_from:
   <li>Gorgeous animations.</li>
   <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner and Portable Minder formats.</li>
   <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, Portable
-Minder, SVG, PlainText and yEd formats.</li>
+Minder, PlainText and yEd formats.</li>
   <li>Printer support.</li>
 </ul>
