@@ -7,18 +7,38 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/6C57AC19FA3634044B3D0A539C86E75D/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
-- version: 2.3.2
+- version: 2.3.5
+  unix-timestamp: 1588204800
+  description: |-
+    <p>Bug fixes and performance improvements</p>
+
+    <ul>
+
+      <li>Sort your folders by dragging and dropping.</li>
+
+      <li>[GitHub #337] - The error that does not allow creating tasks in the Inbox has been fixed.</li>
+
+      <li>[GitHub #334] - Overdue tasks are now counted in badge count.</li>
+
+      <li>[GitHub #333] - Today&apos;s tasks are displayed correctly.</li>
+
+      <li>[GitHub #331 #330] - The progress indicator in the project view now has a tooltip.</li>
+
+      <li></li>
+
+    </ul>
+- version: 2.3.3
   unix-timestamp: 1586822400
   description: |-
     <p>Hi everyone! Planner 2.3 is here –  a big update for the Quick Find feature,</p>
@@ -61,7 +81,7 @@ releases:
 
       <li>See your completed tasks in context.</li>
 
-      <li>URLs are now displayed in the task content as in the notes.</li>
+      <li>View URL from the notes or the title of a task.</li>
 
       <li>Added a progress indicator in the project view.</li>
 
@@ -69,7 +89,7 @@ releases:
 
       <li>It&apos;s now possible to create and assign a label directly if it is not available.</li>
 
-      <li>Now you can undo the completed tasks.</li>
+      <li>Quick action to undo when a task is completed.</li>
 
       <li>The &apos;Move to project&apos; menu now displays the correct color for each project.</li>
 
