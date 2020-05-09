@@ -7,19 +7,49 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8BDD73E160ED8B2E056BA26E3DAB2A8E/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.4.1
+  unix-timestamp: 1588204800
+  description: |-
+    <p>Updated Spanish translations thanks to Adolfo Jayme-Barrientos</p>
+- version: 6.4.0
+  unix-timestamp: 1588118400
+  description: |-
+    <p>Sandboxing</p>
+
+    <ul>
+
+      <li>Enabled WebKit’s subprocess sandboxing</li>
+
+      <li>Enabled WebKit’s process swapping on cross-site navigation, meaning separate domains are sandboxed from one another</li>
+
+    </ul>
+
+    <p>Search engine changes</p>
+
+    <ul>
+
+      <li>Switched to DuckDuckGo search by default since it supports a dark style</li>
+
+      <li>Enabled strict Safe Browsing by default for DuckDuckGo to avoid unwanted results</li>
+
+      <li>StartPage.com remains an available option in the menu</li>
+
+      <li>Other search engines or configurations can be added under “Custom Search Engine…” in the menu, as always</li>
+
+    </ul>
 - version: 6.3.4
   unix-timestamp: 1588032000
   description: |-
@@ -597,21 +627,24 @@ redirect_from:
 <ul>
   <li>Easily open pages in any other installed browser</li>
   <li>Search right from the URL bar</li>
-  <li>Set as your default browser for true privacy by default</li>
-  <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
   <li>Pick between privacy-respecting search engines from the menu</li>
   <li>Quickly disable or re-enable JavaScript from the menu</li>
+</ul>
+<p>Useful keyboard shortcuts and gestures:</p>
+<ul>
+  <li>Navigate back or forward with a two-finger swipe on your trackpad</li>
   <li>Add a website to the URL suggestions with the ⭐️ icon or Ctrl+D</li>
   <li>Find text on the page with Ctrl+F</li>
+  <li>Zoom in or out with Ctrl+Plus and Ctrl+Minus</li>
+  <li>Open a new window with Ctrl+N</li>
+  <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
 </ul>
 <p>Ephemeral protects you in five key ways:</p>
 <p>1️⃣ Always incognito. From the second you open an Ephemeral window until you close it (or hit the Erase button), Ephemeral is in private browsing mode. That means history, cookies, local storage, passwords, etc. are all blown away as soon as you leave.</p>
-<p>2️⃣ Contained. Every Ephemeral window is a separate instance of the browser engine. This means pages are kept separate from one another. Sign into a service in one window, and other Ephemeral windows will have no idea you’re signed in.</p>
-<p>3️⃣ No third-party cookies. Out of the box, Ephemeral blocks cookies from third-party sources. This cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
+<p>2️⃣ Sandboxed. Each window uses a separate instance of the browser engine, domains inside each window are rendered using different processes, and the engine’s processes are sandboxed from one another to keep you safe. Sign into a service in one window, and sites in other windows will have no idea.</p>
+<p>3️⃣ No third-party cookies. Ephemeral blocks cookies from third-party sources, which cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
 <p>4️⃣ No telemetry. Ephemeral does not touch the network until you explicitly load a web page or perform a search. Even then, no usage data is ever collected—I have no idea what you do with Ephemeral, and I don&apos;t want to know!</p>
-<p>5️⃣️ Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
-<p>The best part of Ephemeral comes when you use it as your default browser:</p>
-<p>Make privacy a habit by opening links in a private browser by default, knowing you can always jump back into something less private like Firefox, Chrome, Opera, Brave—or any other installed browser—with one click.</p>
+<p>5️⃣️ Ephemeral uses DuckDuckGo—the search engine that doesn’t track you—by default to avoid as much Google tracking as possible. You can also choose StartPage.com from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
+<p>Make privacy a habit by opening links in Ephemeral by default, knowing you can always jump back into a traditional browser like Epiphany, Firefox, Chrome, Opera, Brave—or any other installed browser—with one click. Perfect in case you want to use saved passwords or other extensions.</p>
 <p>Remember, Ephemeral and any browser&apos;s incognito or private mode can only do so much: they mitigate some tracking and don&apos;t store data on your device, but they won&apos;t stop your ISP, government, or determined websites from tracking you.</p>
-<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there—optionally closing the window to get out of your way.</p>
 <p>For the best protection, always use a VPN.</p>
