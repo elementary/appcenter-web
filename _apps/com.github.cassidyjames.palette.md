@@ -7,19 +7,34 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/A593CE6788E0C2CD50F227E500068834/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/022E99E6208014A049420EB0DB89DBF1/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
 color:
   primary: "#ffe16b"
   primary-text: "#333333"
 price: 6
 releases:
+- version: 3.2.0
+  unix-timestamp: 1589500800
+  description: |-
+    <p>Minty Bubblegum?</p>
+
+    <ul>
+
+      <li>New Mint palette color for vector path intersections</li>
+
+      <li>New Bubblegum palette color for erasers</li>
+
+      <li>Tweaked layout to better fit all the colors</li>
+
+    </ul>
 - version: 3.1.7
   unix-timestamp: 1581897600
   description: |-
