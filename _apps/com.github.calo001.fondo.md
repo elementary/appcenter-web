@@ -7,21 +7,31 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/F64716222AB0CF8F6F42FD154D155CEC/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.3.9
+  unix-timestamp: 1590192000
+  description: |-
+    <p>Free up space!</p>
+
+    <ul>
+
+      <li>Delete photos from history.</li>
+
+    </ul>
 - version: 1.3.8
   unix-timestamp: 1579305600
   description: |-
