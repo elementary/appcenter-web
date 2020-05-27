@@ -7,18 +7,84 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/32E0CB2BC776A4330C80C6A8AC5497DB/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.8.0
+  unix-timestamp: 1589673600
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for pasting an image or text as a new node.</li>
+
+      <li>Added support for pasting an image or text, replacing the current node content.</li>
+
+      <li>Added support for pasting text, replacing the current connection content.</li>
+
+      <li>Added task support to Outliner import/export.</li>
+
+      <li>Added keyboard shortcut (Control-E) to display export interface.</li>
+
+      <li>Added support for creating a new root node hitting the Return key when no node is selected.</li>
+
+      <li>Added ability to add a new root node via the contextual menu when no node is selected.</li>
+
+      <li>Added ability to launch quick entry dialog via the contextual menu when no node is selected.</li>
+
+      <li>Added node alignment support for manual node layouts.</li>
+
+      <li>Added ability to create a connected root node.</li>
+
+      <li>Added ability to replace/edit nodes via the Quick Entry feature.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated image editor dialog button bar to include support for clipboard operations.</li>
+
+      <li>Improved display of buttons in image area of the node inspector sidebar.</li>
+
+      <li>Updated keyboard shortcut cheatsheet.</li>
+
+      <li>Changed quick text entry keyboard shortcut from Control-E to Control-Shift-E.</li>
+
+      <li>Changed the paste text in contextual menu to indicate what will be pasted.</li>
+
+      <li>Updated Outliner import/export support for tasks.</li>
+
+      <li>Added tooltip and changed cursor when cursor is over a link and the Control key is held down.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Removed empty Outliner rows from being added when Outliner file is imported.</li>
+
+      <li>Fixed loss of selection when shift key is held down and the background is clicked.</li>
+
+      <li>Added themed background color to exported PDF format.</li>
+
+      <li>Fixed exports to allow existing files to be overwritten.</li>
+
+      <li>Fixed Org-Mode export syntax errors.</li>
+
+    </ul>
 - version: 1.7.3
   unix-timestamp: 1587340800
   description: |-
@@ -472,7 +538,7 @@ releases:
 
       <li>Changing button display in map inspector.</li>
 
-      <li>Cleaning up Export menu to include a single &quot;Export…&quot; option.</li>
+      <li>Cleaning up Export menu to include a single &quot;Export&quot; option.</li>
 
       <li>Fixing issue where modified node title in node inspector was lost when input focus was changed.</li>
 
