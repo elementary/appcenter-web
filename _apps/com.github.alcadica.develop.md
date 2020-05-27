@@ -7,17 +7,29 @@ homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/391510E99E358BC4A1E1C015861248C0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/391510E99E358BC4A1E1C015861248C0/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/1001CFAE152F654A66FB24452221EA53/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/391510E99E358BC4A1E1C015861248C0/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/391510E99E358BC4A1E1C015861248C0/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/391510E99E358BC4A1E1C015861248C0/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
 releases:
+- version: 0.22.0
+  unix-timestamp: 1588550400
+  description: |-
+    <p>Various improvements</p>
+
+    <ul>
+
+      <li>Adopts latest standards</li>
+
+      <li>Uses Native Gtk classes</li>
+
+    </ul>
 - version: 0.21.0
   unix-timestamp: 1579046400
   description: |-

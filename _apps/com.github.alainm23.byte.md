@@ -7,17 +7,37 @@ homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/47D99B9FCE479DC2F9C978B1554CB605/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/47D99B9FCE479DC2F9C978B1554CB605/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/692E10F276D11932C4C6E6052EB3E8FD/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/47D99B9FCE479DC2F9C978B1554CB605/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/47D99B9FCE479DC2F9C978B1554CB605/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/47D99B9FCE479DC2F9C978B1554CB605/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
   primary: "#2D0941"
   primary-text: "#fe2851"
 price: 3
 releases:
+- version: 0.4.1
+  unix-timestamp: 1590451200
+  description: |-
+    <p>New translations and performance improvement</p>
+
+    <ul>
+
+      <li>Added Italian translation thanks to Maurizio Martinetti</li>
+
+      <li>Added German translation thanks to Christoph Raitzig</li>
+
+      <li>Added Portuguese translation thanks to @gleissonjoaquim3</li>
+
+      <li>Updated deprecated Radio Browser API thanks to Antonio Luis Román (@usersaurus)</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Byte.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Byte. 🌟️</p>
 - version: 0.3
   unix-timestamp: 1578528000
   description: |-
@@ -31,7 +51,7 @@ releases:
 
       <li>🚀️ New navigation system: Byte is now smarter to remember what view you left behind.</li>
 
-      <li>👉️ Direct access to see the artist, album or playlist: Anticlick to a song &gt; Go to &gt; select an option</li>
+      <li>👉️ Direct access to see the artist, album or playlist: Anticlick to a song &gt; Go to &gt; select an option.</li>
 
     </ul>
 - version: 0.2.5
