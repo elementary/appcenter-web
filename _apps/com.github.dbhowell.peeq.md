@@ -7,19 +7,29 @@ homepage: "https://github.com/dbhowell/peeq"
 help_page: "https://github.com/dbhowell/peeq/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/icons/64x64/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/icons/128x128/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7C62085FC595EF08EAA66A92E534ABBC/icons/64x64@2/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/icons/64x64/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/icons/128x128/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/7736A2711CE7B25FED85E3BE7825E292/icons/64x64@2/com.github.dbhowell.peeq_com.github.dbhowell.peeq.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 5
 releases:
+- version: 0.4.1
+  unix-timestamp: 1588377600
+  description: |-
+    <p>New features</p>
+
+    <ul>
+
+      <li>Added french translations</li>
+
+    </ul>
 - version: 0.4.0
   unix-timestamp: 1562803200
   description: |-
