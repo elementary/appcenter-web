@@ -7,17 +7,39 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/5C2E1F11DCE0F944B6B1E8F155E13C3A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/5C2E1F11DCE0F944B6B1E8F155E13C3A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/5C2E1F11DCE0F944B6B1E8F155E13C3A/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/5C2E1F11DCE0F944B6B1E8F155E13C3A/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/5C2E1F11DCE0F944B6B1E8F155E13C3A/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.3.3
+  unix-timestamp: 1590969600
+  description: |-
+    <ul>
+
+      <li>Fixed Snippet Pixie stopping Super+[other-key] from working.</li>
+
+    </ul>
+- version: 1.3.2
+  unix-timestamp: 1588723200
+  description: |-
+    <ul>
+
+      <li>Improved speed of abbreviation expansion.</li>
+
+      <li>Fixed abbreviations randomly stopping to expand.</li>
+
+      <li>Fixed reliability of abbreviations being recognised.</li>
+
+      <li>Fixed abbreviations sometimes expanding with clipboard&apos;s contents.</li>
+
+    </ul>
 - version: 1.3.1
   unix-timestamp: 1582761600
   description: |-

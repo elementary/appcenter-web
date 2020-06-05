@@ -7,16 +7,26 @@ homepage: "https://github.com/ma1onso"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/2CD674EF846C509FDE9C52E1C7CDE70C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/2CD674EF846C509FDE9C52E1C7CDE70C/icons/64x64/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/2CD674EF846C509FDE9C52E1C7CDE70C/icons/128x128/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/2CD674EF846C509FDE9C52E1C7CDE70C/icons/64x64@2/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/icons/64x64/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/icons/128x128/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/icons/64x64@2/com.github.ma1onso.quotes_com.github.ma1onso.quotes.png
 color:
   primary: "#6F8A91"
   primary-text: "#121212"
 price: 1
 releases:
+- version: 0.9.9
+  unix-timestamp: 1559260800
+  description: |-
+    <p>Release: Fix icon background</p>
+
+    <ul>
+
+      <li>Fix author (@Fatih20)</li>
+
+    </ul>
 - version: 0.9.1
   unix-timestamp: 1547424000
   description: |-

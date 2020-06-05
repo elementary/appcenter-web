@@ -7,17 +7,53 @@ homepage: "https://github.com/lainsce/yishu/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/1D67851F851815EADFAEBA173B0F92A2/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/547BC593088B9F8FDE628824CA6C51CB/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/1D67851F851815EADFAEBA173B0F92A2/icons/64x64/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/1D67851F851815EADFAEBA173B0F92A2/icons/128x128/com.github.lainsce.yishu_com.github.lainsce.yishu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/1D67851F851815EADFAEBA173B0F92A2/icons/64x64@2/com.github.lainsce.yishu_com.github.lainsce.yishu.png
 color:
   primary: "#dee8bc"
   primary-text: "#333333"
 price: 0
 releases:
-- version: 1.1.3
+- version: 1.2.5
+  unix-timestamp: 1591401600
+  description: |-
+    <p>Release: Location Known</p>
+
+    <ul>
+
+      <li>Fixed: Default or Custom location being reset (Darshak Parikh - @dar5hak)</li>
+
+      <li>Added: Turkish and Polish translations</li>
+
+    </ul>
+- version: 1.2.3
+  unix-timestamp: 1588896000
+  description: |-
+    <p>Release: Location Known</p>
+
+    <ul>
+
+      <li>Fixed: Default or Custom location being reset (Darshak Parikh - @dar5hak)</li>
+
+      <li>Added: Turkish and Polish translations</li>
+
+    </ul>
+- version: 1.2.2
+  unix-timestamp: 1580428800
+  description: |-
+    <p>Release: Save Those Tasks Well</p>
+
+    <ul>
+
+      <li>Added: Preferences to save search</li>
+
+      <li>Small backend fixes</li>
+
+    </ul>
+- version: 1.2.1
   unix-timestamp: 1579824000
   description: |-
     <p>Release: Wow Factor</p>
@@ -29,7 +65,7 @@ releases:
       <li>Small design fixes</li>
 
     </ul>
-- version: 1.1.2
+- version: 1.2.0
   unix-timestamp: 1564444800
   description: |-
     <p>Release: Redesign and Fixes</p>
@@ -153,4 +189,5 @@ redirect_from:
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>
   <li>Easily shareable with other Todo.txt clients on other platforms</li>
+  <li>Searches can be saved, one at a time. No need for more.</li>
 </ul>

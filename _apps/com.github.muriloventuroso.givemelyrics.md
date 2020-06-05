@@ -7,17 +7,23 @@ homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/E4688034FA436CC5408619145291A730/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.5.0
+  unix-timestamp: 1591056000
+  description: |-
+    <p>New Translations</p>
+
+    <p>Many bugfixes</p>
 - version: 0.4.5
   unix-timestamp: 1579996800
   description: |-

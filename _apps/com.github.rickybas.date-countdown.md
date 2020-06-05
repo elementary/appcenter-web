@@ -7,11 +7,11 @@ homepage: "https://github.com/rickybas/date-countdown"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/92226E8CAC602769FA71587F5420A256/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/92226E8CAC602769FA71587F5420A256/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/92226E8CAC602769FA71587F5420A256/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/92226E8CAC602769FA71587F5420A256/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
 color:
   primary: "#f5f5f5"
   primary-text: "#044b6c"
@@ -19,6 +19,12 @@ price: 0
 releases:
 - version: 0.1.0
   unix-timestamp: 1501027200
+  description: |-
+    <ul>
+
+      <li>Initial Release of Date Countdown</li>
+
+    </ul>
 redirect_from:
   - /com.github.rickybas.date-countdown.desktop/
 ---
