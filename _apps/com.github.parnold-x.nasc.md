@@ -7,18 +7,28 @@ homepage: "https://github.com/parnold-x/nasc"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/6A5F7E1428864BBDF8A8355DD7F5F8B7/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/2CD9BDEEE16E1F1F59DDF1DAE36307A8/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
 color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
 price: 8
 releases:
+- version: 0.7.3
+  unix-timestamp: 1591660800
+  description: |-
+    <p>Fixed a bug that caused a crash during startup</p>
+
+    <p>Fixed a case where the ans and line tokens failed to parse</p>
+
+    <p>Support for dark themes</p>
+
+    <p>Share panes to MathB.in</p>
 - version: 0.7.1
   unix-timestamp: 1590796800
   description: |-
