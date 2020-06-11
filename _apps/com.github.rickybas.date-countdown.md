@@ -1,37 +1,57 @@
 ---
 app_id: com.github.rickybas.date-countdown
 title: "Date Countdown"
-summary: "A date countdown applet"
+summary: "A minimalist date countdown applet"
 developer: "Ricky Bassom"
 homepage: "https://github.com/rickybas/date-countdown"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/1863F7C650058B1A4BE0A87746EBECAE/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
 color:
   primary: "#f5f5f5"
   primary-text: "#044b6c"
-price: 0
+price: 2
 releases:
+- version: 0.1.6
+  unix-timestamp: 1593993600
+  description: |-
+    <p>Fixed popover unresponsive clicks bug</p>
+- version: 0.1.5
+  unix-timestamp: 1593734400
+  description: |-
+    <p>Progress bar new design</p>
+- version: 0.1.4
+  unix-timestamp: 1565827200
+  description: |-
+    <p>Juno design update</p>
+- version: 0.1.3
+  unix-timestamp: 1501718400
+  description: |-
+    <p>Version bump because AppCenter Generator issue</p>
+- version: 0.1.2
+  unix-timestamp: 1501545600
+  description: |-
+    <p>Fixed non-latin ellipsize issue</p>
+- version: 0.1.1
+  unix-timestamp: 1501113600
+  description: |-
+    <p>Fixed homepage link</p>
 - version: 0.1.0
   unix-timestamp: 1501027200
   description: |-
-    <ul>
-
-      <li>Initial Release of Date Countdown</li>
-
-    </ul>
+    <p>Initial Release.</p>
 redirect_from:
   - /com.github.rickybas.date-countdown.desktop/
 ---
 
-<p>Add multiple countdown timers for specific days</p>
+<p>Add countdown timers for specific future dates</p>
 <ul>
-  <li>Add new countdowns</li>
-  <li>Right click to edit each countdown</li>
-  <li>Specify the start date too</li>
+  <li>Easily visualise how much time you have left until an important event</li>
+  <li>Keep on track with upcoming project deadlines</li>
+  <li>Can be stuck onto your desktop for constant reminders</li>
 </ul>
