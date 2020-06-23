@@ -7,17 +7,61 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/BDBC5D3F354EC98D29D9080928255450/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.4.2
+  unix-timestamp: 1592784000
+  description: |-
+    <p>What&apos;s new in v2.4</p>
+
+    <p>Over the the past few months we’ve been working on Planner 2.4, a big update with great new features. Priorities, calendar events, Quick Add for all platforms and more.</p>
+
+    <ul>
+
+      <li>Priority support: You can give your tasks one of four priority levels – 1 being the most important (marked as red) and 4 being everything else (no color).</li>
+
+      <li>Project Deadline: Assign a deadline to your projects.</li>
+
+      <li>Links Everywhere: The app now handles links consistently in all places: inside the title, inside notes, and inside checklist items.</li>
+
+      <li>Quick Find Improvements: The design and performance were also improved by making the searches faster.</li>
+
+      <li>Welcome Dark Blue and Arc Dark.</li>
+
+      <li>Keyboard Shortcuts Improvements: New and improved keyboard shortcuts.</li>
+
+      <li>Today and Upcoming Improvements: Reorder or reschedule your tasks more quickly.</li>
+
+      <li>Calendar events: View your calendar events correctly on all platforms.</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Planner.</p>
+
+    <p>Special thanks to &apos;Robert Zelník&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Planner. 🌟️</p>
+
+    <ul>
+
+      <li>Cal</li>
+
+      <li>I Sutter</li>
+
+      <li>The Linux Experiment</li>
+
+      <li>Wout</li>
+
+    </ul>
 - version: 2.3.5
   unix-timestamp: 1588204800
   description: |-
@@ -34,8 +78,6 @@ releases:
       <li>[GitHub #333] - Today&apos;s tasks are displayed correctly.</li>
 
       <li>[GitHub #331 #330] - The progress indicator in the project view now has a tooltip.</li>
-
-      <li></li>
 
     </ul>
 - version: 2.3.3

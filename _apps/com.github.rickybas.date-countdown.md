@@ -7,20 +7,28 @@ homepage: "https://github.com/rickybas/date-countdown"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/D81A71EBD0F88AE5820F45FDE4D676A2/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/7E60EE0E5697BE5126170C08151F6722/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/D81A71EBD0F88AE5820F45FDE4D676A2/icons/64x64/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/D81A71EBD0F88AE5820F45FDE4D676A2/icons/128x128/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/D81A71EBD0F88AE5820F45FDE4D676A2/icons/64x64@2/com.github.rickybas.date-countdown_com.github.rickybas.date-countdown.png
 color:
   primary: "#f5f5f5"
   primary-text: "#044b6c"
 price: 2
 releases:
+- version: 0.1.8
+  unix-timestamp: 1595030400
+  description: |-
+    <p>Fixed single countdown poover cliping bug</p>
+- version: 0.1.7
+  unix-timestamp: 1594252800
+  description: |-
+    <p>Added more additional app info</p>
 - version: 0.1.6
   unix-timestamp: 1593993600
   description: |-
-    <p>Fixed popover unresponsive clicks bug</p>
+    <p>Added additional app info</p>
 - version: 0.1.5
   unix-timestamp: 1593734400
   description: |-
