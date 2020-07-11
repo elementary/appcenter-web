@@ -7,18 +7,80 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/80D4B178147C3F946544DA4C6B8320B0/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.9.0
+  unix-timestamp: 1593129600
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for selecting nodes by dragging out a selection box.</li>
+
+      <li>Added ability to configure the color used in connection titles.</li>
+
+      <li>Added Italian translation (thanks to albanobattistella on GitHub).</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Refined and pixel fitted the application icon (thanks to Fatih20 on GitHub).</li>
+
+      <li>Changed panning with mouse from left-click with motion to Alt with motion.</li>
+
+      <li>Changed select parent to work with multiple selected nodes.</li>
+
+      <li>Updated keyboard shortcuts cheatsheet for task commands.</li>
+
+      <li>Updated Spanish translation (thanks to febrezo on GitHub).</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issues with changing connection styles.</li>
+
+      <li>Fixed application crashes associated with changing layout to a balanceable layout with animations enabled.</li>
+
+      <li>Fixed display of cursor when it is over a clickable feature in the mind map.</li>
+
+      <li>Fixed issues with creating custom themes.</li>
+
+      <li>Fixed cursor in note editor when Control key is held over a URL link.</li>
+
+      <li>Fixed meson.build issue when comparing valac version.</li>
+
+      <li>Fixed connection colors in dark themes to help them be more visible.</li>
+
+      <li>Fixed issue where connection colors don&apos;t follow theme if they have not been manually changed.</li>
+
+      <li>Fixed application crash when animation is disabled, a node is moved, animation is enabled and a node is moved.</li>
+
+      <li>Fixed various issues with quick entry.</li>
+
+      <li>Fixed ability to open one or more files from the command-line or from a file browser.</li>
+
+      <li>Fixed issues with connection coloring.</li>
+
+      <li>Fixed issue with pasting UTF8 strings from clipboard.</li>
+
+    </ul>
 - version: 1.8.0
   unix-timestamp: 1589673600
   description: |-

@@ -7,20 +7,50 @@ homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/3E85D1FE57B074D874ED0BFD5D5B3F70/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.8.0
+  unix-timestamp: 1593043200
+  description: |-
+    <p>New Features</p>
+
+    <ul>
+
+      <li>Create, Edit, and Delete databases.</li>
+
+      <li>New context menu to copy and edit tables.</li>
+
+      <li>Support unencrypted connections.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fix copy column data.</li>
+
+    </ul>
+
+    <p>Translations</p>
+
+    <ul>
+
+      <li>Updated translations for Ukranian, Russian, French, and German.</li>
+
+    </ul>
 - version: 0.7.91
   unix-timestamp: 1589241600
   description: |-

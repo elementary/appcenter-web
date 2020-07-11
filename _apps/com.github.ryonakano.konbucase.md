@@ -7,24 +7,26 @@ homepage: "https://github.com/ryonakano/konbucase"
 help_page: "https://github.com/ryonakano/konbucase/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/D7B524AEEDD39EFA33875D362C992CC4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/8B51343828F17857F0ECFE80395DCD9F/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/D7B524AEEDD39EFA33875D362C992CC4/icons/64x64/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/D7B524AEEDD39EFA33875D362C992CC4/icons/128x128/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/D7B524AEEDD39EFA33875D362C992CC4/icons/64x64@2/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/8B51343828F17857F0ECFE80395DCD9F/icons/64x64/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/8B51343828F17857F0ECFE80395DCD9F/icons/128x128/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/8B51343828F17857F0ECFE80395DCD9F/icons/64x64@2/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
 color:
   primary: "#fafafa"
   primary-text: "#000000"
 price: 0
 releases:
-- version: 1.0.1
-  unix-timestamp: 1589500800
+- version: 2.0.0
+  unix-timestamp: 1593302400
   description: |-
     <ul>
 
-      <li>Fix changing OS-wide dark style preference is not reflected</li>
+      <li>Save changes in the app state on time</li>
 
-      <li>Update translations</li>
+      <li>Side-by-side view</li>
+
+      <li>Improve the app icon (big thanks to @Fatih20)</li>
 
     </ul>
 redirect_from:

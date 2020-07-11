@@ -7,17 +7,59 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/657A32C4D8A41C6DDFDF844D0C6944AE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.4.6
+  unix-timestamp: 1594166400
+  description: |-
+    <p>General bug fixes and improvements.</p>
+
+    <ul>
+
+      <li>Fixed a critical bug where tasks disappear unexpectedly.</li>
+
+    </ul>
+- version: 2.4.5
+  unix-timestamp: 1593302400
+  description: |-
+    <p>General bug fixes and improvements.</p>
+
+    <ul>
+
+      <li>Login failed with Todoist fixed.</li>
+
+      <li>Design improvement in task details.</li>
+
+      <li>New and better designed icons.</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Planner.</p>
+
+    <p>Special thanks to &apos;Robert Zelník&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Planner. 🌟️</p>
+
+    <ul>
+
+      <li>Cal</li>
+
+      <li>I Sutter</li>
+
+      <li>The Linux Experiment</li>
+
+      <li>Wout</li>
+
+    </ul>
 - version: 2.4.2
   unix-timestamp: 1592784000
   description: |-
