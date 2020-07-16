@@ -7,17 +7,31 @@ homepage: "https://github.com/matfantinel/moneta"
 help_page: "https://github.com/matfantinel/moneta/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3144CBF0C9575A12D936628A9EA4D59D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3144CBF0C9575A12D936628A9EA4D59D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3BDF7BF2AB8605E0BBDA0E924E94BD86/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3144CBF0C9575A12D936628A9EA4D59D/icons/64x64/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3144CBF0C9575A12D936628A9EA4D59D/icons/128x128/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/matfantinel.moneta/3144CBF0C9575A12D936628A9EA4D59D/icons/64x64@2/com.github.matfantinel.moneta_com.github.matfantinel.moneta.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
 price: 0
 releases:
+- version: 2.2.0
+  unix-timestamp: 1593993600
+  description: |-
+    <p>Moneta&apos;s icon has a fresh new look! Plus new translations.</p>
+
+    <ul>
+
+      <li>✨ New icon by Nararyans R.I. (@Fatih20)</li>
+
+      <li>🇮🇹 Italian translation (@albanobattistella)</li>
+
+      <li>🇹🇷 Turkish translation (@safak45x)</li>
+
+    </ul>
 - version: 2.1.0
   unix-timestamp: 1586476800
   description: |-
@@ -43,7 +57,7 @@ releases:
 
       <li>🕐️ Instead of updating every 10 minutes, updates are now hourly (on weekdays only)</li>
 
-      <li>👀️ Moneta now displays the last time the information was displayed for more transparency</li>
+      <li>👀️ Moneta now displays the last time the information was updated for more transparency</li>
 
     </ul>
 - version: 1.1.5

@@ -7,17 +7,23 @@ homepage: "https://github.com/muriloventuroso/pdftricks"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/EF4ABA1F74C4DFA11C02B48E4DB9BE50/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.3.0
+  unix-timestamp: 1594339200
+  description: |-
+    <p>Bugfix</p>
+
+    <p>Update Translations</p>
 - version: 0.2.7
   unix-timestamp: 1565654400
   description: |-
@@ -93,4 +99,4 @@ redirect_from:
   <li>Merge PDF</li>
   <li>Convert PDF</li>
 </ul>
-<p>In recent versions of ImageMagick has been added a security policy that blocks manipulations in PDF files. This affects PDFTricks operations. To correct this change the settings of your ImageMagick installation. Check de homepage for instructions.</p>
+<p>In recent versions of ImageMagick has been added a security policy that blocks manipulations in PDF files. This affects PDFTricks operations. To correct this change the settings of your ImageMagick installation. Check the homepage for instructions.</p>
