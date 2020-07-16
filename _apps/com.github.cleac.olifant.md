@@ -7,19 +7,31 @@ homepage: "https://github.com/cleac/olifant"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/icons/64x64/com.github.cleac.olifant_com.github.cleac.olifant.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/icons/128x128/com.github.cleac.olifant_com.github.cleac.olifant.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/A2F7F00AEC8FAA8A1435774C687F3FC1/icons/64x64@2/com.github.cleac.olifant_com.github.cleac.olifant.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/icons/64x64/com.github.cleac.olifant_com.github.cleac.olifant.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/icons/128x128/com.github.cleac.olifant_com.github.cleac.olifant.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/icons/64x64@2/com.github.cleac.olifant_com.github.cleac.olifant.png
 color:
   primary: "#F5F8FF"
   primary-text: "#413F58"
 price: 0
 releases:
+- version: 0.2.1-beta4
+  unix-timestamp: 1593561600
+  description: |-
+    <ul>
+
+      <li>Stability improvements</li>
+
+      <li>Added ability to clear notifications</li>
+
+      <li>Fixed duplication of follow requests in notifications</li>
+
+    </ul>
 - version: 0.2.1-beta1
   unix-timestamp: 1582934400
   description: |-
