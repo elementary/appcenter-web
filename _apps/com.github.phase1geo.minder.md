@@ -7,18 +7,38 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/522893DBB892F8AE3D86D76E2487DC25/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/5CF6C55C113F9C72D8163A32A914D738/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.9.1
+  unix-timestamp: 1594512000
+  description: |-
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Italian translation (thanks to @albanobattistella).</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issue with setting cursor position with mouse when zoom factor is not 100 percent.</li>
+
+      <li>Fixed issue with reading in Minder files that exceed the XML parser size limitations.</li>
+
+    </ul>
 - version: 1.9.0
   unix-timestamp: 1593129600
   description: |-
