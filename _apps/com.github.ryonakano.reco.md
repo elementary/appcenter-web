@@ -7,28 +7,34 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4AC8B1AB3301FF4A7B7860B39437F0FD/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4C99502E1DE25041136BC4A40A02A204/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
-- version: 2.3.1
-  unix-timestamp: 1575504000
+- version: 2.4.0
+  unix-timestamp: 1593648000
   description: |-
     <ul>
 
-      <li>Add Polish translation (by @michalzkosmosu)</li>
+      <li>Respect an elementary OS-wide dark preference</li>
 
-      <li>Update French translation (by @NathanBnm)</li>
+      <li>Allow setting per-app dark style preference</li>
+
+      <li>Allow choosing stereo or mono</li>
+
+      <li>Update Spanish translation (thanks to @CCaroV)</li>
 
       <li>Update Japanese translation</li>
+
+      <li>Explicit gstreamer1.0-libav as a dependency to fix a potential crash when trying to record in AAC</li>
 
     </ul>
 redirect_from:

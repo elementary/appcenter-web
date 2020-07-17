@@ -7,16 +7,54 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/5FC2DF6523B56E6119CCB7372B832D55/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.8.0
+  unix-timestamp: 1593216000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Introduces configurable shortcuts.</li>
+
+      <li>Introduces an option to log the time spent working on a task (using the timer) to the todo.txt files.</li>
+
+      <li>A custom drag handle icon is now used instead of the &quot;view-list&quot; icon.</li>
+
+      <li>Go For It! now highlights the task you are currently working on with ⏰.</li>
+
+      <li>Changing the system clock or suspending your system will no longer affect the timer.</li>
+
+      <li>It is now possible to tell Go For It! how long a task should take by adding `duration:Xh-Ym` to the description
+
+    of a task. (Where X and Y are the number of hours and minutes respectively. For a five minute task one would need to add `duration:5m`.) Go For It! will notify you when you exceed this duration. (Do not forget to enable timer logging so Go For It! will know how much time you have spent working on a task after closing the application!)</li>
+
+      <li>Not every break (or time between breaks) has to be of the same length: You can now use Go For It! as a pomodoro
+
+    timer or use a custom timer schedule.</li>
+
+      <li>Added an option to add new tasks at the start of each list instead of appending them to the end.</li>
+
+      <li>Added &quot;--list&quot; and  &quot;--load &lt;id&gt;&quot; arguments to show the configured lists and load a
+
+    specified list respectively.</li>
+
+      <li>Experimental: It is now possible to log your activities to a csv file by starting Go For It! with &quot;--logfile
+
+    &lt;filename&gt;&quot;.</li>
+
+      <li>Many translations were updated.</li>
+
+    </ul>
 - version: 1.7.3
   unix-timestamp: 1566777600
   description: |-
