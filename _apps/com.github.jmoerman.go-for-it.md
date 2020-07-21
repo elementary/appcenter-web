@@ -7,16 +7,40 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/F2D1207A87F2A86EFB7FFC60CFB5EBEC/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/63F29B1FBE73D51834722D428BBC2C64/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/F2D1207A87F2A86EFB7FFC60CFB5EBEC/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/F2D1207A87F2A86EFB7FFC60CFB5EBEC/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/F2D1207A87F2A86EFB7FFC60CFB5EBEC/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.8.1
+  unix-timestamp: 1595203200
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>When using &quot;--logfile=~/something&quot;: &quot;~&quot; is now expanded.</li>
+
+      <li>The translations for Central Kurdish, Lithuanian and Portuguese (Brazil) have been updated.</li>
+
+    </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>The command line help now correctly shows &quot;--load LIST-TYPE LIST-ID&quot; instead of &quot;--load=LIST-TYPE
+
+    LIST-ID&quot;.</li>
+
+      <li>The active task did not properly refresh when pausing the timer after switching lists and interacting with the
+
+    to-do list.</li> </ul>
 - version: 1.8.0
   unix-timestamp: 1593216000
   description: |-
