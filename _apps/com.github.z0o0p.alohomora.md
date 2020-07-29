@@ -7,20 +7,30 @@ homepage: "https://github.com/z0o0p/alohomora"
 help_page: "http://github.com/z0o0p/alohomora/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/icons/64x64/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/icons/128x128/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/4674BF01455B990D3D16850BA12727CB/icons/64x64@2/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/64x64/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/128x128/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/64x64@2/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
 color:
   primary: "#A6F8EB"
   primary-text: "#0F48C1"
 price: 0
 releases:
+- version: 1.0.1
+  unix-timestamp: 1595894400
+  description: |-
+    <ul>
+
+      <li>Minor bug fixes</li>
+
+      <li>Improved app icons</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1594339200
 redirect_from:

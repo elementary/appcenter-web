@@ -7,23 +7,33 @@ homepage: "https://github.com/marbetschar/time-limit"
 help_page: "https://github.com/marbetschar/time-limit/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/DBE524E1A05D23F2AC8F45D68333724D/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
 color:
   primary: "#318AF4"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
+- version: 1.3.0
+  unix-timestamp: 1595548800
+  description: |-
+    <p>Fixed #26: Play notification sound regardless of &quot;do not disturb&quot; (needs new notification server)</p>
+
+    <p>Fixed #16: Remember window position after close</p>
+
+    <p>Merged #27 &amp; #28: &quot;Turkish translation&quot;, thanks to Safak Genisol 🎉️ (@safak45x)</p>
+
+    <p>Fixed #24: Updated AppCenter screenshots to match the Publishing Requirements</p>
 - version: 1.2.0
   unix-timestamp: 1582502400
   description: |-
     <p>Fixed #19: &quot;Grab arrow after first drag is sometimes difficult&quot;</p>
 
-    <p>Merged #23: &quot;Add French translations&quot;, thanks to Nathan Bonnemains 🎉️</p>
+    <p>Merged #23: &quot;Add French translations&quot;, thanks to Nathan Bonnemains 🎉️ (@NathanBnm)</p>
 - version: 1.0.0
   unix-timestamp: 1580947200
   description: |-
