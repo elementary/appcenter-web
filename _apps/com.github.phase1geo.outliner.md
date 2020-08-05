@@ -7,18 +7,88 @@ homepage: "https://github.com/phase1geo/Outliner"
 help_page: "https://github.com/phase1geo/Outliner/wiki"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/icons/64x64/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/icons/128x128/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/icons/64x64@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/D6C3E614D5197696AB12CBF79903D178/icons/128x128@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/64x64/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/128x128/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/64x64@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/128x128@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
 color:
   primary: "#D48E15"
   primary-text: "#000000"
 price: 10
 releases:
+- version: 1.3.0
+  unix-timestamp: 1596326400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for displaying/hiding row depth lines.</li>
+
+      <li>Added support for adding and highlighting row tags, including optional auto-completion support.</li>
+
+      <li>Added support for node filtering based on tags.</li>
+
+      <li>Added support for stack-based focus mode.</li>
+
+      <li>Added support for Markdown and new Markdown format toolbar.</li>
+
+      <li>Added tooltip when mouse cursor is over a group row expander which displays the number of subrows contained within
+
+    it.</li>
+
+      <li>Added support for opening one or more files from the command-line or from a file browser.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Changed application icon (thanks to Nararyans R.I.)</li>
+
+      <li>Changed default location of checkboxes to display to the right of rows.</li>
+
+      <li>Changed behavior of unindenting a row such that row order is no longer modified.</li>
+
+      <li>Changed behavior of the Return key when adding a new row from a group row such that the new row will be added
+
+    to the group as the first row of that group.</li>
+
+      <li>Changed mouse cursor when it is over a checkbox.</li>
+
+      <li>Changed behavior of left and right keys on a group row to expand/collapse the tree one level at a time.</li>
+
+      <li>Assigned Shift-right and Shift-left to expand/collapse the entire hierarchy for a given group row.</li>
+
+      <li>Reorganized Node commands in keyboard shortcut cheatsheet.</li>
+
+      <li>Updated Dutch translation (thanks to Heimen Stoffels).</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Added missing keyboard shortcut for task toggling to cheatsheet.</li>
+
+      <li>Fixed issues with exporting supported XML-based filetypes.</li>
+
+      <li>Fixed display issue when a descendant node is selected and one of its ancestors is collapsed.</li>
+
+      <li>Fixed Save As window adding the .outliner prefix to a file that already has this prefix.</li>
+
+      <li>Fixed display issue that can occur when a group is deleted.</li>
+
+      <li>Fixed issues with undo/redo support for expanding/collapsing groups.</li>
+
+      <li>Fixed issue with pasting UTF8 strings from clipboard.</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1589673600
   description: |-
@@ -150,12 +220,15 @@ redirect_from:
 <p>Quickly create outlines and export them in a number of useful formats.</p>
 <ul>
   <li>Quickly create and navigate outlines using the keyboard or mouse.</li>
-  <li>Full support for text formatting.</li>
+  <li>Full support for rich text formatting and/or Markdown formatting.</li>
   <li>Add notes to any outline text.</li>
+  <li>Add tags to any outline row.</li>
   <li>Add checkboxes to any or all outline text.</li>
   <li>Close/Hide any group within the outline for increased focus.</li>
   <li>Quick search and replace of any text within the document, including notes.</li>
-  <li>View document statistics such as character count, word count and row count.</li>
+  <li>Optionally focus on a portion of the document at a time when editing.</li>
+  <li>View document statistics such as character count, word count, row count and task information.</li>
+  <li>Support for showing depth lines.</li>
   <li>Unlimited undo/redo of any change.</li>
   <li>Automatically saves in the background.</li>
   <li>Open multiple outlines with the use of tabs.</li>
