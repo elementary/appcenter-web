@@ -7,20 +7,53 @@ homepage: "https://tenderowl.com/norka"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/70F08FDAD961965C680DC6D79F6E3195/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
 color:
   primary: "#b5c3cb"
   primary-text: "#273445"
 price: 12
 releases:
+- version: 0.4.3
+  unix-timestamp: 1595289600
+  description: |-
+    <p>Some fixes:</p>
+
+    <ul>
+
+      <li>Fix build for ElementaryOS</li>
+
+      <li>Properly toggle welcome screen and show archived</li>
+
+      <li>Fix drag-n-drop on welcome screen</li>
+
+      <li>Improve HeaderBar contrast</li>
+
+    </ul>
+- version: 0.4.2
+  unix-timestamp: 1594944000
+  description: |-
+    <p>Yet another update: small but valuable.</p>
+
+    <p>What it brings to us:</p>
+
+    <ul>
+
+      <li>Redesigned Share menu</li>
+
+      <li>Export to Write.as</li>
+
+      <li>Extended export to local files, now with support of HTML and plaintext formats</li>
+
+      <li>Reading time to know your power</li>
+
+      <li>And in a case when you create a new document while edit another Norka will immediately switch to the created one</li>
+
+    </ul>
 - version: 0.3.0
   unix-timestamp: 1594857600
   description: |-
@@ -48,9 +81,17 @@ releases:
   description: |-
     <p>Search and Shortcuts. 
 
-              Now you can use Text Searh via keyboard shortcuts:
+              Now you can use Text Searh via keyboard shortcuts:</p>
 
-              Control+F - to start searchControl+G - to find nextShift+Control+G - to find previous</p>
+    <ul>
+
+      <li>Control+F - to start search</li>
+
+      <li>Control+G - to find next</li>
+
+      <li>Shift+Control+G - to find previous</li>
+
+    </ul>
 - version: 0.1.0
   unix-timestamp: 1591488000
   description: |-

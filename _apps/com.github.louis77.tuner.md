@@ -7,16 +7,51 @@ homepage: "https://github.com/louis77/tuner"
 help_page: "http://github.com/louis77/tuner/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/BA32B9F6083EAC3F757EAAC8A9990497/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/1CC7F23F602954A1ADE36E90217EBF0D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/1CC7F23F602954A1ADE36E90217EBF0D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/BA32B9F6083EAC3F757EAAC8A9990497/icons/64x64/com.github.louis77.tuner_com.github.louis77.tuner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/BA32B9F6083EAC3F757EAAC8A9990497/icons/128x128/com.github.louis77.tuner_com.github.louis77.tuner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/BA32B9F6083EAC3F757EAAC8A9990497/icons/64x64@2/com.github.louis77.tuner_com.github.louis77.tuner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/1CC7F23F602954A1ADE36E90217EBF0D/icons/64x64/com.github.louis77.tuner_com.github.louis77.tuner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/1CC7F23F602954A1ADE36E90217EBF0D/icons/128x128/com.github.louis77.tuner_com.github.louis77.tuner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/louis77.tuner/1CC7F23F602954A1ADE36E90217EBF0D/icons/64x64@2/com.github.louis77.tuner_com.github.louis77.tuner.png
 color:
   primary: "#FE9AB8"
   primary-text: "#000"
 price: 0
 releases:
+- version: 1.2.4
+  unix-timestamp: 1597017600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Right-click a station to add or remove to favourites directly</li>
+
+      <li>Add settings menu with &quot;Do-Not-Track&quot; option, disables sending station listening events to radio-browser.org</li>
+
+      <li>Add About dialog</li>
+
+    </ul>
+
+    <p>Other improvements:</p>
+
+    <ul>
+
+      <li>If a station is already in your favourites, you&apos;ll see a little star in the title</li>
+
+      <li>Randomly selects one of the available radio-browser.org servers (was always de1 before)</li>
+
+      <li>Favourites are now stored in a local favourites.json file to improve app startup time</li>
+
+    </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Fix broken dark theme support (elementary and Adwaita dark look fine now)</li>
+
+    </ul>
 - version: 1.2.3
   unix-timestamp: 1593388800
   description: |-
@@ -24,7 +59,7 @@ releases:
 
     <ul>
 
-      <li>Search for radion stations</li>
+      <li>Search for radio stations</li>
 
       <li>New &quot;Genres&quot; section with select popular genres</li>
 
@@ -70,7 +105,7 @@ redirect_from:
 ---
 
 <p>Make listening to internet radio stations fun again!</p>
-<p>Instead of providing you with the all the stations you already know,
+<p>Instead of providing you with all the stations you already know,
        Tuner presents you a new selection of stations from all over the world
        every time you hit the Shuffle button.</p>
 <p>Tuner uses the community-driven station catalog radio-browser.info.</p>
