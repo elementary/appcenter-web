@@ -7,19 +7,39 @@ homepage: "https://github.com/akiraux/akira"
 help_page: "https://github.com/akiraux/akira/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/icons/64x64/com.github.akiraux.akira_com.github.akiraux.akira.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/icons/128x128/com.github.akiraux.akira_com.github.akiraux.akira.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/7A17003E7BF78BE1C04552176576536C/icons/64x64@2/com.github.akiraux.akira_com.github.akiraux.akira.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/icons/64x64/com.github.akiraux.akira_com.github.akiraux.akira.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/icons/128x128/com.github.akiraux.akira_com.github.akiraux.akira.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/akiraux.akira/A95CC1CF08DEECCF9182641116C51CFF/icons/64x64@2/com.github.akiraux.akira_com.github.akiraux.akira.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
-price: 35
+price: 15
 releases:
+- version: 0.0.12
+  unix-timestamp: 1597190400
+  description: |-
+    <p>Bug fixes and Artboards improvements</p>
+
+    <ul>
+
+      <li>Control Artboards background color.</li>
+
+      <li>Hide and Lock Artbaords from the Layers panel.</li>
+
+      <li>Items inside Artboards are masked when extending outside the edges of the Artboard.</li>
+
+      <li>Fix items reordering with the layers panel drag and drop.</li>
+
+      <li>Fix random segfault at startup while setting accelerators.</li>
+
+      <li>Updated goocanvas vapi.</li>
+
+    </ul>
 - version: 0.0.11
   unix-timestamp: 1596499200
   description: |-
