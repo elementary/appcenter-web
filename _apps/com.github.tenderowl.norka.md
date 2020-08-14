@@ -7,25 +7,39 @@ homepage: "https://tenderowl.com/norka"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/F21EEF5E57AC809D3657D7D70E1E39B2/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
 color:
   primary: "#b5c3cb"
   primary-text: "#273445"
 price: 12
 releases:
+- version: 0.4.7
+  unix-timestamp: 1597276800
+  description: |-
+    <p>Update metadata.</p>
+- version: 0.4.6
+  unix-timestamp: 1597190400
+  description: |-
+    <p>Improvements</p>
+
+    <ul>
+
+      <li>Set the minimum size of the Preferences dialog</li>
+
+      <li>Set the title to nameless documents on saving</li>
+
+    </ul>
 - version: 0.4.3
   unix-timestamp: 1595289600
   description: |-
     <p>Some fixes:</p>
 
     <ul>
-
-      <li>Fix build for ElementaryOS</li>
 
       <li>Properly toggle welcome screen and show archived</li>
 
