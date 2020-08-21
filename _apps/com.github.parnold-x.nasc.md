@@ -7,18 +7,24 @@ homepage: "https://github.com/parnold-x/nasc"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/9247E2C208C18CD8B0D10AF00E45CED7/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
 color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
 price: 8
 releases:
+- version: 0.7.5
+  unix-timestamp: 1597881600
+  description: |-
+    <p>To define a user function type e.g.: function kineticEnergy 0.5*\x*\y^2</p>
+
+    <p>The you can use it anywhere e.g. car = kineticEnergy(1000 kg, 3 m/s)</p>
 - version: 0.7.4
   unix-timestamp: 1596585600
   description: |-
@@ -49,26 +55,6 @@ releases:
     <p>Removed auto complete functions with parenthesis</p>
 
     <p>Preperation to make NaSC translatable</p>
-- version: 0.6.1
-  unix-timestamp: 1589673600
-  description: |-
-    <p>Build libqalculate as submodule - This means better calculation results and more functions</p>
-
-    <p>Added convert to different number bases. E.g. 16734003 to hex</p>
-
-    <p>Available number bases: hex bin dec oct duo roman bijective roman sexa fp32 fp64 fp16 fp80 fp128</p>
-
-    <p>Improved scroll behavior when using long equations or results</p>
-
-    <p>Ctrl + Shift + C copys result when nothing is marked in the input pane</p>
-
-    <p>Right click on a result copies it to the clipboard</p>
-
-    <p>Auto complete functions with parenthesis</p>
-
-    <p>Quit on Ctrl + Q</p>
-
-    <p>Fix of a parsing error in the help pane</p>
 redirect_from:
   - /com.github.parnold-x.nasc.desktop/
 ---

@@ -7,17 +7,29 @@ homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/AC0FDC4B8EBABB1157DAFC44F68F7645/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/AC0FDC4B8EBABB1157DAFC44F68F7645/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/ED99FE736F228038ACF83782532BA672/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/ED99FE736F228038ACF83782532BA672/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/AC0FDC4B8EBABB1157DAFC44F68F7645/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/AC0FDC4B8EBABB1157DAFC44F68F7645/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/AC0FDC4B8EBABB1157DAFC44F68F7645/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/ED99FE736F228038ACF83782532BA672/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/ED99FE736F228038ACF83782532BA672/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/ED99FE736F228038ACF83782532BA672/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
 color:
   primary: "#d7f4d7"
   primary-text: "#242d40"
 price: 0
 releases:
+- version: 0.9.0
+  unix-timestamp: 1597708800
+  description: |-
+    <ul>
+
+      <li>Better System Tab</li>
+
+      <li>Update Portuguese translation (@rottenpants466)</li>
+
+      <li>Save last opened view (@ryonakano)</li>
+
+    </ul>
 - version: 0.8.1
   unix-timestamp: 1595203200
   description: |-
