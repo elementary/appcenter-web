@@ -7,18 +7,99 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/B3D0D16D5F02C9BC6EDB72131526900F/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.10.0
+  unix-timestamp: 1598486400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Markdown highlighting support to node titles.</li>
+
+      <li>Added ability to set the maximum node size in style inspector.</li>
+
+      <li>Added ability to set the maximum connection title size in style inspector.</li>
+
+      <li>Added ability to set text field font size via gsetting.</li>
+
+      <li>Added ability to set branch margin in the style inspector.</li>
+
+      <li>Added ability to add stickers to nodes, connections and anywhere else in the mind map.</li>
+
+      <li>Added ability to visually create and display node groupings.</li>
+
+      <li>Added import/export support for XMind.</li>
+
+      <li>Added support for specifying if connection titles should be added immediately after creating a connection.</li>
+
+      <li>Added support for middle-click-and-drag to pan the canvas (Alt + mouse movement still supported).</li>
+
+      <li>Added keyboard shortcut for the Zoom to Fit option (Control-1).</li>
+
+      <li>Added new Mouse Events shortcut panel in shortcut cheatsheet.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Removed the sidebar style affects selector and using the status of the current selection instead.</li>
+
+      <li>Lowered the minimum node margin from 5 pixels to 1 pixel to allow for greater node density.</li>
+
+      <li>Removed connection title editing field in sidebar for better UI consistency.</li>
+
+      <li>Removed bold and italicized fonts from the style inspector font selectors.</li>
+
+      <li>If connection title is empty, the title will be automatically removed.</li>
+
+      <li>Updated application icon (thanks to Fatih20).</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issue with importing Freemind notes.</li>
+
+      <li>Fixed display of right-to-left text within nodes.</li>
+
+      <li>Fixed issues with loading a .minder file that contains errant information.</li>
+
+      <li>Fixed issues with the layout of connection titles.</li>
+
+      <li>Fixed input method support when editing connection titles.</li>
+
+      <li>Fixed position of fold indicator when tree layout is Upwards.</li>
+
+      <li>Fixed node display issue when a node link is clicked to a node that is folded.</li>
+
+      <li>Fixed error when connection title is double clicked when no text is present.</li>
+
+      <li>Fixed issue with opening the same document twice (only one tab will now exist per file).</li>
+
+      <li>Fixed Shift-Control-s keyboard shortcut to display the &apos;Save As&apos; dialog instead of the &apos;Open&apos;
+
+    dialog.</li>
+
+      <li>Fixed issue that allows you to click on or drag onto a hidden node.</li>
+
+    </ul>
 - version: 1.9.2
   unix-timestamp: 1596758400
   description: |-
@@ -684,10 +765,12 @@ redirect_from:
 <p>Use the power of mind-mapping to make your ideas come to life.</p>
 <ul>
   <li>Quickly create visual mind-maps using the keyboard and automatic layout.</li>
-  <li>Choose from many tree layout choices</li>
+  <li>Choose from many tree layout choices.</li>
+  <li>Support for Markdown formatting.</li>
   <li>Add notes, tasks and images to your nodes.</li>
   <li>Add node-to-node connections with optional text and notes.</li>
   <li>Stylize nodes, links and connections to add more meaning and improve readability.</li>
+  <li>Add stickers and node groups to call out and visibly organize information.</li>
   <li>Quick search of node and connection titles and notes, including filtering options.</li>
   <li>Zoom in or enable focus mode to focus on certain ideas or zoom out to see the bigger picture.</li>
   <li>Enter focus mode to better view and understand portions of the map.</li>
@@ -697,8 +780,8 @@ redirect_from:
   <li>Open multiple mindmaps with the use of tabs.</li>
   <li>Built-in and customizable theming.</li>
   <li>Gorgeous animations.</li>
-  <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner and Portable Minder formats.</li>
+  <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner, Portable Minder and XMind formats.</li>
   <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, Portable
-Minder, PlainText and yEd formats.</li>
+Minder, PlainText, XMind and yEd formats.</li>
   <li>Printer support.</li>
 </ul>

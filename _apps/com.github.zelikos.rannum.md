@@ -7,17 +7,22 @@ homepage: "https://github.com/zelikos/rannum"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/D3407A36302DE5185325498E74C87B09/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/D3407A36302DE5185325498E74C87B09/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/D3407A36302DE5185325498E74C87B09/icons/64x64/com.github.zelikos.rannum_com.github.zelikos.rannum.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/D3407A36302DE5185325498E74C87B09/icons/128x128/com.github.zelikos.rannum_com.github.zelikos.rannum.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/D3407A36302DE5185325498E74C87B09/icons/64x64@2/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/64x64/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/128x128/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/64x64@2/com.github.zelikos.rannum_com.github.zelikos.rannum.png
 color:
   primary: "#a56de2"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.2.0
+  unix-timestamp: 1597968000
+  description: |-
+    <p>Implemented dice presets</p>
 - version: 1.1.0
   unix-timestamp: 1588896000
   description: |-
