@@ -7,17 +7,42 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/7AA0604B49D3D30BCAC8188061F9F01F/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.4.0
+  unix-timestamp: 1598745600
+  description: |-
+    <ul>
+
+      <li>Added Search and Paste window, opened with shortcut Ctrl+` by default.</li>
+
+      <li>Added &quot;Auto expand snippets&quot; checkbox to preferences menu for enabling/disabling snippet expansion while
+
+    typing in accessible apps.</li>
+
+      <li>Added ability to change Search and Paste shortcut in preferences menu.</li>
+
+      <li>Added preference for whether text selected before using shortcut is used for initial search.</li>
+
+      <li>Added option to focus search box when using the search and paste shortcut.</li>
+
+      <li>Fixed support for Wayland.</li>
+
+      <li>Removed auto expanding of snippets in non-accessible applications such as browsers and electron apps (use shortcut
+
+    for search and paste window instead).</li> </ul>
 - version: 1.3.3
   unix-timestamp: 1590969600
   description: |-
@@ -172,6 +197,7 @@ redirect_from:
 
 <p>Save your often used text snippets and then expand them whenever you type their abbreviation.</p>
 <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
+<p>For non-accessible applications such as browsers and Electron apps, there&apos;s a shortcut (default is Ctrl+`) for opening a search window that pastes the selected snippet.</p>
 <p>Supports placeholders:-</p>
 <ul>
   <li>Date/Time: Insert the current or calculated date/time with configurable format.</li>
