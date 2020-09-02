@@ -7,20 +7,32 @@ homepage: "https://github.com/z0o0p/alohomora"
 help_page: "http://github.com/z0o0p/alohomora/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/64x64/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/128x128/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/345E7157ED4F82465C824152C399B8A8/icons/64x64@2/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/icons/64x64/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/icons/128x128/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/43DEFE3D7D9489E9A8F843226ECEF670/icons/64x64@2/com.github.z0o0p.alohomora_com.github.z0o0p.alohomora.png
 color:
   primary: "#A6F8EB"
   primary-text: "#0F48C1"
 price: 0
 releases:
+- version: 1.1.0
+  unix-timestamp: 1598745600
+  description: |-
+    <ul>
+
+      <li>Portuguese Translations by @rottenpants466</li>
+
+      <li>Dutch Translations by @Vistaus (Heimen Stoffels)</li>
+
+      <li>French Translations by @NathanBnm (Nathan Bonnemains)</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1595894400
   description: |-
@@ -41,7 +53,7 @@ redirect_from:
 <p>You can now forget about having to remember a unique, long, complex password for every one of your online accounts.</p>
 <p>Features:</p>
 <ul>
-  <li>In-built password generator</li>
+  <li>Built-in password generator</li>
   <li>Enciphers stored secrets</li>
   <li>Copy passwords to your clipboard</li>
 </ul>
