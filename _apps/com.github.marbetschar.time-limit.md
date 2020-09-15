@@ -7,17 +7,21 @@ homepage: "https://github.com/marbetschar/time-limit"
 help_page: "https://github.com/marbetschar/time-limit/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/9A0099143630BD4003E4264B7084A12B/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
 color:
   primary: "#318AF4"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
+- version: 1.3.1
+  unix-timestamp: 1599609600
+  description: |-
+    <p>Merged #37 &amp; #28: &quot;Dutch translation&quot;, thanks to Heimen Stoffels 🎉️ (@Vistaus)</p>
 - version: 1.3.0
   unix-timestamp: 1595548800
   description: |-

@@ -7,11 +7,15 @@ homepage: "https://github.com/treagod/spectator"
 help_page: "#"
 dist: hera
 screenshots:
-
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic//icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/9FA0DF41CED22F77549C0F79481F54CA/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"

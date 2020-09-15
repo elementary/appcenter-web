@@ -7,20 +7,34 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/65992A02D3CBD4872CE061367D4AE7CA/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.4.1
+  unix-timestamp: 1599004800
+  description: |-
+    <ul>
+
+      <li>Added Dutch translations. Huge thanks to @Vistaus on GitHub! 🇳🇱</li>
+
+      <li>Fixed occasional performance issues when auto-expand turned on.</li>
+
+      <li>Fixed incorrect shortcut command being saved when binary file renamed.</li>
+
+      <li>Fixed visibility of Search and Paste entry text in some circumstances.</li>
+
+    </ul>
 - version: 1.4.0
   unix-timestamp: 1598745600
   description: |-

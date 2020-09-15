@@ -7,19 +7,63 @@ homepage: "https://github.com/sgpthomas/hourglass"
 help_page: "https://github.com/sgpthomas/hourglass/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/1BA5E5C6696BE01165530ADF1C927014/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
 color:
   primary: "#4ea87c"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.2.2
+  unix-timestamp: 1598486400
+  description: |-
+    <ul>
+
+      <li>Update .desktop comment to be consistent with HIG (by @aljelly)</li>
+
+      <li>Change shortened format of weekdays (by @NathanBnm)</li>
+
+      <li>Improve look of create/edit alarm dialog</li>
+
+      <li>Don&apos;t reset repeat setting on closing popover</li>
+
+      <li>Fix DBus error at the first launch</li>
+
+      <li>Fix notification icon is not set</li>
+
+      <li>Fix left time shows unexpected values if set time is too big</li>
+
+      <li>Improve saving window state</li>
+
+    </ul>
+
+    <p>Translation updates:</p>
+
+    <ul>
+
+      <li>Add French translation (by @NathanBnm)</li>
+
+      <li>Update Spanish translation (by @CCaroV)</li>
+
+      <li>Add Japanese translation</li>
+
+      <li>Add Portuguese-Portugal translation (by @rottenpants466)</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Various l10n and coding improvements to the project thanks to @NathanBnm</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1587340800
   description: |-
