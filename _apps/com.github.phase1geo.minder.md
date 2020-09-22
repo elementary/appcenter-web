@@ -7,19 +7,87 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/8EBFE411A337AEC683531935F5AC0975/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.11.0
+  unix-timestamp: 1600214400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Preferences dialog.</li>
+
+      <li>Added Portuguese translation (thanks to Andre Barata).</li>
+
+      <li>Added keyboard shortcut (Menu or Shift-F10) to display contextual menus in mindmap.</li>
+
+      <li>Added default theme preference option.</li>
+
+      <li>Added preference option to select map items on cursor hover.</li>
+
+      <li>Added Shift+Home/End support for selecting all text from current cursor to beginning/end of node or connection
+
+    titles when editing.</li>
+
+      <li>Added support for PlantUML import/export.</li>
+
+      <li>Added support for displaying notifications on completion of export operation.</li>
+
+      <li>Added keyboard shortcuts for displaying tabs in sidebar.</li>
+
+      <li>Added support for making filepath URIs clickable in nodes, connections and notes (displays the files in the file
+
+    manager application).</li> </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>When nodes are copied to clipboard, pasting them as text in an external application will be displayed as in text
+
+    export format.</li>
+
+      <li>When text is copied to the clipboard from an external application, pasting as nodes in Minder will parse in text
+
+    import format.</li>
+
+      <li>Improved look of menu accelerators and added missing accelerators.</li>
+
+      <li>Changed &apos;t&apos; command to transition task status from disabled to enabled to done and back to disabled.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issues with undo/redo of node/connection title changes.</li>
+
+      <li>Fixed issue with undoing a connection add operation.</li>
+
+      <li>Fixed issue with connection titles being clear when connection is moved to a different node.</li>
+
+      <li>Fixed UI issue with changing window width by dragging right side of window when sidebar is hidden.</li>
+
+      <li>Fixed issues with inputting special characters with US international keyboard.</li>
+
+      <li>Fixed issue where images in resized nodes were not displaying properly on application restart.</li>
+
+      <li>Fixed issue where copying a filename in a file manager and pasting in Minder would attempt to past the icon image
+
+    instead of the filename when editing text.</li> </ul>
 - version: 1.10.0
   unix-timestamp: 1598486400
   description: |-
@@ -780,8 +848,8 @@ redirect_from:
   <li>Open multiple mindmaps with the use of tabs.</li>
   <li>Built-in and customizable theming.</li>
   <li>Gorgeous animations.</li>
-  <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner, Portable Minder and XMind formats.</li>
-  <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, Portable
-Minder, PlainText, XMind and yEd formats.</li>
+  <li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner, PlantUML, Portable Minder and XMind formats.</li>
+  <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, PlainText,
+PlantUML, Portable Minder, XMind and yEd formats.</li>
   <li>Printer support.</li>
 </ul>

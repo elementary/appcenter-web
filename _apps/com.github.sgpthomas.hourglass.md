@@ -7,21 +7,43 @@ homepage: "https://github.com/sgpthomas/hourglass"
 help_page: "https://github.com/sgpthomas/hourglass/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/FEC649741D288755C39861898F5F79B4/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
 color:
   primary: "#4ea87c"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.2.3
+  unix-timestamp: 1600300800
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix a fatal regression that timer does not stop on 00:00:00</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>StopWatch: Rewrite for efficiency and visibility</li>
+
+      <li>Add :disabled pseudo-class to the .round-button class</li>
+
+      <li>Use icons for add/remove buttons</li>
+
+    </ul>
 - version: 1.2.2
-  unix-timestamp: 1598486400
+  unix-timestamp: 1599868800
   description: |-
     <ul>
 

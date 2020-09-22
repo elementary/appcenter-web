@@ -7,20 +7,70 @@ homepage: "http://github.com/DevAlien/workspaces"
 help_page: "http://github.com/DevAlien/workspaces/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/icons/64x64/com.github.devalien.workspaces_com.github.devalien.workspaces.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/icons/128x128/com.github.devalien.workspaces_com.github.devalien.workspaces.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/2AD8A98EDBE96A599C8998DDBBC58633/icons/64x64@2/com.github.devalien.workspaces_com.github.devalien.workspaces.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/icons/64x64/com.github.devalien.workspaces_com.github.devalien.workspaces.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/icons/128x128/com.github.devalien.workspaces_com.github.devalien.workspaces.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/icons/64x64@2/com.github.devalien.workspaces_com.github.devalien.workspaces.png
 color:
   primary: "#ffb017"
   primary-text: "#000"
 price: 0
 releases:
+- version: 3.1.0
+  unix-timestamp: 1600041600
+  description: |-
+    <p>Fixes</p>
+
+    <ul>
+
+      <li>Fix run in terminal</li>
+
+      <li>Fix Open quick launcher via the knob menu</li>
+
+      <li>Fix crash when clicking on link on about dialog by max246</li>
+
+      <li>Close quick launcher when selecting an item, unless you press CTRL by Philip-Scott</li>
+
+      <li>Fixes visual issues on Switches, they were squashed</li>
+
+    </ul>
+
+    <p>Improvements</p>
+
+    <ul>
+
+      <li>Save or don&apos;t save latest position by max246</li>
+
+      <li>Make the workspaces in the left list sortables with drag and drop</li>
+
+      <li>Make the items in the left list sortables with drag and drop</li>
+
+      <li>Items can be moved in another workspace just with drag and drop</li>
+
+      <li>Workspaces are editable</li>
+
+      <li>Workspaces are deletable (should display a warning message)</li>
+
+      <li>Workspaces will display an image in the list, if they have one</li>
+
+      <li>Items now have a blue dot indicating that they are part of the auto-run</li>
+
+    </ul>
+
+    <p>Translations</p>
+
+    <ul>
+
+      <li>German translation by meisenzahl</li>
+
+      <li>Dutch Translation by Vistaus</li>
+
+    </ul>
 - version: 3.0.0
   unix-timestamp: 1598918400
   description: |-
