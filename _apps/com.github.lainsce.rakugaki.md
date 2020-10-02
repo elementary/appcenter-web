@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.rakugaki
+app_id: "com.github.lainsce.rakugaki"
 title: "Rakugaki"
 summary: "Want to just draw, sketch or doodle? This is the tool for you."
 developer: "Lains"
 homepage: "https://github.com/lainsce/rakugaki/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-1_orig.png
@@ -30,6 +30,7 @@ releases:
       <li>Fixed: Halftone.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1580428800
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>And other small changes.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1579219200
   description: |-
@@ -54,6 +56,7 @@ releases:
       <li>Fixed: Minor backend fixes</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1578614400
   description: |-
@@ -66,6 +69,7 @@ releases:
       <li>Fixed: Saving images with background</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1578614400
   description: |-
@@ -76,10 +80,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.rakugaki.desktop/
 ---
-
 <p>Draw to your heart&apos;s content with this simple, no-friction, no excessive chrome, pad.</p>
 <ul>
   <li>Use half-toned strokes with Ctrl + 1</li>

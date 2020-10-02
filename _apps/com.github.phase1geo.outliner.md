@@ -1,5 +1,5 @@
 ---
-app_id: com.github.phase1geo.outliner
+app_id: "com.github.phase1geo.outliner"
 title: "Outliner"
 summary: "Organize your words"
 developer: "Trevor Williams"
@@ -89,6 +89,7 @@ releases:
       <li>Fixed issue with pasting UTF8 strings from clipboard.</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1589673600
   description: |-
@@ -135,6 +136,7 @@ releases:
       <li>Fixed exports to allow existing files to be overwritten.</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1587340800
   description: |-
@@ -209,14 +211,15 @@ releases:
       <li>Fixed application crashes and incorrectly placed rows when moving them via the mouse.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1585180800
   description: |-
     <p>Initial release!</p>
+
 redirect_from:
   - /com.github.phase1geo.outliner.desktop/
 ---
-
 <p>Quickly create outlines and export them in a number of useful formats.</p>
 <ul>
   <li>Quickly create and navigate outlines using the keyboard or mouse.</li>

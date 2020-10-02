@@ -1,10 +1,10 @@
 ---
-app_id: com.github.zelikos.rannum
+app_id: "com.github.zelikos.rannum"
 title: "Roll-It"
 summary: "Roll the dice"
 developer: "Patrick Csikos"
 homepage: "https://github.com/zelikos/rannum"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-1_orig.png
@@ -23,10 +23,12 @@ releases:
   unix-timestamp: 1597968000
   description: |-
     <p>Implemented dice presets</p>
+
 - version: 1.1.0
   unix-timestamp: 1588896000
   description: |-
     <p>Remembers previously-selected number for highest possible roll</p>
+
 - version: 1.0.2
   unix-timestamp: 1581552000
   description: |-
@@ -39,17 +41,19 @@ releases:
       <li>French translations by @NathanBnm</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1581206400
   description: |-
     <p>AppData fixes</p>
+
 - version: 1.0.0
   unix-timestamp: 1581206400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.zelikos.rannum.desktop/
 ---
-
 <p>Simulate the results of rolling a die.</p>
 <p>Roll a six-sided die by default, or get the results of rolling a custom die with up to one-hundred sides.</p>

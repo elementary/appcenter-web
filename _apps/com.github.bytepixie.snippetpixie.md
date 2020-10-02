@@ -1,10 +1,10 @@
 ---
-app_id: com.github.bytepixie.snippetpixie
+app_id: "com.github.bytepixie.snippetpixie"
 title: "Snippet Pixie"
 summary: "Your little expandable text snippet helper"
 developer: "Byte Pixie"
 homepage: "https://www.snippetpixie.com"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-1_orig.png
@@ -35,6 +35,7 @@ releases:
       <li>Fixed visibility of Search and Paste entry text in some circumstances.</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1598745600
   description: |-
@@ -57,6 +58,7 @@ releases:
       <li>Removed auto expanding of snippets in non-accessible applications such as browsers and electron apps (use shortcut
 
     for search and paste window instead).</li> </ul>
+
 - version: 1.3.3
   unix-timestamp: 1590969600
   description: |-
@@ -65,6 +67,7 @@ releases:
       <li>Fixed Snippet Pixie stopping Super+[other-key] from working.</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1588723200
   description: |-
@@ -79,6 +82,7 @@ releases:
       <li>Fixed abbreviations sometimes expanding with clipboard&apos;s contents.</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1582761600
   description: |-
@@ -87,6 +91,7 @@ releases:
       <li>Fixed abbreviations sometimes not expanding.</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1582416000
   description: |-
@@ -105,6 +110,7 @@ releases:
       <li>A few terminal emulators blacklisted to avoid problems, hope to support in the future.</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1575936000
   description: |-
@@ -115,6 +121,7 @@ releases:
       <li>Minor fixes for compile time warnings.</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1562716800
   description: |-
@@ -125,6 +132,7 @@ releases:
       <li>Updated credits to use GitHub handles and add Nathan as a translator (long overdue)!</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1555891200
   description: |-
@@ -141,6 +149,7 @@ releases:
       <li>Cursor: Set where the cursor should end up after the snippet has expanded.</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1554508800
   description: |-
@@ -149,6 +158,7 @@ releases:
       <li>Improved active window/control detection when switching via Alt-Tab.</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1554249600
   description: |-
@@ -159,6 +169,7 @@ releases:
       <li>Added French translations. Huge thanks to @NathanBnm on GitHub! 🇨🇵️</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1549324800
   description: |-
@@ -173,6 +184,7 @@ releases:
       <li>Added ability to import snippets from an exported JSON file via `--import` or `-i` CLI options. Bet you didn&apos;t see that coming! 😉</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1547510400
   description: |-
@@ -187,6 +199,7 @@ releases:
       <li>Changed body field to select all text when tabbed into.</li>
 
     </ul>
+
 - version: 0.9.3
   unix-timestamp: 1544227200
   description: |-
@@ -201,14 +214,15 @@ releases:
       <li>Added a new application icon.</li>
 
     </ul>
+
 - version: 0.9.2
   unix-timestamp: 1543622400
   description: |-
     <p>Initial pre-release.</p>
+
 redirect_from:
   - /com.github.bytepixie.snippetpixie.desktop/
 ---
-
 <p>Save your often used text snippets and then expand them whenever you type their abbreviation.</p>
 <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
 <p>For non-accessible applications such as browsers and Electron apps, there&apos;s a shortcut (default is Ctrl+`) for opening a search window that pastes the selected snippet.</p>

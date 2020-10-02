@@ -1,10 +1,10 @@
 ---
-app_id: com.github.torikulhabib.nino
+app_id: "com.github.torikulhabib.nino"
 title: "Nino"
 summary: "A Widgets network monitor"
 developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/nino"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-1_orig.png
@@ -42,6 +42,7 @@ releases:
       <li>Updated Dutch translation bt Heimen Stoffels.</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1554681600
   description: |-
@@ -60,14 +61,15 @@ releases:
       <li>Only Miniwindow and Close Widget.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1541548800
   description: |-
     <p>Hello Juno!</p>
+
 redirect_from:
   - /com.github.torikulhabib.nino.desktop/
 ---
-
 <p>An internet speed monitor</p>
 <p>Features:</p>
 <ul>

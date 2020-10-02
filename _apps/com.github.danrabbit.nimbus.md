@@ -1,10 +1,10 @@
 ---
-app_id: com.github.danrabbit.nimbus
+app_id: "com.github.danrabbit.nimbus"
 title: "Nimbus"
 summary: "See outside without going there"
 developer: "Daniel Foré"
 homepage: "http://danielfore.com"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.nimbus/CE52828F7F5DCB246833F75E1DE0EC58/screenshots/image-1_orig.png
@@ -31,10 +31,10 @@ releases:
       <li>Bug fixes and stability improvements</li>
 
     </ul>
+
 redirect_from:
   - /com.github.danrabbit.nimbus.desktop/
 ---
-
 <p>See the current temperature and weather conditions for your location with this minimal color-changing applet.</p>
 <ul>
   <li>Click anywhere to fetch the latest weather</li>

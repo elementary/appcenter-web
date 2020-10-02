@@ -1,5 +1,5 @@
 ---
-app_id: com.github.aggalex.contacts
+app_id: "com.github.aggalex.contacts"
 title: "Contacts"
 summary: "Manage your contacts"
 developer: "Alex Angelou"
@@ -19,10 +19,10 @@ price: 0
 releases:
 - version: 1.0.3
   unix-timestamp: 1565740800
+
 redirect_from:
   - /com.github.aggalex.contacts.desktop/
 ---
-
 <p>A simple contacts manager, tailored for elementary OS. Its features include:</p>
 <ul>
   <li>Autosaving of contact information changes</li>

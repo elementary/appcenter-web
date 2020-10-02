@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.screencast
+app_id: "com.github.artemanufrij.screencast"
 title: "Screencast"
 summary: "A simple screen recorder"
 developer: "Artem Anufrij"
@@ -36,6 +36,7 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1532390400
   description: |-
@@ -46,6 +47,7 @@ releases:
       <li>Japanese (by Ryo Nakano)</li>
 
     </ul>
+
 - version: 0.2.4
   unix-timestamp: 1522368000
   description: |-
@@ -66,6 +68,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 0.2.3
   unix-timestamp: 1520640000
   description: |-
@@ -90,6 +93,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 0.2.2
   unix-timestamp: 1520208000
   description: |-
@@ -118,10 +122,10 @@ releases:
       <li>Spanish (by Juan Velandia)</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.screencast.desktop/
 ---
-
 <p>Screencast makes it simple to record your screen for making something like video tutorials</p>
 <ul>
   <li>Record the whole screen</li>

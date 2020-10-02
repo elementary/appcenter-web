@@ -1,5 +1,5 @@
 ---
-app_id: com.github.cassidyjames.principles
+app_id: "com.github.cassidyjames.principles"
 title: "Principles"
 summary: "Remember Dieter Rams' ten principles of good design"
 developer: "Cassidy James Blaede"
@@ -26,22 +26,27 @@ releases:
     <p>Code cleanup and organization</p>
 
     <p>Updated French translations thanks to Nathan Bonnemains</p>
+
 - version: 1.2.2
   unix-timestamp: 1548720000
   description: |-
     <p>Fix runtime crash due to incorrect schema</p>
+
 - version: 1.2.1
   unix-timestamp: 1548374400
   description: |-
     <p>Under-the-hood AppStream data fixes</p>
+
 - version: 1.2.0
   unix-timestamp: 1548374400
   description: |-
     <p>Principles is now translatable and has been translated to French (thanks, @NathanBnm!)</p>
+
 - version: 1.1.3
   unix-timestamp: 1546560000
   description: |-
     <p>Happy new year! This release contains AppData fixes.</p>
+
 - version: 1.1.2
   unix-timestamp: 1530316800
   description: |-
@@ -54,6 +59,7 @@ releases:
       <li>Build for Juno</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1527984000
   description: |-
@@ -68,14 +74,15 @@ releases:
       <li>Under-the-hood improvements</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1527897600
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.cassidyjames.principles.desktop/
 ---
-
 <p>According to Dieter Rams, good design is innovative, makes a product useful, is aesthetic, makes a product understandable, is unobtrusive, is honest, is long-lasting, is thorough down to the last detail, is environmentally-friendly, and is as little design as possible.</p>
 <p>Get a simple reminder of one of these principles each time you open the app.</p>
 <ul>

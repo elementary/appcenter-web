@@ -1,10 +1,10 @@
 ---
-app_id: com.github.jeremyvaartjes.subminder
+app_id: "com.github.jeremyvaartjes.subminder"
 title: "SubMinder"
 summary: "Keep tabs on your subscriptions"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-1_orig.png
@@ -32,6 +32,7 @@ releases:
       <li>Icon now resembles gold coin</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1556150400
   description: |-
@@ -48,6 +49,7 @@ releases:
       <li>The add subscription window now has a search field and items in the list are sorted.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1554595200
   description: |-
@@ -58,6 +60,7 @@ releases:
       <li>Created a proper app description.</li>
 
     </ul>
+
 - version: 1.0
   unix-timestamp: 1553990400
   description: |-
@@ -66,9 +69,9 @@ releases:
       <li>Initial Release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.jeremyvaartjes.subminder.desktop/
 ---
-
 <p>SubMinder can help you track what subscriptions are due when. You can create a list of your subscriptions and when a payment is upcoming you can get a notification with what subscription payment is coming up and how much it will cost.</p>
 <p>SubMinder also provides you with how much you are paying on average per month. This can help you better manage what subscriptions you should keep paying to manage your budget. Subscriptions in a currency different to yours will be converted to your currency so that you can have a better picture of what you pay.</p>

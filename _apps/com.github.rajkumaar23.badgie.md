@@ -1,5 +1,5 @@
 ---
-app_id: com.github.rajkumaar23.badgie
+app_id: "com.github.rajkumaar23.badgie"
 title: "Badgie"
 summary: "Badges for your android app's README"
 developer: "Rajkumar S"
@@ -25,6 +25,7 @@ releases:
       <li>Add Portuguese translation (@rottenpants466 | André Barata) 🇵🇹</li>
 
     </ul>
+
 - version: 0.2.2
   unix-timestamp: 1597536000
   description: |-
@@ -33,6 +34,7 @@ releases:
       <li>Add Dutch translation (@Vistaus | Heimen Stoffels) 🇳🇱</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1594944000
   description: |-
@@ -45,8 +47,8 @@ releases:
       <li>Set a consistent badge height ↕️</li>
 
     </ul>
+
 redirect_from:
   - /com.github.rajkumaar23.badgie.desktop/
 ---
-
 <p>Say NO to hardcoding! Generate badges for your android app&apos;s README with realtime data from Google Playstore such as Version, Number of Installs, Rating etc</p>

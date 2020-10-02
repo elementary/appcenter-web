@@ -1,5 +1,5 @@
 ---
-app_id: com.github.luizaugustomm.tomato.desktop
+app_id: "com.github.luizaugustomm.tomato.desktop"
 title: "Tomato"
 summary: "Keep focused on your work"
 developer: "Tomato Team"
@@ -28,6 +28,7 @@ releases:
       <li>Updated URLs</li>
 
     </ul>
+
 - version: 2.0.1
   unix-timestamp: 1496534400
   description: |-
@@ -36,6 +37,7 @@ releases:
       <li>Solved app center issues</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1496361600
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>Bug fixes</li>
 
     </ul>
+
 - version: 1.2.8
   unix-timestamp: 1493424000
   description: |-
@@ -58,6 +61,7 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 1.2.7
   unix-timestamp: 1491868800
   description: |-
@@ -66,6 +70,7 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 1.2.6
   unix-timestamp: 1491782400
   description: |-
@@ -74,8 +79,10 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 1.2.5
   unix-timestamp: 1491609600
+
 - version: 1.2.4
   unix-timestamp: 1491609600
   description: |-
@@ -86,8 +93,10 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1491436800
+
 - version: 1.2.2
   unix-timestamp: 1491436800
   description: |-
@@ -100,8 +109,8 @@ releases:
       <li>Integration with AppCenter</li>
 
     </ul>
+
 redirect_from:
   - /com.github.luizaugustomm.tomato.desktop/
 ---
-
 <p>Tomato is a clean, easy-to-use time manager based on Pomodoro technique. It breaks down work into intervals to keep you focused and allows you to rest during strategic periods to reward your progress. It is a must-have app if you need to avoid procrastination.</p>

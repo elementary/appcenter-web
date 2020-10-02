@@ -1,5 +1,5 @@
 ---
-app_id: com.github.akiraux.akira
+app_id: "com.github.akiraux.akira"
 title: "Akira"
 summary: "The Linux Design Tool"
 developer: "Alessandro Castellani"
@@ -44,6 +44,7 @@ releases:
       <li>General code improvements and optimization.</li>
 
     </ul>
+
 - version: 0.0.12
   unix-timestamp: 1597190400
   description: |-
@@ -64,6 +65,7 @@ releases:
       <li>Updated goocanvas vapi.</li>
 
     </ul>
+
 - version: 0.0.11
   unix-timestamp: 1596499200
   description: |-
@@ -82,6 +84,7 @@ releases:
       <li>So many crashes and missing features you wouldn&apos;t believe, but hey, this is an experimental alpha…</li>
 
     </ul>
+
 - version: 0.0.1-alpha
   unix-timestamp: 1596412800
   description: |-
@@ -100,6 +103,7 @@ releases:
       <li>So many crashes and missing features you wouldn&apos;t believe, but hey, this is an experimental alpha…</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1596326400
   description: |-
@@ -118,10 +122,10 @@ releases:
       <li>So many crashes and missing features you wouldn&apos;t believe, but hey, this is an experimental alpha…</li>
 
     </ul>
+
 redirect_from:
   - /com.github.akiraux.akira.desktop/
 ---
-
 <p>A modern UX Design Application for UI and UX Designers</p>
 <p>⚠ WARNING! Akira is still under development and not ready for production. Missing features, random bugs, and black holes opening in your kitchen are to be expected.</p>
 <p>Akira is a native Linux Design application built in Vala and Gtk. Akira focuses on offering a modern and fast approach to UI and UX Design, mainly targeting web and graphic designers. The main goal is to offer a valid and professional solution for designers who want to use Linux as their main OS.</p>

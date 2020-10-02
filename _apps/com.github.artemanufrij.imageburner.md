@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.imageburner
+app_id: "com.github.artemanufrij.imageburner"
 title: "Image Burner"
 summary: "Inspired by Etcher's UI"
 developer: "Artem Anufrij"
@@ -41,6 +41,7 @@ releases:
       <li>French (by Nathan Bonnemains)</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1540339200
   description: |-
@@ -51,6 +52,7 @@ releases:
       <li>Portuguese Brazilian (by leavitals)</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1537747200
   description: |-
@@ -71,8 +73,10 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1532390400
+
 - version: 0.1.16
   unix-timestamp: 1523750400
   description: |-
@@ -83,6 +87,7 @@ releases:
       <li>Wording while writing an iso.</li>
 
     </ul>
+
 - version: 0.1.15
   unix-timestamp: 1522368000
   description: |-
@@ -93,6 +98,7 @@ releases:
       <li>Polish (by DanyGee)</li>
 
     </ul>
+
 - version: 0.1.14
   unix-timestamp: 1521936000
   description: |-
@@ -123,6 +129,7 @@ releases:
       <li>Spanish (by Adolfo Jayme-Barrientos)</li>
 
     </ul>
+
 - version: 0.1.12
   unix-timestamp: 1519948800
   description: |-
@@ -141,6 +148,7 @@ releases:
       <li>Polish (by DanyGee)</li>
 
     </ul>
+
 - version: 0.1.10
   unix-timestamp: 1517788800
   description: |-
@@ -153,6 +161,7 @@ releases:
       <li>Russian (by Camellan)</li>
 
     </ul>
+
 - version: 0.1.9
   unix-timestamp: 1514592000
   description: |-
@@ -163,6 +172,7 @@ releases:
       <li>Show spinner while checksum hash is being calculated</li>
 
     </ul>
+
 - version: 0.1.8
   unix-timestamp: 1512432000
   description: |-
@@ -173,6 +183,7 @@ releases:
       <li>Show checksum after choosing an iso or img file</li>
 
     </ul>
+
 - version: 0.1.7
   unix-timestamp: 1509840000
   description: |-
@@ -185,8 +196,8 @@ releases:
       <li>French (by nvivant)</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.imageburner.desktop/
 ---
-
 <p>Burn images (as example: .iso or .img) to removable devices like usb disk or sd card</p>

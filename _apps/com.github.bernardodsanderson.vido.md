@@ -1,10 +1,10 @@
 ---
-app_id: com.github.bernardodsanderson.vido
+app_id: "com.github.bernardodsanderson.vido"
 title: "VIDO"
 summary: "Online Video Downloader"
 developer: "Bernardo Anderson"
 homepage: "http://github.com/bernardodsanderson/vido"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/screenshots/image-1_orig.png
@@ -24,10 +24,12 @@ releases:
     <p>Spanish Translation (thanks riesp)</p>
 
     <p>Travis CI integration (thanks meisenzahl)</p>
+
 - version: 1.3.0
   unix-timestamp: 1561248000
   description: |-
     <p>App refactoring (thanks ryonakano)</p>
+
 - version: 1.2.8
   unix-timestamp: 1559692800
   description: |-
@@ -40,12 +42,14 @@ releases:
     <p>Update French translation (thanks NathanBnm)</p>
 
     <p>Remove unneeded files (thanks ryonakano)</p>
+
 - version: 1.2.7
   unix-timestamp: 1551398400
   description: |-
     <p>Update app category</p>
 
     <p>Fix window getting too big due to error messages (thank you ryonakano)</p>
+
 - version: 1.2.4
   unix-timestamp: 1550275200
   description: |-
@@ -54,18 +58,20 @@ releases:
     <p>Add French translation (thank you NathanBnm)</p>
 
     <p>Make &apos;Get Video Info&apos; button will be disabled if there&apos;s no url (thank you ryonakano)</p>
+
 - version: 1.2.3
   unix-timestamp: 1549843200
   description: |-
     <p>Make App Translatable</p>
 
     <p>Add License</p>
+
 - version: 1.2.2
   unix-timestamp: 1547078400
   description: |-
     <p>Fix audio download issues</p>
+
 redirect_from:
   - /com.github.bernardodsanderson.vido.desktop/
 ---
-
 <p>Download online videos from various sources including archive.org and much more!</p>

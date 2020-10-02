@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.beemy
+app_id: "com.github.lainsce.beemy"
 title: "Beemy"
 summary: "A cute little Body Mass Index calculator"
 developer: "Lains"
 homepage: "https://github.com/lainsce/beemy/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/screenshots/image-1_orig.png
@@ -30,6 +30,7 @@ releases:
       <li>Small fixes</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1552608000
   description: |-
@@ -40,6 +41,7 @@ releases:
       <li>French translation</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1542326400
   description: |-
@@ -50,6 +52,7 @@ releases:
       <li>Fix: Obese/Overweight labels mixup fixed, now follows the BMI chart</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1538265600
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>Use Centimeters for height!</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1537488000
   description: |-
@@ -74,6 +78,7 @@ releases:
       <li>New polished icon</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1536883200
   description: |-
@@ -84,10 +89,10 @@ releases:
       <li>First release!</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.beemy.desktop/
 ---
-
 <p>A cute little Body Mass Index calculator for health tracking purposes</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

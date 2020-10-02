@@ -1,10 +1,10 @@
 ---
-app_id: com.github.torikulhabib.mindi
+app_id: "com.github.torikulhabib.mindi"
 title: "Mindi"
 summary: "A simple Video to Audio converter"
 developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/mindi"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-1_orig.png
@@ -43,6 +43,7 @@ releases:
       <li>Updated Dutch translation bt Heimen Stoffels.</li>
 
     </ul>
+
 - version: 1.5.5
   unix-timestamp: 1544486400
   description: |-
@@ -61,6 +62,7 @@ releases:
       <li>Icon input.</li>
 
     </ul>
+
 - version: 1.4.1
   unix-timestamp: 1543276800
   description: |-
@@ -85,6 +87,7 @@ releases:
       <li>Change spiner to Progress.</li>
 
     </ul>
+
 - version: 1.2.5
   unix-timestamp: 1543104000
   description: |-
@@ -97,6 +100,7 @@ releases:
       <li>Change spiner to Progress.</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1542672000
   description: |-
@@ -113,14 +117,15 @@ releases:
       <li>Add file audio.</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1541548800
   description: |-
     <p>Hello Juno!</p>
+
 redirect_from:
   - /com.github.torikulhabib.mindi.desktop/
 ---
-
 <p>Option to quickly convert to audio.</p>
 <p>Features:</p>
 <ul>

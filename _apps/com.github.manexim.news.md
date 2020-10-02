@@ -1,10 +1,10 @@
 ---
-app_id: com.github.manexim.news
+app_id: "com.github.manexim.news"
 title: "News Feed"
 summary: "The best news sources, all in one place"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/screenshots/image-1_orig.png
@@ -51,6 +51,7 @@ releases:
       <li>German (by meisenzahl)</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1573344000
   description: |-
@@ -73,6 +74,7 @@ releases:
       <li>Set title in HeaderBar</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1572998400
   description: |-
@@ -95,6 +97,7 @@ releases:
       <li>Updated the description</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1572998400
   description: |-
@@ -117,6 +120,7 @@ releases:
       <li>Updated name as requested for AppCenter</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1572739200
   description: |-
@@ -139,12 +143,13 @@ releases:
       <li>Remove unregistered desktop file category</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1572739200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.manexim.news.desktop/
 ---
-
 <p>Read the latest headlines and get coverage of current events. Read engaging stories on the topics that interest you.</p>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.parnold-x.timer
+app_id: "com.github.parnold-x.timer"
 title: "Timer"
 summary: "The ultimate tea timer"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/timer"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/screenshots/image-1_orig.png
@@ -25,18 +25,20 @@ releases:
     <p>New icon by Faith20</p>
 
     <p>Some bugfixes</p>
+
 - version: 0.3.0
   unix-timestamp: 1563494400
   description: |-
     <p>Release for Juno</p>
+
 - version: 0.2.0
   unix-timestamp: 1512086400
   description: |-
     <p>This release adds float parsing. So now you can also enter e.g. 3.5 for 3 minutes and 30 seconds</p>
+
 redirect_from:
   - /com.github.parnold-x.timer.desktop/
 ---
-
 <p>The ultimate tea timer you searched for.</p>
 <ul>
   <li>Start a timer with natural language input like e.g. 5 minutes 15 seconds or 5m3s or just 5 for 5 minutes</li>

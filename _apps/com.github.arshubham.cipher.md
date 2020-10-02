@@ -1,5 +1,5 @@
 ---
-app_id: com.github.arshubham.cipher
+app_id: "com.github.arshubham.cipher"
 title: "Cipher"
 summary: "Encode and decode text"
 developer: "Shubham Arora"
@@ -33,6 +33,7 @@ releases:
       <li>Add Spanish and Galician translations. Thanks @riesp (https://github.com/riesp)</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1568505600
   description: |-
@@ -45,6 +46,7 @@ releases:
       <li>Added SHA384 and SHA512 Hash Functions</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1549065600
   description: |-
@@ -57,6 +59,7 @@ releases:
       <li>Added French Tranlations. Thanks @NathanBnm (https://github.com/NathanBnm)</li>
 
     </ul>
+
 - version: 0.1.6
   unix-timestamp: 1527206400
   description: |-
@@ -67,6 +70,7 @@ releases:
       <li>Add Hashing Functions</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1515974400
   description: |-
@@ -77,14 +81,15 @@ releases:
       <li>Fixes in .desktop file</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1515974400
   description: |-
     <p>Appdata and minor language fixes</p>
+
 redirect_from:
   - /com.github.arshubham.cipher.desktop/
 ---
-
 <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>
 <p>Note:Nota:Remarque :Nota:Note:Note:Note: This application does not actually encrypt files. This was made just to encipher strings. Have fun!</p>
 <p>Available Ciphers</p>

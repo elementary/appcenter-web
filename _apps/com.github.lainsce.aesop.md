@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.aesop
+app_id: "com.github.lainsce.aesop"
 title: "Aesop"
 summary: "The simplest PDF viewer around"
 developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/1A57AEE6DEC1260AE32CD28C9416D5F8/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Added: New UI handling of PDF pages, and maximization is possible now.</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1583193600
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Fixed: Major crash when opening PDFs.</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1580342400
   description: |-
@@ -47,6 +49,7 @@ releases:
       <li>Minor backend fixes.</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1579046400
   description: |-
@@ -59,6 +62,7 @@ releases:
       <li>Added: Translations.</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1564963200
   description: |-
@@ -71,6 +75,7 @@ releases:
       <li>Fixed: Page size now takes advantage of the window to size itself.</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1556236800
   description: |-
@@ -85,6 +90,7 @@ releases:
       <li>Fixed: Some translations weren&apos;t working.</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1552608000
   description: |-
@@ -95,6 +101,7 @@ releases:
       <li>French Translation.</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1538697600
   description: |-
@@ -105,6 +112,7 @@ releases:
       <li>Added new &quot;Live Mode&quot; setting in the preferences menu.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1534291200
   description: |-
@@ -115,6 +123,7 @@ releases:
       <li>Set the page button to only be interactable when actually opening PDFs.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1530662400
   description: |-
@@ -129,6 +138,7 @@ releases:
       <li>Fix maximization on small screens.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1529625600
   description: |-
@@ -143,6 +153,7 @@ releases:
       <li>Added a way to zoom in/out in the main menu.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1529625600
   description: |-
@@ -153,10 +164,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.aesop.desktop/
 ---
-
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.ma1onso.quotes
+app_id: "com.github.ma1onso.quotes"
 title: "Forismatic"
 summary: "Quotes for daily inspiration"
 developer: "Alonso Enrique"
 homepage: "https://github.com/ma1onso"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Fix author (@Fatih20)</li>
 
     </ul>
+
 - version: 0.9.1
   unix-timestamp: 1547424000
   description: |-
@@ -39,6 +40,7 @@ releases:
       <li>Thanks also to:  @meisenzahl, @NathanBnm, @ryonakano @JMoerman for translations and bugfixes</li>
 
     </ul>
+
 - version: 0.8.0
   unix-timestamp: 1546300800
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Update screenshot</li>
 
     </ul>
+
 - version: 0.5.6
   unix-timestamp: 1507680000
   description: |-
@@ -63,10 +66,10 @@ releases:
       <li>Fix AppStream screenshot reference</li>
 
     </ul>
+
 redirect_from:
   - /com.github.ma1onso.quotes.desktop/
 ---
-
 <p>Get random quotes for daily inspiration, share and get another quotes ;), be happy.</p>
 <ul>
   <li>Get random quotes</li>

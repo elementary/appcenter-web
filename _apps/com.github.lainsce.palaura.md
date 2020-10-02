@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.palaura
+app_id: "com.github.lainsce.palaura"
 title: "Palaura"
 summary: "Find any word's definition with this handy dictionary"
 developer: "Lains"
 homepage: "https://github.com/lainsce/palaura/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/5C002768525211937EBCB0CCD72EFBBA/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Added: Dark mode.</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1581033600
   description: |-
@@ -41,6 +42,7 @@ releases:
       <li>Minor fixes.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1561852800
   description: |-
@@ -57,6 +59,7 @@ releases:
     is free of price while I do this.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1552608000
   description: |-
@@ -67,6 +70,7 @@ releases:
       <li>French translation and some fixes.</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1531699200
   description: |-
@@ -77,6 +81,7 @@ releases:
       <li>Initial update for Juno</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1510876800
   description: |-
@@ -89,6 +94,7 @@ releases:
       <li>Small UI changes to look even more like a real dictionary</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1510444800
   description: |-
@@ -99,6 +105,7 @@ releases:
       <li>Port to Oxford API for the Dictionary</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1505347200
   description: |-
@@ -109,6 +116,7 @@ releases:
       <li>Some AppCenter fixes</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1505347200
   description: |-
@@ -121,10 +129,10 @@ releases:
       <li>Some AppCenter fixes</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.palaura.desktop/
 ---
-
 <p>Find any word&apos;s definition, and details about it, with this handy dictionary by your side</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

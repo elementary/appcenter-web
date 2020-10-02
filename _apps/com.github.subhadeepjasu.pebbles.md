@@ -1,5 +1,5 @@
 ---
-app_id: com.github.subhadeepjasu.pebbles
+app_id: "com.github.subhadeepjasu.pebbles"
 title: "Pebbles"
 summary: "Perform advanced calculations with ease"
 developer: "Subhadeep Jasu"
@@ -36,6 +36,7 @@ releases:
       <li>[Core] Implicit multiplication on parenthesis and around variable (x)</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1592611200
   description: |-
@@ -58,6 +59,7 @@ releases:
       <li>[UI] Better clipboard system for Scientific, Calculus, Statistics and converters</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1584662400
   description: |-
@@ -98,6 +100,7 @@ releases:
       <li>[Controls] Use Escape Key to close dialogues</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1583020800
   description: |-
@@ -108,6 +111,7 @@ releases:
       <li>[Converter] Override conversion precision based on unit for Currency and Data converter</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1582934400
   description: |-
@@ -130,14 +134,15 @@ releases:
       <li>[Translations]  Add more translatable strings</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1582848000
   description: |-
     <p>Initial Release</p>
+
 redirect_from:
   - /com.github.subhadeepjasu.pebbles.desktop/
 ---
-
 <p>An advanced calculator that helps you with complicated calculations in your homework</p>
 <p>Features:</p>
 <ul>

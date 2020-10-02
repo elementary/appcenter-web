@@ -4,7 +4,7 @@ Version: '0.10'
 Origin: appcenter-xenial-main
 MediaBaseUrl: https://appstream.elementary.io/appcenter/media/xenial
 Priority: 13
-Time: 20190207T041040
+Time: 20201002T203449
 ---
 Type: desktop-application
 ID: com.github.sgpthomas.hourglass.desktop
@@ -893,11 +893,31 @@ Type: desktop-application
 ID: com.github.davidmhewitt.clipped
 Package: com.github.davidmhewitt.clipped
 Name:
+  fr: Clipped
   C: Clipped
+  en_AU: Clipped
+  ja: Clipped
+  en_GB: Clipped
+  en_CA: Clipped
 Summary:
+  fr: Gérez facilement votre presse-papiers
   C: Manage your clipboard with ease
+  en_AU: Manage your clipboard with ease
+  ja: クリップボードを簡単に管理します
+  en_GB: Manage your clipboard with ease
+  en_CA: Manage your clipboard with ease
 Description:
+  fr: >-
+    <p>Conservez et recherchez dans votre historique du presse-papiers, copiez d&apos;anciens éléments rapidement et facilement.</p>
   C: >-
+    <p>Keep and search your clipboard history and paste old items quickly and easily.</p>
+  en_AU: >-
+    <p>Keep and search your clipboard history and paste old items quickly and easily.</p>
+  ja: >-
+    <p>クリップボードの履歴を維持、検索し、古い項目を素早く簡単に貼り付けます。</p>
+  en_GB: >-
+    <p>Keep and search your clipboard history and paste old items quickly and easily.</p>
+  en_CA: >-
     <p>Keep and search your clipboard history and paste old items quickly and easily.</p>
 DeveloperName:
   C: David Hewitt
@@ -910,22 +930,72 @@ Categories:
 - Utility
 - TextTools
 Keywords:
-  C:
-  - Clipboard
-  - Manager
-  - History
-  - Copy
-  - Paste
   lt:
   - Iškarpinė
   - Tvarkytuvė
   - Istorija
   - Kopijuoti
   - Įdėti
+  ja:
+  - Clipboard
+  - Manager
+  - History
+  - Copy
+  - Paste
+  - クリップボード
+  - 管理
+  - マネージャー
+  - 履歴
+  - コピー
+  - 貼り付け
+  - ペースト
+  C:
+  - Clipboard
+  - Manager
+  - History
+  - Copy
+  - Paste
+  en_CA:
+  - Clipboard
+  - Manager
+  - History
+  - Copy
+  - Paste
+  es:
+  - Portapapeles
+  - Gestor
+  - Historial
+  - Copiar
+  - Pegar
+  fr:
+  - Presse-papiers
+  - Gestionnaire
+  - Historique
+  - Copier
+  - Coller
+  en_GB:
+  - Clipboard
+  - Manager
+  - History
+  - Copy
+  - Paste
+  ca:
+  - Porta-retalls
+  - Gestor
+  - Historial
+  - Copiar
+  - Enganxar
+  en_AU:
+  - Clipboard
+  - Manager
+  - History
+  - Copy
+  - Paste
 Url:
   homepage: https://github.com/davidmhewitt/clipped
   bugtracker: https://github.com/davidmhewitt/clipped/issues
   help: https://github.com/davidmhewitt/clipped/issues
+  translate: https://github.com/davidmhewitt/clipped/tree/master/po
 Icon:
   cached:
   - name: com.github.davidmhewitt.clipped_com.github.davidmhewitt.clipped.png
@@ -941,37 +1011,79 @@ Icon:
 Launchable:
   desktop-id:
   - com.github.davidmhewitt.clipped.desktop
+Provides:
+  binaries:
+  - com.github.davidmhewitt.clipped
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_1248x906.png
+  - url: com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_1248x906.png
     width: 1248
     height: 906
-  - url: com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_752x546.png
+  - url: com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_752x546.png
     width: 752
     height: 546
-  - url: com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_624x453.png
+  - url: com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_624x453.png
     width: 624
     height: 453
-  - url: com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_224x162.png
+  - url: com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_224x162.png
     width: 224
     height: 162
   source-image:
-    url: com/github/davidmhewitt.clipped/F7B4DFBE224C24E81ED2DBF43328D5BF/screenshots/image-1_orig.png
+    url: com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_orig.png
     width: 1536
     height: 1116
 Releases:
-- {}
-- {}
-- {}
-- version: 1.0.0
-  unix-timestamp: 1500076800
-  urgency: medium
+- version: 1.1.1
+  unix-timestamp: 1557878400
   description:
     C: >-
       <ul>
-        <li>Initial release</li>
+        <li>Possible fixes for opening Clipped with shortcut</li>
+        <li>Added HiDPI icons</li>
+        <li>Fix for occasional crash when deleting items</li>
+        <li>Updated translations</li>
       </ul>
+- version: 1.1.0
+  unix-timestamp: 1557532800
+  description:
+    C: >-
+      <ul>
+        <li>You can now delete clipboard entries with the delete key</li>
+        <li>Typing numbers is now possible while the search bar is focused</li>
+        <li>Updated Spanish and Catalan translations by @fitojb</li>
+        <li>Update French translations by @NathanBnm</li>
+        <li>Add Japanese translations by @ryonakano</li>
+      </ul>
+ContentRating:
+  oars-1.1:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    violence-desecration: none
+    violence-slavery: none
+    violence-worship: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    social-chat: none
+    social-info: mild
+    social-audio: none
+    social-location: none
+    social-contacts: none
+    money-purchasing: none
+    money-gambling: none
 Custom:
   x-appcenter-stripe: pk_live_udV1gtwCOlzKm5Wvk1q9ke72
   x-appcenter-color-primary: '#e3bab1'
@@ -2831,23 +2943,21 @@ Custom:
   x-appcenter-color-primary-text: '#333333'
 ---
 Type: desktop-application
-ID: com.github.cjfloss.envelope.desktop
+ID: com.github.cjfloss.envelope
 Package: com.github.cjfloss.envelope
 Name:
   C: Envelope
 Summary:
   C: Personal budget manager
+  lt: Asmeninio biudžeto tvarkytuvė
 Description:
   C: >-
-    <p>Maintain your personal budget by using the tried-and-true envelope system.</p>
+    <p>Maintain your personal budget by using the tried-and-true envelope system.
+           Designate spending categories (envelopes) and distribute your monthly income into them.
+           Configure accounts where you record all your transactions, then assign each of them to a category.</p>
+    <p>Originally made by Nicolas Laplante.</p>
 
-    <p>Designate spending categories (envelopes) and distribute your monthly income into them.</p>
-
-    <p>Configure accounts where you record all your transactions, then assign each of them to a category.</p>
-
-    <p>Originaly made by Nicolas Laplante.</p>
-
-    <p>Features</p>
+    <p>Features:</p>
 
     <ul>
       <li>Envelope system budget workflow</li>
@@ -2863,12 +2973,18 @@ Categories:
 - Office
 - Utility
 - Finance
+- Office
+- Utility
+- Finance
 Keywords:
   C:
   - Budget
   - Money
+  lt:
+  - Biudžetas
+  - Pinigai
 Url:
-  homepage: https://github.com/cjfloss/envelope
+  homepage: https://cjfloss.github.io/
   bugtracker: https://github.com/cjfloss/envelope/issues
   help: https://github.com/cjfloss/envelope/issues
 Icon:
@@ -2891,88 +3007,148 @@ Provides:
   - com.github.cjfloss.envelope
 Screenshots:
 - default: true
+  caption:
+    C: Budget Overview
   thumbnails:
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-1_752x501.png
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_1248x718.png
+    width: 1248
+    height: 718
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_752x432.png
     width: 752
-    height: 501
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-1_624x416.png
+    height: 432
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_624x359.png
     width: 624
-    height: 416
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-1_224x149.png
+    height: 359
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_224x128.png
     width: 224
-    height: 149
+    height: 128
   source-image:
-    url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-1_orig.png
-    width: 1200
-    height: 800
-- default: true
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-1_orig.png
+    width: 1421
+    height: 818
+- caption:
+    C: Editing a category
   thumbnails:
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-2_752x501.png
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_1248x772.png
+    width: 1248
+    height: 772
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_752x465.png
     width: 752
-    height: 501
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-2_624x416.png
+    height: 465
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_624x386.png
     width: 624
-    height: 416
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-2_224x149.png
+    height: 386
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_224x138.png
     width: 224
-    height: 149
+    height: 138
   source-image:
-    url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-2_orig.png
-    width: 1200
-    height: 800
-- default: true
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-2_orig.png
+    width: 1342
+    height: 831
+- caption:
+    C: When you launch envelope for the first time
   thumbnails:
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-3_224x197.png
-    width: 224
-    height: 197
-  source-image:
-    url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-3_orig.png
-    width: 473
-    height: 417
-- default: true
-  thumbnails:
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-4_752x501.png
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-3_1248x704.png
+    width: 1248
+    height: 704
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-3_752x424.png
     width: 752
-    height: 501
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-4_624x416.png
+    height: 424
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-3_624x352.png
     width: 624
-    height: 416
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-4_224x149.png
+    height: 352
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-3_224x126.png
     width: 224
-    height: 149
+    height: 126
   source-image:
-    url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-4_orig.png
-    width: 1200
-    height: 800
-- default: true
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-3_orig.png
+    width: 1499
+    height: 846
+- caption:
+    C: Dialog to add an account
   thumbnails:
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-5_752x501.png
-    width: 752
-    height: 501
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-5_624x416.png
-    width: 624
-    height: 416
-  - url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-5_224x149.png
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-4_224x208.png
     width: 224
-    height: 149
+    height: 208
   source-image:
-    url: com/github/cjfloss.envelope.desktop/B0BA11C6B5EA2623A2C5868D544120E4/screenshots/image-5_orig.png
-    width: 1200
-    height: 800
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-4_orig.png
+    width: 430
+    height: 400
+- caption:
+    C: Transactions View
+  thumbnails:
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-5_1248x746.png
+    width: 1248
+    height: 746
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-5_752x449.png
+    width: 752
+    height: 449
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-5_624x373.png
+    width: 624
+    height: 373
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-5_224x133.png
+    width: 224
+    height: 133
+  source-image:
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-5_orig.png
+    width: 1500
+    height: 897
+- caption:
+    C: After creating a Account
+  thumbnails:
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-6_1248x719.png
+    width: 1248
+    height: 719
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-6_752x433.png
+    width: 752
+    height: 433
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-6_624x359.png
+    width: 624
+    height: 359
+  - url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-6_224x129.png
+    width: 224
+    height: 129
+  source-image:
+    url: com/github/cjfloss.envelope/782F57A449622B4CEFECCF5ABDF8E8AE/screenshots/image-6_orig.png
+    width: 1434
+    height: 827
 Releases:
+- version: 0.0.4
+  unix-timestamp: 1555372800
+  urgency: high
+  description:
+    C: >-
+      <p>New:</p>
+
+      <ul>
+        <li>Polish Translation (By @DanyGee)</li>
+        <li>French Translation (By @kameha)</li>
+        <li>German Translation (By Nicolas @Mondei1)</li>
+        <li>Drop SqlHeavy, use Sqlite3</li>
+      </ul>
+
+      <p>Fix:</p>
+
+      <ul>
+        <li>Use the right color on Budget overview</li>
+        <li>Fix crash while importing</li>
+        <li>Use better wording. Payee instead of Merchant</li>
+        <li>Updated markdown license file</li>
+        <li>Updated HoustonCI</li>
+      </ul>
 - version: 0.0.3
   unix-timestamp: 1518480000
   urgency: high
   description:
     C: >-
-      <p>New</p>
+      <p>New:</p>
 
       <ul>
         <li>Improved add account Dialog</li>
         <li>Improved add category Dialog</li>
       </ul>
 
-      <p>Fix</p>
+      <p>Fix:</p>
 
       <ul>
         <li>Fix crash while adding second account</li>
@@ -2985,7 +3161,7 @@ Releases:
   urgency: high
   description:
     C: >-
-      <p>Fixed some glitches</p>
+      <p>Fixed some glitches:</p>
 
       <ul>
         <li>Fix crash while removing category</li>
@@ -2998,17 +3174,47 @@ Releases:
   urgency: low
   description:
     C: >-
-      <p>First release: Testing</p>
+      <p>First release: Testing.</p>
 
-      <p>Basic functionalities</p>
+      <p>Basic functionalities:</p>
 
       <ul>
         <li>Add account</li>
         <li>Add transactions</li>
         <li>Import QIF files</li>
       </ul>
+ContentRating:
+  oars-1.0:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    violence-desecration: none
+    violence-slavery: none
+    violence-worship: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    social-chat: none
+    social-info: none
+    social-audio: none
+    social-location: none
+    social-contacts: none
+    money-purchasing: none
+    money-gambling: none
 Custom:
-  x-appcenter-suggested-price: '0'
+  x-appcenter-suggested-price: '5'
+  x-appcenter-stripe: pk_live_FBPC8j3nffIp2DolbW28nruC
   x-appcenter-color-primary: '#226324'
   x-appcenter-color-primary-text: rgb(255, 255, 255)
 ---
@@ -3297,6 +3503,11 @@ Summary:
   fr: Modifie la luminosité de l'écran
   C: Change screen's brightness
 Description:
+  fr: >-
+    <p>Au lieu de régler le rétroéclairage, cette application utilise « xrandr » pour modifier la luminosité de l&apos;image
+    affichée sur votre écran. Ceci peut être utile pour les écrans sans rétroéclairage réglable, les écrans avec un rétroéclairage
+    minimum trop lumineux ou les écrans OLED. Les configurations avec écrans multiples(4 écrans maximum) peuvent également
+    être ajustés avec des niveaux de luminosité différents.</p>
   C: >-
     <p>Instead of adjusting the backlight, this app uses `xrandr` to change the brightness of the image displayed on your
     screen.  This can be useful for displays without an adjustable backlight, displays with a too-bright minimum, or too-dark
@@ -3306,11 +3517,30 @@ DeveloperName:
   C: Panos P.
 ProjectLicense: GPL-3.0+
 Categories:
+- GTK
+- Utility
+- System
 - System
 - Utility
 - System
 - Utility
 Keywords:
+  fr:
+  - luminosité
+  - écran
+  - moniteur
+  - modifier
+  - lumière
+  - yeux
+  - dimmer
+  - interrupteur
+  - OLED
+  - rétro-éclairage
+  - affichage
+  - xrandr
+  - lumineux
+  - multi-écrans
+  - double-écran
   C:
   - brightness
   - screen
@@ -3331,6 +3561,7 @@ Url:
   homepage: https://github.com/panosx2/brightness
   bugtracker: https://github.com/panosx2/brightness/issues
   help: https://github.com/panosx2/brightness
+  donation: https://www.paypal.me/PanagiotisPanos
 Icon:
   cached:
   - name: com.github.panosx2.brightness_com.github.panosx2.brightness.png
@@ -3352,89 +3583,52 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_224x108.png
+  - url: com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/screenshots/image-1_224x108.png
     width: 224
     height: 108
   source-image:
-    url: com/github/panosx2.brightness/3AF578B5D410E1E8DC05F70DD3DC4E8B/screenshots/image-1_orig.png
+    url: com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/screenshots/image-1_orig.png
     width: 578
     height: 281
 Releases:
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- {}
-- version: 0.0.1
-  unix-timestamp: 1540252800
+- version: 1.4.30
+  unix-timestamp: 1557187200
   urgency: medium
-Custom:
-  x-appcenter-suggested-price: '2.50'
+  description:
+    C: >-
+      <ul>
+        <li>added auto-save for brightness preferences</li>
+        <li>small bugs fixed</li>
+      </ul>
+ContentRating:
+  oars-1.1:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    violence-desecration: none
+    violence-slavery: none
+    violence-worship: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    social-chat: none
+    social-info: none
+    social-audio: none
+    social-location: none
+    social-contacts: none
+    money-purchasing: none
+    money-gambling: none
 ---
 Type: desktop-application
 ID: com.github.basjam.valacompiler.desktop
@@ -4254,45 +4448,45 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-1_224x208.png
+  - url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-1_224x290.png
     width: 224
-    height: 208
+    height: 290
   source-image:
-    url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-1_orig.png
-    width: 506
-    height: 470
+    url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-1_orig.png
+    width: 452
+    height: 586
 - thumbnails:
-  - url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-2_224x208.png
+  - url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-2_224x290.png
     width: 224
-    height: 208
+    height: 290
   source-image:
-    url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-2_orig.png
-    width: 506
-    height: 470
+    url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-2_orig.png
+    width: 452
+    height: 586
 - thumbnails:
-  - url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-3_224x208.png
+  - url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-3_224x290.png
     width: 224
-    height: 208
+    height: 290
   source-image:
-    url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-3_orig.png
-    width: 506
-    height: 470
+    url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-3_orig.png
+    width: 452
+    height: 586
 - thumbnails:
-  - url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-4_224x208.png
+  - url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-4_224x290.png
     width: 224
-    height: 208
+    height: 290
   source-image:
-    url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-4_orig.png
-    width: 506
-    height: 470
+    url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-4_orig.png
+    width: 452
+    height: 586
 - thumbnails:
-  - url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-5_224x208.png
+  - url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-5_224x290.png
     width: 224
-    height: 208
+    height: 290
   source-image:
-    url: com/github/calo001.luna/4EDA4930A916DBA100CB7F3D2A88367A/screenshots/image-5_orig.png
-    width: 506
-    height: 470
+    url: com/github/calo001.luna/B59A5D15C5CD4A67902380AA732B02E0/screenshots/image-5_orig.png
+    width: 452
+    height: 586
 Releases:
 - version: 1.0.0
   unix-timestamp: 1538524800
@@ -4431,29 +4625,39 @@ Package: com.github.jmoerman.go-for-it
 Name:
   C: Go For It!
 Summary:
-  cs: Stylový úkolovník se zabudovaným časovačem produktivity
-  C: A stylish to-do list with built-in productivity timer
+  de: Eine stylische Aufgabenliste mit einem Produktivitäts Timer
   lt: Stilingas užduočių sąrašas su įtaisytu produktyvumo laikmačiu
+  mr: अंगभूत उत्पादकता टाइमरसह स्टाईलिश टू डू यादी
+  pt_BR: Temporizador de produtividade incorporado com a lista de tarefas elegante
+  sk: Štýlový zoznam úloh so vstavaným časovačom produktivity
+  pl: Stylowa lista zadań do wykonania z wbudowanym zegarem czasu pracy
+  ar: قائمة مهام أنيقة مع مؤقت إنتاجية مدمج
+  ja: 生産性を向上するタイマーを搭載した、スタイリッシュな ToDo リスト
+  C: A stylish to-do list with built-in productivity timer
+  pt: Uma lista de tarefas com um temporizador de produtividade
+  cs: Stylový úkolovník se zabudovaným časovačem produktivity
+  ru: Стильный список задач со встроенным таймером продуктивности
+  tr: Yerleşik zamanlayıcılı şık bir yapılacaklar listesi
+  fr: Une liste de tâches élégante avec chronomètre de productivité intégré
+  hr: Moderan popis zadataka s ugrađenom štopericom za mjerenje produktivnosti
+  ko: 생산성을 높일 수 있는 시관 관리와 함게하는 간지나는 일정 목록
+  it: Un elegante elenco di cose da fare con timer di produttività integrato
   nl: Een stijlvolle takenlijst met ingebouwde productiviteitstimer
 Description:
-  cs: >-
-    <p>Go Fo It! je jednoduchá a stylová aplikace pro produktivitu, obsahující úkolník sloučený s časovačem, který vám pomáhá
-    soustředit se na stávající úkol.</p>
+  mr: >-
+    <p>गो फॉर ईट! एक सोपी आणि स्टाइलिश उत्पादकता अॅप आहे, ज्यात करण्याच्या सूचीची वैशिष्ट्ये टायमरसह विलीन केली आहेत जी आपले
+    कार्य सध्याच्या कार्यांवर केंद्रित करते.</p>
 
-    <p>Seznamy úkolů jsou ukládány ve formátu Todo.txt. To zjednodušuje synchronizaci s mobilními zařízeními a umožňuje upravovat
-    úkoly pomocí jiných nadstaveb.</p>
+    <p>करण्याच्या कामाच्या याद्या Todo.txt स्वरूपनात संचयित केल्या आहेत. हे मोबाइल डिव्हाइससह सिंक्रोनाइझेशन सुलभ करते आणि
+    इतर फ्रंट-एंड्स वापरुन कार्य संपादित करणे शक्य करते.</p>
+  pl: >-
+    <p>Go For It! Prosta i stylowa aplikacja zwiększająca wydajność, zawierająca listę zadań do wykonania, połączona z timerem,
+    co pozwala skupić się na bieżącym zadaniu.</p>
 
-    <p>Pokud už používáte Todo.txt, upozorňujeme na skutečnost, že Go For It! automaticky archivuje dokončené úkoly do seznamu
-    dokončených!</p>
-  C: >-
-    <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus
-    on the current task.</p>
+    <p>List zadań do wykonania są przechowywane w formacie Todo.txt . Upraszcza to synchronizację z urządzeniami mobilnymi
+    oraz umożliwia edycję zadań za pomocą innych interfejsów.</p>
 
-    <p>To-do lists are stored in the Todo.txt format. This simplifies synchronization with mobile devices and makes it possible
-    to edit tasks using other front-ends.</p>
-
-    <p>If you already use Todo.txt, beware of the fact, that Go For It! automatically archives completed tasks to the done
-    list!</p>
+    <p>Jeśli używasz już Todo.txt, uważaj na fakt, że Go For It! automatycznie archiwizuje wykonane zadania do listy wykonanych!</p>
   lt: >-
     <p>Go For It! yra paprasta ir stilinga produktyvumo programa su užduočių sąrašu, sulietu su laikmačiu, kuris sutelkia
     jūsų dėmesį ties esama užduotimi.</p>
@@ -4463,6 +4667,112 @@ Description:
 
     <p>Jeigu jau naudojate Todo.txt, saugokitės, žinodami, jog Go For It! automatiškai archyvuoja užbaigtas užduotis į atliktų
     užduočių sąrašą!</p>
+  pt_BR: >-
+    <p>O Go For It! é um aplicativo de produtividade simples e elegante, com uma lista de tarefas a fazer, mesclada com um
+    temporizador que mantém o seu foco na tarefa atual.</p>
+
+    <p>As listas de afazeres são armazenadas no formato Todo.txt. Isso simplifica a sincronização com os dispositivos móveis
+    e torna possível editar as tarefas usando outros front-ends.</p>
+
+    <p>Caso já tenha usado um todo.txt, fique atento com o fato que o Go For It! arquiva automaticamente as tarefas concluídas
+    na lista de concluídos!</p>
+  sk: >-
+    <p>Go For It! [Choď na to!] je jednoduchá a štýlová aplikácia na zvýšenie produktivity s zoznamom úloh, zlúčená s časovačom,
+    ktorý udržuje vaše sústredenie na aktuálnu úlohu.</p>
+
+    <p>Zoznamy úloh sa ukladajú vo formáte Todo.txt. To zjednodušuje synchronizáciu s mobilnými zariadeniami a umožňuje upravovať
+    úlohy pomocou iných klientskych rozhraní.</p>
+
+    <p>Ak už používate Todo.txt, pozor na skutočnosť, že Go For It!automaticky archivuje dokončené úlohy do zoznamu hotových
+    úloh!</p>
+  de: >-
+    <p>Go For It! ist eine einfache und elegante Produktivitäts-App mit einer Aufgabenliste, die mit einem Timer zusammengeführt
+    wird, der Sie sich auf die aktuelle Aufgabe konzentriert lässt.</p>
+
+    <p>Aufgabenlisten werden im Format Todo.txt gespeichert. Dies vereinfacht die Synchronisation mit mobilen Geräten und
+    ermöglicht die Bearbeitung von Aufgaben über andere Frontends.</p>
+
+    <p>Wenn Sie Todo.txt bereits verwenden, beachten Sie, dass Go For It! automatisch erledigte Aufgaben in der erledigten
+    Liste archiviert!</p>
+  ja: >-
+    <p>Go For It! はシンプルでスタイリッシュな生産性を向上するアプリです。ToDo リストが付属し、現在のタスクへの集中を継続可能にするタイマーもあわせ持っています。</p>
+
+    <p>ToDo リストは Todo.txt に保存されます。これにより、モバイル端末との動機を容易にし、別のフロントエンドを使ってタスクを編集することを可能にします。</p>
+
+    <p>そのことをご存知で、すでに Todo.txt をお使いの場合は、Go For It! は自動的に完了したタスクを完了リストにアーカイブします！</p>
+  C: >-
+    <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus
+    on the current task.</p>
+
+    <p>To-do lists are stored in the Todo.txt format. This simplifies synchronization with mobile devices and makes it possible
+    to edit tasks using other front-ends.</p>
+
+    <p>If you already use Todo.txt, beware of the fact, that Go For It! automatically archives completed tasks to the done
+    list!</p>
+  pt: >-
+    <p>O Go For It! é uma aplicação simples de produtividade, com listas de tarefas associadas a um temporizador para se manter
+    focado na tarefa atual.</p>
+
+    <p>As listas de tarefas são guardadas no formato Todo.txt. Isto simplifica a sincronização com dispositivos móveis e torna
+    possível editar tarefas com outros programas.</p>
+
+    <p>Se já usa um ficheiro Todo.txt, note que o Go For It! altera-o, arquivando automaticamente tarefas concluídas na lista
+    de tarefas!</p>
+  cs: >-
+    <p>Go Fo It! je jednoduchá a stylová aplikace pro produktivitu, obsahující úkolník sloučený s časovačem, který vám pomáhá
+    soustředit se na stávající úkol.</p>
+
+    <p>Seznamy úkolů jsou ukládány ve formátu Todo.txt. To zjednodušuje synchronizaci s mobilními zařízeními a umožňuje upravovat
+    úkoly pomocí jiných nadstaveb.</p>
+
+    <p>Pokud už používáte Todo.txt, upozorňujeme na skutečnost, že Go For It! automaticky archivuje dokončené úkoly do seznamu
+    dokončených!</p>
+  ru: >-
+    <p>Go For It! это простое и стильное приложение продуктивности, включающее список задач, совмещенный с таймером, который
+    поможет Вам сфокусироваться на текущей задаче.</p>
+
+    <p>Если Вы уже используете Todo.txt, учтите, что Go For It! автоматически архивирует завершенные задачи в соответствующий
+    список!</p>
+  tr: >-
+    <p>Go For It! Geçerli göreve odaklanmanızı sağlayan, yerleşik zamanlayıcılı, basit ve şık bir yapılacaklar ve üretkenlik
+    uygulamasıdır.</p>
+
+    <p>Yapılacaklar listeleri Todo.txt biçiminde depolanır. Bu, mobil aygıtlarla eşitlemeyi basitleştirir ve diğer uygulamaları
+    kullanarak görevleri düzenlemeye izin verir.</p>
+
+    <p>Zaten Todo.txt kullanıyorsanız, Go For it! uygulaması tamamlanan görevleri kendiliğinden tamamlananlar listesine arşivler!</p>
+  fr: >-
+    <p>Go For It ! est une application de productivité simple et élégante, dotée d&apos;une liste de tâches à faire, fusionnée
+    avec un chronomètre qui maintiendra votre concentration sur la tâche en cours.</p>
+
+    <p>Les listes de tâches sont stockées au format Todo.txt. Ceci simplifie la synchronisation avec les appareils mobiles
+    et permet d&apos;éditer les tâches en utilisant d&apos;autres interfaces.</p>
+
+    <p>Si vous utilisez déjà Todo.txt, méfiez-vous du fait que Go For It ! archive automatiquement les tâches terminées dans
+    la liste des tâches terminées !</p>
+  hr: >-
+    <p>Obavi! je jednostavan i elegantan program za povećanje produktivnosti. S popisom zadataka i štopericom fokusira te
+    na trenutačni zadatak.</p>
+
+    <p>Popisi zadataka se spremaju u Todo.txt formatu. Time se pojednostavljuje sinkronizacija s mobilnim uređajima i omogućuje
+    uređivanje zadataka s drugim dodacima.</p>
+
+    <p>Ako već koristiš Todo.txt, misli na to, da Obavi! automatski arhivira dovršene zadatke na gotov popis!</p>
+  ko: >-
+    <p>Go For It!은 간단하고 생산성을 높일 수 있는 프로그램입니다. 일정 리스트와 함께 있는 타이머는 현재 일에 집중할 수 있도록 도와줍니다.</p>
+
+    <p>일정 목록은 Todo.txt 형식으로 저장됩니다. 이 방법은 모바일 기기와 편리하게 연동될 수 있도록 도와주고, 다른 기기를 통해서 일정을 수정을 가능하게 해줍니다.</p>
+
+    <p>Todo.txt를 사용할 준비가 되셨다면, 이거 하나만 꼭 알아두세요! Go For It!은 완료된 일정은 done list에 자동으로 기록합니다!</p>
+  it: >-
+    <p>Go For It! è un&apos;app di produttività semplice ed elegante, dotata di un elenco di cose da fare, unita ad un timer
+    che ti concentra sull&apos;attività corrente.</p>
+
+    <p>Gli elenchi di cose da fare sono memorizzati nel formato Todo.txt. Ciò semplifica la sincronizzazione con i dispositivi
+    mobili e consente di modificare le attività utilizzando altri front-end.</p>
+
+    <p>Se usi già Todo.txt, fai attenzione al fatto che Go For It! archivia automaticamente le attività completate nell&apos;elenco
+    delle operazioni eseguite!</p>
   nl: >-
     <p>Go For It! is een simpele en stijlvolle productiviteit app, met een takenlijst gecombineerd met een timer, die je laat
     focussen op uw huidige taak.</p>
@@ -4471,7 +4781,7 @@ Description:
     het mogelijk om taken te bewerken met andere front-ends.</p>
 
     <p>Als u al gebruik maakt van Todo.txt, let op het feit dat Go For It! gedane taken automatisch archiveert naar de lijst
-    van gedane taken.</p>
+    van gedane taken!</p>
 DeveloperName:
   C: The Go For It! developers
 ProjectLicense: GPL-3.0+
@@ -4479,20 +4789,14 @@ Categories:
 - Utility
 - Utility
 Keywords:
-  cs:
-  - Produktivita
-  - Todo.txt
-  - udělat
-  - časovač,úkol,PIM
-  - správa času
-  C:
-  - Productivity
-  - Todo.txt
-  - Todo
+  de:
+  - Produktivität
+  - Aufgaben.txt
+  - Aufgaben
   - Timer
-  - Task
+  - Aufgabe
   - PIM
-  - Time Management
+  - Zeitmanagement
   lt:
   - Produktyvumas
   - Užduotys.txt
@@ -4502,6 +4806,113 @@ Keywords:
   - PIM
   - Laiko paskirstymas
   - Laiko valdymas
+  mr:
+  - उत्पादकता
+  - Todo.txt
+  - कार्य
+  - टाइमर
+  - कार्य
+  - PIM
+  - वेळ व्यवस्थापन
+  pt_BR:
+  - Produtividade
+  - ' Todo.txt'
+  - ' A fazer'
+  - ' Temporizador'
+  - ' Tarefa'
+  - ' PIM'
+  - ' Gerenciamento de Tempo'
+  sk:
+  - Produktivita
+  - ' Todo.txt'
+  - ' Todo'
+  - ' Časovač'
+  - ' Úloha'
+  - ' PIM'
+  - ' Správa času'
+  pl:
+  - Produktywność
+  - Todo.txt
+  - Todo
+  - Zegar
+  - Zadanie
+  - PIM
+  - Zarządzanie czasem
+  ja:
+  - Productivity
+  - Todo.txt
+  - Todo
+  - Timer
+  - Task
+  - PIM
+  - Time Management
+  - 生産性
+  - やること
+  - すること
+  - タイマー
+  - タスク
+  - 時間管理
+  C:
+  - Productivity
+  - Todo.txt
+  - Todo
+  - Timer
+  - Task
+  - PIM
+  - Time Management
+  pt:
+  - Produtividade
+  - Tarefa
+  - Temporizador
+  - Gestão de tarefas
+  - Gestão de tempo
+  cs:
+  - Produktivita
+  - Todo.txt
+  - udělat
+  - časovač,úkol,PIM
+  - správa času
+  tr:
+  - Üretgenlik
+  - Todo.txt
+  - Todo
+  - Zamanlayıcı
+  - Görev
+  - PIM
+  - Zaman Yönetimi
+  - Yapılacaklar
+  fr:
+  - Productivité
+  - Todo.txt
+  - A faire
+  - Chronomètre
+  - Tâche
+  - PIM
+  - Gestion du temps
+  hr:
+  - Produktivnsot
+  - Todo.txt
+  - Todo
+  - Timer
+  - Zadatak
+  - PIM
+  - Upravljanje vremenom
+  ko:
+  - 생산성
+  - ' Todo.txt'
+  - ' 일정'
+  - ' 타이머'
+  - ' 과제'
+  - ' 개인 정보 관리 프로그램'
+  - ' 시관 관리'
+  it:
+  - Produttività
+  - Todo.txt
+  - Todo
+  - Timer
+  - Attività
+  - PIM
+  - Gestione dei tempi
   nl:
   - Productiviteit
   - Todo.txt
@@ -4515,7 +4926,7 @@ Url:
   bugtracker: https://github.com/JMoerman/Go-For-It/issues
   help: https://github.com/JMoerman/Go-For-It/blob/master/README.md
   donation: https://jmoerman.github.io/donate/
-  translate: https://translations.launchpad.net/go-for-it
+  translate: https://hosted.weblate.org/projects/go-for-it/
 Icon:
   cached:
   - name: com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
@@ -4534,24 +4945,162 @@ Launchable:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_1248x702.png
+  - url: com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_1248x702.png
     width: 1248
     height: 702
-  - url: com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_752x423.png
+  - url: com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_752x423.png
     width: 752
     height: 423
-  - url: com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_624x351.png
+  - url: com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_624x351.png
     width: 624
     height: 351
-  - url: com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_224x126.png
+  - url: com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_224x126.png
     width: 224
     height: 126
   source-image:
-    url: com/github/jmoerman.go-for-it/0ED9E7A4F59B6AC8CCFA09D86D7A93A0/screenshots/image-1_orig.png
+    url: com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_orig.png
     width: 1253
     height: 705
 Releases:
+- version: 1.8.2
+  type: stable
+  unix-timestamp: 1600560000
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>When switching to list overview, the previously shown list will now be selected.</li>
+        <li>Various translations have been updated (Croatian, French, German, Norwegian Bokmål, Polish, Portuguese, Slovak,
+      Turkish).</li>
+      </ul>
+- version: 1.8.1
+  type: stable
+  unix-timestamp: 1595203200
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>When using &quot;--logfile=~/something&quot;: &quot;~&quot; is now expanded.</li>
+        <li>The translations for Central Kurdish, Lithuanian and Portuguese (Brazil) have been updated.</li>
+      </ul>
+
+      <p>Bugfixes:</p>
+
+      <ul>
+        <li>The command line help now correctly shows &quot;--load LIST-TYPE LIST-ID&quot; instead of &quot;--load=LIST-TYPE
+      LIST-ID&quot;.</li>
+        <li>The active task did not properly refresh when pausing the timer after switching lists and interacting with the
+      to-do list.</li>
+      </ul>
+- version: 1.8.0
+  type: stable
+  unix-timestamp: 1593216000
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>Introduces configurable shortcuts.</li>
+        <li>Introduces an option to log the time spent working on a task (using the timer) to the todo.txt files.</li>
+        <li>A custom drag handle icon is now used instead of the &quot;view-list&quot; icon.</li>
+        <li>Go For It! now highlights the task you are currently working on with ⏰.</li>
+        <li>Changing the system clock or suspending your system will no longer affect the timer.</li>
+        <li>It is now possible to tell Go For It! how long a task should take by adding `duration:Xh-Ym` to the description
+      of a task. (Where X and Y are the number of hours and minutes respectively. For a five minute task one would need to
+      add `duration:5m`.) Go For It! will notify you when you exceed this duration. (Do not forget to enable timer logging
+      so Go For It! will know how much time you have spent working on a task after closing the application!)</li>
+        <li>Not every break (or time between breaks) has to be of the same length: You can now use Go For It! as a pomodoro
+      timer or use a custom timer schedule.</li>
+        <li>Added an option to add new tasks at the start of each list instead of appending them to the end.</li>
+        <li>Added &quot;--list&quot; and  &quot;--load &lt;id&gt;&quot; arguments to show the configured lists and load a
+      specified list respectively.</li>
+        <li>Experimental: It is now possible to log your activities to a csv file by starting Go For It! with &quot;--logfile
+      &lt;filename&gt;&quot;.</li>
+        <li>Many translations were updated.</li>
+      </ul>
+- version: 1.7.3
+  type: stable
+  unix-timestamp: 1566777600
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>Escape now cancels the editing of a task.</li>
+        <li>The following translations were updated: Turkish, German, Norwegian Bokmål, Japanese, Polish, Telugu.</li>
+      </ul>
+
+      <p>Bugfixes:</p>
+
+      <ul>
+        <li>Work around a ListBox bug which could cause situations where no row is selected even though suitable rows exist.</li>
+        <li>Keep the row focussed when the user stops editing a row.</li>
+      </ul>
+- version: 1.7.2
+  type: stable
+  unix-timestamp: 1556150400
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>Switched to weblate for translations.</li>
+        <li>Allow sorting by priority.</li>
+        <li>The following translations were updated: Portuguese, Spanish, Lithuanian, Korean, Norwegian Bokmål.</li>
+        <li>The ctrl+n shortcut was added to quickly create new tasks or lists.</li>
+      </ul>
+- version: 1.7.1
+  type: stable
+  unix-timestamp: 1552867200
+  description:
+    C: >-
+      <p>Bugfixes:</p>
+
+      <ul>
+        <li>Some widgets failed to load a fallback icon when the first attempt at loading an icon failed.</li>
+      </ul>
+- version: 1.7.0
+  type: stable
+  unix-timestamp: 1552694400
+  description:
+    C: >-
+      <p>Improvements:</p>
+
+      <ul>
+        <li>You can now have more than one to-do list.</li>
+        <li>The application design has been updated. The application now uses less vertical space if a headerbar is used.</li>
+        <li>The default stylesheet has been improved, resulting in improved looks when the application is used on elementary
+      OS.</li>
+        <li>Not using the elementary or Adwaita theme, or a theme with a similar color scheme? You can now select a different
+      stylesheet in the settings window.</li>
+      </ul>
+
+      <p>Bugfixes:</p>
+
+      <ul>
+        <li>Go For It! now properly exports that it uses notifications.</li>
+        <li>Non ascii character were not properly parsed when parsing contexts and projects.</li>
+      </ul>
+- version: 1.6.10
+  type: stable
+  unix-timestamp: 1550016000
+  description:
+    C: >-
+      <p>Bugfixes:</p>
+
+      <ul>
+        <li>Pressing delete while editing a task description would remove the task instead of removing a character.</li>
+      </ul>
+
+      <p>Improvements:</p>
+
+      <ul>
+        <li>Updated french translations.</li>
+      </ul>
 - version: 1.6.9
+  type: stable
   unix-timestamp: 1543708800
   description:
     C: >-
@@ -4567,6 +5116,7 @@ Releases:
         <li>Tasks can now be removed by pressing the delete key or by clicking a new delete button while editing a task.</li>
       </ul>
 - version: 1.6.8
+  type: stable
   unix-timestamp: 1539648000
   description:
     C: >-
@@ -4578,6 +5128,7 @@ Releases:
       the application. (Use the settings dialog if you want to use a dark theme.)</li>
       </ul>
 - version: 1.6.7
+  type: stable
   unix-timestamp: 1538697600
   description:
     C: >-
@@ -4592,41 +5143,6 @@ Releases:
 
       <ul>
         <li>Dragging a selected task could cause the timer to state that all tasks are finished.</li>
-      </ul>
-- version: 1.6.6
-  unix-timestamp: 1523923200
-  description:
-    C: >-
-      <p>Updated translations:</p>
-
-      <ul>
-        <li>Lithuanian</li>
-      </ul>
-- version: 1.6.5
-  unix-timestamp: 1519603200
-  description:
-    C: >-
-      <p>Bugfixes:</p>
-
-      <ul>
-        <li>Strings containing whitespace consisting of multiple spaces were not parsed correctly, which could lead to crashes.</li>
-      </ul>
-- version: 1.6.4
-  unix-timestamp: 1515024000
-  description:
-    C: >-
-      <p>Improvements:</p>
-
-      <ul>
-        <li>The task list and the rest of the main application window now have the same background color.</li>
-      </ul>
-
-      <p>Updated translations:</p>
-
-      <ul>
-        <li>Czech</li>
-        <li>Spanish</li>
-        <li>Japanese</li>
       </ul>
 ContentRating:
   oars-1.1:
@@ -5126,25 +5642,27 @@ Type: desktop-application
 ID: com.github.donadigo.appeditor
 Package: com.github.donadigo.appeditor
 Name:
-  ru: AppEditor
-  C: AppEditor
-  ja: AppEditor
-  es: AppEditor
+  lt: AppEditor
   pt_BR: AppEditor
+  ja: AppEditor
+  C: AppEditor
+  ru: AppEditor
+  tr: Menü Düzenleyici
+  es: AppEditor
+  fr: AppEditor
+  nl_NL: Toepassingsbewerker
+  it: AppEditor
+  ca: AppEditor
 Summary:
-  C: Edit application menu
   ja: アプリケーションメニューを編集します
+  C: Edit application menu
+  ru: Изменяйте меню приложений
+  tr: Uygulama menülerini düzenle
+  es: Editar el menú de aplicaciones
+  nl_NL: Toepassingenmenu bewerken
+  it: Modifica Menù Applicazione
+  ca: Modifiqueu el menú d’aplicacions
 Description:
-  C: >-
-    <p>Edit application entries shown in application menu and their properties.</p>
-
-    <p>Features include:</p>
-
-    <ul>
-      <li>Hide and show applications from the application menu</li>
-      <li>Create new application entries</li>
-      <li>Change application&apos;s display name, icon and more</li>
-    </ul>
   ja: >-
     <p>アプリケーションメニューに表示されるアプリケーションのエントリーとプロパティを編集します。</p>
 
@@ -5155,6 +5673,84 @@ Description:
       <li>新しいアプリケーションのエントリーを作成します</li>
       <li>アプリケーションの表示名やアイコンなどを変更します</li>
     </ul>
+  C: >-
+    <p>Edit application entries shown in application menu and their properties.</p>
+
+    <p>Features include:</p>
+
+    <ul>
+      <li>Hide and show applications from the application menu</li>
+      <li>Create new application entries</li>
+      <li>Change application&apos;s display name, icon and more</li>
+    </ul>
+  ru: >-
+    <p>Редактирование описания и свойств программ в меню приложений.</p>
+
+    <p>Доступные возможности:</p>
+
+    <ul>
+      <li>Скрытие и отображение программ в меню приложений</li>
+      <li>Создание новых записей о приложениях</li>
+      <li>Изменение отображаемого имени приложение, значка и многого другого</li>
+    </ul>
+  tr: >-
+    <p>Uygulama menüsünde gösterilen uygulama girişlerini ve özelliklerini düzenleyin.</p>
+
+    <p>Özellikler şunlardır:</p>
+
+    <ul>
+      <li>Uygulama menüsünden uygulamaları gizleme ve gösterme</li>
+      <li>Yeni uygulama girişleri oluşturma</li>
+      <li>Uygulamanın görünen adını, simgesini ve daha fazlasını değiştirin</li>
+    </ul>
+  es: >-
+    <p>Edite las entradas del menú de aplicaciones y sus propiedades.</p>
+
+    <p>Algunas de las funcionalidades son:</p>
+
+    <ul>
+      <li>Ocultar y mostrar entradas del menú de aplicaciones</li>
+      <li>Crear entradas de aplicación nuevas</li>
+      <li>Cambiar el nombre mostrado de una aplicación, su icono y más</li>
+    </ul>
+  fr: >-
+    <p>Modifiez les raccourcis et leurs propriétés dans le menu des applications.</p>
+
+    <p>Fonctionnalités incluses:</p>
+
+    <ul>
+      <li>Changer le nom d&apos;une application, son icône, etc</li>
+    </ul>
+  nl_NL: >-
+    <p>Bewerk menu-items uit het toepassingenmenu, inclusief hun eigenschappen.</p>
+
+    <p>Het bevat de volgende mogelijkheden:</p>
+
+    <ul>
+      <li>Toon en verberg items uit het toepassingenmenu</li>
+      <li>Maak nieuwe menu-items</li>
+      <li>Pas de weergavenaam, het pictogram en meer aan</li>
+    </ul>
+  it: >-
+    <p>Modifica le voci dell&apos;applicazione visualizzate nel menu le relative proprietà.</p>
+
+    <p>Funzionalità incluse:</p>
+
+    <ul>
+      <li>Mostra e nascondi le applicazioni nel Menù Applicazioni</li>
+      <li>Crea nuova voce applicazione</li>
+      <li>Cambia il nome visualizzato dell&apos;applicazione, la sua icona ed altro</li>
+    </ul>
+  ca: >-
+    <p>Modifiqueu les entrades mostrades al menú d’aplicacions i les seves propietats.</p>
+
+    <p>Funcionalitats distintives:</p>
+
+    <ul>
+      <li>Amagueu i mostreu entrades al menú d’aplicacions</li>
+      <li>Creeu-ne de noves</li>
+      <li>Canvieu el nom visible, la icona i molt més per cada aplicació</li>
+    </ul>
 DeveloperName:
   C: Adam Bieńkowski
 ProjectLicense: GPL-3.0+
@@ -5162,14 +5758,45 @@ Categories:
 - System
 - System
 Keywords:
-  C:
-  - application
-  - edit
-  - entry
   ja:
   - アプリケーション
   - 編集
   - エントリー
+  - application
+  - edit
+  - entry
+  C:
+  - application
+  - edit
+  - entry
+  ru:
+  - application
+  - edit
+  - entry
+  tr:
+  - uygulama
+  - giriş
+  - düzenleyici
+  es:
+  - aplicación
+  - editar
+  - entrada
+  fr:
+  - application
+  - modifier
+  - raccourci
+  nl_NL:
+  - toepassing
+  - bewerken
+  - item
+  ca:
+  - aplicació
+  - edició
+  - entrada
+  it:
+  - applicazione
+  - modifica
+  - voce
 Url:
   homepage: https://github.com/donadigo/appeditor
   bugtracker: https://github.com/donadigo/appeditor/issues
@@ -5195,21 +5822,39 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_752x526.png
+  - url: com/github/donadigo.appeditor/F19F284BE57C9E27370BCAE1FCFFBDA4/screenshots/image-1_752x526.png
     width: 752
     height: 526
-  - url: com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_624x436.png
+  - url: com/github/donadigo.appeditor/F19F284BE57C9E27370BCAE1FCFFBDA4/screenshots/image-1_624x436.png
     width: 624
     height: 436
-  - url: com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_224x156.png
+  - url: com/github/donadigo.appeditor/F19F284BE57C9E27370BCAE1FCFFBDA4/screenshots/image-1_224x156.png
     width: 224
     height: 156
   source-image:
-    url: com/github/donadigo.appeditor/C53BD0D4C1B88F2A01E7F4F51F7CD7A0/screenshots/image-1_orig.png
+    url: com/github/donadigo.appeditor/F19F284BE57C9E27370BCAE1FCFFBDA4/screenshots/image-1_orig.png
     width: 1000
     height: 700
 Releases:
+- version: 1.1.1
+  type: stable
+  unix-timestamp: 1587081600
+  description:
+    C: >-
+      <p>This release includes translation updates:</p>
+
+      <ul>
+        <li>Dutch translation (Heimen Stoffels)</li>
+        <li>Spanish, Catalan translation (Adolfo Jayme-Barrientos)</li>
+        <li>Japanese translation (Ryo Nakano)</li>
+        <li>French translation (Nathan Bonnemains, dabou)</li>
+        <li>Turkish translation (Serdar Sağlam)</li>
+        <li>Russian translation (Camellan)</li>
+        <li>Lithuanian translation (welaq)</li>
+        <li>Italian translation</li>
+      </ul>
 - version: 1.1.0
+  type: stable
   unix-timestamp: 1533945600
   description:
     C: >-
@@ -5239,6 +5884,7 @@ Releases:
         <li>Improper escaping of special characters in display name and description</li>
       </ul>
 - version: 1.0.0
+  type: stable
   unix-timestamp: 1515974400
   description:
     C: >-
@@ -5273,6 +5919,7 @@ Releases:
         <li>Clear the search entry when creating a new application entry</li>
       </ul>
 - version: 0.9.3
+  type: stable
   unix-timestamp: 1503187200
   description:
     C: >-
@@ -5290,16 +5937,19 @@ Releases:
         <li>The main window can be now maximized</li>
       </ul>
 - version: 0.9.2
+  type: stable
   unix-timestamp: 1502755200
   description:
     C: >-
       <p>Add meson dependency to debian packaging</p>
 - version: 0.9.1
+  type: stable
   unix-timestamp: 1502755200
   description:
     C: >-
       <p>Fix debian packaging</p>
 - version: 0.9.0
+  type: stable
   unix-timestamp: 1502755200
   description:
     C: >-
@@ -5334,6 +5984,8 @@ ContentRating:
     money-purchasing: none
     money-gambling: none
 Custom:
+  x-appcenter-suggested-price: '5'
+  x-appcenter-stripe: pk_live_kLBb0UiuMVWOwIwv1P2FBFP200JTi68T73
   x-appcenter-color-primary: '#32e3ca'
   x-appcenter-color-primary-text: '#0A332D'
 ---
@@ -5341,17 +5993,86 @@ Type: desktop-application
 ID: com.github.robertsanseries.ciano
 Package: com.github.robertsanseries.ciano
 Name:
+  lt: Ciano
+  zh_CN: Ciano
+  pt_BR: Ciano
+  pt: Ciano
   C: Ciano
+  tr: Ciano
+  es: Ciano
+  fr: Ciano
+  nl: Ciano
+  da: Ciano
 Summary:
-  pt_PT: Um conversor multimedia
-  C: A multimedia file converter
-  es: Un convertidor de archivos multimedia
-  zh_CN: 多媒体文件转换器
   lt: Daugialypės terpės failų keitiklis
+  zh_CN: 多媒体文件转换器
   pt_BR: Um conversor de arquivos multimídia
-  nl_NL: Een conversieprogramma voor multimediabestanden
+  pt: Um conversor multimedia
+  C: A multimedia file converter
+  tr: Çoklu ortam dosya dönüştürücü
+  es: Un convertidor de archivos multimedia
+  fr: Un convertisseur de fichiers multimédia
+  nl: Een conversieprogramma voor multimediabestanden
+  da: En multimediefilkonverter
 Description:
-  pt_PT: >-
+  lt: >-
+    <p>Lengviausias būdas paversti daugialypės terpės failus į populiariausius formatus.</p>
+
+    <p>Charakteristikos:</p>
+
+    <ul>
+      <li>Keleto failų konvertavimas vienu metu</li>
+      <li>Galimybė pakeisti išvesties aplanką</li>
+      <li>Pranešimų palaikymas</li>
+      <li>Programos užvėrimas bet kuriuo metu, naudojant Ctrl(Vald) + Q</li>
+    </ul>
+
+    <p>Palaiko šiuos konvertavimus:</p>
+
+    <ul>
+      <li>Vaizdo įrašai - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Garsai - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+      <li>Paveikslai - JPG, BMP, PNG, TIF, GIF, TGA</li>
+    </ul>
+  zh_CN: >-
+    <p>最简单的方式转换为您的多媒体文件转换为其它的格式.</p>
+
+    <p>特点</p>
+
+    <ul>
+      <li>同时转换多个文件</li>
+      <li>更改输出文件夹</li>
+      <li>通知支持</li>
+      <li>快速关闭Ciano快捷键 Ctrl+Q</li>
+    </ul>
+
+    <p>支持转换的文件格式:</p>
+
+    <ul>
+      <li>Vídeo - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+      <li>Imagens - JPG, BMP, PNG, TIF, GIF, TGA</li>
+    </ul>
+  pt_BR: >-
+    <p>A maneira mais fácil de converter seus arquivos multimídia para os formatos mais populares.</p>
+
+    <p>Características</p>
+
+    <ul>
+      <li>Conversão de múltiplos arquivos ao mesmo tempo</li>
+      <li>Possibilidade de alterar a pasta de saída</li>
+      <li>Suporte de notificação</li>
+      <li>Feche o aplicativo a qualquer momento com Ctrl + Q</li>
+    </ul>
+
+    <p>Suporta a conversão de:</p>
+
+    <ul>
+      <li>Vídeo - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+      <li>Imagens - JPG, BMP, PNG, TIF, GIF, TGA</li>
+    </ul>
+  pt: >-
     <p>A forma mais fácil para converter os seus ficheiros multimedia nos mais populares formatos.</p>
 
     <p>Características:</p>
@@ -5389,24 +6110,24 @@ Description:
       <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
       <li>Images - JPG, BMP, PNG, TIF, GIF, TGA</li>
     </ul>
-  nl_NL: >-
-    <p>Dé makkelijkste manier om uw multimedia-bestanden te converteren naar de populairste bestandsformaten.</p>
+  tr: >-
+    <p>Çoklu ortam dosyalarını en yaygın biçimlere dönüştürmenin en kolay yolu.</p>
 
-    <p>Karakteristieken:</p>
+    <p>Özellikleri:</p>
 
     <ul>
-      <li>Meerdere bestanden tegelijk converteren</li>
-      <li>Mogelijkheid om de uitvoermap te wijzigen</li>
-      <li>Ondersteuning voor meldingen</li>
-      <li>De mogelijkheid om de applicatie ten allen tijde af te sluiten met Ctrl+Q</li>
+      <li>Aynı anda birden fazla dosya dönüştürülebilir</li>
+      <li>Çıktı klasörünü değiştirmek mümkündür</li>
+      <li>Bildirim desteği vardır</li>
+      <li>Ctrl + Q kısayolu ile uygulamadan dilediğiniz zamanda çıkabilirsiniz</li>
     </ul>
 
-    <p>Ondersteunt de conversie van:</p>
+    <p>Aşağıdaki biçimleri destekler:</p>
 
     <ul>
       <li>Video - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
-      <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
-      <li>Afbeeldingen - JPG, BMP, PNG, TIF, GIF, TGA</li>
+      <li>Ses - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+      <li>Görüntü - JPG, BMP, PNG, TIF, GIF, TGA</li>
     </ul>
   es: >-
     <p>The easiest way to convert your multimedia files to the most popular formats.</p>
@@ -5427,62 +6148,62 @@ Description:
       <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
       <li>Imágenes - JPG, BMP, PNG, TIF, GIF, TGA</li>
     </ul>
-  zh_CN: >-
-    <p>最简单的方式转换为您的多媒体文件转换为其它的格式.</p>
+  fr: >-
+    <p>La façon la plus simple de convertir vos fichiers multimédia dans les formats les plus populaires.</p>
 
-    <p>特点</p>
+    <p>Caractéristiques :</p>
 
     <ul>
-      <li>同时转换多个文件</li>
-      <li>更改输出文件夹</li>
-      <li>通知支持</li>
-      <li>快速关闭Ciano快捷键 Ctrl+Q</li>
+      <li>Conversion simultanée de plusieurs fichiers</li>
+      <li>Possibilité de modifier le dossier de destination</li>
+      <li>Prise en charge des notifications</li>
+      <li>Fermez l&apos;application à tout moment avec Ctrl + Q</li>
     </ul>
 
-    <p>支持转换的文件格式:</p>
+    <p>Prend en charge les formats de conversion suivants :</p>
 
     <ul>
-      <li>Vídeo - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Vidéo - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
       <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
-      <li>Imagens - JPG, BMP, PNG, TIF, GIF, TGA</li>
+      <li>Images - JPG, BMP, PNG, TIF, GIF, TGA</li>
     </ul>
-  lt: >-
-    <p>Lengviausias būdas paversti daugialypės terpės failus į populiariausius formatus.</p>
+  nl: >-
+    <p>Dé makkelijkste manier om uw multimedia-bestanden te converteren naar de populairste bestandsformaten.</p>
 
-    <p>Charakteristikos:</p>
+    <p>Karakteristieken:</p>
 
     <ul>
-      <li>Keleto failų konvertavimas vienu metu</li>
-      <li>Galimybė pakeisti išvesties aplanką</li>
-      <li>Pranešimų palaikymas</li>
-      <li>Programos užvėrimas bet kuriuo metu, naudojant Ctrl(Vald) + Q</li>
+      <li>Meerdere bestanden tegelijk converteren</li>
+      <li>Mogelijkheid om de uitvoermap te wijzigen</li>
+      <li>Ondersteuning voor meldingen</li>
+      <li>De mogelijkheid om de applicatie ten allen tijde af te sluiten met Ctrl+Q</li>
     </ul>
 
-    <p>Palaiko šiuos konvertavimus:</p>
+    <p>Ondersteunt de conversie van:</p>
 
     <ul>
-      <li>Vaizdo įrašai - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
-      <li>Garsai - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
-      <li>Paveikslai - JPG, BMP, PNG, TIF, GIF, TGA</li>
-    </ul>
-  pt_BR: >-
-    <p>A maneira mais fácil de converter seus arquivos multimídia para os formatos mais populares.</p>
-
-    <p>Características</p>
-
-    <ul>
-      <li>Conversão de múltiplos arquivos ao mesmo tempo</li>
-      <li>Possibilidade de alterar a pasta de saída</li>
-      <li>Suporte de notificação</li>
-      <li>Feche o aplicativo a qualquer momento com Ctrl + Q</li>
-    </ul>
-
-    <p>Suporta a conversão de:</p>
-
-    <ul>
-      <li>Vídeo - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Video - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
       <li>Audio - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
-      <li>Imagens - JPG, BMP, PNG, TIF, GIF, TGA</li>
+      <li>Afbeeldingen - JPG, BMP, PNG, TIF, GIF, TGA</li>
+    </ul>
+  da: >-
+    <p>Den nemmeste måde at konvertere dine multimediefiler til de mest populære formater.</p>
+
+    <p>Egenskaber</p>
+
+    <ul>
+      <li>Konvertering af flere filer på samme tid</li>
+      <li>Mulighed for at ændre outputmappen</li>
+      <li>Underretningssupport</li>
+      <li>Luk applikationen når som helst med Ctrl + Q</li>
+    </ul>
+
+    <p>Understøtter konvertering af:</p>
+
+    <ul>
+      <li>Video - MP4, MPG, AVI, WMV, FLV, MKV, 3GP, MOV, VOB, OGV, WEBM</li>
+      <li>Lyd - MP3, WMA, OGG, WAV, AAC, FLAC, AIFF, MMF, M4A</li>
+      <li>Billeder - JPG, BMP, PNG, TIF, GIF, TGA</li>
     </ul>
 DeveloperName:
   C: Robert San
@@ -5492,13 +6213,22 @@ Categories:
 - Audio
 - Photography
 - AudioVideo
+- AudioVideoEditing
 - Graphics
 - Video
 - Audio
 - Photography
 - AudioVideo
+- AudioVideoEditing
 - Graphics
 Keywords:
+  fr:
+  - convertisseur
+  - multimédia
+  - audio
+  - vidéo
+  - photo
+  - photographie
   C:
   - converter
   - multimedia
@@ -5535,34 +6265,169 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/robertsanseries.ciano/B954C3E71E1593E1E557A2B873AC3D62/screenshots/image-1_752x501.png
+  - url: com/github/robertsanseries.ciano/F30FDF52CA912F383B367AB6AD17AE2F/screenshots/image-1_752x501.png
     width: 752
     height: 501
-  - url: com/github/robertsanseries.ciano/B954C3E71E1593E1E557A2B873AC3D62/screenshots/image-1_624x416.png
+  - url: com/github/robertsanseries.ciano/F30FDF52CA912F383B367AB6AD17AE2F/screenshots/image-1_624x416.png
     width: 624
     height: 416
-  - url: com/github/robertsanseries.ciano/B954C3E71E1593E1E557A2B873AC3D62/screenshots/image-1_224x149.png
+  - url: com/github/robertsanseries.ciano/F30FDF52CA912F383B367AB6AD17AE2F/screenshots/image-1_224x149.png
     width: 224
     height: 149
   source-image:
-    url: com/github/robertsanseries.ciano/B954C3E71E1593E1E557A2B873AC3D62/screenshots/image-1_orig.png
+    url: com/github/robertsanseries.ciano/F30FDF52CA912F383B367AB6AD17AE2F/screenshots/image-1_orig.png
     width: 1050
     height: 700
 Releases:
+- version: 0.2.4
+  type: stable
+  unix-timestamp: 1594512000
+  description:
+    C: >-
+      <p>Release: Minor fixes and changes.</p>
+
+      <ul>
+        <li>Fixes for version 0.2.3</li>
+        <li>New translations and code improvements</li>
+      </ul>
+- version: 0.2.3
+  type: stable
+  unix-timestamp: 1594425600
+  description:
+    C: >-
+      <p>Release: Minor fixes and changes.</p>
+
+      <ul>
+        <li>Fixes for version 0.2.2</li>
+        <li>New translations and code improvements</li>
+      </ul>
+- version: 0.2.2
+  type: stable
+  unix-timestamp: 1591660800
+  description:
+    C: >-
+      <p>New translations and code improvements.</p>
+- version: 0.2.1
+  type: stable
+  unix-timestamp: 1541289600
+  description:
+    C: >-
+      <p>Fixes for version 0.2.0.</p>
+- version: 0.2.0
+  type: stable
+  unix-timestamp: 1541289600
+  description:
+    C: >-
+      <p>Release release for elementary juno.</p>
+- version: 0.1.9
+  type: stable
+  unix-timestamp: 1514937600
+  description:
+    C: >-
+      <p>Flatpack release version.</p>
 - version: 0.1.8
+  type: stable
   unix-timestamp: 1514851200
   description:
     C: >-
-      <p>Icons in the HIG standard and Inclusion/Update of languages</p>
+      <p>Fixes for version 0.1.7.</p>
+- version: 0.1.7
+  type: stable
+  unix-timestamp: 1514851200
+  description:
+    C: >-
+      <p>Icons in the HIG standard and Inclusion/Update of languages.</p>
+- version: 0.1.6
+  type: stable
+  unix-timestamp: 1509148800
+  description:
+    C: >-
+      <p>Release: Minor fixes and changes.</p>
 
       <ul>
-        <li>The icons follow the HIG (@lainsce)</li>
-        <li>Language: Inclusion of the French (@nvivant)</li>
-        <li>Language: Inclusion of Chinese simplified (@trampover)</li>
-        <li>Language: pdate in Lithuanian (@welaq)</li>
+        <li>Sidebar Size Correction</li>
+        <li>Correction of support for translations</li>
       </ul>
+- version: 0.1.5
+  type: stable
+  unix-timestamp: 1508198400
+  description:
+    C: >-
+      <p>Release: Minor fixes and changes.</p>
+
+      <ul>
+        <li>Support for video to audio conversion</li>
+        <li>Support for video to gif conversion</li>
+        <li>OGV video format support</li>
+        <li>WebM video format support</li>
+        <li>Added Brazilian Portuguese translations</li>
+        <li>Added Spanish translations</li>
+        <li>Added Lituano translations</li>
+        <li>Improving application description</li>
+        <li>Icon according to the Iconography section of the Human Interface Guidelines</li>
+      </ul>
+- version: 0.1.4
+  type: stable
+  unix-timestamp: 1505952000
+  description:
+    C: >-
+      <p>Improvements made to the first stable release.</p>
+- version: 0.1.3
+  type: stable
+  unix-timestamp: 1505952000
+  description:
+    C: >-
+      <p>Minor fixes made to the first stable release.</p>
+- version: 0.1.2
+  type: stable
+  unix-timestamp: 1505692800
+  description:
+    C: >-
+      <p>Correction of the incorrect filename bug (formart -&gt; format).</p>
+- version: 0.1.1
+  type: stable
+  unix-timestamp: 1505433600
+  description:
+    C: >-
+      <p>Invalid Desktop File Fix.</p>
+- version: 0.1.0
+  type: stable
+  unix-timestamp: 1505433600
+  description:
+    C: >-
+      <p>Ciano first release.</p>
+ContentRating:
+  oars-1.1:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    violence-desecration: none
+    violence-slavery: none
+    violence-worship: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    social-chat: none
+    social-info: none
+    social-audio: none
+    social-location: none
+    social-contacts: none
+    money-purchasing: none
+    money-gambling: none
 Custom:
-  x-appcenter-suggested-price: '3'
+  x-appcenter-suggested-price: '5'
+  x-appcenter-stripe: pk_live_hnG8xqo8KobcAwxx4QyecaZa00Z3EK38sZ
   x-appcenter-color-primary: '#8AE4FF'
   x-appcenter-color-primary-text: '#000000'
 ---
@@ -9223,13 +10088,44 @@ Type: desktop-application
 ID: com.github.christophernugent.locksmith
 Package: com.github.christophernugent.locksmith
 Name:
+  fr: Locksmith
   C: Locksmith
+  en_AU: Locksmith
+  en_CA: Locksmith
+  da: Locksmith
+  en_GB: Locksmith
+  nl: Locksmith
 Summary:
+  fr: Générez des mots de passe forts et sécurisés
   C: Generate strong, secure passwords
+  en_AU: Generate strong, secure passwords
+  en_CA: Generate strong, secure passwords
+  da: Generer stærke og sikre kodeord
+  en_GB: Generate strong, secure passwords
+  nl: Genereer sterke, veilige wachtwoorden
 Description:
+  fr: >-
+    <p>Locksmith est une application de génération de mots de passe sécurisés. Elle propose des outils à la fois pour des
+    mots de passe faciles à mémoriser basés sur des mots et pour des mots de passe constitués de caractère alphanumériques
+    aléaoires.</p>
   C: >-
     <p>Locksmith is an application for generating secure passwords. It provides tools for both memorable word-based passwords
     and random alpha-numeric passwords.</p>
+  en_AU: >-
+    <p>Locksmith is an application for generating secure passwords. It provides tools for both memorable word-based passwords
+    and random alpha-numeric passwords.</p>
+  da: >-
+    <p>Locksmith er en applikation til at generere stærke kodeord. Det giver værktøjer til både huskelige ordbaserede og tilfældige
+    alfanumeriske kodeord.</p>
+  en_CA: >-
+    <p>Locksmith is an application for generating secure passwords. It provides tools for both memorable word-based passwords
+    and random alpha-numeric passwords.</p>
+  en_GB: >-
+    <p>Locksmith is an application for generating secure passwords. It provides tools for both memorable word-based passwords
+    and random alpha-numeric passwords.</p>
+  nl: >-
+    <p>Locksmith is een toepassing voor het genereren van veilige wachtwoorden. Het biedt hulpmiddelen om makkelijk te onthouden
+    wachtwoorden te maken op basis van woorden, en willekeurige alfanumerieke.</p>
 DeveloperName:
   C: Christopher Nugent
 ProjectLicense: GPL-3.0
@@ -9237,10 +10133,34 @@ Categories:
 - Utility
 - Utility
 Keywords:
+  fr:
+  - utilitaire
+  - mot de passe
+  - outil
+  da:
+  - utility
+  - password
+  - tool
+  en_AU:
+  - utility
+  - password
+  - tool
   C:
   - utility
   - password
   - tool
+  en_CA:
+  - utility
+  - password
+  - tool
+  en_GB:
+  - utility
+  - password
+  - tool
+  nl:
+  - hulpmiddel
+  - wachtwoord
+  - genereren
 Url:
   homepage: https://github.com/ChristopherNugent/Locksmith
   bugtracker: https://github.com/ChristopherNugent/Locksmith/issues
@@ -9266,29 +10186,33 @@ Provides:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-1_624x391.png
+  - url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-1_624x391.png
     width: 624
     height: 391
-  - url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-1_224x140.png
+  - url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-1_224x140.png
     width: 224
     height: 140
   source-image:
-    url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-1_orig.png
+    url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-1_orig.png
     width: 640
     height: 402
 - default: true
   thumbnails:
-  - url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-2_624x486.png
+  - url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-2_624x486.png
     width: 624
     height: 486
-  - url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-2_224x174.png
+  - url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-2_224x174.png
     width: 224
     height: 174
   source-image:
-    url: com/github/christophernugent.locksmith/B1F259AD767FF3219BD583599B4E9C9A/screenshots/image-2_orig.png
+    url: com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-2_orig.png
     width: 640
     height: 499
 Releases:
+- version: 1.6.0
+  unix-timestamp: 1574208000
+- version: 1.5.1
+  unix-timestamp: 1555286400
 - version: '1.4'
   unix-timestamp: 1547078400
   description:
@@ -9357,7 +10281,8 @@ ContentRating:
     money-purchasing: none
     money-gambling: none
 Custom:
-  x-appcenter-suggested-price: '0'
+  x-appcenter-suggested-price: '1'
+  x-appcenter-stripe: pk_live_WxLNrnAmBA8GEIi9O90lFuC200Q25dkiWn
   x-appcenter-color-primary: '#FFFFFF'
   x-appcenter-color-primary-text: '#000000'
 ---
@@ -16595,7 +17520,7 @@ Custom:
   x-appcenter-color-primary-text: '#7A36B1'
 ---
 Type: desktop-application
-ID: com.github.alonsoenrique.quotes.desktop
+ID: com.github.alonsoenrique.quotes
 Package: com.github.alonsoenrique.quotes
 Name:
   C: Quotes
@@ -16603,7 +17528,7 @@ Summary:
   C: Quotes for daily inspiration
 Description:
   C: >-
-    <p>Get random quotes for daily inspiration.</p>
+    <p>Get random quotes for daily inspiration, share and get another quotes ;), be happy.</p>
 
     <ul>
       <li>Get random quotes</li>
@@ -16614,6 +17539,7 @@ DeveloperName:
   C: Alonso Enrique
 ProjectLicense: GPL-3.0+
 Categories:
+- Education
 - Education
 Keywords:
   C:
@@ -16640,22 +17566,6 @@ Launchable:
 Provides:
   binaries:
   - com.github.alonsoenrique.quotes
-Screenshots:
-- default: true
-  thumbnails:
-  - url: com/github/alonsoenrique.quotes.desktop/22C0BFD09C7BB50FD947483514E4446C/screenshots/image-1_752x564.png
-    width: 752
-    height: 564
-  - url: com/github/alonsoenrique.quotes.desktop/22C0BFD09C7BB50FD947483514E4446C/screenshots/image-1_624x467.png
-    width: 624
-    height: 467
-  - url: com/github/alonsoenrique.quotes.desktop/22C0BFD09C7BB50FD947483514E4446C/screenshots/image-1_224x168.png
-    width: 224
-    height: 168
-  source-image:
-    url: com/github/alonsoenrique.quotes.desktop/22C0BFD09C7BB50FD947483514E4446C/screenshots/image-1_orig.png
-    width: 800
-    height: 600
 Releases:
 - version: 0.5.6
   unix-timestamp: 1507680000
@@ -16666,9 +17576,38 @@ Releases:
       <ul>
         <li>Fix AppStream screenshot reference</li>
       </ul>
+ContentRating:
+  oars-1.1:
+    violence-cartoon: none
+    violence-fantasy: none
+    violence-realistic: none
+    violence-bloodshed: none
+    violence-sexual: none
+    violence-desecration: none
+    violence-slavery: none
+    violence-worship: none
+    drugs-alcohol: none
+    drugs-narcotics: none
+    drugs-tobacco: none
+    sex-nudity: none
+    sex-themes: none
+    sex-homosexuality: none
+    sex-prostitution: none
+    sex-adultery: none
+    sex-appearance: none
+    language-profanity: none
+    language-humor: none
+    language-discrimination: none
+    social-chat: none
+    social-info: none
+    social-audio: none
+    social-location: none
+    social-contacts: none
+    money-purchasing: none
+    money-gambling: none
 Custom:
   x-appcenter-suggested-price: '1'
-  x-appcenter-stripe: pk_live_Fc7GKHBxwYzzd3MOOTWGsLmE
+  x-appcenter-stripe: pk_live_cqK7uctRCOLJp6cJiqS2eUAW
   x-appcenter-color-primary: '#6F8A91'
   x-appcenter-color-primary-text: '#121212'
 ---
@@ -17096,11 +18035,39 @@ Type: desktop-application
 ID: com.github.djaler.formatter
 Package: com.github.djaler.formatter
 Name:
+  pl: Formatter
+  ja: Formatter
   C: Formatter
+  en_CA: Formatter
+  es: Formateador
+  fr: Formateur
+  en_GB: Formatter
+  en_AU: Formatter
 Summary:
+  pl: Prosty formater urządzeń
+  ja: シンプルなデバイスフォーマッター
   C: A simple device formatter
+  en_CA: A simple device formatter
+  es: Un formateador sencillo de dispositivos
+  fr: Un simple formateur de périphérique
+  en_GB: A simple device formatter
+  en_AU: A simple device formatter
 Description:
+  pl: >-
+    <p>Formatuj swoje przenośne urządzenia, jak dysk USB czy karta SD</p>
+  ja: >-
+    <p>USB や SD カードなどのリムーバブルデバイスをフォーマットします</p>
   C: >-
+    <p>Format your removable devices like usb disk or sd card</p>
+  en_CA: >-
+    <p>Format your removable devices like usb disk or sd card</p>
+  es: >-
+    <p>Formatea tus dispotivos externos como discos usb o tarjetas sd</p>
+  fr: >-
+    <p>Formatez vos périphériques amovibles comme des clés USB ou cartes SD</p>
+  en_GB: >-
+    <p>Format your removable devices like usb disk or sd card</p>
+  en_AU: >-
     <p>Format your removable devices like usb disk or sd card</p>
 DeveloperName:
   C: Kirill Romanov
@@ -17110,7 +18077,37 @@ Categories:
 - System
 - System
 Keywords:
+  pl:
+  - Formatowanie
+  - Urządzenie
+  - USB
+  ja:
+  - Format
+  - Device
+  - USB
+  - フォーマット
+  - デバイス
   C:
+  - Format
+  - Device
+  - USB
+  en_CA:
+  - Format
+  - Device
+  - USB
+  es:
+  - Formatear
+  - Dispositivo
+  - USB
+  fr:
+  - Formater
+  - Périphérique
+  - USB
+  en_GB:
+  - Format
+  - Device
+  - USB
+  en_AU:
   - Format
   - Device
   - USB
@@ -17136,17 +18133,17 @@ Launchable:
 Screenshots:
 - default: true
   thumbnails:
-  - url: com/github/djaler.formatter/D40B2972BF9FD9978B4C735F093957FD/screenshots/image-1_752x409.png
+  - url: com/github/djaler.formatter/5AC92CFC8880C262BEE2696A0414091D/screenshots/image-1_752x409.png
     width: 752
     height: 409
-  - url: com/github/djaler.formatter/D40B2972BF9FD9978B4C735F093957FD/screenshots/image-1_624x339.png
+  - url: com/github/djaler.formatter/5AC92CFC8880C262BEE2696A0414091D/screenshots/image-1_624x339.png
     width: 624
     height: 339
-  - url: com/github/djaler.formatter/D40B2972BF9FD9978B4C735F093957FD/screenshots/image-1_224x122.png
+  - url: com/github/djaler.formatter/5AC92CFC8880C262BEE2696A0414091D/screenshots/image-1_224x122.png
     width: 224
     height: 122
   source-image:
-    url: com/github/djaler.formatter/D40B2972BF9FD9978B4C735F093957FD/screenshots/image-1_orig.png
+    url: com/github/djaler.formatter/5AC92CFC8880C262BEE2696A0414091D/screenshots/image-1_orig.png
     width: 826
     height: 450
 Releases:
@@ -17609,10 +18606,23 @@ Type: desktop-application
 ID: com.github.phase1geo.minder
 Package: com.github.phase1geo.minder
 Name:
+  fr: Minder
   C: Minder
 Summary:
+  fr: Créez, développez et visualisez vos idées
   C: Create, develop and visualize your ideas
 Description:
+  fr: >-
+    <p>Utilisez le pouvoir des cartes mentales pour donner vie à vos idées.</p>
+
+    <ul>
+      <li>Créez rapidement des cartes mentales visuelles en utilisant le clavier et la mise en forme automatique.</li>
+      <li>Magnifiques thèmes.</li>
+      <li>Exportez aux formats PDF, PNG, JPEG, BMP, SVG, OPML, CSV, Mardown et Texte brut.</li>
+      <li>Support des imprimantes.</li>
+      <li>Ajoutez des notes, des tâches et des images à vos nœuds.</li>
+      <li>Branches colorées.</li>
+    </ul>
   C: >-
     <p>Use the power of mind-mapping to make your ideas come to life.</p>
 
@@ -17635,6 +18645,9 @@ Categories:
 - Office
 - Development
 Keywords:
+  fr:
+  - Mentale
+  - Carte
   C:
   - Mind
   - Mapping
@@ -17659,85 +18672,97 @@ Launchable:
 Provides:
   binaries:
   - com.github.phase1geo.minder
+  mimetypes:
+  - application/com.github.phase1geo.minder
+  - application/com.github.phase1geo.minder
+  mimetypes:
+  - application/com.github.phase1geo.minder
+  - application/com.github.phase1geo.minder
 Screenshots:
-- default: true
-  caption:
-    C: Main Application - Light Theme
-  thumbnails:
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_1248x816.png
-    width: 1248
-    height: 816
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_752x492.png
-    width: 752
-    height: 492
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_624x408.png
-    width: 624
-    height: 408
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_224x146.png
-    width: 224
-    height: 146
-  source-image:
-    url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-1_orig.png
-    width: 1649
-    height: 1079
 - caption:
-    C: Main Application - Dark Theme
-  thumbnails:
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_1248x816.png
-    width: 1248
-    height: 816
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_752x492.png
-    width: 752
-    height: 492
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_624x408.png
-    width: 624
-    height: 408
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_224x146.png
-    width: 224
-    height: 146
-  source-image:
-    url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-2_orig.png
-    width: 1649
-    height: 1079
-- caption:
+    fr: Barre latérale des propriétés des nœuds
     C: Node Property Sidebar
   thumbnails:
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_1248x836.png
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_1248x839.png
     width: 1248
-    height: 836
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_752x503.png
+    height: 839
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_752x506.png
     width: 752
-    height: 503
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_624x418.png
+    height: 506
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_624x419.png
     width: 624
-    height: 418
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_224x150.png
+    height: 419
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_224x150.png
     width: 224
     height: 150
   source-image:
-    url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-3_orig.png
-    width: 1649
-    height: 1105
+    url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-1_orig.png
+    width: 1621
+    height: 1091
 - caption:
+    C: Style Property Sidebar
+  thumbnails:
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_1248x870.png
+    width: 1248
+    height: 870
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_752x524.png
+    width: 752
+    height: 524
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_624x435.png
+    width: 624
+    height: 435
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_224x156.png
+    width: 224
+    height: 156
+  source-image:
+    url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-2_orig.png
+    width: 1729
+    height: 1206
+- caption:
+    fr: Barre latérale des propriétés de la carte
     C: Map Property Sidebar
   thumbnails:
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_1248x836.png
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_1248x839.png
     width: 1248
-    height: 836
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_752x503.png
+    height: 839
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_752x506.png
     width: 752
-    height: 503
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_624x418.png
+    height: 506
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_624x419.png
     width: 624
-    height: 418
-  - url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_224x150.png
+    height: 419
+  - url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_224x150.png
     width: 224
     height: 150
   source-image:
-    url: com/github/phase1geo.minder/A1A8993C1D5FF3FBAB4A33B652011363/screenshots/image-4_orig.png
-    width: 1649
-    height: 1105
+    url: com/github/phase1geo.minder/451A52E22F06F54FC813E7B32691FBE4/screenshots/image-3_orig.png
+    width: 1621
+    height: 1091
 Releases:
+- version: 1.2.1
+  unix-timestamp: 1554854400
+  description:
+    C: >-
+      <ul>
+        <li>Fixing appdata.xml file omission.</li>
+        <li>Removing automatic style apply when the affects is set to certain values.</li>
+      </ul>
+- version: '1.2'
+  unix-timestamp: 1554768000
+  description:
+    C: >-
+      <ul>
+        <li>Added Spanish translation.</li>
+        <li>Added support for Control-Return/Tab to support adding newlines/tabs in a node&apos;s title.</li>
+        <li>Improved node title editing support for selection and cursor movement.</li>
+        <li>Added support for automatically opening Minder files from Files.</li>
+        <li>Added ability to modify styles of nodes and links.</li>
+        <li>Changed layouts to be stored on a per tree basis instead of a per document basis.</li>
+        <li>Added support for exporting to the Mermaid format.</li>
+        <li>Added support for disabling/enabling displaying markup in node title.</li>
+        <li>Improved the look of the fold indicators.</li>
+        <li>Lots of bug fixes.</li>
+      </ul>
 - version: 1.1.3
   unix-timestamp: 1539388800
   description:
@@ -17795,7 +18820,7 @@ Releases:
         <li>Added support for unfolding all folded nodes in map inspector.</li>
         <li>Added Solarized Dark and Solarized Light themes.</li>
         <li>Changing button display in map inspector.</li>
-        <li>Cleaning up Export menu to include a single &quot;Export...&quot; option.</li>
+        <li>Cleaning up Export menu to include a single &quot;Export…&quot; option.</li>
         <li>Fixing issue where modified node title in node inspector was lost when input focus was changed.</li>
         <li>Fixing issue where an entire tree is attached to another tree.</li>
         <li>Added Czech translation (thanks to Jan Marek!).</li>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.eudaldgr.elements
+app_id: "com.github.eudaldgr.elements"
 title: "Elements"
 summary: "All the elements of the universe!"
 developer: "eudald gubert i roldan"
@@ -32,26 +32,30 @@ releases:
       <li>Added: Now remembers window state and position</li>
 
     </ul>
+
 - version: 0.0.4
   unix-timestamp: 1577836800
   description: |-
     <p>Beryllium release</p>
+
 - version: 0.0.3
   unix-timestamp: 1535328000
   description: |-
     <p>Lithium release</p>
+
 - version: 0.0.2
   unix-timestamp: 1524441600
   description: |-
     <p>Helium release</p>
+
 - version: 0.0.1
   unix-timestamp: 1524268800
   description: |-
     <p>First release</p>
+
 redirect_from:
   - /com.github.eudaldgr.elements.desktop/
 ---
-
 <p>⚗️ A viewer of the elements</p>
 <p>Features:</p>
 <ul>

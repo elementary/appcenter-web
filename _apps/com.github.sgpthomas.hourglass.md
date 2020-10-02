@@ -1,5 +1,5 @@
 ---
-app_id: com.github.sgpthomas.hourglass
+app_id: "com.github.sgpthomas.hourglass"
 title: "Hourglass"
 summary: "A simple clock application that provides stopwatches, alarms, and timers"
 developer: "Sam Thomas"
@@ -42,6 +42,7 @@ releases:
       <li>Use icons for add/remove buttons</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1599868800
   description: |-
@@ -86,6 +87,7 @@ releases:
       <li>Various l10n and coding improvements to the project thanks to @NathanBnm</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1587340800
   description: |-
@@ -96,6 +98,7 @@ releases:
       <li>Revived and updated valid translation files</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1587340800
   description: |-
@@ -114,8 +117,8 @@ releases:
       <li>Switched the build system from CMake to Meson</li>
 
     </ul>
+
 redirect_from:
   - /com.github.sgpthomas.hourglass.desktop/
 ---
-
 <p>Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.</p>

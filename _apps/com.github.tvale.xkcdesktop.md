@@ -1,10 +1,10 @@
 ---
-app_id: com.github.tvale.xkcdesktop
+app_id: "com.github.tvale.xkcdesktop"
 title: "xkcdesktop"
 summary: "xkcd in the comfort of my desktop? Yes please."
 developer: "Tiago Vale"
 homepage: "https://github.com/tvale/xkcdesktop"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tvale.xkcdesktop/CA2DD8BB10C3740F3974BEB891FF39FA/screenshots/image-1_orig.png
@@ -21,10 +21,10 @@ releases:
   unix-timestamp: 1554768000
   description: |-
     <p>Initial release.</p>
+
 redirect_from:
   - /com.github.tvale.xkcdesktop.desktop/
 ---
-
 <p>View xkcd comics on your desktop.</p>
 <p>Features:</p>
 <ul>

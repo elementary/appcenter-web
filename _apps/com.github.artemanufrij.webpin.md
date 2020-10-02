@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.webpin
+app_id: "com.github.artemanufrij.webpin"
 title: "Webpin"
 summary: "A simple app to pin websites on the desktop"
 developer: "Artem Anufrij"
@@ -40,6 +40,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1542499200
   description: |-
@@ -60,6 +61,7 @@ releases:
       <li>Cache choosed icon instead to reference it</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1541116800
   description: |-
@@ -78,6 +80,7 @@ releases:
       <li>Custom icon was replaced by default one</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1540857600
   description: |-
@@ -88,6 +91,7 @@ releases:
       <li>Navigation buttons</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1539993600
   description: |-
@@ -118,8 +122,10 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1532390400
+
 - version: 0.2.10
   unix-timestamp: 1524614400
   description: |-
@@ -130,6 +136,7 @@ releases:
       <li>Restore window position for hidden apps</li>
 
     </ul>
+
 - version: 0.2.9
   unix-timestamp: 1520640000
   description: |-
@@ -142,6 +149,7 @@ releases:
       <li>Small UI fixes</li>
 
     </ul>
+
 - version: 0.2.8
   unix-timestamp: 1518393600
   description: |-
@@ -160,6 +168,7 @@ releases:
       <li>favicon fetching</li>
 
     </ul>
+
 - version: 0.2.6
   unix-timestamp: 1517788800
   description: |-
@@ -180,6 +189,7 @@ releases:
       <li>Grab website color</li>
 
     </ul>
+
 - version: 0.2.5
   unix-timestamp: 1513468800
   description: |-
@@ -192,6 +202,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 0.2.4
   unix-timestamp: 1511740800
   description: |-
@@ -204,6 +215,7 @@ releases:
       <li>Grab &apos;theme-color&apos; (if exists) from called website</li>
 
     </ul>
+
 - version: 0.2.3
   unix-timestamp: 1511136000
   description: |-
@@ -214,6 +226,7 @@ releases:
       <li>Custom settings in .desktop</li>
 
     </ul>
+
 - version: 0.2.2
   unix-timestamp: 1511136000
   description: |-
@@ -224,6 +237,7 @@ releases:
       <li>Custom settings in .desktop</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1510963200
   description: |-
@@ -234,6 +248,7 @@ releases:
       <li>Set custom color</li>
 
     </ul>
+
 - version: 0.1.13
   unix-timestamp: 1510963200
   description: |-
@@ -244,6 +259,7 @@ releases:
       <li>Desktop icon name</li>
 
     </ul>
+
 - version: 0.1.12
   unix-timestamp: 1510531200
   description: |-
@@ -254,6 +270,7 @@ releases:
       <li>Set custom color for headerbar</li>
 
     </ul>
+
 - version: 0.1.11
   unix-timestamp: 1510531200
   description: |-
@@ -264,6 +281,7 @@ releases:
       <li>Set custom color for headerbar</li>
 
     </ul>
+
 - version: 0.1.10
   unix-timestamp: 1510358400
   description: |-
@@ -290,6 +308,7 @@ releases:
       <li>Lithuanian (by welaq)</li>
 
     </ul>
+
 - version: 0.1.9
   unix-timestamp: 1508025600
   description: |-
@@ -308,9 +327,9 @@ releases:
       <li>Open WebApp on single click instead double click</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.webpin.desktop/
 ---
-
 <p>Create your own WebApps. Pin your any favorite website on Applications Menu or Plank like a regular desktop app.</p>
 <p>Webpin is a fork of Webby (by Erasmo Marín).</p>

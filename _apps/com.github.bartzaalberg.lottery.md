@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.lottery
+app_id: "com.github.bartzaalberg.lottery"
 title: "Lottery"
 summary: "Who will be the winner?"
 developer: "Bart Zaalberg"
@@ -32,6 +32,7 @@ releases:
       <li>Fixed dialog size</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1551916800
   description: |-
@@ -46,6 +47,7 @@ releases:
       <li>Fixed Dutch app name</li>
 
     </ul>
+
 - version: 1.4.2
   unix-timestamp: 1548892800
   description: |-
@@ -56,6 +58,7 @@ releases:
       <li>Added French metadata translation</li>
 
     </ul>
+
 - version: 1.4.1
   unix-timestamp: 1548806400
   description: |-
@@ -68,6 +71,7 @@ releases:
       <li>Added provides tag for appdata</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1548547200
   description: |-
@@ -82,6 +86,7 @@ releases:
       <li>Fixed the about link</li>
 
     </ul>
+
 - version: 1.3.7
   unix-timestamp: 1548115200
   description: |-
@@ -92,6 +97,7 @@ releases:
       <li>Added OARS rating</li>
 
     </ul>
+
 - version: 1.3.6
   unix-timestamp: 1547683200
   description: |-
@@ -106,6 +112,7 @@ releases:
       <li>Application is now single-instance</li>
 
     </ul>
+
 - version: 1.3.5
   unix-timestamp: 1537574400
   description: |-
@@ -116,6 +123,7 @@ releases:
       <li>Migrated to Meson</li>
 
     </ul>
+
 - version: 1.3.4
   unix-timestamp: 1537488000
   description: |-
@@ -126,6 +134,7 @@ releases:
       <li>Added Houston CI</li>
 
     </ul>
+
 - version: 1.3.3
   unix-timestamp: 1527379200
   description: |-
@@ -138,6 +147,7 @@ releases:
       <li>Added quitting shortcut</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1518220800
   description: |-
@@ -150,6 +160,7 @@ releases:
       <li>Added import shortcut to cheatsheet</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1518134400
   description: |-
@@ -166,6 +177,7 @@ releases:
       <li>Added dutch translation</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1518048000
   description: |-
@@ -184,6 +196,7 @@ releases:
       <li>Updated appcenter colors</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1509494400
   description: |-
@@ -194,6 +207,7 @@ releases:
       <li>Fixed icon shadows</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1509062400
   description: |-
@@ -206,6 +220,7 @@ releases:
       <li>Added search shortcut with ctrl + f</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1508803200
   description: |-
@@ -220,6 +235,7 @@ releases:
       <li>Added an about action which redirects to the appcenter</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1508284800
   description: |-
@@ -230,6 +246,7 @@ releases:
       <li>Updated the win dialog with a seperate headerbar</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1508112000
   description: |-
@@ -240,6 +257,7 @@ releases:
       <li>Updated the win dialog to a screen instead of a dialog!</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1508112000
   description: |-
@@ -252,6 +270,7 @@ releases:
       <li>Added a cheatsheet</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1508112000
   description: |-
@@ -264,6 +283,7 @@ releases:
       <li>Added shortcut for choosing a random winner(ctrl + w)</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1507939200
   description: |-
@@ -274,10 +294,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.lottery.desktop/
 ---
-
 <p>A tool to determine who will be the winner.</p>
 <p>Features:</p>
 <ul>

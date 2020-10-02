@@ -1,10 +1,10 @@
 ---
-app_id: com.github.tenderowl.norka
+app_id: "com.github.tenderowl.norka"
 title: "Norka"
 summary: "Continuous text editor"
 developer: "Andrey Maksimov"
 homepage: "https://tenderowl.com/norka"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/screenshots/image-1_orig.png
@@ -22,6 +22,7 @@ releases:
   unix-timestamp: 1597276800
   description: |-
     <p>Update metadata.</p>
+
 - version: 0.4.6
   unix-timestamp: 1597190400
   description: |-
@@ -34,6 +35,7 @@ releases:
       <li>Set the title to nameless documents on saving</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1595289600
   description: |-
@@ -48,6 +50,7 @@ releases:
       <li>Improve HeaderBar contrast</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1594944000
   description: |-
@@ -68,6 +71,7 @@ releases:
       <li>And in a case when you create a new document while edit another Norka will immediately switch to the created one</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1594857600
   description: |-
@@ -78,6 +82,7 @@ releases:
     <p>Along with export we fixed some issues and make Norka more userfriendly: when something goes wrong - it lets you know.</p>
 
     <p>Stay tuned!</p>
+
 - version: 0.2.0
   unix-timestamp: 1593302400
   description: |-
@@ -90,6 +95,7 @@ releases:
               Now you can see archived documents and delete &apos;em permanent or unarchive if you changed your mind.</p>
 
     <p>Every document will have its own face. I mean preview. Documents list now shows a preview of documents instead of dummy icons.</p>
+
 - version: 0.1.4
   unix-timestamp: 1591920000
   description: |-
@@ -106,14 +112,15 @@ releases:
       <li>Shift+Control+G - to find previous</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1591488000
   description: |-
     <p>Initial release of Norka. Young yet ready to provide you with editing functions and Markdown formatter, even export but who needs it.</p>
+
 redirect_from:
   - /com.github.tenderowl.norka.desktop/
 ---
-
 <p>Imagine text writing experience without the hassle. Don&apos;t worry about saving files, complex markup, or accidentally deleted notes.</p>
 <p>Do what you want to do - concentrate on beautiful stories, short notes, or documenting. Norka cares about you.
       All your notes insideAutomatically saved in placeCan be easily exported to files in one clickIf you neet markup

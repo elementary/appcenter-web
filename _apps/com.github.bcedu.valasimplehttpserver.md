@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bcedu.valasimplehttpserver
+app_id: "com.github.bcedu.valasimplehttpserver"
 title: "VServer"
 summary: "Acces to your files from any device in the same network"
 developer: "Eduard Berloso Clarà"
@@ -23,6 +23,7 @@ releases:
   unix-timestamp: 1572393600
   description: |-
     <p>Dutch translations</p>
+
 - version: 1.3.0
   unix-timestamp: 1551484800
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Add French translations.</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1543622400
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Choose the port where vserver listens through the gui.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1542585600
   description: |-
@@ -65,10 +68,10 @@ releases:
       <li>Use the command line options to start an http server through the console (type &quot;com.github.bcedu.valasimplehttpserver
 
     --help&quot; to learn more).</li> </ul>
+
 redirect_from:
   - /com.github.bcedu.valasimplehttpserver.desktop/
 ---
-
 <p>VServer opens an http server in the desired folder. Very usefull to share files in a easy and fast way.
 Do you have a film in the computer and you want to watch it on the mobile phone? Just start Vserver in you computer and go to the given link with the mobile phone, you will have the film right there!</p>
 <p>It has been developed to follow the same behaviour than the wellknown python&apos;s simpleHTTPserver.</p>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.recipes
+app_id: "com.github.bartzaalberg.recipes"
 title: "Recipes"
 summary: "A markdown recipes application"
 developer: "Bart Zaalberg"
@@ -30,6 +30,7 @@ releases:
       <li>Updated icon</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1561939200
   description: |-
@@ -40,6 +41,7 @@ releases:
       <li>Added number of people</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1553731200
   description: |-
@@ -50,6 +52,7 @@ releases:
       <li>Changed recipes.json path</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1552521600
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>Translated more of the application to Dutch and French</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1552521600
   description: |-
@@ -72,6 +76,7 @@ releases:
       <li>Fixed bug where overview was in Dutch</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1552348800
   description: |-
@@ -86,6 +91,7 @@ releases:
       <li>Removed switching languages on the go</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1552262400
   description: |-
@@ -102,6 +108,7 @@ releases:
       <li>Fixed alot of typos thanks to NathanBnm</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1551657600
   description: |-
@@ -112,6 +119,7 @@ releases:
       <li>Added a new valid svg icon</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1548979200
   description: |-
@@ -122,6 +130,7 @@ releases:
       <li>Removed unused dependencies</li>
 
     </ul>
+
 - version: 0.3.2
   unix-timestamp: 1548547200
   description: |-
@@ -132,6 +141,7 @@ releases:
       <li>Added provides tag for Appcenter</li>
 
     </ul>
+
 - version: 0.3.1
   unix-timestamp: 1548547200
   description: |-
@@ -144,6 +154,7 @@ releases:
       <li>Added ability to translate metadata</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1548547200
   description: |-
@@ -156,6 +167,7 @@ releases:
       <li>Added ability to translate metadata</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1548288000
   description: |-
@@ -168,6 +180,7 @@ releases:
       <li>Remember size, maxime, and position</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1548288000
   description: |-
@@ -178,6 +191,7 @@ releases:
       <li>You can now export the recipe to PDF</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1548201600
   description: |-
@@ -190,6 +204,7 @@ releases:
       <li>Darkened color for appcenter</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1548115200
   description: |-
@@ -204,6 +219,7 @@ releases:
       <li>Fixed image scaling</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1547769600
   description: |-
@@ -214,6 +230,7 @@ releases:
       <li>Updated information for appcenter</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1547769600
   description: |-
@@ -226,6 +243,7 @@ releases:
       <li>Image is now bigger on detail page</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1547683200
   description: |-
@@ -242,10 +260,10 @@ releases:
       <li>Add your own recipe by PR</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.recipes.desktop/
 ---
-
 <p>Do some cooking with some easy recipes. All the recipes are written in simple markdown. Don&apos;t see what you like? Add your own!</p>
 <p>Features:</p>
 <ul>

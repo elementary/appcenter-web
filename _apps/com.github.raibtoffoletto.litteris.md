@@ -1,5 +1,5 @@
 ---
-app_id: com.github.raibtoffoletto.litteris
+app_id: "com.github.raibtoffoletto.litteris"
 title: "Litteris"
 summary: "Penpal Correspondence Organized"
 developer: "Raí B. Toffoletto"
@@ -27,9 +27,9 @@ releases:
       <li>Add support for flatpak</li>
 
     </ul>
+
 redirect_from:
   - /com.github.raibtoffoletto.litteris.desktop/
 ---
-
 <p>With Litteris you can organize your penpal contacts in a simple manner and keep track of your letters and postcards exchange.</p>
 <p>You can star your most frequent friends or search for that one you haven&apos;t talked much lately.</p>

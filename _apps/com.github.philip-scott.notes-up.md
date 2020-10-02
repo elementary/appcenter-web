@@ -1,5 +1,5 @@
 ---
-app_id: com.github.philip-scott.notes-up
+app_id: "com.github.philip-scott.notes-up"
 title: "Notes-Up"
 summary: "Your New Notebook"
 developer: "Felipe Escoto"
@@ -31,6 +31,7 @@ releases:
       <li>Russian translation added by Tim77. Thank you and all the other translators for your work!</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1553472000
   description: |-
@@ -65,6 +66,7 @@ releases:
       <li>And a lot of work went into making Notes-Up better on the inside! This will speed up the development of future
 
     versions!</li> </ul>
+
 - version: 1.6.3
   unix-timestamp: 1545350400
   description: |-
@@ -75,6 +77,7 @@ releases:
       <li>Fixed problem where the notes folder would not be re-created if it was deleted, preventing the app from opening
 
     again...</li> </ul>
+
 - version: 1.6.2
   unix-timestamp: 1543881600
   description: |-
@@ -93,6 +96,7 @@ releases:
       <li>And other small bug fixes</li>
 
     </ul>
+
 - version: 1.6.1
   unix-timestamp: 1537660800
   description: |-
@@ -111,6 +115,7 @@ releases:
       <li>Code cleanups and more!</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1514160000
   description: |-
@@ -131,6 +136,7 @@ releases:
       <li>A huge thanks to the translators, and the new contributors! You guys rock!</li>
 
     </ul>
+
 - version: 1.4.6
   unix-timestamp: 1502841600
   description: |-
@@ -143,6 +149,7 @@ releases:
       <li>The title of the app now displays your current note and notebook</li>
 
     </ul>
+
 - version: 1.4.3
   unix-timestamp: 1496707200
   description: |-
@@ -155,10 +162,10 @@ releases:
       <li>Make sure to load all plugins</li>
 
     </ul>
+
 redirect_from:
   - /com.github.philip-scott.notes-up.desktop/
 ---
-
 <p>The intuitive writing app for everyone, from students to developers!</p>
 <p>With powerful features like:</p>
 <ul>

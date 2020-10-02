@@ -1,10 +1,10 @@
 ---
-app_id: com.github.naaando.lyrics
+app_id: "com.github.naaando.lyrics"
 title: "Lyrics"
 summary: "The beautiful way to sing your songs"
 developer: "Fernando da Silva Sousa"
 homepage: "https://github.com/naaando/lyrics"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-1_orig.png
@@ -30,6 +30,7 @@ releases:
       <li>Fix bug where selecting a lyric from the search dialog don&apos;t display it</li>
 
     </ul>
+
 - version: 0.7.5
   unix-timestamp: 1551830400
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Fix warnings related to ClickThroughHelper</li>
 
     </ul>
+
 - version: 0.7.4
   unix-timestamp: 1550880000
   description: |-
@@ -54,6 +56,7 @@ releases:
       <li>Update translation files</li>
 
     </ul>
+
 - version: 0.7.3
   unix-timestamp: 1550448000
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>Fix error where a searched lyric is not displayed if lyrics wasn&apos;t displaying already</li>
 
     </ul>
+
 - version: 0.7.2
   unix-timestamp: 1550102400
   description: |-
@@ -70,6 +74,7 @@ releases:
       <li>Fix repositories returning null collections</li>
 
     </ul>
+
 - version: 0.7.1
   unix-timestamp: 1549584000
   description: |-
@@ -78,6 +83,7 @@ releases:
       <li>Fix settings popover menu closing on click</li>
 
     </ul>
+
 - version: 0.7.0
   unix-timestamp: 1549584000
   description: |-
@@ -90,6 +96,7 @@ releases:
       <li>Makes headerbar clickable on ghost mode to drag and to grab focus</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1548979200
   description: |-
@@ -102,6 +109,7 @@ releases:
       <li>Remove Granite dependency</li>
 
     </ul>
+
 - version: 0.5.2
   unix-timestamp: 1548806400
   description: |-
@@ -114,6 +122,7 @@ releases:
       <li>Under the hood code improvements</li>
 
     </ul>
+
 - version: 0.5.1
   unix-timestamp: 1548806400
   description: |-
@@ -122,6 +131,7 @@ releases:
       <li>Reset font on restore settings</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1548806400
   description: |-
@@ -138,6 +148,7 @@ releases:
       <li>Fixes for packaging to flatpak</li>
 
     </ul>
+
 - version: 0.4.5
   unix-timestamp: 1547596800
   description: |-
@@ -152,6 +163,7 @@ releases:
       <li>Fix error where lyrics don&apos;t stop after closing the player</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1547337600
   description: |-
@@ -166,14 +178,15 @@ releases:
       <li>Lyrics now scroll on the center of window</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1543881600
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.naaando.lyrics.desktop/
 ---
-
 <p>Lyrics is an application that displays lyrics for songs you are listening
       to, it query the song through MPRIS protocol, search, downloads the lyric
       file and display it scrolling syncronized.</p>

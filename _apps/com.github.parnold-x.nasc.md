@@ -1,10 +1,10 @@
 ---
-app_id: com.github.parnold-x.nasc
+app_id: "com.github.parnold-x.nasc"
 title: "NaSC"
 summary: "Do maths like a normal person"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/nasc"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-1_orig.png
@@ -25,6 +25,7 @@ releases:
     <p>To define a user function type e.g.: function kineticEnergy 0.5*\x*\y^2</p>
 
     <p>The you can use it anywhere e.g. car = kineticEnergy(1000 kg, 3 m/s)</p>
+
 - version: 0.7.4
   unix-timestamp: 1596585600
   description: |-
@@ -33,6 +34,7 @@ releases:
     <p>Better handling of whitespaces with variable declaration and newlines</p>
 
     <p>Improved the updating of the results while doing line movements</p>
+
 - version: 0.7.3
   unix-timestamp: 1591660800
   description: |-
@@ -43,6 +45,7 @@ releases:
     <p>Support for dark themes</p>
 
     <p>Share panes to MathB.in</p>
+
 - version: 0.7.1
   unix-timestamp: 1590796800
   description: |-
@@ -55,8 +58,8 @@ releases:
     <p>Removed auto complete functions with parenthesis</p>
 
     <p>Preperation to make NaSC translatable</p>
+
 redirect_from:
   - /com.github.parnold-x.nasc.desktop/
 ---
-
 <p>It’s an app where you do maths like a normal person. It lets you type whatever you want and smartly figures out what is math and spits out an answer on the right pane. Then you can plug those answers in to future equations and if that answer changes, so does the equations it’s used in.</p>

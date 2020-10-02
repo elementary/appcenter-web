@@ -1,5 +1,5 @@
 ---
-app_id: com.github.dbhowell.peeq
+app_id: "com.github.dbhowell.peeq"
 title: "Peeq"
 summary: "Postgresql Client with programmer utilities"
 developer: "David Howell"
@@ -38,6 +38,7 @@ releases:
       <li>Added save SQL query to file</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1588377600
   description: |-
@@ -48,6 +49,7 @@ releases:
       <li>Added french translations</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1562803200
   description: |-
@@ -68,6 +70,7 @@ releases:
       <li>Correctly close connections</li>
 
     </ul>
+
 - version: 0.3.2
   unix-timestamp: 1562457600
   description: |-
@@ -88,6 +91,7 @@ releases:
       <li>Override default font and size</li>
 
     </ul>
+
 - version: 0.2.4
   unix-timestamp: 1539388800
   description: |-
@@ -100,10 +104,10 @@ releases:
       <li>Bug fixes and stability improvements</li>
 
     </ul>
+
 redirect_from:
   - /com.github.dbhowell.peeq.desktop/
 ---
-
 <p>A Postgresql client for HiDPI screens, biased towards programmers.</p>
 <ul>
   <li>Connect to multiple Postgresql servers</li>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bcedu.vgrive
+app_id: "com.github.bcedu.vgrive"
 title: "VGrive"
 summary: "Google Drive client with automatic synchronization for Linux"
 developer: "Eduard Berloso Clarà"
@@ -28,6 +28,7 @@ releases:
     <p>Add &apos;cancel&apos; button in the conf menu to exit configuration without saving.</p>
 
     <p>Save state of &quot;Advanced View&quot;.</p>
+
 - version: 1.2.4
   unix-timestamp: 1572998400
   description: |-
@@ -36,6 +37,7 @@ releases:
     <p>Translations:
 
               Polish and French translations (by @roypen and @NathanBnm )Catalan translations updatedSome typo fixes</p>
+
 - version: 1.2.0
   unix-timestamp: 1572566400
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>Spanish and Galician translations by @riesp</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1572307200
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>Make unity support optional (by @dguglielmi)</li>
 
     </ul>
+
 - version: 1.0.10
   unix-timestamp: 1571702400
   description: |-
@@ -74,13 +78,14 @@ releases:
       <li>Fix detecting files with specials caracters though google drive api.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1567036800
   description: |-
     <p>VGrive initial release!</p>
+
 redirect_from:
   - /com.github.bcedu.vgrive.desktop/
 ---
-
 <p>VGrive is a client (back-end and front-end) for Google Drive made in Vala.
 Automatically detects changes in local and remote files and syncs them.</p>

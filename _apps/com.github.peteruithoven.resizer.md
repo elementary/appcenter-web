@@ -1,5 +1,5 @@
 ---
-app_id: com.github.peteruithoven.resizer
+app_id: "com.github.peteruithoven.resizer"
 title: "Resizer"
 summary: "Quickly resize images from the context menu"
 developer: "Peter Uithoven"
@@ -33,6 +33,7 @@ releases:
       <li>Polish translation</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1549411200
   description: |-
@@ -43,6 +44,7 @@ releases:
       <li>Added info box</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1549411200
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Added info box</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1548892800
   description: |-
@@ -65,6 +68,7 @@ releases:
       <li>Added more app categories</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1536883200
   description: |-
@@ -77,6 +81,7 @@ releases:
       <li>Republishing for Juno</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1536883200
   description: |-
@@ -87,6 +92,7 @@ releases:
       <li>Added clearer finished state</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1532390400
   description: |-
@@ -99,6 +105,7 @@ releases:
       <li>Release for Loki</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1532304000
   description: |-
@@ -111,6 +118,7 @@ releases:
       <li>More appdata file fixes</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1532131200
   description: |-
@@ -123,6 +131,7 @@ releases:
       <li>Appdata file fixes</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1532131200
   description: |-
@@ -133,6 +142,7 @@ releases:
       <li>Fixed issue where files with a . in their path couldn&apos;t be resized (Thanks inhji)</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1518134400
   description: |-
@@ -143,6 +153,7 @@ releases:
       <li>Clarified that it resizes within size using labels</li>
 
     </ul>
+
 - version: 0.10.0
   unix-timestamp: 1517961600
   description: |-
@@ -155,14 +166,15 @@ releases:
       <li>Switched to GPL-3.0</li>
 
     </ul>
+
 - version: 0.8.0
   unix-timestamp: 1517356800
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.peteruithoven.resizer.desktop/
 ---
-
 <p>A simple image resizer that resizes one or more images, usable from the context menu or as a standalone app.</p>
 <p>Features:</p>
 <ul>

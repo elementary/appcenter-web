@@ -1,10 +1,10 @@
 ---
-app_id: com.github.rapidfingers.translator
+app_id: "com.github.rapidfingers.translator"
 title: "Translator"
 summary: "Translator"
 developer: "RapidFingers"
 homepage: "https://rapidfingers.github.io/Translator/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Fix desktop file</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1518220800
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Translate progress</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1518566400
   description: |-
@@ -45,6 +47,7 @@ releases:
       <li>Fix for dark theme</li>
 
     </ul>
+
 - version: 1.0.9
   unix-timestamp: 1518566400
   description: |-
@@ -53,6 +56,7 @@ releases:
       <li>Homepage fix</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1518566400
   description: |-
@@ -63,6 +67,7 @@ releases:
       <li>Better dark theme look</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1520985600
   description: |-
@@ -75,6 +80,7 @@ releases:
       <li>Minor bugfix</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1521936000
   description: |-
@@ -87,6 +93,7 @@ releases:
       <li>Fixed lack of translation, when text is changed during the transfer</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1548633600
   description: |-
@@ -95,6 +102,7 @@ releases:
       <li>Fixes for Juno</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1553299200
   description: |-
@@ -109,6 +117,7 @@ releases:
       <li>Bug fixes (thanks to camellan)</li>
 
     </ul>
+
 - version: 1.4.1
   unix-timestamp: 1553990400
   description: |-
@@ -123,8 +132,8 @@ releases:
       <li>Fix dark theme color</li>
 
     </ul>
+
 redirect_from:
   - /com.github.rapidfingers.translator.desktop/
 ---
-
 <p>Simple and fast translator</p>

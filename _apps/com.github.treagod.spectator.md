@@ -1,10 +1,10 @@
 ---
-app_id: com.github.treagod.spectator
+app_id: "com.github.treagod.spectator"
 title: "Spectator"
 summary: "Comfortably test your REST APIs!"
 developer: "Marvin Ahlgrimm"
 homepage: "https://github.com/treagod/spectator"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-1_orig.png
@@ -17,8 +17,8 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
+  primary: #4c158a
+  primary-text: #fff
 price: 6
 releases:
 - version: 0.4.1
@@ -39,6 +39,7 @@ releases:
       <li>The right-click menu of a request item now allows the user to clone a request</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1564272000
   description: |-
@@ -63,6 +64,7 @@ releases:
       <li>Added more translations</li>
 
     </ul>
+
 - version: 0.3.1
   unix-timestamp: 1559088000
   description: |-
@@ -73,6 +75,7 @@ releases:
       <li>Fixed a (reintroduced )bug where chunked data was not displayed</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1558396800
   description: |-
@@ -93,6 +96,7 @@ releases:
       <li>Added configuration for sourcecode views</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1553558400
   description: |-
@@ -103,6 +107,7 @@ releases:
       <li>Solves a bug where streamed data will not be shown until request finished (which might be never)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1552780800
   description: |-
@@ -117,6 +122,7 @@ releases:
       <li>HTTP.get(url), HTTP.post(url, config) and other request methods are available from script</li>
 
     </ul>
+
 - version: 0.1.10
   unix-timestamp: 1552435200
   description: |-
@@ -127,6 +133,7 @@ releases:
       <li>Fixes a bug where the application crashes if a URL param is entered from key-value view without a URL</li>
 
     </ul>
+
 - version: 0.1.8
   unix-timestamp: 1551139200
   description: |-
@@ -139,10 +146,10 @@ releases:
       <li>Send custom headers and self defined bodies to your application and displays the response in a clean way.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.treagod.spectator.desktop/
 ---
-
 <p>Gives you the possibilty to test your REST application.</p>
 <p>Send custom headers and self defined bodies to your application and
       displays the response in a clean way.</p>

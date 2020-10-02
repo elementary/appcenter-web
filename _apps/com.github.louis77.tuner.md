@@ -1,5 +1,5 @@
 ---
-app_id: com.github.louis77.tuner
+app_id: "com.github.louis77.tuner"
 title: "Tuner"
 summary: "Discover and listen to internet radio stations"
 developer: "Louis Brauer"
@@ -52,6 +52,7 @@ releases:
       <li>Fix broken dark theme support (elementary and Adwaita dark look fine now)</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1593388800
   description: |-
@@ -92,18 +93,20 @@ releases:
       <li>Display a nice API error screen</li>
 
     </ul>
+
 - version: 1.1
   unix-timestamp: 1592265600
   description: |-
     <p>New sidebar menu with different selections and your favourite stations.</p>
+
 - version: 1.0
   unix-timestamp: 1592006400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.louis77.tuner.desktop/
 ---
-
 <p>Make listening to internet radio stations fun again!</p>
 <p>Instead of providing you with all the stations you already know,
        Tuner presents you a new selection of stations from all over the world

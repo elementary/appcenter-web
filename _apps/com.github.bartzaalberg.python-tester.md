@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.python-tester
+app_id: "com.github.bartzaalberg.python-tester"
 title: "Python Tester"
 summary: "Test some Python code!"
 developer: "Bart Zaalberg"
@@ -28,6 +28,7 @@ releases:
       <li>Added higher contrast text color</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1549411200
   description: |-
@@ -38,10 +39,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.python-tester.desktop/
 ---
-
 <p>A simple tool to test your Python code.</p>
 <p>Features:</p>
 <ul>

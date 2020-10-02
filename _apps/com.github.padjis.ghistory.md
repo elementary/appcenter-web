@@ -1,5 +1,5 @@
 ---
-app_id: com.github.padjis.ghistory
+app_id: "com.github.padjis.ghistory"
 title: "ghistory"
 summary: "Graphic interface for your bash history"
 developer: "padjis"
@@ -25,6 +25,7 @@ releases:
       <li>Ready for production</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1569369600
   description: |-
@@ -33,9 +34,9 @@ releases:
       <li>Initial release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.padjis.ghistory.desktop/
 ---
-
 <p>If you are tired to recall the command you did input in your terminal sometime ago</p>
 <p>ghistory is the solution for you, it is an easy to use graphic interface that displays the bash history and search in the entries</p>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.linuxhubsubpixel.license
+app_id: "com.github.linuxhubsubpixel.license"
 title: "License"
 summary: "Choose your project license"
 developer: "Mirko Brombin"
@@ -24,12 +24,13 @@ releases:
     <p>French translation by NathanBnm</p>
 
     <p>Change app category</p>
+
 - version: 1.0.2
   unix-timestamp: 1567209600
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.linuxhubsubpixel.license.desktop/
 ---
-
 <p>An application that helps you finding the best license for your open source project</p>

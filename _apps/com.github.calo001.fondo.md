@@ -1,5 +1,5 @@
 ---
-app_id: com.github.calo001.fondo
+app_id: "com.github.calo001.fondo"
 title: "Fondo"
 summary: "Find the most beautiful wallpapers"
 developer: "Carlos Lopez"
@@ -32,6 +32,7 @@ releases:
       <li>Delete photos from history.</li>
 
     </ul>
+
 - version: 1.3.8
   unix-timestamp: 1579305600
   description: |-
@@ -50,14 +51,17 @@ releases:
       <li>Fix greeter don&apos;t getting wallpaper set via Fondo.</li>
 
     </ul>
+
 - version: 1.3.7
   unix-timestamp: 1572825600
   description: |-
     <p>Custom colors and icon for Christmas</p>
+
 - version: 1.3.6
   unix-timestamp: 1572134400
   description: |-
     <p>Custom colors for #DiaDeMuertos</p>
+
 - version: 1.3.5
   unix-timestamp: 1570838400
   description: |-
@@ -70,6 +74,7 @@ releases:
       <li>#68 No previews availible</li>
 
     </ul>
+
 - version: 1.3.4
   unix-timestamp: 1569110400
   description: |-
@@ -88,6 +93,7 @@ releases:
       <li>German translation don&apos;t work</li>
 
     </ul>
+
 - version: 1.3.3
   unix-timestamp: 1565222400
   description: |-
@@ -98,6 +104,7 @@ releases:
       <li>Added German translation</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1561075200
   description: |-
@@ -110,6 +117,7 @@ releases:
       <li>Wallpaper doesn&apos;t change when applying on Ubuntu Mate 18.04</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1560038400
   description: |-
@@ -120,6 +128,7 @@ releases:
       <li>Dutch (Netherlands) translation</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1559952000
   description: |-
@@ -142,6 +151,7 @@ releases:
       <li>Gradient animation in scrollbar, mode switch and placeholder photo</li>
 
     </ul>
+
 - version: 1.2.4
   unix-timestamp: 1557792000
   description: |-
@@ -152,6 +162,7 @@ releases:
       <li>Remove G+ option from Share popup</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1552608000
   description: |-
@@ -164,6 +175,7 @@ releases:
       <li>Fix error in appdata</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1552608000
   description: |-
@@ -174,6 +186,7 @@ releases:
       <li>Added Dutch (Netherlands) translation</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1548115200
   description: |-
@@ -184,6 +197,7 @@ releases:
       <li>Add french translations</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1546732800
   description: |-
@@ -198,6 +212,7 @@ releases:
       <li>Add gradients to scrollbar and mode switch</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1537574400
   description: |-
@@ -210,6 +225,7 @@ releases:
       <li>OARS data social-info set to mild</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1537056000
   description: |-
@@ -222,6 +238,7 @@ releases:
       <li>The photos are sorted from highest to lowest according to height</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1536796800
   description: |-
@@ -238,14 +255,16 @@ releases:
       <li>Improved icon and styling</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1534809600
+
 - version: 1.0.0
   unix-timestamp: 1528070400
+
 redirect_from:
   - /com.github.calo001.fondo.desktop/
 ---
-
 <p>Find a variety of the most beautiful wallpapers from Unsplash.com the world’s most generous community of photographers.</p>
 <p>Fondo allows you to see thousands of beautiful photographs from the most recent to the one you are to looking for. Give a single click on a picture, wait until the download is complete and enjoy your new wallpaper!</p>
 <p>Have a minimalist, simple and elegant interface, additionally, you can change from light mode to dark mode as you prefer.</p>

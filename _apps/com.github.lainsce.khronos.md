@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.khronos
+app_id: "com.github.lainsce.khronos"
 title: "Khronos"
 summary: "Track each task's time in a simple inobtrusive way"
 developer: "Lains"
 homepage: "https://github.com/lainsce/khronos/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.khronos/9818B4288B802F800CC8FFEE5D7FB225/screenshots/image-1_orig.png
@@ -31,6 +31,7 @@ releases:
       <li>Added: Configurable notifications to go along with tasks</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1581638400
   description: |-
@@ -41,10 +42,10 @@ releases:
       <li>First stable release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.khronos.desktop/
 ---
-
 <p>Start tracking any task&apos;s &quot;during&quot; time and start &amp; stop as you go, with notifications.</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

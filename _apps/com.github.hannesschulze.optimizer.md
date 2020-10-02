@@ -1,10 +1,10 @@
 ---
-app_id: com.github.hannesschulze.optimizer
+app_id: "com.github.hannesschulze.optimizer"
 title: "Optimizer"
 summary: "Clean up your system"
 developer: "Hannes Schulze"
 homepage: "https://github.com/hannesschulze/optimizer"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/hannesschulze.optimizer/2FF5A62D3197DE4B7A7FE4BEF6DB9CDC/screenshots/image-1_orig.png
@@ -29,6 +29,7 @@ releases:
       <li>Updated Dutch translations</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1555977600
   description: |-
@@ -57,6 +58,7 @@ releases:
       <li>Dutch translations thanks to @Vistaus</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1552348800
   description: |-
@@ -75,16 +77,18 @@ releases:
       <li>Fixes for French translations</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1551830400
   description: |-
     <p>French translations thanks to @NathanBnm</p>
+
 - version: 1.0.0
   unix-timestamp: 1551571200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.hannesschulze.optimizer.desktop/
 ---
-
 <p>Find out what&apos;s eating up your system resources and delete unnecessary files from your disk.</p>

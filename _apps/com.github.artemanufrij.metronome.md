@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.metronome
+app_id: "com.github.artemanufrij.metronome"
 title: "Metronome"
 summary: "A simple click"
 developer: "Artem Anufrij"
@@ -29,10 +29,11 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1532390400
+
 redirect_from:
   - /com.github.artemanufrij.metronome.desktop/
 ---
-
 <p>A simple metronome for all musicians that helps to practice several rythms at many speeds</p>

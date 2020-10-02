@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bcedu.museic
+app_id: "com.github.bcedu.museic"
 title: "MuseIC"
 summary: "Simple and fast music player with remote control"
 developer: "Eduard Berloso Clarà"
@@ -54,6 +54,7 @@ releases:
       <li>Hit right / left change song</li>
 
     </ul>
+
 - version: 2.1.0
   unix-timestamp: 1536624000
   description: |-
@@ -86,6 +87,7 @@ releases:
       <li>Hit right / left change song</li>
 
     </ul>
+
 - version: 2.0.2
   unix-timestamp: 1531440000
   description: |-
@@ -116,6 +118,7 @@ releases:
       <li>Hit right / left change song</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1526083200
   description: |-
@@ -144,6 +147,7 @@ releases:
       <li>Hit right / left change song</li>
 
     </ul>
+
 - version: 1.5.1
   unix-timestamp: 1516406400
   description: |-
@@ -154,6 +158,7 @@ releases:
       <li>Fixes a bug which made that when sorting the current filelist and playing a file it wasn&apos;t played the correct
 
     file</li> </ul>
+
 - version: 1.5.0
   unix-timestamp: 1511568000
   description: |-
@@ -168,6 +173,7 @@ releases:
       <li>Allow navigate through artists (and adding files to queque) without stoping playback</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1506470400
   description: |-
@@ -182,10 +188,10 @@ releases:
       <li>Connect to the address given by MuseIC and control the media from any device (mobile phone, tablet, etc.) with
 
     a web browser</li> </ul>
+
 redirect_from:
   - /com.github.bcedu.museic.desktop/
 ---
-
 <p>MuseIC is a fast and simple music player with remote control from any device through internet browser.</p>
 <ul>
   <li>Play music files and add them to music library</li>

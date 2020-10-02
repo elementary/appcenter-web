@@ -1,10 +1,10 @@
 ---
-app_id: com.github.muriloventuroso.pdftricks
+app_id: "com.github.muriloventuroso.pdftricks"
 title: "PDF Tricks"
 summary: "Tricks for PDF Files"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/pdftricks"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/screenshots/image-1_orig.png
@@ -24,12 +24,14 @@ releases:
     <p>Bugfix</p>
 
     <p>Update Translations</p>
+
 - version: 0.2.7
   unix-timestamp: 1565654400
   description: |-
     <p>New Icons</p>
 
     <p>Update Translations</p>
+
 - version: 0.2.6
   unix-timestamp: 1561334400
   description: |-
@@ -40,46 +42,55 @@ releases:
     <p>Update Translations</p>
 
     <p>Bugfix</p>
+
 - version: 0.2.5
   unix-timestamp: 1555891200
   description: |-
     <p>spinner when processing</p>
+
 - version: 0.2.4
   unix-timestamp: 1554768000
   description: |-
     <p>Fix unselectable texts after merging</p>
+
 - version: 0.2.3
   unix-timestamp: 1552262400
   description: |-
     <p>Fix density merge PDF</p>
+
 - version: 0.2.2
   unix-timestamp: 1550793600
   description: |-
     <p>Compression levels</p>
 
     <p>Bugfix</p>
+
 - version: 0.2.0
   unix-timestamp: 1549584000
   description: |-
     <p>Convert PNG, JPG, SVG, BMP to PDF</p>
 
     <p>Merge image files into PDF</p>
+
 - version: 0.1.7
   unix-timestamp: 1547164800
   description: |-
     <p>Convert JPG to PDF</p>
 
     <p>Split pages by color (Black-White / Colored)</p>
+
 - version: 0.1.5
   unix-timestamp: 1546560000
   description: |-
     <p>Convert PDF</p>
 
     <p>Bugfix</p>
+
 - version: 0.1.4
   unix-timestamp: 1546300800
   description: |-
     <p>Bugfix</p>
+
 - version: 0.1.2
   unix-timestamp: 1545609600
   description: |-
@@ -88,10 +99,10 @@ releases:
     <p>Split File</p>
 
     <p>Merge File</p>
+
 redirect_from:
   - /com.github.muriloventuroso.pdftricks.desktop/
 ---
-
 <p>A simple, efficient application for small manipulations in PDF files.</p>
 <ul>
   <li>Compress PDF (multiple resolutions)</li>

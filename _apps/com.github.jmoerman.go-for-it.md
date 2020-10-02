@@ -1,5 +1,5 @@
 ---
-app_id: com.github.jmoerman.go-for-it
+app_id: "com.github.jmoerman.go-for-it"
 title: "Go For It!"
 summary: "A stylish to-do list with built-in productivity timer"
 developer: "The Go For It! developers"
@@ -29,6 +29,7 @@ releases:
       <li>Various translations have been updated (Croatian, French, German, Norwegian Bokmål, Polish, Portuguese, Slovak,
 
     Turkish).</li> </ul>
+
 - version: 1.8.1
   unix-timestamp: 1595203200
   description: |-
@@ -53,6 +54,7 @@ releases:
       <li>The active task did not properly refresh when pausing the timer after switching lists and interacting with the
 
     to-do list.</li> </ul>
+
 - version: 1.8.0
   unix-timestamp: 1593216000
   description: |-
@@ -91,6 +93,7 @@ releases:
       <li>Many translations were updated.</li>
 
     </ul>
+
 - version: 1.7.3
   unix-timestamp: 1566777600
   description: |-
@@ -113,6 +116,7 @@ releases:
       <li>Keep the row focussed when the user stops editing a row.</li>
 
     </ul>
+
 - version: 1.7.2
   unix-timestamp: 1556150400
   description: |-
@@ -129,6 +133,7 @@ releases:
       <li>The ctrl+n shortcut was added to quickly create new tasks or lists.</li>
 
     </ul>
+
 - version: 1.7.1
   unix-timestamp: 1552867200
   description: |-
@@ -139,6 +144,7 @@ releases:
       <li>Some widgets failed to load a fallback icon when the first attempt at loading an icon failed.</li>
 
     </ul>
+
 - version: 1.7.0
   unix-timestamp: 1552694400
   description: |-
@@ -167,6 +173,7 @@ releases:
       <li>Non ascii character were not properly parsed when parsing contexts and projects.</li>
 
     </ul>
+
 - version: 1.6.10
   unix-timestamp: 1550016000
   description: |-
@@ -185,6 +192,7 @@ releases:
       <li>Updated french translations.</li>
 
     </ul>
+
 - version: 1.6.9
   unix-timestamp: 1543708800
   description: |-
@@ -203,6 +211,7 @@ releases:
       <li>Tasks can now be removed by pressing the delete key or by clicking a new delete button while editing a task.</li>
 
     </ul>
+
 - version: 1.6.8
   unix-timestamp: 1539648000
   description: |-
@@ -215,6 +224,7 @@ releases:
       <li>The use of a global dark theme no longer impacts the themeing of Go For It!, while it used to affect a part of
 
     the application. (Use the settings dialog if you want to use a dark theme.)</li> </ul>
+
 - version: 1.6.7
   unix-timestamp: 1538697600
   description: |-
@@ -235,10 +245,10 @@ releases:
       <li>Dragging a selected task could cause the timer to state that all tasks are finished.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.jmoerman.go-for-it.desktop/
 ---
-
 <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.</p>
 <p>To-do lists are stored in the Todo.txt format. This simplifies synchronization with mobile devices and makes it possible to edit tasks using other front-ends.</p>
 <p>If you already use Todo.txt, beware of the fact, that Go For It! automatically archives completed tasks to the done list!</p>
