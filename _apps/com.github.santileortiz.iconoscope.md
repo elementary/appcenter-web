@@ -5,7 +5,7 @@ summary: "Explore the icon database in your system."
 developer: "Santiago León O."
 homepage: "https://github.com/santileortiz/Iconoscope"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-2_orig.png

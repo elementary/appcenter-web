@@ -5,7 +5,7 @@ summary: "Test some Vala code!"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/vala-tester"
 help_page: "https://github.com/bartzaalberg/vala-tester/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.vala-tester/8622ADD835B49511E234B958DF66D06B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.vala-tester/8622ADD835B49511E234B958DF66D06B/screenshots/image-2_orig.png

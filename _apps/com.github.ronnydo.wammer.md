@@ -1,23 +1,39 @@
 ---
-app_id: com.github.ronnydo.wammer.desktop
+app_id: com.github.ronnydo.wammer
 title: "Wammer"
 summary: "Jamming your WiFi network"
 developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/Wammer"
 help_page: "https://github.com/RonnyDo/Wammer/"
-dist: loki
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/64x64/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
-  "128": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/128x128/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/xenial/com/github/ronnydo.wammer.desktop/B1952169B6E2238333D0A175B567AF26/icons/64x64@2/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/icons/64x64/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/icons/128x128/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/icons/64x64@2/com.github.ronnydo.wammer_com.github.ronnydo.wammer.png
 color:
   primary: "#BB0000"
   primary-text: "#FFCF00"
 price: 1
 releases:
+- version: 1.1.6
+  unix-timestamp: 1588464000
+  description: |-
+    <ul>
+
+      <li>Update build scripts</li>
+
+    </ul>
+- version: 1.1.5
+  unix-timestamp: 1577923200
+  description: |-
+    <ul>
+
+      <li>elementary OS &quot;Hera&quot; Release!!1!</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1528243200
   description: |-

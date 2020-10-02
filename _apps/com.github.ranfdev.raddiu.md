@@ -5,7 +5,7 @@ summary: "Program to listen to web radios"
 developer: "ranfdev"
 homepage: "http://github.com/ranfdev/raddiu"
 help_page: "http://github.com/ranfdev/raddiu/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ranfdev.raddiu/3599D272B9F99CF6006F657E5FA70AC4/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ranfdev.raddiu/3599D272B9F99CF6006F657E5FA70AC4/screenshots/image-2_orig.png

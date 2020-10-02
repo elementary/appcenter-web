@@ -1,22 +1,99 @@
 ---
 app_id: com.github.alcadica.develop
 title: "Develop"
-summary: "Creates elementary OS apps and widgets"
+summary: "Creates easily apps and widgets"
 developer: "Alcadica"
 homepage: "http://www.alcadica.com/"
 help_page: "https://github.com/alcadica/develop/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/9A5B239ED53AC3F523DCC22C2B71E434/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/9A5B239ED53AC3F523DCC22C2B71E434/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/171D8D520240B00AFA4C740D456266C1/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/9A5B239ED53AC3F523DCC22C2B71E434/icons/64x64/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/9A5B239ED53AC3F523DCC22C2B71E434/icons/128x128/com.github.alcadica.develop_com.github.alcadica.develop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/9A5B239ED53AC3F523DCC22C2B71E434/icons/64x64@2/com.github.alcadica.develop_com.github.alcadica.develop.png
 color:
   primary: "#fefefe"
   primary-text: "#2f2f2f"
 price: 2
 releases:
+- version: 0.23.0
+  unix-timestamp: 1597708800
+  description: |-
+    <p>I18n</p>
+
+    <ul>
+
+      <li>Adds Dutch translations</li>
+
+    </ul>
+- version: 0.22.0
+  unix-timestamp: 1588550400
+  description: |-
+    <p>Various improvements</p>
+
+    <ul>
+
+      <li>Adopts latest standards</li>
+
+      <li>Uses Native Gtk classes</li>
+
+    </ul>
+- version: 0.21.0
+  unix-timestamp: 1579046400
+  description: |-
+    <p>UI improvements</p>
+
+    <ul>
+
+      <li>Improves UI</li>
+
+    </ul>
+- version: 0.20.1
+  unix-timestamp: 1573430400
+  description: |-
+    <p>Updates translations</p>
+
+    <ul>
+
+      <li>Updates translations files</li>
+
+      <li>Adds French translations (@NathanBnm)</li>
+
+      <li>Adds Spanish translations (@iuninefrendor)</li>
+
+      <li>Adds Portuguese translations (@aimproxy)</li>
+
+    </ul>
+- version: 0.20.0
+  unix-timestamp: 1562976000
+  description: |-
+    <p>Updates translations</p>
+
+    <ul>
+
+      <li>Updates translations files</li>
+
+      <li>Adds French translations (@NathanBnm)</li>
+
+      <li>Adds Spanish translations (@iuninefrendor)</li>
+
+      <li>Adds Portuguese translations (@aimproxy)</li>
+
+    </ul>
+- version: 0.0.8
+  unix-timestamp: 1553126400
+  description: |-
+    <p>Updates translations</p>
+
+    <ul>
+
+      <li>Updates translations files</li>
+
+      <li>Adds French translations (@NathanBnm)</li>
+
+    </ul>
 - version: 0.0.7
   unix-timestamp: 1538265600
   description: |-
@@ -97,5 +174,5 @@ redirect_from:
   - /com.github.alcadica.develop.desktop/
 ---
 
-<p>A simple tool to help elementary OS developers to develop their own apps and widgets.</p>
-<p>With this app you can scaffold an elementary OS App, a Switchboard Widget or a Wingpanel Indicator</p>
+<p>A simple tool to help developers to develop their own apps and widgets.</p>
+<p>With this app you can scaffold an App, a Switchboard Widget or a Wingpanel Indicator</p>

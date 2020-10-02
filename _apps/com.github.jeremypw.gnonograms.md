@@ -5,20 +5,38 @@ summary: "Create and solve gnonogram puzzles"
 developer: "Jeremy Paul Wootten"
 homepage: "https://github.com/jeremypw/gnonograms"
 help_page: "https://github.com/jeremypw/gnonograms"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/icons/64x64/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/icons/128x128/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/DB400EF4C70001FA9FBD7ECBD6950B55/icons/64x64@2/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/64x64/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/128x128/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/icons/64x64@2/com.github.jeremypw.gnonograms_com.github.jeremypw.gnonograms.png
 color:
   primary: "#d4d4d4"
   primary-text: "#180297"
 price: 0
 releases:
+- version: 1.4.3
+  unix-timestamp: 1575936000
+  description: |-
+    <ul>
+
+      <li>French translations</li>
+
+      <li>Redesigned headerbar</li>
+
+      <li>Commandline options</li>
+
+      <li>Fix CI and testing</li>
+
+      <li>Minor bug fixes</li>
+
+      <li>Code cleanup</li>
+
+    </ul>
 - version: 1.3
   unix-timestamp: 1535328000
   description: |-
@@ -199,5 +217,8 @@ redirect_from:
   - /com.github.jeremypw.gnonograms.desktop/
 ---
 
-<p>An implementation of the Japanese logic puzzle &quot;Nonograms&quot; written in Vala, allowing the user to:
-            Draw puzzlesGenerate random puzzles of chosen difficulty</p>
+<p>An implementation of the Japanese logic puzzle &quot;Nonograms&quot; written in Vala, allowing the user to:</p>
+<ul>
+  <li>Draw puzzles</li>
+  <li>Generate random puzzles of chosen difficulty</li>
+</ul>

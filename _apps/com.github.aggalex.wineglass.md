@@ -5,7 +5,7 @@ summary: "A GUI for Wine"
 developer: "Alex Angelou"
 homepage: "http://github.com/aggalex/Wineglass/"
 help_page: "http://github.com/aggalex/Wineglass/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aggalex.wineglass/E408D05FF54489FA729E691DCCF9C1DE/screenshots/image-1_orig.png
 icons:

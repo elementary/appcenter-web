@@ -5,7 +5,7 @@ summary: "A simple screen recorder"
 developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/screencast/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.screencast/2FC441CB184F54D0E1196864C3F0882A/screenshots/image-2_orig.png

@@ -5,20 +5,36 @@ summary: "Bring your desktop back to life"
 developer: "DesktopFolder Developers"
 homepage: "https://github.com/spheras/desktopfolder"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/14FD30796A8350942EDCD6265C3FD8F6/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/icons/64x64/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/icons/128x128/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/icons/64x64@2/com.github.spheras.desktopfolder_com.github.spheras.desktopfolder.png
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
 price: 0
 releases:
+- version: 1.1.2
+  unix-timestamp: 1577923200
+  description: |-
+    <p>1.1.2 release.</p>
+
+    <ul>
+
+      <li>Reorganised Menu</li>
+
+      <li>Double click on photos to open</li>
+
+      <li>Translations Added and Updated</li>
+
+      <li>Minor bugfixing</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1550275200
   description: |-

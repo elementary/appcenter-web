@@ -5,18 +5,38 @@ summary: "Resource Management game set in space"
 developer: "Lains"
 homepage: "https://github.com/lainsce/reganam/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/59499886E67CA1BFCD73A767B04785F3/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/icons/64x64/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/icons/128x128/com.github.lainsce.reganam_com.github.lainsce.reganam.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/icons/64x64@2/com.github.lainsce.reganam_com.github.lainsce.reganam.png
 color:
   primary: "#715344"
   primary-text: "#fafafa"
 price: 3
 releases:
+- version: 1.1.4
+  unix-timestamp: 1548201600
+  description: |-
+    <p>Release: Minor Bump</p>
+
+    <ul>
+
+      <li>Minor backend fixes</li>
+
+    </ul>
+- version: 1.1.3
+  unix-timestamp: 1569196800
+  description: |-
+    <p>Release: Minor Bump</p>
+
+    <ul>
+
+      <li>Minor backend fixes</li>
+
+    </ul>
 - version: 1.1.2
   unix-timestamp: 1569196800
   description: |-

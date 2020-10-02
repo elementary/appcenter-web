@@ -5,7 +5,7 @@ summary: "Check if your password has been leaked"
 developer: "Tudor Plugaru"
 homepage: "https://github.com/PlugaruT/pwned-checker"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/F7C9EC1B38A66BEB0535955B0E51210D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/F7C9EC1B38A66BEB0535955B0E51210D/screenshots/image-2_orig.png

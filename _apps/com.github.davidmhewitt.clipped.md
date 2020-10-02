@@ -5,7 +5,7 @@ summary: "Manage your clipboard with ease"
 developer: "David Hewitt"
 homepage: "https://github.com/davidmhewitt/clipped"
 help_page: "https://github.com/davidmhewitt/clipped/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_orig.png
 icons:

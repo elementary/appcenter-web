@@ -5,7 +5,7 @@ summary: "Clean up your system"
 developer: "Hannes Schulze"
 homepage: "https://github.com/hannesschulze/optimizer"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/hannesschulze.optimizer/2FF5A62D3197DE4B7A7FE4BEF6DB9CDC/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/hannesschulze.optimizer/2FF5A62D3197DE4B7A7FE4BEF6DB9CDC/screenshots/image-2_orig.png

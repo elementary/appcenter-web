@@ -5,7 +5,7 @@ summary: "Quotes for daily inspiration"
 developer: "Alonso Enrique"
 homepage: "https://github.com/AlonsoEnrique"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alonsoenrique.quotes/F985AE45F4F93782F1ADF5E671E83CBA/screenshots/image-1_orig.png
 icons:

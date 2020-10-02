@@ -5,19 +5,116 @@ summary: "Your little expandable text snippet helper"
 developer: "Byte Pixie"
 homepage: "https://www.snippetpixie.com"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/1AC36A221540646680C0F91C0A45A374/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.4.1
+  unix-timestamp: 1599004800
+  description: |-
+    <ul>
+
+      <li>Added Dutch translations. Huge thanks to @Vistaus on GitHub! 🇳🇱</li>
+
+      <li>Fixed occasional performance issues when auto-expand turned on.</li>
+
+      <li>Fixed incorrect shortcut command being saved when binary file renamed.</li>
+
+      <li>Fixed visibility of Search and Paste entry text in some circumstances.</li>
+
+    </ul>
+- version: 1.4.0
+  unix-timestamp: 1598745600
+  description: |-
+    <ul>
+
+      <li>Added Search and Paste window, opened with shortcut Ctrl+` by default.</li>
+
+      <li>Added &quot;Auto expand snippets&quot; checkbox to preferences menu for enabling/disabling snippet expansion while
+
+    typing in accessible apps.</li>
+
+      <li>Added ability to change Search and Paste shortcut in preferences menu.</li>
+
+      <li>Added preference for whether text selected before using shortcut is used for initial search.</li>
+
+      <li>Added option to focus search box when using the search and paste shortcut.</li>
+
+      <li>Fixed support for Wayland.</li>
+
+      <li>Removed auto expanding of snippets in non-accessible applications such as browsers and electron apps (use shortcut
+
+    for search and paste window instead).</li> </ul>
+- version: 1.3.3
+  unix-timestamp: 1590969600
+  description: |-
+    <ul>
+
+      <li>Fixed Snippet Pixie stopping Super+[other-key] from working.</li>
+
+    </ul>
+- version: 1.3.2
+  unix-timestamp: 1588723200
+  description: |-
+    <ul>
+
+      <li>Improved speed of abbreviation expansion.</li>
+
+      <li>Fixed abbreviations randomly stopping to expand.</li>
+
+      <li>Fixed reliability of abbreviations being recognised.</li>
+
+      <li>Fixed abbreviations sometimes expanding with clipboard&apos;s contents.</li>
+
+    </ul>
+- version: 1.3.1
+  unix-timestamp: 1582761600
+  description: |-
+    <ul>
+
+      <li>Fixed abbreviations sometimes not expanding.</li>
+
+    </ul>
+- version: 1.3.0
+  unix-timestamp: 1582416000
+  description: |-
+    <ul>
+
+      <li>Vastly improved compatibility with a wide variety of applications.</li>
+
+      <li>Now works with Chrome, Chromium and Electron apps.</li>
+
+      <li>Much faster abbreviation detection.</li>
+
+      <li>Much nicer to the system in general.</li>
+
+      <li>Alas, recent Firefox versions no longer compatible, hope to support in the future.</li>
+
+      <li>A few terminal emulators blacklisted to avoid problems, hope to support in the future.</li>
+
+    </ul>
+- version: 1.2.2
+  unix-timestamp: 1575936000
+  description: |-
+    <ul>
+
+      <li>Added man pages for snippetpixie and snippetpixie-placeholders.</li>
+
+      <li>Minor fixes for compile time warnings.</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1562716800
   description: |-
@@ -59,7 +156,7 @@ releases:
 
       <li>Improved performance, compatibility, and stability.</li>
 
-      <li>Added French translations. Huge thanks to @NathanBnm@NathanBnm on GitHub! 🇨🇵️</li>
+      <li>Added French translations. Huge thanks to @NathanBnm on GitHub! 🇨🇵️</li>
 
     </ul>
 - version: 1.1.0
@@ -114,6 +211,7 @@ redirect_from:
 
 <p>Save your often used text snippets and then expand them whenever you type their abbreviation.</p>
 <p>For example:- &quot;spr`&quot; expands to &quot;Snippet Pixie rules!&quot;</p>
+<p>For non-accessible applications such as browsers and Electron apps, there&apos;s a shortcut (default is Ctrl+`) for opening a search window that pastes the selected snippet.</p>
 <p>Supports placeholders:-</p>
 <ul>
   <li>Date/Time: Insert the current or calculated date/time with configurable format.</li>

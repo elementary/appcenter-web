@@ -2,3 +2,7 @@
 _site/
 .sass-cache/
 vendor/
+
+# Managed by GitHub Pages
+.bundle
+Gemfile.lock

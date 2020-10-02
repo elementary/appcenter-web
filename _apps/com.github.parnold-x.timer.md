@@ -5,18 +5,26 @@ summary: "The ultimate tea timer"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/timer"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/64x64/com.github.parnold-x.timer_com.github.parnold-x.timer.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/128x128/com.github.parnold-x.timer_com.github.parnold-x.timer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/867F63751D6AA3C613A29B847C4422F4/icons/64x64@2/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/icons/64x64/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/icons/128x128/com.github.parnold-x.timer_com.github.parnold-x.timer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/icons/64x64@2/com.github.parnold-x.timer_com.github.parnold-x.timer.png
 color:
   primary: "rgb(234, 255, 198)"
   primary-text: "rgb(23, 107, 0)"
 price: 0
 releases:
+- version: 0.3.1
+  unix-timestamp: 1574812800
+  description: |-
+    <p>Added Languages: FR, TR</p>
+
+    <p>New icon by Faith20</p>
+
+    <p>Some bugfixes</p>
 - version: 0.3.0
   unix-timestamp: 1563494400
   description: |-

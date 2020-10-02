@@ -5,18 +5,60 @@ summary: "The simplest PDF viewer around"
 developer: "Lains"
 homepage: "https://github.com/lainsce/aesop/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/1A57AEE6DEC1260AE32CD28C9416D5F8/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/F594D44896D10D8890085FA45AFEB0D6/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/1A57AEE6DEC1260AE32CD28C9416D5F8/icons/64x64/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/1A57AEE6DEC1260AE32CD28C9416D5F8/icons/128x128/com.github.lainsce.aesop_com.github.lainsce.aesop.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.aesop/1A57AEE6DEC1260AE32CD28C9416D5F8/icons/64x64@2/com.github.lainsce.aesop_com.github.lainsce.aesop.png
 color:
   primary: "#ccbbaa"
   primary-text: "#333333"
 price: 1
 releases:
+- version: 1.2.2
+  unix-timestamp: 1587686400
+  description: |-
+    <p>Release: Dagger</p>
+
+    <ul>
+
+      <li>Added: New UI handling of PDF pages, and maximization is possible now.</li>
+
+    </ul>
+- version: 1.2.1
+  unix-timestamp: 1583193600
+  description: |-
+    <p>Release: Ampersand</p>
+
+    <ul>
+
+      <li>Fixed: Major crash when opening PDFs.</li>
+
+    </ul>
+- version: 1.2.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Release: Page Ears</p>
+
+    <ul>
+
+      <li>Minor backend fixes.</li>
+
+    </ul>
+- version: 1.1.4
+  unix-timestamp: 1579046400
+  description: |-
+    <p>Release: Turn of Pages</p>
+
+    <ul>
+
+      <li>Fixed: Zoom properties.</li>
+
+      <li>Added: Translations.</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1564963200
   description: |-

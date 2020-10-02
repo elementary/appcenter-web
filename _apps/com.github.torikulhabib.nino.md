@@ -5,7 +5,7 @@ summary: "A Widgets network monitor"
 developer: "torikul habib"
 homepage: "https://github.com/torikulhabib/nino"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-2_orig.png

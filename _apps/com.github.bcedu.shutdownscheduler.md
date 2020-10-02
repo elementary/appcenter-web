@@ -5,20 +5,24 @@ summary: "Schedule your computer's shutdown easily"
 developer: "Eduard Berloso Clarà"
 homepage: "https://github.com/bcedu/ShutdownScheduler"
 help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/B4769E67B33D7CB8C5D0F27E4E8C7DEE/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/icons/64x64/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/icons/128x128/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/icons/64x64@2/com.github.bcedu.shutdownscheduler_com.github.bcedu.shutdownscheduler.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.6.3
+  unix-timestamp: 1572393600
+  description: |-
+    <p>Turkish and Dutch translations.</p>
 - version: 1.6.1
   unix-timestamp: 1569715200
   description: |-

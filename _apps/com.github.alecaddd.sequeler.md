@@ -5,21 +5,170 @@ summary: "Friendly SQL Client"
 developer: "Alessandro Castellani"
 homepage: "https://github.com/Alecaddd/sequeler"
 help_page: "https://github.com/Alecaddd/sequeler/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/E1A0955360B7DD6DBF3CC01A422CE2DA/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/64x64/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/128x128/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alecaddd.sequeler/AA83997F4632DF071C24E447EA447032/icons/64x64@2/com.github.alecaddd.sequeler_com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"
 price: 25
 releases:
+- version: 0.8.0
+  unix-timestamp: 1593043200
+  description: |-
+    <p>New Features</p>
+
+    <ul>
+
+      <li>Create, Edit, and Delete databases.</li>
+
+      <li>New context menu to copy and edit tables.</li>
+
+      <li>Support unencrypted connections.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fix copy column data.</li>
+
+    </ul>
+
+    <p>Translations</p>
+
+    <ul>
+
+      <li>Updated translations for Ukranian, Russian, French, and German.</li>
+
+    </ul>
+- version: 0.7.91
+  unix-timestamp: 1589241600
+  description: |-
+    <p>Reduced CPU usage by 2%.</p>
+
+    <p>Update translations for Italian, Spanish, Catalan, French, Hindi, Russian, and Turkish.</p>
+- version: 0.7.9
+  unix-timestamp: 1586563200
+  description: |-
+    <p>More fixes!</p>
+
+    <p>0.7.8 changelog</p>
+
+    <ul>
+
+      <li>Fixed usage attempt of wrong Vala method.</li>
+
+    </ul>
+
+    <p>0.7.7 changelog</p>
+
+    <ul>
+
+      <li>Fix nasty GSettings bug causing the app to crash.</li>
+
+      <li>Implement GDA Placeholder statement.</li>
+
+      <li>Improve Query Tab iconography.</li>
+
+    </ul>
+
+    <p>0.7.6 changelog</p>
+
+    <ul>
+
+      <li>Fix ORDER BY in PostgreSQL Relationship view.</li>
+
+      <li>Improve MySQL structure view.</li>
+
+      <li>Drop Granite.Settings in favour of GLib.Settings.</li>
+
+      <li>Implement Granite.Notebook on the Query tab.</li>
+
+      <li>Show query error messages inline.</li>
+
+    </ul>
+- version: 0.7.8
+  unix-timestamp: 1586563200
+  description: |-
+    <p>More fixes!</p>
+
+    <ul>
+
+      <li>Fixed usage attempt of wrong Vala method.</li>
+
+    </ul>
+- version: 0.7.7
+  unix-timestamp: 1586563200
+  description: |-
+    <p>Because 0.7.6 never happened!</p>
+
+    <ul>
+
+      <li>Fix nasty GSettings bug causing the app to crash.</li>
+
+      <li>Implement GDA Placeholder statement.</li>
+
+      <li>Improve Query Tab iconography.</li>
+
+    </ul>
+- version: 0.7.6
+  unix-timestamp: 1586390400
+  description: |-
+    <p>Query Tab Bonanza!</p>
+
+    <ul>
+
+      <li>Fix ORDER BY in PostgreSQL Relationship view.</li>
+
+      <li>Improve MySQL structure view.</li>
+
+      <li>Drop Granite.Settings in favour of GLib.Settings.</li>
+
+      <li>Implement Granite.Notebook on the Query tab.</li>
+
+      <li>Show query error messages inline.</li>
+
+    </ul>
+- version: 0.7.5
+  unix-timestamp: 1585958400
+  description: |-
+    <p>New features and improvements</p>
+
+    <ul>
+
+      <li>You can now duplicate connections.</li>
+
+      <li>Sorting columns now works as expected by actually running the ORDER BY query.</li>
+
+      <li>Quickly jump to a specific result page with the handy dandy pagination popover.</li>
+
+      <li>Show Comment Column inside table structure view.</li>
+
+    </ul>
+- version: 0.7.4
+  unix-timestamp: 1585612800
+  description: |-
+    <p>The 2020 release!</p>
+
+    <ul>
+
+      <li>Manually reorder saved connection.</li>
+
+      <li>Allow selecting a custom SSH public key.</li>
+
+      <li>Fix SSH tunnel crashes.</li>
+
+    </ul>
 - version: 0.7.3
   unix-timestamp: 1567296000
   description: |-

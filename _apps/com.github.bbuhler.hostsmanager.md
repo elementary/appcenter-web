@@ -5,18 +5,30 @@ summary: "Manage your /etc/hosts file"
 developer: "Benjamin Buhler"
 homepage: "https://github.com/bbuhler/HostsManager"
 help_page: "https://github.com/bbuhler/HostsManager/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/4655ACD6715D6255F75FAE34763D410E/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/64x64/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/128x128/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/C46AB28FFD9D8FA4EEB9CC05B7B0904A/icons/64x64@2/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/4655ACD6715D6255F75FAE34763D410E/icons/64x64/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/4655ACD6715D6255F75FAE34763D410E/icons/128x128/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bbuhler.hostsmanager/4655ACD6715D6255F75FAE34763D410E/icons/64x64@2/com.github.bbuhler.hostsmanager_com.github.bbuhler.hostsmanager.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
 releases:
+- version: 2.0.6
+  unix-timestamp: 1598313600
+  description: |-
+    <p>Dutch translation</p>
+- version: 2.0.5
+  unix-timestamp: 1571875200
+  description: |-
+    <p>Spanish and Galician translation</p>
+- version: 2.0.4
+  unix-timestamp: 1567641600
+  description: |-
+    <p>Italian translation</p>
 - version: 2.0.3
   unix-timestamp: 1562112000
   description: |-

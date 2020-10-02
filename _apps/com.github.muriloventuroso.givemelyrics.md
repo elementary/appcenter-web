@@ -5,19 +5,37 @@ summary: "Lyrics for your songs"
 developer: "Murilo Venturoso"
 homepage: "https://github.com/muriloventuroso/givemelyrics"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/223C72D5FBB75A8959D4EABE54FD2FD8/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/223C72D5FBB75A8959D4EABE54FD2FD8/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/223C72D5FBB75A8959D4EABE54FD2FD8/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/223C72D5FBB75A8959D4EABE54FD2FD8/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/223C72D5FBB75A8959D4EABE54FD2FD8/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/64x64/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/128x128/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/icons/64x64@2/com.github.muriloventuroso.givemelyrics_com.github.muriloventuroso.givemelyrics.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.5.0
+  unix-timestamp: 1591056000
+  description: |-
+    <p>New Translations</p>
+
+    <p>Many bugfixes</p>
+- version: 0.4.5
+  unix-timestamp: 1579996800
+  description: |-
+    <p>HeaderBar Music Controls</p>
+
+    <p>New API: Music 163</p>
+
+    <p>Many bugfixes</p>
+- version: 0.4.0
+  unix-timestamp: 1578873600
+  description: |-
+    <p>Bugfix</p>
 - version: 0.3.0
   unix-timestamp: 1565481600
   description: |-

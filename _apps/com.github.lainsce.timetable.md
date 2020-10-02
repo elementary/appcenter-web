@@ -5,18 +5,28 @@ summary: "Plot out your own timetable for the week and organize it"
 developer: "Lains"
 homepage: "https://github.com/lainsce/timetable/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/1638087F28B7F6B88B0572B56A939CB3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/1638087F28B7F6B88B0572B56A939CB3/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/1638087F28B7F6B88B0572B56A939CB3/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/1638087F28B7F6B88B0572B56A939CB3/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/icons/64x64/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/icons/128x128/com.github.lainsce.timetable_com.github.lainsce.timetable.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/icons/64x64@2/com.github.lainsce.timetable_com.github.lainsce.timetable.png
 color:
   primary: "#267ec6"
   primary-text: "#ffffff"
 price: 5
 releases:
+- version: 1.1.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Release: Leaner &amp; Meaner</p>
+
+    <ul>
+
+      <li>Minor backend fixes.</li>
+
+    </ul>
 - version: 1.0.9
   unix-timestamp: 1569801600
   description: |-

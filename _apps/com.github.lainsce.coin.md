@@ -5,18 +5,54 @@ summary: "Never miss out on the monetary value of a virtual currency with this h
 developer: "Lains"
 homepage: "https://github.com/lainsce/coin/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/0DE5B5EC678B4AC6E4743AAB34B0F1B3/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/64x64/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/128x128/com.github.lainsce.coin_com.github.lainsce.coin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/icons/64x64@2/com.github.lainsce.coin_com.github.lainsce.coin.png
 color:
   primary: "#badbad"
   primary-text: "#212121"
 price: 0
 releases:
+- version: 1.3.0
+  unix-timestamp: 1581033600
+  description: |-
+    <p>Release: Portuguese Reis</p>
+
+    <ul>
+
+      <li>Added: Hungarian Forint.</li>
+
+      <li>Fixed: Symbols of Bitcoin Cash, Tezos and Cardano Ada.</li>
+
+    </ul>
+- version: 1.2.8
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Release: Greek Drachma</p>
+
+    <ul>
+
+      <li>Minor backend fixes.</li>
+
+    </ul>
+- version: 1.2.7
+  unix-timestamp: 1579046400
+  description: |-
+    <p>Release: Italian Lire</p>
+
+    <ul>
+
+      <li>Added translations into Turkish.</li>
+
+      <li>Updated translations into Dutch, French.</li>
+
+      <li>Added Cardano and Tezos currencies.</li>
+
+    </ul>
 - version: 1.2.5
   unix-timestamp: 1552608000
   description: |-

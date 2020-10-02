@@ -5,7 +5,7 @@ summary: "Download videos from hundreds of websites"
 developer: "Christoph Budzinski"
 homepage: "https://github.com/cryptowyrm/copypastegrab"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cryptowyrm.copypastegrab/BC81BEAA21EAEB18F882B63A1E729F7C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cryptowyrm.copypastegrab/BC81BEAA21EAEB18F882B63A1E729F7C/screenshots/image-2_orig.png

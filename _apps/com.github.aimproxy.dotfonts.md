@@ -5,7 +5,7 @@ summary: "Find beautiful fonts and easy install"
 developer: "Micael Dias (@aimproxy)"
 homepage: "https://github.com/aimproxy/dotfonts"
 help_page: "https://github.com/aimproxy/dotfonts/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.dotfonts/D7EF8375BECF1112AC18361AD511295B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.dotfonts/D7EF8375BECF1112AC18361AD511295B/screenshots/image-2_orig.png

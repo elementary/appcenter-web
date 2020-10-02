@@ -5,7 +5,7 @@ summary: "Control your kettle remotely"
 developer: "Anatoliy Kashkin"
 homepage: "https://tkashkin.tk/projects/boiler/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tkashkin.boiler/E398C1A0A50ED7FF3F034CE395BD124C/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tkashkin.boiler/E398C1A0A50ED7FF3F034CE395BD124C/screenshots/image-2_orig.png

@@ -5,7 +5,7 @@ summary: "Test some Python code!"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/python-tester"
 help_page: "https://github.com/bartzaalberg/python-tester/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.python-tester/6DEF723C183F7814C2EFDBB294212E73/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.python-tester/6DEF723C183F7814C2EFDBB294212E73/screenshots/image-2_orig.png

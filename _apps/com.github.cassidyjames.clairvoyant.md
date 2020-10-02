@@ -5,20 +5,28 @@ summary: "Get psychic answers from this fortune teller"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/64x64/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/128x128/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/0AF4ABF3B533DFDF7F6DF7990EA765F2/icons/64x64@2/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/icons/64x64/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/icons/128x128/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.clairvoyant/DC415F6354EEC19F05656D3428E28BBD/icons/64x64@2/com.github.cassidyjames.clairvoyant_com.github.cassidyjames.clairvoyant.png
 color:
-  primary: "#0e141f"
-  primary-text: "#fafafa"
+  primary: "#fff"
+  primary-text: "#485a6c"
 price: 1
 releases:
+- version: 1.1.4
+  unix-timestamp: 1582156800
+  description: |-
+    <p>Refreshed icons thanks to Micah Ilbery</p>
+- version: 1.1.3
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Polish translations thanks to Michał Nowakowski</p>
 - version: 1.1.2
   unix-timestamp: 1554768000
   description: |-

@@ -5,21 +5,56 @@ summary: "View and copy colors from the elementary brand palette"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/B3ADC2BB923700243CAA058A53857F87/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/icons/64x64/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/icons/128x128/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.palette/315388F0B695CB22DED9D787E42F4F81/icons/64x64@2/com.github.cassidyjames.palette_com.github.cassidyjames.palette.png
 color:
-  primary: "@BANANA_300"
-  primary-text: "@BLACK_500"
+  primary: "#ffe16b"
+  primary-text: "#333333"
 price: 6
 releases:
+- version: 3.2.1
+  unix-timestamp: 1589587200
+  description: |-
+    <p>Fix Mint and Bubblegum text sometimes being unreadable</p>
+- version: 3.2.0
+  unix-timestamp: 1589500800
+  description: |-
+    <p>Minty Bubblegum?</p>
+
+    <ul>
+
+      <li>New Mint palette color for vector path intersections</li>
+
+      <li>New Bubblegum palette color for erasers</li>
+
+      <li>Tweaked layout to better fit all the colors</li>
+
+    </ul>
+- version: 3.1.7
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Fix .desktop translation error</p>
+- version: 3.1.6
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Italian translations thanks to Mirko Brombin</li>
+
+      <li>Polish translations thanks to Michał Nowakowski</li>
+
+    </ul>
 - version: 3.1.5
   unix-timestamp: 1547510400
   description: |-

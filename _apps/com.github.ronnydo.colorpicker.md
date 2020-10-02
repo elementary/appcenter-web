@@ -5,19 +5,33 @@ summary: "The most intuitive Color Picker to speed up your workflow"
 developer: "Ronny Dobra"
 homepage: "https://github.com/RonnyDo/ColorPicker"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/01897E3346E30588DCB74BC74F2BCD9E/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/icons/64x64/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/icons/128x128/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/icons/64x64@2/com.github.ronnydo.colorpicker_com.github.ronnydo.colorpicker.png
 color:
   primary: "#A3FF91"
   primary-text: "#333333"
 price: 0
 releases:
+- version: 1.1.3
+  unix-timestamp: 1577923200
+  description: |-
+    <ul>
+
+      <li>Added Polish translation (kudos to @michalzkosmosu)</li>
+
+      <li>Added Dutch translation (kudos to @Vistaus)</li>
+
+      <li>Added Turkish translation (kudos to @ibrakap)</li>
+
+      <li>Fix build integration (kudos to @meisenzahl)</li>
+
+    </ul>
 - version: 1.1.2
   unix-timestamp: 1546387200
   description: |-

@@ -5,7 +5,7 @@ summary: "Create simple and beautiful presentations"
 developer: "Felipe Escoto"
 homepage: "https://github.com/Philip-Scott/Spice-up"
 help_page: "https://github.com/Philip-Scott/Spice-up/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/philip-scott.spice-up/EACC1C96BEBB994BDC8BB5C3AF3F68F8/screenshots/image-2_orig.png

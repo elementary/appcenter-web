@@ -5,21 +5,31 @@ summary: "Simplify your commands"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/alias"
 help_page: "https://github.com/bartzaalberg/alias/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/57E649457E12EF1B509ADD93D3AEC999/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/icons/64x64/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/icons/128x128/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/icons/64x64@2/com.github.bartzaalberg.alias_com.github.bartzaalberg.alias.png
 color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
 price: 0
 releases:
+- version: 1.6.0
+  unix-timestamp: 1574899200
+  description: |-
+    <p>Added Italian translation</p>
+
+    <ul>
+
+      <li>Added Italian translation</li>
+
+    </ul>
 - version: 1.5.2
   unix-timestamp: 1562976000
   description: |-

@@ -5,18 +5,30 @@ summary: "Watch and track date and time in an innovative way with this handy app
 developer: "Lains"
 homepage: "https://github.com/lainsce/niu/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/152C81FDA98C15160151A694B9144D85/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/64x64/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/128x128/com.github.lainsce.niu_com.github.lainsce.niu.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/icons/64x64@2/com.github.lainsce.niu_com.github.lainsce.niu.png
 color:
   primary: "#222222"
   primary-text: "#00DAC7"
 price: 0
 releases:
+- version: 1.1.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Release: Conversion of Energy</p>
+
+    <ul>
+
+      <li>Added: Converters of Date and Time to the Nataniev System</li>
+
+      <li>Minor backend fixes</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1565222400
   description: |-

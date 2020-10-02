@@ -5,7 +5,7 @@ summary: "Test some PHP code!"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/php-tester"
 help_page: "https://github.com/bartzaalberg/php-tester/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/F3A514F3A736F64C4ED54515EEB11907/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/F3A514F3A736F64C4ED54515EEB11907/screenshots/image-2_orig.png

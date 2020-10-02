@@ -5,7 +5,7 @@ summary: "Lightning fast client for Mastodon"
 developer: "bleak_grey"
 homepage: "https://github.com/bleakgrey"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-2_orig.png

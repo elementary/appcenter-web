@@ -5,7 +5,7 @@ summary: "A graphical frontend for Hamachi"
 developer: "Stephen Brandt"
 homepage: "https://www.haguichi.net/"
 help_page: "https://www.haguichi.net/tips-and-tricks/"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-2_orig.png

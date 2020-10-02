@@ -7,3 +7,5 @@ Releases:
     base: xenial
   juno: 
     base: bionic
+  hera:
+    base: bionic

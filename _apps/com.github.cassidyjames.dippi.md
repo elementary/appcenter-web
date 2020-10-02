@@ -5,21 +5,25 @@ summary: "Calculate display info like DPI and aspect ratio"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/87FE2071E816D24694FB9C503DE7CC82/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/icons/64x64/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/icons/128x128/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.dippi/A3E432335CF61858D599AC4986AA17ED/icons/64x64@2/com.github.cassidyjames.dippi_com.github.cassidyjames.dippi.png
 color:
   primary: "#525"
   primary-text: "#fffffc"
 price: 4
 releases:
+- version: 2.7.4
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Code style and organization fixes</p>
 - version: 2.7.3
   unix-timestamp: 1554768000
   description: |-

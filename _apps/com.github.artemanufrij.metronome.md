@@ -5,7 +5,7 @@ summary: "A simple click"
 developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/metronome"
 help_page: "https://github.com/artemanufrij/metronome/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.metronome/1D2106AD2D4EC9DB3D29686AB12E21F3/screenshots/image-1_orig.png
 icons:

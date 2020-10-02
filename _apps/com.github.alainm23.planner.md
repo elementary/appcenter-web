@@ -3,43 +3,361 @@ app_id: com.github.alainm23.planner
 title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
-homepage: "https://github.com/alainm23/planner"
-help_page: "https://www.paypal.me/alainm23"
-dist: juno
+homepage: "https://planner-todo.web.app"
+help_page: "https://www.patreon.com/alainm23"
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E4CF343303E07DDCD68D3F3270672E59/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
-  primary: "#ffe16b"
-  primary-text: "#000"
-price: 9
+  primary: "#ffffff"
+  primary-text: "#000000"
+price: 0
 releases:
-- version: 1.2.4
-  unix-timestamp: 1553731200
+- version: 2.4.6
+  unix-timestamp: 1594166400
   description: |-
+    <p>General bug fixes and improvements.</p>
+
     <ul>
 
-      <li>Stability and performance improvements</li>
+      <li>Fixed a critical bug where tasks disappear unexpectedly.</li>
 
-      <li>New view &quot;All tasks&quot; and &quot;Tasks completed&quot;</li>
+    </ul>
+- version: 2.4.5
+  unix-timestamp: 1593302400
+  description: |-
+    <p>General bug fixes and improvements.</p>
 
-      <li>Markdown support</li>
+    <ul>
 
-      <li>Improved quick search</li>
+      <li>Login failed with Todoist fixed.</li>
+
+      <li>Design improvement in task details.</li>
+
+      <li>New and better designed icons.</li>
 
     </ul>
 
-    <p>Translations:</p>
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Planner.</p>
+
+    <p>Special thanks to &apos;Robert Zelník&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Planner. 🌟️</p>
 
     <ul>
 
-      <li>Dutch (Heimen Stoffels)</li>
+      <li>Cal</li>
 
-      <li>Brazilian (Raphael Cabral)</li>
+      <li>I Sutter</li>
+
+      <li>The Linux Experiment</li>
+
+      <li>Wout</li>
+
+    </ul>
+- version: 2.4.2
+  unix-timestamp: 1592784000
+  description: |-
+    <p>What&apos;s new in v2.4</p>
+
+    <p>Over the the past few months we’ve been working on Planner 2.4, a big update with great new features. Priorities, calendar events, Quick Add for all platforms and more.</p>
+
+    <ul>
+
+      <li>Priority support: You can give your tasks one of four priority levels – 1 being the most important (marked as red) and 4 being everything else (no color).</li>
+
+      <li>Project Deadline: Assign a deadline to your projects.</li>
+
+      <li>Links Everywhere: The app now handles links consistently in all places: inside the title, inside notes, and inside checklist items.</li>
+
+      <li>Quick Find Improvements: The design and performance were also improved by making the searches faster.</li>
+
+      <li>Welcome Dark Blue and Arc Dark.</li>
+
+      <li>Keyboard Shortcuts Improvements: New and improved keyboard shortcuts.</li>
+
+      <li>Today and Upcoming Improvements: Reorder or reschedule your tasks more quickly.</li>
+
+      <li>Calendar events: View your calendar events correctly on all platforms.</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Planner.</p>
+
+    <p>Special thanks to &apos;Robert Zelník&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Planner. 🌟️</p>
+
+    <ul>
+
+      <li>Cal</li>
+
+      <li>I Sutter</li>
+
+      <li>The Linux Experiment</li>
+
+      <li>Wout</li>
+
+    </ul>
+- version: 2.3.5
+  unix-timestamp: 1588204800
+  description: |-
+    <p>Bug fixes and performance improvements</p>
+
+    <ul>
+
+      <li>Sort your folders by dragging and dropping.</li>
+
+      <li>[GitHub #337] - The error that does not allow creating tasks in the Inbox has been fixed.</li>
+
+      <li>[GitHub #334] - Overdue tasks are now counted in badge count.</li>
+
+      <li>[GitHub #333] - Today&apos;s tasks are displayed correctly.</li>
+
+      <li>[GitHub #331 #330] - The progress indicator in the project view now has a tooltip.</li>
+
+    </ul>
+- version: 2.3.3
+  unix-timestamp: 1586822400
+  description: |-
+    <p>Hi everyone! Planner 2.3 is here –  a big update for the Quick Find feature,</p>
+
+    <p>recurring tasks and design improvements.</p>
+
+    <p>QUICK FIND</p>
+
+    <ul>
+
+      <li>Quick Find was completely redesigned adding new features and improving the UX.</li>
+
+      <li>Task searches are now more accurate and highlighting matches.</li>
+
+      <li>Move faster between Projects and Views (Inbox, Today, Upcoming).</li>
+
+      <li>Filter your tasks by labels.</li>
+
+    </ul>
+
+    <p>RECURRING TASKS</p>
+
+    <ul>
+
+      <li>Since the release of Planner 2, Recurring tasks were one of the most requested features and now this is possible.</li>
+
+      <li>Work with recurring tasks in a local project or synchronized with Todoist.</li>
+
+      <li>Repeat your tasks every day, week, month or year.</li>
+
+    </ul>
+
+    <p>DESIGN ENHANCEMENTS AND MORE</p>
+
+    <ul>
+
+      <li>The design of the progress indicator for each project was improved.</li>
+
+      <li>The workspaces are now called Folders and the icon has been changed.</li>
+
+      <li>See your completed tasks in context.</li>
+
+      <li>View URL from the notes or the title of a task.</li>
+
+      <li>Added a progress indicator in the project view.</li>
+
+      <li>A new button was added to the side of a section to add tasks faster.</li>
+
+      <li>It&apos;s now possible to create and assign a label directly if it is not available.</li>
+
+      <li>Quick action to undo when a task is completed.</li>
+
+      <li>The &apos;Move to project&apos; menu now displays the correct color for each project.</li>
+
+      <li>The dialog to create new projects has been redesigned.</li>
+
+      <li>The dialog to edit the preferences of a project has been redesigned.</li>
+
+      <li>The &apos;Upcoming&apos; view was improved.</li>
+
+      <li>Quick notifications were designed.</li>
+
+      <li>Planner animations are now more consistent.</li>
+
+      <li>Performance was improved.</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Cal&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+- version: 2.2.14
+  unix-timestamp: 1583107200
+  description: |-
+    <p>Improved stability and some bug fixes.</p>
+
+    <ul>
+
+      <li>Fixed the error showing next week&apos;s tasks in today&apos;s view</li>
+
+      <li>Fix focus when changing views</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Wount&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+- version: 2.2.8
+  unix-timestamp: 1582675200
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+      <li>The translations were updated.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+- version: 2.2.6
+  unix-timestamp: 1582588800
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+- version: 2.2.2
+  unix-timestamp: 1582416000
+  description: |-
+    <p>Quick Add is here, design improvements and more.</p>
+
+    <ul>
+
+      <li>Quick Add: Use a keyboard shortcut to quickly add tasks from anywhere.</li>
+
+      <li>Task detail redesigned.</li>
+
+      <li>Improved label system. Now you can sort, search and add them in a faster way.</li>
+
+      <li>Now you can share your Projects in Markdown format or send it by email.</li>
+
+      <li>Improved synchronization with Todoist.</li>
+
+      <li>Now you can add a Project directly in an Area. Just right click on a selected area and enter the name of your project.</li>
+
+      <li>Customize your window controls to your liking.</li>
+
+      <li>Visual enhancements for tasks that have already expired.</li>
+
+    </ul>
+
+    <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
+    <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+- version: 2.1.1
+  unix-timestamp: 1580256000
+  description: |-
+    <p>The keyboard shortcuts arrived, design improvements and more.</p>
+
+    <ul>
+
+      <li>Now you can use keyboard shortcuts to be more productive: See the list of full keyboard shortcuts in the preferences.</li>
+
+      <li>Now you can share your tasks as text or markdown.</li>
+
+      <li>A financing page was added in the preferences.</li>
+
+      <li>Planner menus have been redesigned. Making it more beautiful and productive.</li>
+
+      <li>Planner doesn&apos;t freeze when the position of a project, section or task is ordered.</li>
+
+      <li>[GitHub #181] - You can log out of your Todoist account.</li>
+
+      <li>[GitHub #158] - The project panel was resized making it more compact and aesthetic.</li>
+
+      <li>[GitHub #156] - Now you can create an easier reminder by pressing the RETURN key.</li>
+
+      <li>[GitHub #147] - Badge count is not displayed when the system startup.</li>
+
+      <li>[GitHub #138] - Fixing website address.</li>
+
+      <li>[GitHub #136] - Add new task button disappears.</li>
+
+      <li>[GitHub #145, #146] - The way to create the tutorial project was improved.</li>
+
+      <li>[GitHub #152, #149] - Fixed some bugs with Quick Find.</li>
+
+    </ul>
+- version: 2.0.8
+  unix-timestamp: 1579219200
+  description: |-
+    <p>Planner 2 is here...</p>
+
+    <ul>
+
+      <li>🚀️ Complete redesign of the UI.</li>
+
+      <li>🏅️ New icon.</li>
+
+      <li>🤚️ Drag and Order arrived: Sort your tasks wherever you want.</li>
+
+      <li>💯️ Progress indicator for each project.</li>
+
+      <li>💪️ Be more productive and organize your tasks by &apos;Sections&apos;.</li>
+
+      <li>📅️ Visualize your events and plan your day better.</li>
+
+      <li>💎️ Magic Button arrived: Drag and Drop and create your tasks wherever you want.</li>
+
+      <li>⏲️ Improved reminder system, now you can create one or more reminders, you decide.</li>
+
+      <li>🌙️ Better integration with the dark theme.</li>
+
+      <li>☁️ Synchronize your Projects, Task and Sections thanks to Todoist.</li>
+
+      <li>👷️ Support for Todoist offline: Work without an internet connection and when everything is reconnected it will be synchronized.</li>
+
+      <li>🎉️ and much more.</li>
 
     </ul>
 - version: 1.2.3
@@ -188,20 +506,34 @@ redirect_from:
   - /com.github.alainm23.planner.desktop/
 ---
 
+<p>🚀️ Planner 2 is here...</p>
+<ul>
+  <li>🚀️ Complete redesign of the UI.</li>
+  <li>🏅️ New icon.</li>
+  <li>🤚️ Drag and Order arrived: Sort your tasks wherever you want.</li>
+  <li>💯️ Progress indicator for each project.</li>
+  <li>💪️ Be more productive and organize your tasks by &apos;Sections&apos;.</li>
+  <li>📅️ Visualize your events and plan your day better.</li>
+  <li>💎️ Magic Button arrived: Drag and Drop and create your tasks wherever you want.</li>
+  <li>⏲️ Improved reminder system, now you can create one or more reminders, you decide.</li>
+  <li>🌙️ Better integration with the dark theme.</li>
+  <li>🎉️ and much more.</li>
+</ul>
 <p>Everyone needs a task manager and Planner adapts to anyone&apos;s needs</p>
-<p>How Planner works</p>
+<p>How Planner works:</p>
 <p>1. Collect your Ideas - The Inbox is your default task list in Planner. When you add a task, it goes straight to your Inbox unless you specify that the task goes into a project.</p>
 <p>2. Get Organized - Create a project for each of your goals, then add the steps to reach them. Review these regularly to stay on top of things.</p>
 <p>3. Calendar and Events - See your calendar events and plan your time effectively. Planner will remind you on the right day.</p>
-<p>4. Be even more organized - Add a deadline to your tasks, create labels, use checklists.</p>
-<p>5. Share your progress - Share all the progress of your project or some special task, all this in Markdown.</p>
-<p>6. Support for Github Issues - Connect your account and start receiving notifications of every new issue in your repositories</p>
-<p>Other features</p>
+<p>4. Be even more organized - Add a duedate to your tasks, create labels, use checklists.</p>
+<p>☁️ Support for Todoist:</p>
 <ul>
-  <li>Reminders notifications</li>
-  <li>Import and export your projects</li>
-  <li>Different themes to choose</li>
-  <li>Weather forecast</li>
-  <li>Quick Find</li>
-  <li>Night mode</li>
+  <li>Synchronize your Projects, Task and Sections thanks to Todoist.</li>
+  <li>Support for Todoist offline: Work without an internet connection and when everything is reconnected it will be synchronized.</li>
+</ul>
+<p>* Planner not created by, affiliated with, or supported by Doist</p>
+<p>💎️ Other features:</p>
+<ul>
+  <li>⏲️ Reminders notifications</li>
+  <li>🔍️ Quick Find</li>
+  <li>🌙️ Night mode</li>
 </ul>

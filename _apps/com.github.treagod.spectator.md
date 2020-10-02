@@ -5,13 +5,17 @@ summary: "Comfortably test your REST APIs!"
 developer: "Marvin Ahlgrimm"
 homepage: "https://github.com/treagod/spectator"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic//icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic//icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"

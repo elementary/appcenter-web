@@ -5,7 +5,7 @@ summary: "A focused eBook reader"
 developer: "Siddhartha Das"
 homepage: "https://babluboy.github.io/bookworm"
 help_page: "https://github.com/babluboy/bookworm/wiki"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/BFE643B526245658B3F8FA2BE47642AB/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/BFE643B526245658B3F8FA2BE47642AB/screenshots/image-2_orig.png

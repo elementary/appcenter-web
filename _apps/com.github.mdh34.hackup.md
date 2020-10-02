@@ -5,7 +5,7 @@ summary: "Read Hacker News from the desktop"
 developer: "Matt Harris"
 homepage: "https://github.com/mdh34/hackup"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.hackup/68B4FBD930A4EA39939D5BFCA5B02530/screenshots/image-2_orig.png

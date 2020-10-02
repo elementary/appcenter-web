@@ -5,7 +5,7 @@ summary: "A video player for watching local video files"
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/cinema/"
 help_page: "https://github.com/artemanufrij/playmyvideos/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/C5F37365BB8D6161FEE2D48E7A8656F4/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmyvideos/C5F37365BB8D6161FEE2D48E7A8656F4/screenshots/image-2_orig.png

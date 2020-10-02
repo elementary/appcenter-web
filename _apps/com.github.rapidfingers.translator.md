@@ -5,7 +5,7 @@ summary: "Translator"
 developer: "RapidFingers"
 homepage: "https://rapidfingers.github.io/Translator/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/screenshots/image-1_orig.png
 icons:

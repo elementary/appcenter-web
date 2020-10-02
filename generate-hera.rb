@@ -4,7 +4,7 @@ require "uri"
 require "open-uri"
 
 ########
-# JUNO #
+# HERA #
 ########
 
 # HTTPS doesn't work
@@ -18,7 +18,7 @@ summary: "((summary))"
 developer: "((dev))"
 homepage: "((site))"
 help_page: "((help))"
-dist: juno
+dist: hera
 screenshots:
 ((screenshots))
 icons:

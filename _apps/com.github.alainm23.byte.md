@@ -5,24 +5,145 @@ summary: "Rediscover your music"
 developer: "Alain M."
 homepage: "https://github.com/alainm23/byte"
 help_page: "https://www.patreon.com/alainm23"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/AC903E1E88266F1E8811D99DA7EC8AEE/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/icons/64x64/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/icons/128x128/com.github.alainm23.byte_com.github.alainm23.byte.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/icons/64x64@2/com.github.alainm23.byte_com.github.alainm23.byte.png
 color:
-  primary: "#FE2851"
-  primary-text: "#0A005D"
+  primary: "#2D0941"
+  primary-text: "#fe2851"
 price: 3
 releases:
-- version: 0.1.7
-  unix-timestamp: 1568678400
+- version: 0.4.2
+  unix-timestamp: 1590451200
+  description: |-
+    <p>New translations and performance improvement</p>
+
+    <ul>
+
+      <li>Added Italian translation thanks to Maurizio Martinetti</li>
+
+      <li>Added German translation thanks to Christoph Raitzig</li>
+
+      <li>Added Portuguese translation thanks to @gleissonjoaquim3</li>
+
+      <li>Updated deprecated Radio Browser API thanks to Antonio Luis Román (@usersaurus)</li>
+
+    </ul>
+
+    <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Byte.</p>
+
+    <p>🌟️ Thank you to our silver members for supporting the development of Byte. 🌟️</p>
+- version: 0.3
+  unix-timestamp: 1578528000
+  description: |-
+    <p>Hello 2020 🎉️: New icon and a very requested feature arrives.</p>
+
+    <ul>
+
+      <li>🌟️ New icon: Byte needs a new icon, with a better design and make it more elementary. Thank you very much to @Fatih20 The new Byte icon looks great.</li>
+
+      <li>📁️ Folder navigation is here 🚀️.</li>
+
+      <li>🚀️ New navigation system: Byte is now smarter to remember what view you left behind.</li>
+
+      <li>👉️ Direct access to see the artist, album or playlist: Anticlick to a song &gt; Go to &gt; select an option.</li>
+
+    </ul>
+- version: 0.2.5
+  unix-timestamp: 1577664000
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Fixing error loading songs in your playlists.</li>
+
+      <li>The error that does not allow adding a song as a favorite is fixed.</li>
+
+      <li>Notifications now show album covers correctly.</li>
+
+    </ul>
+- version: 0.2.3
+  unix-timestamp: 1576022400
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Byte now starts faster 🚀️.</li>
+
+      <li>An indicator was added that records all the playback radio station history.</li>
+
+      <li>Fixed a bug by not showing the default covers (Flathub).</li>
+
+      <li>Fixed a bug that blocks the application at startup.</li>
+
+      <li>Update French translation @NathanBnm</li>
+
+      <li>Update Spanish translation @alainm23</li>
+
+    </ul>
+- version: 0.2
+  unix-timestamp: 1575590400
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Byte now starts faster 🚀️.</li>
+
+      <li>An indicator was added that records all the playback radio station history.</li>
+
+      <li>Fixed a bug by not showing the default covers (Flathub).</li>
+
+      <li>Fixed a bug that blocks the application at startup.</li>
+
+      <li>Update French translation @NathanBnm</li>
+
+      <li>Update Spanish translation @alainm23</li>
+
+    </ul>
+- version: 0.1.19
+  unix-timestamp: 1573516800
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>The songs now bring more information according to the type of sort.</li>
+
+      <li>When a radio is playing, it is now possible to stop playback and play again.</li>
+
+    </ul>
+- version: 0.1.16
+  unix-timestamp: 1572393600
+  description: |-
+    <ul>
+
+      <li>Fix LINGUAS error @ryonakano</li>
+
+      <li>Added Dutch translation @Vistaus</li>
+
+      <li>Updated Russian translation @camellan</li>
+
+    </ul>
+- version: 0.1.9
+  unix-timestamp: 1572307200
+  description: |-
+    <ul>
+
+      <li>Added Dutch translation @Vistaus</li>
+
+      <li>Updated Russian translation @camellan</li>
+
+    </ul>
+- version: 0.1.8
+  unix-timestamp: 1571270400
   description: |-
     <p>This update brings some new features and bug fixes:</p>
 
@@ -31,6 +152,18 @@ releases:
       <li>A new green theme color was added @redian23</li>
 
       <li>Added an new indicator to know if a favorite songs</li>
+
+    </ul>
+- version: 0.1.7
+  unix-timestamp: 1570579200
+  description: |-
+    <p>This update brings some new features and bug fixes:</p>
+
+    <ul>
+
+      <li>Turkish translation @ibrakap</li>
+
+      <li>Fixing style errors</li>
 
     </ul>
 - version: 0.1.6

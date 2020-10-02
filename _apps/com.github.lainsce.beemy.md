@@ -5,19 +5,31 @@ summary: "A cute little Body Mass Index calculator"
 developer: "Lains"
 homepage: "https://github.com/lainsce/beemy/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/64x64/com.github.lainsce.beemy_com.github.lainsce.beemy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/128x128/com.github.lainsce.beemy_com.github.lainsce.beemy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/E0422B8C4AD82A015803F41F6B3CEBD9/icons/64x64@2/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/icons/64x64/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/icons/128x128/com.github.lainsce.beemy_com.github.lainsce.beemy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.beemy/A4959FFFEC1EA8D23BD64FB412B715A0/icons/64x64@2/com.github.lainsce.beemy_com.github.lainsce.beemy.png
 color:
   primary: "#c6262e"
   primary-text: "#f5f5f5"
 price: 1
 releases:
+- version: 1.0.5
+  unix-timestamp: 1579046400
+  description: |-
+    <p>Release: Small Gains II</p>
+
+    <ul>
+
+      <li>Added: Translation</li>
+
+      <li>Small fixes</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1552608000
   description: |-
@@ -65,7 +77,7 @@ releases:
 - version: 1.0.0
   unix-timestamp: 1536883200
   description: |-
-    <p>Release: An Apple a Day...</p>
+    <p>Release: An Apple a Day…</p>
 
     <ul>
 

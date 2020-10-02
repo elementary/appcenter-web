@@ -5,20 +5,185 @@ summary: "The always-incognito web browser"
 developer: "Cassidy James Blaede"
 homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/43C39A892FCC1C282F47D4A318CE6901/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 6.4.1
+  unix-timestamp: 1588204800
+  description: |-
+    <p>Updated Spanish translations thanks to Adolfo Jayme-Barrientos</p>
+- version: 6.4.0
+  unix-timestamp: 1588118400
+  description: |-
+    <p>Sandboxing</p>
+
+    <ul>
+
+      <li>Enabled WebKit’s subprocess sandboxing</li>
+
+      <li>Enabled WebKit’s process swapping on cross-site navigation, meaning separate domains are sandboxed from one another</li>
+
+    </ul>
+
+    <p>Search engine changes</p>
+
+    <ul>
+
+      <li>Switched to DuckDuckGo search by default since it supports a dark style</li>
+
+      <li>Enabled strict Safe Browsing by default for DuckDuckGo to avoid unwanted results</li>
+
+      <li>StartPage.com remains an available option in the menu</li>
+
+      <li>Other search engines or configurations can be added under “Custom Search Engine…” in the menu, as always</li>
+
+    </ul>
+- version: 6.3.4
+  unix-timestamp: 1588032000
+  description: |-
+    <p>Updated Italian translations thanks to Mirko Brombin</p>
+- version: 6.3.3
+  unix-timestamp: 1585699200
+  description: |-
+    <p>Fool me twice…</p>
+
+    <ul>
+
+      <li>Remove sometimes-problematic dark style workaround CSS since it was fixed in WebKit</li>
+
+      <li>Ensure correct browser icon size is set</li>
+
+      <li>Remove dark style toggle when forcing a -dark stylesheet</li>
+
+    </ul>
+- version: 6.3.2
+  unix-timestamp: 1585267200
+  description: |-
+    <p>Minor Fixes</p>
+
+    <ul>
+
+      <li>Fix entry selection color when using the light style</li>
+
+      <li>Improve styling on other platforms/stylesheets by being less ambitious</li>
+
+    </ul>
+- version: 6.3.1
+  unix-timestamp: 1584057600
+  description: |-
+    <p>Helping Hand</p>
+
+    <ul>
+
+      <li>Suggest turning on &quot;Close when opening externally&quot; if Ephemeral notices you frequently doing it yourself</li>
+
+      <li>Turkish translations thanks to Safak GENISOL</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 6.2.1
+  unix-timestamp: 1581897600
+  description: |-
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Translation system improved thanks to @NathanBnm</li>
+
+    </ul>
+- version: 6.2.0
+  unix-timestamp: 1580342400
+  description: |-
+    <p>Dark Style Rises</p>
+
+    <ul>
+
+      <li>A new toggle lets you choose light or dark style for sites, assuming they support the `prefers-color-scheme` CSS
+
+    query</li>
+
+      <li>Stopped defaulting to dark style by default since it can break some sites</li>
+
+      <li>Set the window title to help distinguish different pages from the dock</li>
+
+      <li>Simplified &quot;Open page in…&quot; menu and logic to always expose all options</li>
+
+    </ul>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+      <li>Updated French translations thanks to @NathanBnm</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 6.1.1
+  unix-timestamp: 1572912000
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Fixed checkbox and radio button styling</li>
+
+      <li>Treat “localhost” as a valid domain</li>
+
+      <li>Improved dark styling when building with newer versions of WebKit</li>
+
+      <li>Under the hood changes to make translations easier</li>
+
+      <li>Updated Spanish translations thanks to Adolfo Jayme-Barrientos and @riesp</li>
+
+    </ul>
+- version: 6.1.0
+  unix-timestamp: 1571270400
+  description: |-
+    <p>🎉️ Emoji (and international character) support for domains! Punycode means domains like i❤tacos.ws will show up properly in the URL entry, while phishing domains should still show up like xn--80ak6aa92e.com</p>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Updated Dutch translations thanks to Heimen Stoffels</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+- version: 6.0.0
+  unix-timestamp: 1570924800
+  description: |-
+    <p>Adding Some Polish 💅️</p>
+
+    <ul>
+
+      <li>💻️ Touchpad gesture navigation: Use a two-finger swipe to move back or forward through your browsing history</li>
+
+      <li>🔗️ More room for the URL entry to breathe: spacing on each side plus a maximum width means the window is easier to grab and move around</li>
+
+      <li>UI styling fixes, plus dark style fixes for newer versions of WebKit</li>
+
+      <li>Code cleaning to keep things fresh and clean</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 5.4.0
   unix-timestamp: 1568678400
   description: |-
@@ -462,21 +627,24 @@ redirect_from:
 <ul>
   <li>Easily open pages in any other installed browser</li>
   <li>Search right from the URL bar</li>
-  <li>Set as your default browser for true privacy by default</li>
-  <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
   <li>Pick between privacy-respecting search engines from the menu</li>
   <li>Quickly disable or re-enable JavaScript from the menu</li>
+</ul>
+<p>Useful keyboard shortcuts and gestures:</p>
+<ul>
+  <li>Navigate back or forward with a two-finger swipe on your trackpad</li>
   <li>Add a website to the URL suggestions with the ⭐️ icon or Ctrl+D</li>
   <li>Find text on the page with Ctrl+F</li>
+  <li>Zoom in or out with Ctrl+Plus and Ctrl+Minus</li>
+  <li>Open a new window with Ctrl+N</li>
+  <li>Hit Ctrl+W to close the current window or Ctrl+Q to quit all windows</li>
 </ul>
 <p>Ephemeral protects you in five key ways:</p>
 <p>1️⃣ Always incognito. From the second you open an Ephemeral window until you close it (or hit the Erase button), Ephemeral is in private browsing mode. That means history, cookies, local storage, passwords, etc. are all blown away as soon as you leave.</p>
-<p>2️⃣ Contained. Every Ephemeral window is a separate instance of the browser engine. This means pages are kept separate from one another. Sign into a service in one window, and other Ephemeral windows will have no idea you’re signed in.</p>
-<p>3️⃣ No third-party cookies. Out of the box, Ephemeral blocks cookies from third-party sources. This cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
+<p>2️⃣ Sandboxed. Each window uses a separate instance of the browser engine, domains inside each window are rendered using different processes, and the engine’s processes are sandboxed from one another to keep you safe. Sign into a service in one window, and sites in other windows will have no idea.</p>
+<p>3️⃣ No third-party cookies. Ephemeral blocks cookies from third-party sources, which cuts down on advertising cookies and other unwanted forms of cross-site tracking.</p>
 <p>4️⃣ No telemetry. Ephemeral does not touch the network until you explicitly load a web page or perform a search. Even then, no usage data is ever collected—I have no idea what you do with Ephemeral, and I don&apos;t want to know!</p>
-<p>5️⃣️ Ephemeral uses Startpage.com—the world&apos;s most private search engine—by default to avoid as much Google tracking as possible. You can also choose DuckDuckGo from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
-<p>The best part of Ephemeral comes when you use it as your default browser:</p>
-<p>Make privacy a habit by opening links in a private browser by default, knowing you can always jump back into something less private like Firefox, Chrome, Opera, Brave—or any other installed browser—with one click.</p>
+<p>5️⃣️ Ephemeral uses DuckDuckGo—the search engine that doesn’t track you—by default to avoid as much Google tracking as possible. You can also choose StartPage.com from the menu if that’s your preference, or even set your own entirely custom search engine.</p>
+<p>Make privacy a habit by opening links in Ephemeral by default, knowing you can always jump back into a traditional browser like Epiphany, Firefox, Chrome, Opera, Brave—or any other installed browser—with one click. Perfect in case you want to use saved passwords or other extensions.</p>
 <p>Remember, Ephemeral and any browser&apos;s incognito or private mode can only do so much: they mitigate some tracking and don&apos;t store data on your device, but they won&apos;t stop your ISP, government, or determined websites from tracking you.</p>
-<p>What if you run into a site compatibility issue due to the tracking prevention, or if you want to sign into a site using another browser’s saved passwords? Ephemeral has you covered: just hit your other browser’s icon in the header and the current page is opened up there—optionally closing the window to get out of your way.</p>
 <p>For the best protection, always use a VPN.</p>

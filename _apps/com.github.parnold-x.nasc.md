@@ -4,33 +4,57 @@ title: "NaSC"
 summary: "Do maths like a normal person"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/nasc"
-help_page: "https://github.com/parnold-x/nasc/issues"
-dist: juno
+help_page: "#"
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/0B673B0091B1F409CC087D53CB4A83F3/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
 color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
 price: 8
 releases:
-- version: 0.5.3
-  unix-timestamp: 1557619200
+- version: 0.7.5
+  unix-timestamp: 1597881600
   description: |-
-    <p>Fix double NaSC icon</p>
-- version: 0.5.1
-  unix-timestamp: 1541376000
+    <p>To define a user function type e.g.: function kineticEnergy 0.5*\x*\y^2</p>
+
+    <p>The you can use it anywhere e.g. car = kineticEnergy(1000 kg, 3 m/s)</p>
+- version: 0.7.4
+  unix-timestamp: 1596585600
   description: |-
-    <p>Update Debian control file.</p>
-- version: 0.5.0
-  unix-timestamp: 1540684800
+    <p>Fixed a bug that caused problems when using comments inline</p>
+
+    <p>Better handling of whitespaces with variable declaration and newlines</p>
+
+    <p>Improved the updating of the results while doing line movements</p>
+- version: 0.7.3
+  unix-timestamp: 1591660800
   description: |-
-    <p>Release for Juno.</p>
+    <p>Fixed a bug that caused a crash during startup</p>
+
+    <p>Fixed a case where the ans and line tokens failed to parse</p>
+
+    <p>Support for dark themes</p>
+
+    <p>Share panes to MathB.in</p>
+- version: 0.7.1
+  unix-timestamp: 1590796800
+  description: |-
+    <p>You can now manage multiple calculation sheets - load, add, remove and rename sheets</p>
+
+    <p>Fixed a bug that should make NaSC much more stable</p>
+
+    <p>Save sheets dynamically</p>
+
+    <p>Removed auto complete functions with parenthesis</p>
+
+    <p>Preperation to make NaSC translatable</p>
 redirect_from:
   - /com.github.parnold-x.nasc.desktop/
 ---

@@ -5,23 +5,71 @@ summary: "Find the most beautiful wallpapers"
 developer: "Carlos Lopez"
 homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/9C0E639EA150318F72C4AACB466B634B/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/762BA5B1C8D073DAF3A5E7A68F394A51/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.3.9
+  unix-timestamp: 1590192000
+  description: |-
+    <p>Free up space!</p>
+
+    <ul>
+
+      <li>Delete photos from history.</li>
+
+    </ul>
+- version: 1.3.8
+  unix-timestamp: 1579305600
+  description: |-
+    <p>Fist year release!</p>
+
+    <ul>
+
+      <li>Back to the classic appearance.</li>
+
+      <li>Fix language codes.</li>
+
+      <li>Improve the way translations files are setting.</li>
+
+      <li>The width and height are shown in each photo.</li>
+
+      <li>Fix greeter don&apos;t getting wallpaper set via Fondo.</li>
+
+    </ul>
+- version: 1.3.7
+  unix-timestamp: 1572825600
+  description: |-
+    <p>Custom colors and icon for Christmas</p>
+- version: 1.3.6
+  unix-timestamp: 1572134400
+  description: |-
+    <p>Custom colors for #DiaDeMuertos</p>
+- version: 1.3.5
+  unix-timestamp: 1570838400
+  description: |-
+    <p>Fix</p>
+
+    <ul>
+
+      <li>#65 Error copy from URI to directory</li>
+
+      <li>#68 No previews availible</li>
+
+    </ul>
 - version: 1.3.4
   unix-timestamp: 1569110400
   description: |-

@@ -5,7 +5,7 @@ summary: "A Simple GUI for valac"
 developer: "Basem Kheyar"
 homepage: "https://github.com/basjam/ValaCompiler/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/basjam.valacompiler/D89B58D0EFE3F3F2F99C0A64B8ADA29E/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/basjam.valacompiler/D89B58D0EFE3F3F2F99C0A64B8ADA29E/screenshots/image-2_orig.png

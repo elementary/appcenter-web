@@ -5,7 +5,7 @@ summary: "Easy Mupen64Plus FrontEnd"
 developer: "Douglas Muratore"
 homepage: "http://github.com/efdos/MupenGUI"
 help_page: "http://github.com/efdos/MupenGUI/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/efdos.mupengui/D13C00FC8675A56F1F24253B6F5EF240/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/efdos.mupengui/D13C00FC8675A56F1F24253B6F5EF240/screenshots/image-2_orig.png

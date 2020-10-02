@@ -5,19 +5,29 @@ summary: "The number that is alone"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/sudokular"
 help_page: "https://github.com/bartzaalberg/sudokular/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/64x64/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/128x128/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/F8067E62631962062A1E7B928877EAF1/icons/64x64@2/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/icons/64x64/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/icons/128x128/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/icons/64x64@2/com.github.bartzaalberg.sudokular_com.github.bartzaalberg.sudokular.png
 color:
   primary: "rgb(230, 199, 168)"
   primary-text: "rgb(0, 0, 0)"
 price: 0
 releases:
+- version: 1.1.0
+  unix-timestamp: 1574899200
+  description: |-
+    <p>Added Polish translation</p>
+
+    <ul>
+
+      <li>Added Polish translation</li>
+
+    </ul>
 - version: 1.0.1
   unix-timestamp: 1563321600
   description: |-

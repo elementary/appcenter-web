@@ -5,7 +5,7 @@ summary: "Manage your contacts"
 developer: "Alex Angelou"
 homepage: "https://github.com/aggalex/Contacts"
 help_page: "https://github.com/aggalex/Contacts/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aggalex.contacts/FF0EB133B084B100293F53907EBAF764/screenshots/image-1_orig.png
 icons:

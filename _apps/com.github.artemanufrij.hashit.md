@@ -5,7 +5,7 @@ summary: "Generate and verify file hashes"
 developer: "Artem Anufrij"
 homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/hashit/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.hashit/BB369ACB0F22419ACEE6C94CEA4515B0/screenshots/image-1_orig.png
 icons:

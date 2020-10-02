@@ -5,7 +5,7 @@ summary: "The number that is alone"
 developer: "Peter Arnold"
 homepage: "https://github.com/parnold-x/sudoku"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.sudoku/D4264594A0C0B984FCA2C3A1ABAC1C23/screenshots/image-1_orig.png
 icons:

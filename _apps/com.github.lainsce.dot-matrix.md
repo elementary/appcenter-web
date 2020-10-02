@@ -5,7 +5,7 @@ summary: "The glyph playground of creativity from simple lines"
 developer: "Lains"
 homepage: "https://github.com/lainsce/dot-matrix/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/screenshots/image-2_orig.png

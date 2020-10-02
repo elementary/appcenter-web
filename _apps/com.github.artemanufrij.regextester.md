@@ -5,7 +5,7 @@ summary: "A simple app for testing regular expressions"
 developer: "Artem Anufrij"
 homepage: "https://github.com/artemanufrij/regextester"
 help_page: "https://github.com/artemanufrij/regextester/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/8DB22FC9A192BF71ED63F856340AE4D0/screenshots/image-1_orig.png
 icons:

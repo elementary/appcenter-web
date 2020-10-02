@@ -5,7 +5,7 @@ summary: "Manage your SSH bookmarks"
 developer: "Bart Zaalberg"
 homepage: "https://github.com/bartzaalberg/bookmark-manager"
 help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-2_orig.png

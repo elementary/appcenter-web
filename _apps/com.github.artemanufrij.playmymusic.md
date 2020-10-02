@@ -5,7 +5,7 @@ summary: "A music player for listening to local music files, online radios and a
 developer: "Artem Anufrij"
 homepage: "http://anufrij.org/melody/"
 help_page: "https://github.com/artemanufrij/playmymusic/issues"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/screenshots/image-1_orig.png
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.playmymusic/0EF781064B7E78A2A2984C8C6102C77D/screenshots/image-2_orig.png

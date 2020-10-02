@@ -5,18 +5,80 @@ summary: "Remind yourself to not sit and stare at the screen for too long"
 developer: "Elfenware"
 homepage: "https://github.com/elfenware/badger"
 help_page: "https://github.com/elfenware/badger/issues"
-dist: juno
+dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/B7B1EFA583E25833C8731EFB3DF65102/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/86861F17FA0F84AD18BA2BF59D2C3811/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/B7B1EFA583E25833C8731EFB3DF65102/icons/64x64/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/B7B1EFA583E25833C8731EFB3DF65102/icons/128x128/com.github.elfenware.badger_com.github.elfenware.badger.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/elfenware.badger/B7B1EFA583E25833C8731EFB3DF65102/icons/64x64@2/com.github.elfenware.badger_com.github.elfenware.badger.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
 releases:
+- version: 3.3.0
+  unix-timestamp: 1598313600
+  description: |-
+    <ul>
+
+      <li>Add: Portuguese (Portugal) translation (@rottenpants466)</li>
+
+    </ul>
+- version: 3.2.0
+  unix-timestamp: 1590883200
+  description: |-
+    <ul>
+
+      <li>Add: Spanish translation (@fitojb)</li>
+
+      <li>Add: Ukrainian translation (@IgorHordiichuk)</li>
+
+    </ul>
+- version: 3.1.1
+  unix-timestamp: 1588464000
+  description: |-
+    <ul>
+
+      <li>Update: Screenshot</li>
+
+    </ul>
+- version: 3.1.0
+  unix-timestamp: 1588464000
+  description: |-
+    <ul>
+
+      <li>Add: New reminder for correcting your posture</li>
+
+    </ul>
+- version: 3.0.0
+  unix-timestamp: 1573344000
+  description: |-
+    <ul>
+
+      <li>Add: Checkboxes to toggle each timer (@andreasomaini)</li>
+
+      <li>Fix: Work correctly with the Notification Center (@nathanaelhoun)</li>
+
+      <li>Update: Improved icon</li>
+
+    </ul>
+- version: 2.3.1
+  unix-timestamp: 1570752000
+  description: |-
+    <ul>
+
+      <li>Update: Screenshot</li>
+
+    </ul>
+- version: 2.3.0
+  unix-timestamp: 1570406400
+  description: |-
+    <ul>
+
+      <li>Add: 🎉️ Global switch to turn off all reminders 🎉️</li>
+
+    </ul>
 - version: 2.2.0
   unix-timestamp: 1569456000
   description: |-

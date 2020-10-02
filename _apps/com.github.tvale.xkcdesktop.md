@@ -5,7 +5,7 @@ summary: "xkcd in the comfort of my desktop? Yes please."
 developer: "Tiago Vale"
 homepage: "https://github.com/tvale/xkcdesktop"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tvale.xkcdesktop/CA2DD8BB10C3740F3974BEB891FF39FA/screenshots/image-1_orig.png
 icons:

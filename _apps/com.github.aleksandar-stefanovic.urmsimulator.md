@@ -5,7 +5,7 @@ summary: "Simple URM simulations"
 developer: "Aleksandar Stefanović"
 homepage: "https://github.com/aleksandar-stefanovic/urmsimulator/"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/AB3B98CF3794719ED25B59B9512FBB2C/screenshots/image-1_orig.png
 icons:

@@ -5,7 +5,7 @@ summary: "Time Management App using Pomodoro Technique"
 developer: "Micael Dias (@aimproxy)"
 homepage: "https://github.com/aimproxy/cyfrif"
 help_page: "#"
-dist: juno
+dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/screenshots/image-1_orig.png
 icons:
