@@ -7,19 +7,49 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/735E61A5D72E63A7D4AE40E1CB7B107C/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/7857A6BFF8661DBB512E895CC66D2AC6/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 7.0.4
+  unix-timestamp: 1601510400
+  description: |-
+    <p>Developers, Developers, Developers!</p>
+
+    <ul>
+
+      <li>Access WebKit Web Inspector and developer tools via Inspect Element</li>
+
+      <li>New hard refresh action (bypassing the cache) with Shift+Ctrl+R</li>
+
+      <li>Support for elementary OS 6, including the dark style preference</li>
+
+      <li>Several new site suggestions</li>
+
+    </ul>
+
+    <p>Translation updates</p>
+
+    <ul>
+
+      <li>Translated to Ukranian thanks to Ihor Hordiichuk</li>
+
+      <li>Updated Brazilian Portuguese translations thanks to Karl Prieb</li>
+
+      <li>Updated Turkish translations thanks to Safak GENISOL</li>
+
+    </ul>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 6.4.1
   unix-timestamp: 1588204800
   description: |-
@@ -545,7 +575,7 @@ releases:
 
     <ul>
 
-      <li>New approval dialogs for external apps, e.g. appstream:// or ftp://</li>
+      <li>New approval dialogs for external apps, e.g. appstream or ftp protocols</li>
 
       <li>New warning when no network connection</li>
 
