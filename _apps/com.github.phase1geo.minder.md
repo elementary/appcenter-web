@@ -7,19 +7,53 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/74EAEB51957EF525A72B1A769B9B1CB0/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.11.1
+  unix-timestamp: 1600992000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Shift-e keyboard shortcut to edit note text for nodes and connections.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Italian translation (thanks to @albanobattistella).</li>
+
+      <li>Improved automatic layout of node trees when adjacent tree sizes change.</li>
+
+      <li>Changed node and connection contextual menus to show (Edit Note) instead of (Add Note) and (Remove Note) options.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixing compilation issues.</li>
+
+      <li>Fixing behavior of &apos;t&apos; command when node is selected.</li>
+
+      <li>Fixing support for undo/redo of root node insertion.</li>
+
+    </ul>
 - version: 1.11.0
   unix-timestamp: 1600214400
   description: |-
