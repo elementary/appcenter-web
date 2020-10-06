@@ -7,20 +7,46 @@ homepage: "https://alcinnz.github.io/Odysseus"
 help_page: "https://alcinnz.github.io/Odysseus-support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/3F0420B849C359E5CCA76B64E281C976/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
-  primary: "#f7785b"
+  primary: "#57d5a9"
   primary-text: "#000"
 price: 1
 releases:
-- version: 
+- version: 1.7.1
+  unix-timestamp: 1600905600
+  description: |-
+    <p>Tag-based bookmarking</p>
+
+    <p>Set your own homepages</p>
+
+    <p>Fix UI regression around autoselecting addressbar</p>
+
+    <p>Red Panda Adventures easter egg removed (it was a UI test)</p>
+- version: 1.6.3
+  unix-timestamp: 1585612800
+  description: |-
+    <p>New French &amp; Dutch localizations</p>
+
+    <p>Minor addressbar redesign</p>
+
+    <p>Improved error reporting</p>
+
+    <p>(Temporary) Red Panda Adventures easter egg</p>
+- version: 1.6.2
+  unix-timestamp: 1584662400
+  description: |-
+    <p>New icon thanks to Fatih20 (Nararyans R.I.)</p>
+
+    <p>Fix crash resulting from opening local files (the OS no longer provides the &quot;file://&quot;-prefix).</p>
+- version: 1.6.1
   unix-timestamp: 1567900800
   description: |-
     <p>Expose YouTube webfeeds.</p>
