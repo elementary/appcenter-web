@@ -3,25 +3,41 @@ app_id: com.github.ztefn.haguichi
 title: "Haguichi"
 summary: "A graphical frontend for Hamachi"
 developer: "Stephen Brandt"
-homepage: "https://www.haguichi.net/"
-help_page: "https://www.haguichi.net/tips-and-tricks/"
+homepage: "https://haguichi.net"
+help_page: "https://haguichi.net/tips-and-tricks/"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-5_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/screenshots/image-6_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-6_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/25D5828C09ECDAB7B9C7B7DE1F81BB4B/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/icons/64x64/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/icons/128x128/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/icons/64x64@2/com.github.ztefn.haguichi_com.github.ztefn.haguichi.png
 color:
   primary: "#FFE0CC"
   primary-text: "#FF4444"
 price: 0
 releases:
+- version: 1.143.0
+  unix-timestamp: 1601683200
+  description: |-
+    <ul>
+
+      <li>Fixed search entry leaving out the trigger character when activated by typing for the first time.</li>
+
+      <li>Removed &quot;Donate&quot; menu item due to little use.</li>
+
+      <li>Translator credits are now part of the translations themselves.</li>
+
+      <li>Added complete Portuguese translation (thanks to André Barata).</li>
+
+      <li>Updated Dutch and Polish translations.</li>
+
+    </ul>
 - version: 1.142.0
   unix-timestamp: 1564099200
   description: |-
@@ -97,3 +113,4 @@ redirect_from:
   <li>Fully customizable commands</li>
   <li>Backup and restore your Hamachi configuration folder</li>
 </ul>
+<p>Please note: Requires installation of Hamachi on the system in order to use.</p>

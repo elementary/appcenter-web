@@ -7,17 +7,49 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E2C43066C6C1F96F042B7ADC76ECDAB9/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.5.1
+  unix-timestamp: 1601596800
+  description: |-
+    <p>Planner 2.5 is here, with many design improvements, new features, and more.</p>
+
+    <ul>
+
+      <li>Quick Add comes with a new design and new features.</li>
+
+      <li>Multiple Windows Support.</li>
+
+      <li>Multiple Selection Support.</li>
+
+      <li>Text Formatting.</li>
+
+      <li>Sort Your Tasks.</li>
+
+      <li>Export Y Import.</li>
+
+      <li>New Keyboard Shortcuts.</li>
+
+    </ul>
+- version: 2.4.7
+  unix-timestamp: 1594166400
+  description: |-
+    <p>General bug fixes and improvements.</p>
+
+    <ul>
+
+      <li>Updated translations for non-English languages.</li>
+
+    </ul>
 - version: 2.4.6
   unix-timestamp: 1594166400
   description: |-
