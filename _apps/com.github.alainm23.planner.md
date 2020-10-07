@@ -1,5 +1,5 @@
 ---
-app_id: com.github.alainm23.planner
+app_id: "com.github.alainm23.planner"
 title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
@@ -60,6 +60,7 @@ releases:
       <li>Fixed a critical bug where tasks disappear unexpectedly.</li>
 
     </ul>
+
 - version: 2.4.5
   unix-timestamp: 1593302400
   description: |-
@@ -92,6 +93,7 @@ releases:
       <li>Wout</li>
 
     </ul>
+
 - version: 2.4.2
   unix-timestamp: 1592784000
   description: |-
@@ -136,6 +138,7 @@ releases:
       <li>Wout</li>
 
     </ul>
+
 - version: 2.3.5
   unix-timestamp: 1588204800
   description: |-
@@ -154,6 +157,7 @@ releases:
       <li>[GitHub #331 #330] - The progress indicator in the project view now has a tooltip.</li>
 
     </ul>
+
 - version: 2.3.3
   unix-timestamp: 1586822400
   description: |-
@@ -224,6 +228,7 @@ releases:
     </ul>
 
     <p>Special thanks to &apos;Cal&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
 - version: 2.2.14
   unix-timestamp: 1583107200
   description: |-
@@ -240,6 +245,7 @@ releases:
     </ul>
 
     <p>Special thanks to &apos;Wount&apos; for becoming our new silver tier patrons and supporting the development of Planner.</p>
+
 - version: 2.2.8
   unix-timestamp: 1582675200
   description: |-
@@ -270,6 +276,7 @@ releases:
     <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
 
     <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+
 - version: 2.2.6
   unix-timestamp: 1582588800
   description: |-
@@ -298,6 +305,7 @@ releases:
     <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
 
     <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+
 - version: 2.2.2
   unix-timestamp: 1582416000
   description: |-
@@ -326,6 +334,7 @@ releases:
     <p>Special thanks to Nick @ The Linux Experiment and William Tumeo for becoming our new silver tier patrons and supporting the development of Planner.</p>
 
     <p>We also thank all the people who made some donations via Patreon or PayPal. Without you this would not be possible 😉️.</p>
+
 - version: 2.1.1
   unix-timestamp: 1580256000
   description: |-
@@ -360,6 +369,7 @@ releases:
       <li>[GitHub #152, #149] - Fixed some bugs with Quick Find.</li>
 
     </ul>
+
 - version: 2.0.8
   unix-timestamp: 1579219200
   description: |-
@@ -392,6 +402,7 @@ releases:
       <li>🎉️ and much more.</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1548720000
   description: |-
@@ -412,6 +423,7 @@ releases:
       <li>Lithuanian (welaq)</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1547856000
   description: |-
@@ -432,6 +444,7 @@ releases:
       <li>Updating French translations 🇫🇷 (NathanBnm)</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1547769600
   description: |-
@@ -468,6 +481,7 @@ releases:
       <li>Update Spanish translation</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1547164800
   description: |-
@@ -508,6 +522,7 @@ releases:
       <li>Fix #11</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1546560000
   description: |-
@@ -520,6 +535,7 @@ releases:
       <li>Adding new tooltips</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1546387200
   description: |-
@@ -530,14 +546,15 @@ releases:
       <li>Adding Spanish translations</li>
 
     </ul>
+
 - version: 1.0
   unix-timestamp: 1546300800
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.alainm23.planner.desktop/
 ---
-
 <p>🚀️ Planner 2 is here...</p>
 <ul>
   <li>🚀️ Complete redesign of the UI.</li>

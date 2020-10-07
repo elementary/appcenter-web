@@ -1,5 +1,5 @@
 ---
-app_id: com.github.kjlaw89.archetype.desktop
+app_id: "com.github.kjlaw89.archetype.desktop"
 title: "Archetype"
 summary: "Start developing apps with just a few clicks!"
 developer: "KJ Lawrence"
@@ -22,18 +22,20 @@ releases:
   unix-timestamp: 1528761600
   description: |-
     <p>Changed method for moving temp directory and added in basic error logging</p>
+
 - version: 1.0.1
   unix-timestamp: 1528070400
   description: |-
     <p>Updated description and colors</p>
+
 - version: 1.0.0
   unix-timestamp: 1528070400
   description: |-
     <p>Initial 1.0.0 release!</p>
+
 redirect_from:
   - /com.github.kjlaw89.archetype.desktop/
 ---
-
 <p>Archetype is a vala app generator that comes with 5 customizable templates to get you building apps in minutes!</p>
 <ul>
   <li>5 default app types: Granite, Utility, Widget, Blank, Terminal</li>

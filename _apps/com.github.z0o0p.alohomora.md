@@ -1,5 +1,5 @@
 ---
-app_id: com.github.z0o0p.alohomora
+app_id: "com.github.z0o0p.alohomora"
 title: "Alohomora"
 summary: "Store and manage passwords securely"
 developer: "Taqmeel Zubeir"
@@ -33,6 +33,7 @@ releases:
       <li>French Translations by @NathanBnm (Nathan Bonnemains)</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1595894400
   description: |-
@@ -43,12 +44,13 @@ releases:
       <li>Improved app icons</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1594339200
+
 redirect_from:
   - /com.github.z0o0p.alohomora.desktop/
 ---
-
 <p>A clean and easy-to-use password manager that securely stores all your passwords in your device.</p>
 <p>You can now forget about having to remember a unique, long, complex password for every one of your online accounts.</p>
 <p>Features:</p>

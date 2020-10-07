@@ -1,10 +1,10 @@
 ---
-app_id: com.github.coralynnmay.goodvibesapp.desktop
+app_id: "com.github.coralynnmay.goodvibesapp.desktop"
 title: "GoodVibes"
 summary: "Send and recieve good vibes!"
 developer: "Coralynn May Colombe"
-homepage: "#"
-help_page: "#"
+homepage: #
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/coralynnmay.goodvibesapp.desktop/67FBF30C77C16472436537D4A81C0C1C/screenshots/image-1_orig.png
@@ -22,8 +22,8 @@ releases:
   unix-timestamp: 1525392000
   description: |-
     <p>Initial public release</p>
+
 redirect_from:
   - /com.github.coralynnmay.goodvibesapp.desktop/
 ---
-
 <p>An app to send and receive good vibes anonymously</p>

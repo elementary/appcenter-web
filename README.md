@@ -52,8 +52,9 @@ bundle install
 The list of apps is generated with a simple Ruby script. To rebuild the app list, run:
 
 ```shell
-ruby generate-loki.rb; ruby generate-hera.rb
+ruby bin/run.rb
 ```
+It works in three parts, first it queries the server, downloads the latest tarball of releases and extracts them into yaml files based on the release. Then it parses the YAML files to generate corresponding MD entries for each app and finally rebuilds the HTML with Jekyll.
 
 This is automatically run daily by Travis CI.
 

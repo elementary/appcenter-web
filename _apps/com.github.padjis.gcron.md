@@ -1,5 +1,5 @@
 ---
-app_id: com.github.padjis.gcron
+app_id: "com.github.padjis.gcron"
 title: "Gcron"
 summary: "Display, understand and edit your cron configuration"
 developer: "padjis"
@@ -25,6 +25,7 @@ releases:
       <li>App redesign</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1568419200
   description: |-
@@ -33,6 +34,7 @@ releases:
       <li>Icon redesign</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1568160000
   description: |-
@@ -43,6 +45,7 @@ releases:
       <li>Bold logs error messages</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1567814400
   description: |-
@@ -61,6 +64,7 @@ releases:
       <li>The application can be reinitialized from the cron setup</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1567728000
   description: |-
@@ -69,9 +73,9 @@ releases:
       <li>Initial release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.padjis.gcron.desktop/
 ---
-
 <p>If you are tired to open your terminal in order to edit your cron jobs, or even better are interested in figuring out what does one of your current cron job do</p>
 <p>Gcron is the solution for you, it is an easy to use graphic interface that edit the cron configuration of the current user as well as explains its content</p>

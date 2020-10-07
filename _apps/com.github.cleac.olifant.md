@@ -1,10 +1,10 @@
 ---
-app_id: com.github.cleac.olifant
+app_id: "com.github.cleac.olifant"
 title: "Olifant"
 summary: "Lightning fast client for Mastodon"
 developer: "alexcleac"
 homepage: "https://github.com/cleac/olifant"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-1_orig.png
@@ -32,6 +32,7 @@ releases:
       <li>Fixed duplication of follow requests in notifications</li>
 
     </ul>
+
 - version: 0.2.1-beta1
   unix-timestamp: 1582934400
   description: |-
@@ -42,6 +43,7 @@ releases:
       <li>Implemented way to log in when xdg-open is not available</li>
 
     </ul>
+
 - version: 0.2.1-beta
   unix-timestamp: 1582934400
   description: |-
@@ -52,6 +54,7 @@ releases:
       <li>Forked a project</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1540944000
   description: |-
@@ -74,6 +77,7 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1529539200
   description: |-
@@ -98,6 +102,7 @@ releases:
       <li>Fixed minor bugs</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1527724800
   description: |-
@@ -106,10 +111,10 @@ releases:
       <li>Initial release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.cleac.olifant.desktop/
 ---
-
 <p>Olifant is a client for the world’s largest free, open-source, decentralized microblogging network with real-time notifications and support for multiple accounts.</p>
 <p>Mastodon is lovingly crafted with power and speed in mind, resulting in a free, independent, and popular alternative to the centralized social networks.</p>
 <p>Anyone can run a Mastodon server. Each server hosts individual user accounts, the content they produce, and the content to which they are subscribed. Every user can follow each other and share their posts regardless of their server.</p>

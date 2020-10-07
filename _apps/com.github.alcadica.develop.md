@@ -1,5 +1,5 @@
 ---
-app_id: com.github.alcadica.develop
+app_id: "com.github.alcadica.develop"
 title: "Develop"
 summary: "Creates easily apps and widgets"
 developer: "Alcadica"
@@ -28,6 +28,7 @@ releases:
       <li>Adds Dutch translations</li>
 
     </ul>
+
 - version: 0.22.0
   unix-timestamp: 1588550400
   description: |-
@@ -40,6 +41,7 @@ releases:
       <li>Uses Native Gtk classes</li>
 
     </ul>
+
 - version: 0.21.0
   unix-timestamp: 1579046400
   description: |-
@@ -50,6 +52,7 @@ releases:
       <li>Improves UI</li>
 
     </ul>
+
 - version: 0.20.1
   unix-timestamp: 1573430400
   description: |-
@@ -66,6 +69,7 @@ releases:
       <li>Adds Portuguese translations (@aimproxy)</li>
 
     </ul>
+
 - version: 0.20.0
   unix-timestamp: 1562976000
   description: |-
@@ -82,6 +86,7 @@ releases:
       <li>Adds Portuguese translations (@aimproxy)</li>
 
     </ul>
+
 - version: 0.0.8
   unix-timestamp: 1553126400
   description: |-
@@ -94,6 +99,7 @@ releases:
       <li>Adds French translations (@NathanBnm)</li>
 
     </ul>
+
 - version: 0.0.7
   unix-timestamp: 1538265600
   description: |-
@@ -102,6 +108,7 @@ releases:
       <li>Publish the app on Juno</li>
 
     </ul>
+
 - version: 0.0.6
   unix-timestamp: 1529712000
   description: |-
@@ -110,6 +117,7 @@ releases:
       <li>Fills generated README.md files with installing and compiling instructions</li>
 
     </ul>
+
 - version: 0.0.5
   unix-timestamp: 1527897600
   description: |-
@@ -118,6 +126,7 @@ releases:
       <li>Adds a small disclaimer about user data consumption (they are not saved on a server)</li>
 
     </ul>
+
 - version: 0.0.4
   unix-timestamp: 1527552000
   description: |-
@@ -126,6 +135,7 @@ releases:
       <li>Fixes a small bug</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1527206400
   description: |-
@@ -148,6 +158,7 @@ releases:
       <li>Welcome View is too big</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1526774400
   description: |-
@@ -156,6 +167,7 @@ releases:
       <li>Improves first run screen</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1526688000
   description: |-
@@ -170,9 +182,9 @@ releases:
       <li>Creates elementary OS wingpanel indicator template</li>
 
     </ul>
+
 redirect_from:
   - /com.github.alcadica.develop.desktop/
 ---
-
 <p>A simple tool to help developers to develop their own apps and widgets.</p>
 <p>With this app you can scaffold an App, a Switchboard Widget or a Wingpanel Indicator</p>

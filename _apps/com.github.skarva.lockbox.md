@@ -1,10 +1,10 @@
 ---
-app_id: com.github.skarva.lockbox
+app_id: "com.github.skarva.lockbox"
 title: "Lock Box"
 summary: "Lock your secrets up tight"
 developer: "skarva llc"
 homepage: "https://skarva.tech"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/skarva.lockbox/27B87A3ED73A27DBC1228E96F74A0C9D/screenshots/image-1_orig.png
@@ -32,6 +32,7 @@ releases:
       <li>Additional back-end updates thanks to Ryo</li>
 
     </ul>
+
 - version: 1.1
   unix-timestamp: 1580601600
   description: |-
@@ -48,14 +49,15 @@ releases:
       <li>Dutch translation (Thanks to Vistaus!)</li>
 
     </ul>
+
 - version: 1.0
   unix-timestamp: 1565395200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.skarva.lockbox.desktop/
 ---
-
 <p>Keep your notes and website credentials secure in an easy-to-manage collection. It is ready to go when you&apos;re logged in, and securely encrypted when you&apos;re not.</p>
 <p>Features</p>
 <ul>

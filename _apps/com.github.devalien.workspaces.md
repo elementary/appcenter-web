@@ -1,5 +1,5 @@
 ---
-app_id: com.github.devalien.workspaces
+app_id: "com.github.devalien.workspaces"
 title: "Workspaces"
 summary: "Always be ready for work"
 developer: "Goncalo Margalho"
@@ -71,10 +71,12 @@ releases:
       <li>Dutch Translation by Vistaus</li>
 
     </ul>
+
 - version: 3.0.0
   unix-timestamp: 1598918400
   description: |-
     <p>Release 3.0 for AppCenter</p>
+
 - version: 1.3.1
   unix-timestamp: 1598140800
   description: |-
@@ -85,6 +87,7 @@ releases:
       <li>Fixed typo</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1598140800
   description: |-
@@ -117,6 +120,7 @@ releases:
       <li>Fixed icon critical message</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1597968000
   description: |-
@@ -129,6 +133,7 @@ releases:
       <li>Fixed load apps for flatpak</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1597968000
   description: |-
@@ -159,6 +164,7 @@ releases:
       <li>When closing preferences, if you were in the quick launcher, it will open back that one</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1597622400
   description: |-
@@ -187,13 +193,14 @@ releases:
       <li>Fix control file for deb packaging</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1597622400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.devalien.workspaces.desktop/
 ---
-
 <p>Make working on different projects easy again!</p>
 <p>Workspaces lets you configure and quickly launch all you need to work on a project. It can open in a second different instances of code, a specific website and a directory</p>

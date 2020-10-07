@@ -1,5 +1,5 @@
 ---
-app_id: com.github.alainm23.byte
+app_id: "com.github.alainm23.byte"
 title: "Byte"
 summary: "Rediscover your music"
 developer: "Alain M."
@@ -38,6 +38,7 @@ releases:
     <p>Special thanks to &apos;Eddie Vassallo&apos; for becoming our new Gold Tier Patrons and supporting the development of Byte.</p>
 
     <p>🌟️ Thank you to our silver members for supporting the development of Byte. 🌟️</p>
+
 - version: 0.3
   unix-timestamp: 1578528000
   description: |-
@@ -54,6 +55,7 @@ releases:
       <li>👉️ Direct access to see the artist, album or playlist: Anticlick to a song &gt; Go to &gt; select an option.</li>
 
     </ul>
+
 - version: 0.2.5
   unix-timestamp: 1577664000
   description: |-
@@ -68,6 +70,7 @@ releases:
       <li>Notifications now show album covers correctly.</li>
 
     </ul>
+
 - version: 0.2.3
   unix-timestamp: 1576022400
   description: |-
@@ -88,6 +91,7 @@ releases:
       <li>Update Spanish translation @alainm23</li>
 
     </ul>
+
 - version: 0.2
   unix-timestamp: 1575590400
   description: |-
@@ -108,6 +112,7 @@ releases:
       <li>Update Spanish translation @alainm23</li>
 
     </ul>
+
 - version: 0.1.19
   unix-timestamp: 1573516800
   description: |-
@@ -120,6 +125,7 @@ releases:
       <li>When a radio is playing, it is now possible to stop playback and play again.</li>
 
     </ul>
+
 - version: 0.1.16
   unix-timestamp: 1572393600
   description: |-
@@ -132,6 +138,7 @@ releases:
       <li>Updated Russian translation @camellan</li>
 
     </ul>
+
 - version: 0.1.9
   unix-timestamp: 1572307200
   description: |-
@@ -142,6 +149,7 @@ releases:
       <li>Updated Russian translation @camellan</li>
 
     </ul>
+
 - version: 0.1.8
   unix-timestamp: 1571270400
   description: |-
@@ -154,6 +162,7 @@ releases:
       <li>Added an new indicator to know if a favorite songs</li>
 
     </ul>
+
 - version: 0.1.7
   unix-timestamp: 1570579200
   description: |-
@@ -166,6 +175,7 @@ releases:
       <li>Fixing style errors</li>
 
     </ul>
+
 - version: 0.1.6
   unix-timestamp: 1567555200
   description: |-
@@ -178,6 +188,7 @@ releases:
       <li>Fix icon name in French translation @NathanBnm</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1566864000
   description: |-
@@ -196,6 +207,7 @@ releases:
       <li>Updated japanese translation @ryonakano 🇯🇵️</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1566777600
   description: |-
@@ -214,6 +226,7 @@ releases:
       <li>Updated japanese translation @ryonakano 🇯🇵️</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1566172800
   description: |-
@@ -244,18 +257,20 @@ releases:
       <li>Spanish translation @alainm23</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1565395200
   description: |-
     <p>Fix some error and performance improvement</p>
+
 - version: 0.1.1
   unix-timestamp: 1565049600
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.alainm23.byte.desktop/
 ---
-
 <p>Interact with your music and fall in love with your library all over again.</p>
 <p>Byte offers a beautiful presentation of your Music Library with loads of powerful features in a minimalistic yet highly customizable UI.</p>
 <p>Handy features:</p>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.reganam
+app_id: "com.github.lainsce.reganam"
 title: "Reganam"
 summary: "Resource Management game set in space"
 developer: "Lains"
 homepage: "https://github.com/lainsce/reganam/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Minor backend fixes</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1569196800
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Minor backend fixes</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1569196800
   description: |-
@@ -47,6 +49,7 @@ releases:
       <li>Fixed usage of metal to hydrogen instead for building houses</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1561766400
   description: |-
@@ -57,6 +60,7 @@ releases:
       <li>Minor fixes in the research level algorithms</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1561680000
   description: |-
@@ -67,6 +71,7 @@ releases:
       <li>Minor fixes</li>
 
     </ul>
+
 - version: 1.0.9
   unix-timestamp: 1561593600
   description: |-
@@ -81,6 +86,7 @@ releases:
       <li>Fix: Synthesizers pricing bug</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1561420800
   description: |-
@@ -93,6 +99,7 @@ releases:
       <li>Fix: People Housing pricing bug</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1561161600
   description: |-
@@ -107,6 +114,7 @@ releases:
       <li>Fix: More text available to be translated.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1561075200
   description: |-
@@ -117,6 +125,7 @@ releases:
       <li>Fix: The research lab levels are now reported.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1560556800
   description: |-
@@ -127,6 +136,7 @@ releases:
       <li>Fix: There was some game locking bugs happening that would make the game unplayable. (fixed by Kai Gillmann [Silberling
 
     on GitHub])</li> </ul>
+
 - version: 1.0.2
   unix-timestamp: 1559260800
   description: |-
@@ -137,6 +147,7 @@ releases:
       <li>Some last minute fixes.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1559260800
   description: |-
@@ -147,6 +158,7 @@ releases:
       <li>Some last minute fixes.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1559260800
   description: |-
@@ -157,10 +169,10 @@ releases:
       <li>First release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.reganam.desktop/
 ---
-
 <p>Build up your planet&apos;s buildings and grow yourself a ecumenopolis of native aliens. Get mines of minerals, crystals and even hydrogen to build more structures and synthesizers.</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

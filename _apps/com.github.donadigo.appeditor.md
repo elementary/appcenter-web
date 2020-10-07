@@ -1,5 +1,5 @@
 ---
-app_id: com.github.donadigo.appeditor
+app_id: "com.github.donadigo.appeditor"
 title: "AppEditor"
 summary: "Edit application menu"
 developer: "Adam Bieńkowski"
@@ -41,6 +41,7 @@ releases:
       <li>Italian translation</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1533945600
   description: |-
@@ -83,6 +84,7 @@ releases:
       <li>Improper escaping of special characters in display name and description</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1515974400
   description: |-
@@ -131,6 +133,7 @@ releases:
       <li>Clear the search entry when creating a new application entry</li>
 
     </ul>
+
 - version: 0.9.3
   unix-timestamp: 1503187200
   description: |-
@@ -153,22 +156,25 @@ releases:
       <li>The main window can be now maximized</li>
 
     </ul>
+
 - version: 0.9.2
   unix-timestamp: 1502755200
   description: |-
     <p>Add meson dependency to debian packaging</p>
+
 - version: 0.9.1
   unix-timestamp: 1502755200
   description: |-
     <p>Fix debian packaging</p>
+
 - version: 0.9.0
   unix-timestamp: 1502755200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.donadigo.appeditor.desktop/
 ---
-
 <p>Edit application entries shown in application menu and their properties.</p>
 <p>Features include:</p>
 <ul>

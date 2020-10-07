@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.dot-matrix
+app_id: "com.github.lainsce.dot-matrix"
 title: "Dot Matrix"
 summary: "The glyph playground of creativity from simple lines"
 developer: "Lains"
 homepage: "https://github.com/lainsce/dot-matrix/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.dot-matrix/6EA1A7F6C4577DA57B4481A7B139ED95/screenshots/image-1_orig.png
@@ -28,6 +28,7 @@ releases:
       <li>Fixed: Ecosystem Colors now are correctly used through the UI</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1564444800
   description: |-
@@ -40,6 +41,7 @@ releases:
       <li>Fixed: Ecosystem Colors now are correctly used</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1564012800
   description: |-
@@ -56,6 +58,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1553212800
   description: |-
@@ -68,6 +71,7 @@ releases:
       <li>Added: Support for Ecosystem Theming (https://bit.ly/2TNKA5O for info)</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1552608000
   description: |-
@@ -80,6 +84,7 @@ releases:
       <li>Added: French translations (NathanBnm)</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1552262400
   description: |-
@@ -98,6 +103,7 @@ releases:
       <li>Misc: Bumped the line thickness limit to 50.</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1552003200
   description: |-
@@ -108,10 +114,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.dot-matrix.desktop/
 ---
-
 <p>Make out icons, glyphs, or anything you can create with lines in this grid of dots</p>
 <ul>
   <li>Select whetether to draw with lines or curves.</li>

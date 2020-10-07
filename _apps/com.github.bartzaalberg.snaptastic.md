@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.snaptastic
+app_id: "com.github.bartzaalberg.snaptastic"
 title: "Snaptastic"
 summary: "A manager for snaps"
 developer: "Bart Zaalberg"
@@ -31,6 +31,7 @@ releases:
       <li>Reverted Dutch translations</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1561939200
   description: |-
@@ -47,6 +48,7 @@ releases:
       <li>Added Turkish translation</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1555459200
   description: |-
@@ -59,6 +61,7 @@ releases:
       <li>Added shortcuts to the button labels</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1549411200
   description: |-
@@ -71,6 +74,7 @@ releases:
       <li>Fixed Dutch grammar issues</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1548806400
   description: |-
@@ -83,6 +87,7 @@ releases:
       <li>Sharpened application icons</li>
 
     </ul>
+
 - version: 0.8.0
   unix-timestamp: 1548547200
   description: |-
@@ -93,6 +98,7 @@ releases:
       <li>Added metadata translations</li>
 
     </ul>
+
 - version: 0.7.2
   unix-timestamp: 1548201600
   description: |-
@@ -109,6 +115,7 @@ releases:
       <li>Fixed bug opening welcome view from web store</li>
 
     </ul>
+
 - version: 0.7.1
   unix-timestamp: 1548115200
   description: |-
@@ -129,6 +136,7 @@ releases:
       <li>Added OARS rating</li>
 
     </ul>
+
 - version: 0.7.0
   unix-timestamp: 1547683200
   description: |-
@@ -143,6 +151,7 @@ releases:
       <li>Translations are working again</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1547337600
   description: |-
@@ -159,6 +168,7 @@ releases:
       <li>Added application shortcuts</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1546992000
   description: |-
@@ -177,6 +187,7 @@ releases:
       <li>Fixed opening apps</li>
 
     </ul>
+
 - version: 0.4.5
   unix-timestamp: 1537401600
   description: |-
@@ -189,6 +200,7 @@ releases:
       <li>Aligned DetailViewBanner for Juno</li>
 
     </ul>
+
 - version: 0.4.4
   unix-timestamp: 1537142400
   description: |-
@@ -199,6 +211,7 @@ releases:
       <li>Added Houston Ci and necessary changes</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1527379200
   description: |-
@@ -211,6 +224,7 @@ releases:
       <li>Added a fix for the Lithuanian translation</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1519171200
   description: |-
@@ -223,6 +237,7 @@ releases:
       <li>Added a fix for the navigation bug</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1518393600
   description: |-
@@ -237,6 +252,7 @@ releases:
       <li>Added price for appcenter</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1518393600
   description: |-
@@ -251,6 +267,7 @@ releases:
       <li>Added price for appcenter</li>
 
     </ul>
+
 - version: 0.3.1
   unix-timestamp: 1517961600
   description: |-
@@ -269,6 +286,7 @@ releases:
       <li>Updated app description</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1517788800
   description: |-
@@ -283,6 +301,7 @@ releases:
       <li>Switched background-color and text color for appcenter</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1517702400
   description: |-
@@ -297,6 +316,7 @@ releases:
       <li>Removed delete and install button for the snap core</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1517616000
   description: |-
@@ -313,6 +333,7 @@ releases:
       <li>Removed delete and install button for the snap core</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1517616000
   description: |-
@@ -327,6 +348,7 @@ releases:
       <li>Fixed appdata file and changed a line for appcenter</li>
 
     </ul>
+
 - version: 0.1.2
   unix-timestamp: 1517529600
   description: |-
@@ -341,6 +363,7 @@ releases:
       <li>Fixed appdata file</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1517529600
   description: |-
@@ -353,6 +376,7 @@ releases:
       <li>You can now launch your apps from the installed view</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1517443200
   description: |-
@@ -373,6 +397,7 @@ releases:
       <li>Added application to system category for appcenter</li>
 
     </ul>
+
 - version: 0.0.6
   unix-timestamp: 1517270400
   description: |-
@@ -385,6 +410,7 @@ releases:
       <li>Added a nicer view for no results</li>
 
     </ul>
+
 - version: 0.0.5
   unix-timestamp: 1517270400
   description: |-
@@ -401,6 +427,7 @@ releases:
       <li>Updated icons</li>
 
     </ul>
+
 - version: 0.0.4
   unix-timestamp: 1517270400
   description: |-
@@ -411,6 +438,7 @@ releases:
       <li>Fixed xml</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1517270400
   description: |-
@@ -423,6 +451,7 @@ releases:
       <li>Fixed polkit calls</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1517270400
   description: |-
@@ -435,6 +464,7 @@ releases:
       <li>Updated debian/control file</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1517270400
   description: |-
@@ -445,10 +475,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.snaptastic.desktop/
 ---
-
 <p>Install your snaps, both downloaded and from online stores like snapcraft.io (right from the browser!). Update with one click in the app, and more! Do everything you need to do without the necessity of opening the terminal.</p>
 <p>Features:</p>
 <ul>

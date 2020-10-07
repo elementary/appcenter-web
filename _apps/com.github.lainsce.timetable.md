@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.timetable
+app_id: "com.github.lainsce.timetable"
 title: "Timetable"
 summary: "Plot out your own timetable for the week and organize it"
 developer: "Lains"
 homepage: "https://github.com/lainsce/timetable/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Minor backend fixes.</li>
 
     </ul>
+
 - version: 1.0.9
   unix-timestamp: 1569801600
   description: |-
@@ -39,6 +40,7 @@ releases:
       <li>Fixed: Maximization problems.</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1565913600
   description: |-
@@ -49,6 +51,7 @@ releases:
       <li>Fixed: Task preferences weren&apos;t being set.</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1564963200
   description: |-
@@ -59,6 +62,7 @@ releases:
       <li>Fixed: Drag and drop your tasks away and organize them that way.</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1552608000
   description: |-
@@ -69,6 +73,7 @@ releases:
       <li>Fixed: Hiding and showing the weekend columns now is respected across app openings.</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1551398400
   description: |-
@@ -79,6 +84,7 @@ releases:
       <li>Fixed: Exporting and opening tasks should preserve their colors as well.</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1551398400
   description: |-
@@ -91,6 +97,7 @@ releases:
       <li>Removed: Notifications system as it was useless since Timetable couldn&apos;t notify if closed.</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1542931200
   description: |-
@@ -103,6 +110,7 @@ releases:
       <li>Fix: The grid of Day columns doesn&apos;t dictate the size of the app anymore, allowing the app to be resized
 
     to a smaller size.</li> </ul>
+
 - version: 1.0.2
   unix-timestamp: 1540512000
   description: |-
@@ -121,6 +129,7 @@ releases:
       <li>Fix: General theme coloring support in the custom widgets.</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1539907200
   description: |-
@@ -133,6 +142,7 @@ releases:
       <li>Fix: Tasks are now by start time instead of haphazardly placed.</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1539561600
   description: |-
@@ -145,6 +155,7 @@ releases:
       <li>Fix: Task clear color button, for when you want no color in your task.</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1539561600
   description: |-
@@ -155,10 +166,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.timetable.desktop/
 ---
-
 <p>Start organizing each day with the columns and export your timetable away in an easy way</p>
 <ul>
   <li>Intelligently start building your timetable with the day columns</li>

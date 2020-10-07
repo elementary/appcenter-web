@@ -1,10 +1,10 @@
 ---
-app_id: com.github.thejambi.psnotes.desktop
+app_id: "com.github.thejambi.psnotes.desktop"
 title: "P.S. Notes."
 summary: "Notes, plain and simple."
 developer: "Zach Burnham"
 homepage: "https://burnsoftware.wordpress.com/p-s-notes/"
-help_page: "#"
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/thejambi.psnotes.desktop/5A78F911FBB842A4CA8221E31A3558C6/screenshots/image-1_orig.png
@@ -17,11 +17,9 @@ color:
   primary-text: "rgb(255, 255, 255)"
 price: 1
 releases:
-
 redirect_from:
   - /com.github.thejambi.psnotes.desktop/
 ---
-
 <p>Note-taking and writing app designed to work with minimal plain-text mobile apps.</p>
 <ul>
   <li>Manage any number of notebooks and switch between them any time</li>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.kmal-kenneth.monilet
+app_id: "com.github.kmal-kenneth.monilet"
 title: "Monilet"
 summary: "A monitor widget."
 developer: "Kenet Acuña"
@@ -29,14 +29,17 @@ releases:
       <li>Fixed the preview error in the store.</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1578614400
   description: |-
     <p>Release: Add Polish to the supported languages.</p>
+
 - version: 0.2.0
   unix-timestamp: 1576281600
   description: |-
     <p>Release: Arriving in Juno.</p>
+
 - version: 0.1.8
   unix-timestamp: 1516838400
   description: |-
@@ -51,6 +54,7 @@ releases:
       <li>The close button is present again but the color of the widget.</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1516060800
   description: |-
@@ -65,10 +69,10 @@ releases:
       <li>The close button was removed</li>
 
     </ul>
+
 redirect_from:
   - /com.github.kmal-kenneth.monilet.desktop/
 ---
-
 <p>See percentage of use your CPU and number of cores. Also percentage used memory, amount of memory used and total memory.</p>
 <ul>
   <li>Stays out of your way by always sticking to the desktop</li>

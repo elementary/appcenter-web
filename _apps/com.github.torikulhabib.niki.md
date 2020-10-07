@@ -1,10 +1,10 @@
 ---
-app_id: com.github.torikulhabib.niki
+app_id: "com.github.torikulhabib.niki"
 title: "Niki"
 summary: "Media Player"
 developer: "Torikul Habib"
 homepage: "https://github.com/torikulhabib/niki"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.niki/28F263964FF692AF334E8FFF70BCD01D/screenshots/image-1_orig.png
@@ -38,14 +38,15 @@ releases:
     <p>Updated Turkey translation by Safak GENISOL!</p>
 
     <p>Updated Dutch translation by Nathan Bonnemains!</p>
+
 - version: 0.7.20
   unix-timestamp: 1582243200
   description: |-
     <p>Hello Hera!</p>
+
 redirect_from:
   - /com.github.torikulhabib.niki.desktop/
 ---
-
 <p>DLNA Video Music and Streaming.</p>
 <p>Features:</p>
 <ul>

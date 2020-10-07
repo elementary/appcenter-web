@@ -1,10 +1,10 @@
 ---
-app_id: com.github.mubitosh.qrshare.desktop
+app_id: "com.github.mubitosh.qrshare.desktop"
 title: "QR Share"
 summary: "Quick and easy file sharing"
 developer: "Santosh Heigrujam"
 homepage: "https://github.com/mubitosh/qrshare"
-help_page: "#"
+help_page: #
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mubitosh.qrshare.desktop/6FE9AEF7DA173286F22261553978AB4B/screenshots/image-1_orig.png
@@ -31,10 +31,10 @@ releases:
       <li>Bug fixes</li>
 
     </ul>
+
 redirect_from:
   - /com.github.mubitosh.qrshare.desktop/
 ---
-
 <p>Share files and folders as below:</p>
 <ol>
   <li>Open Files application and select files and folders to share</li>

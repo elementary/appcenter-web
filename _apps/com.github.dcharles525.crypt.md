@@ -1,10 +1,10 @@
 ---
-app_id: com.github.dcharles525.crypt
+app_id: "com.github.dcharles525.crypt"
 title: "Crypt"
 summary: "View and Watch Crypto Currency With Ease!"
 developer: "David Johnson"
 homepage: "https://github.com/dcharles525/crypt"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.crypt/18D9AD1DE4A5BF753A2B220DA2D686B1/screenshots/image-1_orig.png
@@ -24,10 +24,12 @@ releases:
   unix-timestamp: 1563840000
   description: |-
     <p>Track all your coins and gains with &quot;Wallet&quot;!</p>
+
 - version: 1.6.1
   unix-timestamp: 1559952000
   description: |-
     <p>Danish Translations thanks to @siigdev</p>
+
 - version: 1.6.0
   unix-timestamp: 1557273600
   description: |-
@@ -38,6 +40,7 @@ releases:
     <p>Using Gtk.Paned on the home tab so you can make the charts larger</p>
 
     <p>Translation updates @NathanBnm</p>
+
 - version: 1.5.0
   unix-timestamp: 1555200000
   description: |-
@@ -48,6 +51,7 @@ releases:
     <p>Reworked the header</p>
 
     <p>Translation updates @NathanBnm</p>
+
 - version: 1.4.0
   unix-timestamp: 1553644800
   description: |-
@@ -58,16 +62,19 @@ releases:
     <p>Lots of extra guards put in place to boost stability</p>
 
     <p>Bug fixes</p>
+
 - version: 1.3.1
   unix-timestamp: 1552435200
   description: |-
     <p>Bug fixes</p>
+
 - version: 1.3.0
   unix-timestamp: 1552435200
   description: |-
     <p>Fixed tons of bugs with help from @NathanBnm</p>
 
     <p>Click on candles to see information for that time period</p>
+
 - version: 1.2.0
   unix-timestamp: 1550275200
   description: |-
@@ -80,32 +87,36 @@ releases:
     <p>Coin specific news</p>
 
     <p>Close a coin tab with ctrl-w</p>
+
 - version: 1.1.2
   unix-timestamp: 1546646400
   description: |-
     <p>Complete rewrite of how charts work</p>
 
     <p>*Slaps Crypt* This bad boy can fit so many bugs in it</p>
+
 - version: 1.1.0
   unix-timestamp: 1546646400
   description: |-
     <p>Complete rewrite of how charts work</p>
 
     <p>*Slaps Crypt* This bad boy can fit so many bugs in it</p>
+
 - version: 1.0.2
   unix-timestamp: 1546300800
   description: |-
     <p>Better window resizing</p>
 
     <p>AppCenter fixes</p>
+
 - version: 1.0.0
   unix-timestamp: 1527897600
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.dcharles525.crypt.desktop/
 ---
-
 <p>Ever want to view the crypto market in native Vala/GTK? Well look no more Crypt is all you need to look at charts, prices, and other information while using less than 50mb of RAM.</p>
 <ul>
   <li>Track all your coins and gains with &quot;Wallet&quot;!</li>

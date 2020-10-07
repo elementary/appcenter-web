@@ -1,5 +1,5 @@
 ---
-app_id: com.github.timecraft.notifier
+app_id: "com.github.timecraft.notifier"
 title: "Notifier"
 summary: "Never forget to do something"
 developer: "Timecraft"
@@ -24,10 +24,12 @@ releases:
   unix-timestamp: 1539648000
   description: |-
     <p>Icons now install properly!</p>
+
 - version: 2.1.0
   unix-timestamp: 1539475200
   description: |-
     <p>Hello Juno.</p>
+
 - version: 2.0.0
   unix-timestamp: 1529971200
   description: |-
@@ -50,10 +52,10 @@ releases:
       <li>Please note that this will require a restart</li>
 
     </ul>
+
 redirect_from:
   - /com.github.timecraft.notifier.desktop/
 ---
-
 <p>Get notified of what to do and when to do it. Reminders as you expect them, where you expect them.</p>
 <p>Set the time of the reminder.</p>
 <p>Set the priority of the notification.</p>

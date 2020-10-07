@@ -1,10 +1,10 @@
 ---
-app_id: com.github.danrabbit.harvey.desktop
+app_id: "com.github.danrabbit.harvey.desktop"
 title: "Harvey"
 summary: "The hero that Gotham needs right now"
 developer: "Daniel Foré"
 homepage: "http://danielfore.com"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.harvey.desktop/8D71ABF97385E7D46A5A7C103A7E31EB/screenshots/image-1_orig.png
@@ -33,10 +33,12 @@ releases:
       <li>Code cleanups</li>
 
     </ul>
+
 - version: 0.1.8
   unix-timestamp: 1515974400
   description: |-
     <p>Add French and Spanish Translations</p>
+
 - version: 0.1.7
   unix-timestamp: 1508371200
   description: |-
@@ -51,10 +53,10 @@ releases:
       <li>Update to latest APIs; get ready for Juno</li>
 
     </ul>
+
 redirect_from:
   - /com.github.danrabbit.harvey.desktop/
 ---
-
 <p>Calculate and visualize color contrast. Harvey checks a given set of colors for WCAG contrast compliance.</p>
 <ul>
   <li>Pick colors from your display</li>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.cassidyjames.ephemeral
+app_id: "com.github.cassidyjames.ephemeral"
 title: "Ephemeral"
 summary: "The always-incognito web browser"
 developer: "Cassidy James Blaede"
@@ -54,6 +54,7 @@ releases:
   unix-timestamp: 1588204800
   description: |-
     <p>Updated Spanish translations thanks to Adolfo Jayme-Barrientos</p>
+
 - version: 6.4.0
   unix-timestamp: 1588118400
   description: |-
@@ -80,10 +81,12 @@ releases:
       <li>Other search engines or configurations can be added under “Custom Search Engine…” in the menu, as always</li>
 
     </ul>
+
 - version: 6.3.4
   unix-timestamp: 1588032000
   description: |-
     <p>Updated Italian translations thanks to Mirko Brombin</p>
+
 - version: 6.3.3
   unix-timestamp: 1585699200
   description: |-
@@ -98,6 +101,7 @@ releases:
       <li>Remove dark style toggle when forcing a -dark stylesheet</li>
 
     </ul>
+
 - version: 6.3.2
   unix-timestamp: 1585267200
   description: |-
@@ -110,6 +114,7 @@ releases:
       <li>Improve styling on other platforms/stylesheets by being less ambitious</li>
 
     </ul>
+
 - version: 6.3.1
   unix-timestamp: 1584057600
   description: |-
@@ -124,6 +129,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 6.2.1
   unix-timestamp: 1581897600
   description: |-
@@ -134,6 +140,7 @@ releases:
       <li>Translation system improved thanks to @NathanBnm</li>
 
     </ul>
+
 - version: 6.2.0
   unix-timestamp: 1580342400
   description: |-
@@ -164,6 +171,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 6.1.1
   unix-timestamp: 1572912000
   description: |-
@@ -182,6 +190,7 @@ releases:
       <li>Updated Spanish translations thanks to Adolfo Jayme-Barrientos and @riesp</li>
 
     </ul>
+
 - version: 6.1.0
   unix-timestamp: 1571270400
   description: |-
@@ -196,6 +205,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 6.0.0
   unix-timestamp: 1570924800
   description: |-
@@ -214,6 +224,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.4.0
   unix-timestamp: 1568678400
   description: |-
@@ -232,6 +243,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.3.2
   unix-timestamp: 1568592000
   description: |-
@@ -244,6 +256,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.3.1
   unix-timestamp: 1568332800
   description: |-
@@ -258,6 +271,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.3.0
   unix-timestamp: 1567036800
   description: |-
@@ -272,6 +286,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.2.1
   unix-timestamp: 1564272000
   description: |-
@@ -296,6 +311,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.1.1
   unix-timestamp: 1561334400
   description: |-
@@ -310,6 +326,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.1.0
   unix-timestamp: 1557878400
   description: |-
@@ -334,12 +351,14 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.0.3
   unix-timestamp: 1554681600
   description: |-
     <p>Updated Catalan translations thanks to Mario Rodrigo.</p>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.0.2
   unix-timestamp: 1554163200
   description: |-
@@ -354,6 +373,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.0.1
   unix-timestamp: 1554163200
   description: |-
@@ -368,6 +388,7 @@ releases:
     </ul>
 
     <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 5.0.0
   unix-timestamp: 1554076800
   description: |-
@@ -394,6 +415,7 @@ releases:
     </ul>
 
     <p>Translations for new features will appear in future updates as translators have a chance to do their thing.</p>
+
 - version: 4.2.1
   unix-timestamp: 1553212800
   description: |-
@@ -408,6 +430,7 @@ releases:
       <li>Updated Lithuanian translations thanks to @welaq</li>
 
     </ul>
+
 - version: 4.2.0
   unix-timestamp: 1550880000
   description: |-
@@ -420,6 +443,7 @@ releases:
       <li>The web view is now focused when navigating</li>
 
     </ul>
+
 - version: 4.1.2
   unix-timestamp: 1550793600
   description: |-
@@ -434,6 +458,7 @@ releases:
       <li>Strip whitespace from URL entry before navigating—fixes instances where trying to navigate to a domain would perform
 
     a search</li> </ul>
+
 - version: 4.1.1
   unix-timestamp: 1550707200
   description: |-
@@ -452,6 +477,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 4.1.0
   unix-timestamp: 1550188800
   description: |-
@@ -470,14 +496,17 @@ releases:
     </ul>
 
     <p>*This data is all shipped with Ephemeral itself, and Ephemeral still does not touch the network until you explicitly navigate somewhere. The list of domains is heavily inspired by a similar feature in Firefox Focus. Domains being included in completion suggestions are not an endorsement, it simply means that domain is relatively popular.</p>
+
 - version: 4.0.4
   unix-timestamp: 1549929600
   description: |-
     <p>Guten Tag! German translations thanks to Hannes Schulze</p>
+
 - version: 4.0.3
   unix-timestamp: 1549324800
   description: |-
     <p>Здравствуйте! Russian translations thanks to Artem Polishchuk</p>
+
 - version: 4.0.2
   unix-timestamp: 1548633600
   description: |-
@@ -490,10 +519,12 @@ releases:
       <li>Updated Dutch translations thanks to Heimen Stoffels</li>
 
     </ul>
+
 - version: 4.0.1
   unix-timestamp: 1548547200
   description: |-
     <p>Fixed some missed translations and updated French translations. Thanks again, @NathanBnm!</p>
+
 - version: 4.0.0
   unix-timestamp: 1548201600
   description: |-
@@ -526,10 +557,12 @@ releases:
       <li>Hallo! Dutch translations thanks to Heimen Stoffels</li>
 
     </ul>
+
 - version: 3.2.2
   unix-timestamp: 1548115200
   description: |-
     <p>Styling fixes for non-native platforms.</p>
+
 - version: 3.2.1
   unix-timestamp: 1548115200
   description: |-
@@ -544,6 +577,7 @@ releases:
       <li>Reported zoom level is now kept in sync across open windows</li>
 
     </ul>
+
 - version: 3.2.0
   unix-timestamp: 1548028800
   description: |-
@@ -568,6 +602,7 @@ releases:
       <li>Code cleaning to keep things fresh and clean</li>
 
     </ul>
+
 - version: 3.1.0
   unix-timestamp: 1547424000
   description: |-
@@ -588,6 +623,7 @@ releases:
       <li>Code cleaning to keep things smelling fresh</li>
 
     </ul>
+
 - version: 3.0.0
   unix-timestamp: 1547251200
   description: |-
@@ -604,6 +640,7 @@ releases:
       <li>Local HTML files can now be opened</li>
 
     </ul>
+
 - version: 2.0.1
   unix-timestamp: 1547078400
   description: |-
@@ -614,6 +651,7 @@ releases:
       <li>Tweaked &quot;set as default&quot; infobar styling</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1547078400
   description: |-
@@ -626,6 +664,7 @@ releases:
       <li>Open unsupported links (like AppCenter ones) in the OS-default app</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1546992000
   description: |-
@@ -636,22 +675,25 @@ releases:
       <li>Collapse external browsers into a menu when there&apos;s more than one</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1546905600
   description: |-
     <p>Add several useful keyboard and mouse shortcuts</p>
+
 - version: 1.0.1
   unix-timestamp: 1546905600
   description: |-
     <p>Fix links that try to open in a new window</p>
+
 - version: 1.0.0
   unix-timestamp: 1546905600
   description: |-
     <p>Initial release for AppCenter</p>
+
 redirect_from:
   - /com.github.cassidyjames.ephemeral.desktop/
 ---
-
 <p>Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that&apos;s perfect for avoiding persistent cookies or web trackers. Close the window and all traces of your browsing are removed from your device.</p>
 <p>Handy features:</p>
 <ul>

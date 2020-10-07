@@ -1,5 +1,5 @@
 ---
-app_id: com.github.panosx2.brightness
+app_id: "com.github.panosx2.brightness"
 title: "Dimmer"
 summary: "Change screen's brightness"
 developer: "Panos P."
@@ -13,8 +13,8 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/128x128/com.github.panosx2.brightness_com.github.panosx2.brightness.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/64x64@2/com.github.panosx2.brightness_com.github.panosx2.brightness.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
+  primary: #4c158a
+  primary-text: #fff
 price: 0
 releases:
 - version: 1.4.30
@@ -27,8 +27,8 @@ releases:
       <li>small bugs fixed</li>
 
     </ul>
+
 redirect_from:
   - /com.github.panosx2.brightness.desktop/
 ---
-
 <p>Instead of adjusting the backlight, this app uses `xrandr` to change the brightness of the image displayed on your screen.  This can be useful for displays without an adjustable backlight, displays with a too-bright minimum, or too-dark maximum backlight, or OLED displays. Setups with multipe displays (maximum 4 displays) can also be adjusted with different brightness levels.</p>

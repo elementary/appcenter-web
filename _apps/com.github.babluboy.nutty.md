@@ -1,5 +1,5 @@
 ---
-app_id: com.github.babluboy.nutty
+app_id: "com.github.babluboy.nutty"
 title: "Nutty"
 summary: "A simple utility for network information"
 developer: "Siddhartha Das"
@@ -27,19 +27,22 @@ releases:
                         View IPv6 along with IPv4 addressConfigure commands for non elementary OS distrosFix a bug which
 
     prevented re-size of the disclaimer screenImprove obtaining network details with use of ip command instead of the ifconfig one</p>
+
 - version: 1.0.0
+  unix-timestamp: 
   description: |-
     <p>Ability to edit and remove discovered devices
 
                         Support for editing and removing discovered devicesA shiny new icon and brandingNew shortcuts (check
 
     homepage for details)</p>
+
 - version: 0.9
   unix-timestamp: 1495843200
+
 redirect_from:
   - /com.github.babluboy.nutty.desktop/
 ---
-
 <p>Nutty provides an intuitive user interface for some commonly used network related command line tools.</p>
 <p>A key feature is the ability to turn on notification when a device enters the user&apos;s network.</p>
 <p>The following are the features for Nutty, presented in a tab based interface:

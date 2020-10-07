@@ -1,10 +1,10 @@
 ---
-app_id: com.github.basjam.valacompiler
+app_id: "com.github.basjam.valacompiler"
 title: "ValaCompiler"
 summary: "A Simple GUI for valac"
 developer: "Basem Kheyar"
 homepage: "https://github.com/basjam/ValaCompiler/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/basjam.valacompiler/D89B58D0EFE3F3F2F99C0A64B8ADA29E/screenshots/image-1_orig.png
@@ -29,6 +29,7 @@ releases:
       <li>Ready for Juno (Switched to Meson).</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1528934400
   description: |-
@@ -53,6 +54,7 @@ releases:
       <li>Dark button colors.</li>
 
     </ul>
+
 - version: 0.1.16
   unix-timestamp: 1520208000
   description: |-
@@ -63,6 +65,7 @@ releases:
       <li>Kill button now works through pid instead of &quot;killall TEST&quot;</li>
 
     </ul>
+
 - version: 0.1.15
   unix-timestamp: 1519257600
   description: |-
@@ -71,6 +74,7 @@ releases:
       <li>Made UI more consistent across pages</li>
 
     </ul>
+
 - version: 0.1.14
   unix-timestamp: 1518652800
   description: |-
@@ -83,12 +87,13 @@ releases:
       <li>Fixed bug #14. Files marked as executable can now be listed by the app</li>
 
     </ul>
+
 - version: 0.1.11
   unix-timestamp: 1511913600
   description: |-
     <p>Release: Initial Release</p>
+
 redirect_from:
   - /com.github.basjam.valacompiler.desktop/
 ---
-
 <p>A simple GUI for valac that is aimed at replacing the terminal use in vala development.</p>

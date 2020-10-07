@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ronnydo.wammer
+app_id: "com.github.ronnydo.wammer"
 title: "Wammer"
 summary: "Jamming your WiFi network"
 developer: "Ronny Dobra"
@@ -26,6 +26,7 @@ releases:
       <li>Update build scripts</li>
 
     </ul>
+
 - version: 1.1.5
   unix-timestamp: 1577923200
   description: |-
@@ -34,6 +35,7 @@ releases:
       <li>elementary OS &quot;Hera&quot; Release!!1!</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1528243200
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>No bigger issues so far means first main release!!1!</li>
 
     </ul>
+
 - version: 0.0.6
   unix-timestamp: 1525132800
   description: |-
@@ -58,6 +61,7 @@ releases:
       <li>Bonus: add some pixie dust</li>
 
     </ul>
+
 - version: 0.0.5
   unix-timestamp: 1525132800
   description: |-
@@ -70,6 +74,7 @@ releases:
       <li>Bonus: add some pixie dust</li>
 
     </ul>
+
 - version: 0.0.4
   unix-timestamp: 1524787200
   description: |-
@@ -78,6 +83,7 @@ releases:
       <li>fix issue Invalid AppData file (issue #3)</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1524787200
   description: |-
@@ -86,6 +92,7 @@ releases:
       <li>fix issue Invalid AppData file (issue #2)</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1524787200
   description: |-
@@ -94,6 +101,7 @@ releases:
       <li>fix issue Invalid AppData file (issue #1)</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1524787200
   description: |-
@@ -102,10 +110,10 @@ releases:
       <li>Initial release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.ronnydo.wammer.desktop/
 ---
-
 <p>Wammer lets you kick out all clients in your WiFi network, so you can enjoy its full bandwidth. Best part of the story: everything works fully automatically!</p>
 <p>In order to work Wammer needs the aircrack-ng installed and a compatible WiFi device to work. For more information please visit the project&apos;s homepage.</p>
 <p>Disclaimer: This software is for educational purposes only. Jamming WiFi networks might violate certain laws or regulations in your country. Make sure you have the network owner&apos;s permission to run this program. You are using this software on your own risk.</p>

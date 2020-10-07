@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.quilter
+app_id: "com.github.lainsce.quilter"
 title: "Quilter"
 summary: "Focus on your writing"
 developer: "Lains"
 homepage: "https://github.com/lainsce/quilter/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0E27F01B53CAD3237A97F5C24AC1E8E2/screenshots/image-1_orig.png
@@ -31,6 +31,7 @@ releases:
       <li>Urgent Fix: Major error crashing the app while in Preview.</li>
 
     </ul>
+
 - version: 2.5.0
   unix-timestamp: 1595548800
   description: |-
@@ -41,6 +42,7 @@ releases:
       <li>Fix: Many file operation fixes both in backend and in UI.</li>
 
     </ul>
+
 - version: 2.2.4
   unix-timestamp: 1587686400
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Fix: Preview View backend fixed to enable footnotes and some other Markdown goodies, because before they&apos;d
 
     not appear.</li> </ul>
+
 - version: 2.2.3
   unix-timestamp: 1587081600
   description: |-
@@ -65,6 +68,7 @@ releases:
       <li>Small Fix: Improved Sidebar pane and View switchers contrast in Dark Mode.</li>
 
     </ul>
+
 - version: 2.2.2
   unix-timestamp: 1585872000
   description: |-
@@ -75,6 +79,7 @@ releases:
       <li>Small Fix: Added focus-full styling so that when focused and not half-width, the styling doesn&apos;t look bugged.</li>
 
     </ul>
+
 - version: 2.2.1
   unix-timestamp: 1585872000
   description: |-
@@ -85,6 +90,7 @@ releases:
       <li>General small fixes to deliver the best Quilter can be.</li>
 
     </ul>
+
 - version: 2.2.0
   unix-timestamp: 1585267200
   description: |-
@@ -95,6 +101,7 @@ releases:
       <li>Added: Mermaid.js integration for graphing purposes.</li>
 
     </ul>
+
 - version: 2.1.3
   unix-timestamp: 1584662400
   description: |-
@@ -109,6 +116,7 @@ releases:
       <li>Removed: Moon mode due to legacy</li>
 
     </ul>
+
 - version: 2.1.2
   unix-timestamp: 1584057600
   description: |-
@@ -123,6 +131,7 @@ releases:
       <li>Added: New UI for when Focus Mode is active</li>
 
     </ul>
+
 - version: 2.1.1
   unix-timestamp: 1581638400
   description: |-
@@ -135,6 +144,7 @@ releases:
       <li>Fixed: If the sidebar was empty and Quilter was reopened, last file contents would still appear</li>
 
     </ul>
+
 - version: 2.1.0
   unix-timestamp: 1579219200
   description: |-
@@ -147,6 +157,7 @@ releases:
       <li>Added: Translations</li>
 
     </ul>
+
 - version: 2.0.6
   unix-timestamp: 1578614400
   description: |-
@@ -159,6 +170,7 @@ releases:
       <li>Fixed: _</li>
 
     </ul>
+
 - version: 2.0.5
   unix-timestamp: 1577404800
   description: |-
@@ -177,6 +189,7 @@ releases:
       <li>Fixed: Minor styling fixes.</li>
 
     </ul>
+
 - version: 2.0.4
   unix-timestamp: 1576800000
   description: |-
@@ -197,6 +210,7 @@ releases:
       <li>Fixed: Changed tooltip on search button to fit HIG.</li>
 
     </ul>
+
 - version: 2.0.3
   unix-timestamp: 1573084800
   description: |-
@@ -209,6 +223,7 @@ releases:
       <li>Fixed: A rogue file in your Home folder shouldn&apos;t happen anymore.</li>
 
     </ul>
+
 - version: 2.0.2
   unix-timestamp: 1573084800
   description: |-
@@ -227,6 +242,7 @@ releases:
       <li>Fixed: Reading Time is properly updated as text is typed.</li>
 
     </ul>
+
 - version: 2.0.1
   unix-timestamp: 1569801600
   description: |-
@@ -237,6 +253,7 @@ releases:
       <li>Fixed: Maximization problems in certain setups.</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1567123200
   description: |-
@@ -247,10 +264,10 @@ releases:
       <li>Added: New Layout; Half-Width, check it out by changing layouts on the statusbar.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.quilter.desktop/
 ---
-
 <p>Focus on your writing and write beautiful solid stories with the Focus Mode in tow in this Markdown editor</p>
 <ul>
   <li>Work on a story, one file displayed at a time, many files sidebar&apos;d.</li>

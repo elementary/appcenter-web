@@ -1,10 +1,10 @@
 ---
-app_id: com.github.manexim.typewriter
+app_id: "com.github.manexim.typewriter"
 title: "Typewriter"
 summary: "A minimal writer with autosave"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/screenshots/image-1_orig.png
@@ -57,6 +57,7 @@ releases:
       <li>Dutch (by Vistausk)</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1598572800
   description: |-
@@ -99,6 +100,7 @@ releases:
       <li>Spanish (by onerbs)</li>
 
     </ul>
+
 - version: 0.3.2
   unix-timestamp: 1598140800
   description: |-
@@ -135,6 +137,7 @@ releases:
       <li>Spanish (by onerbs)</li>
 
     </ul>
+
 - version: 0.3.1
   unix-timestamp: 1598140800
   description: |-
@@ -171,6 +174,7 @@ releases:
       <li>Spanish (by onerbs)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1581724800
   description: |-
@@ -203,24 +207,28 @@ releases:
       <li>German (by meisenzahl)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1581120000
   description: |-
     <p>Use bottom bar instead of overlay</p>
+
 - version: 0.1.2
   unix-timestamp: 1581120000
   description: |-
     <p>Update icon branding</p>
+
 - version: 0.1.1
   unix-timestamp: 1580601600
   description: |-
     <p>Update icon</p>
+
 - version: 0.1.0
   unix-timestamp: 1572998400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.manexim.typewriter.desktop/
 ---
-
 <p>Get lost in typing and don&apos;t worry about losing your precious work.</p>

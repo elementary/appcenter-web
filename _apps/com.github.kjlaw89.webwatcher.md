@@ -1,5 +1,5 @@
 ---
-app_id: com.github.kjlaw89.webwatcher.desktop
+app_id: "com.github.kjlaw89.webwatcher.desktop"
 title: "Web Watcher"
 summary: "Know when your websites are misbehaving!"
 developer: "KJ Lawrence"
@@ -31,18 +31,20 @@ releases:
       <li>Minor tweaks/adjustments</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1525392000
   description: |-
     <p>Fixed an issue where tray does not appear on first load making it hard to close app</p>
+
 - version: 1.0.0
   unix-timestamp: 1525392000
   description: |-
     <p>Initial 1.0.0 release!</p>
+
 redirect_from:
   - /com.github.kjlaw89.webwatcher.desktop/
 ---
-
 <p>A simple way to monitor your favorite sites uptime and their performance.</p>
 <p>All history is kept so you can review performance over a period of time. Web watcher runs through your connection so no external service is required. When an outage occurs you&apos;ll receive a notice immediately.</p>
 <ul>

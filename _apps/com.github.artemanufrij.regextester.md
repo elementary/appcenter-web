@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.regextester
+app_id: "com.github.artemanufrij.regextester"
 title: "Regex Tester"
 summary: "A simple app for testing regular expressions"
 developer: "Artem Anufrij"
@@ -33,8 +33,10 @@ releases:
       <li>French (by Nathan Bonnemains)</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1541030400
+
 - version: 1.0.1
   unix-timestamp: 1540339200
   description: |-
@@ -53,12 +55,16 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1532390400
+
 - version: 0.1.7
   unix-timestamp: 1519084800
+
 - version: 0.1.6
   unix-timestamp: 1517875200
+
 - version: 0.1.5
   unix-timestamp: 1510272000
   description: |-
@@ -69,8 +75,8 @@ releases:
       <li>Group support</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.regextester.desktop/
 ---
-
 <p>A regular expression is a special text string that describes a search pattern. Regex Tester shows all matches of search pattern in a string.</p>

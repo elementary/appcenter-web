@@ -1,5 +1,5 @@
 ---
-app_id: com.github.calo001.luna
+app_id: "com.github.calo001.luna"
 title: "Luna"
 summary: "An amazing calendar widget"
 developer: "Carlos Lopez"
@@ -30,6 +30,7 @@ releases:
       <li>Added Dutch (Netherlands) translation</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1549670400
   description: |-
@@ -38,6 +39,7 @@ releases:
       <li>Dark theme with gray accent color.</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1549670400
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>Add and remove correctly label-today class in css.</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1549670400
   description: |-
@@ -54,6 +57,7 @@ releases:
       <li>A new look and feel!</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1539993600
   description: |-
@@ -64,10 +68,11 @@ releases:
       <li>A new more elemtary native look</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1538524800
+
 redirect_from:
   - /com.github.calo001.luna.desktop/
 ---
-
 <p>Select a theme color for the calendar and browse through the months and years with an intuitive interface.</p>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.juarezfranco.tarefas-desktop
+app_id: "com.github.juarezfranco.tarefas-desktop"
 title: "Tasks"
 summary: "Manager tasks"
 developer: "Juarez Franco"
-homepage: "#"
-help_page: "#"
+homepage: #
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/juarezfranco.tarefas-desktop/04A2804799B7348F180E60395B7EFDBC/screenshots/image-1_orig.png
@@ -21,10 +21,10 @@ releases:
   unix-timestamp: 1567468800
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.juarezfranco.tarefas-desktop.desktop/
 ---
-
 <p>Ideal for managing daily tasks, simple and objective.</p>
 <p>Minimal interface, only title and description.</p>
 <p>It&apos;s never been easier to manage your simple tasks and keep your task history.</p>

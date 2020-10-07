@@ -1,5 +1,5 @@
 ---
-app_id: com.github.davidmhewitt.clipped
+app_id: "com.github.davidmhewitt.clipped"
 title: "Clipped"
 summary: "Manage your clipboard with ease"
 developer: "David Hewitt"
@@ -31,6 +31,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1557532800
   description: |-
@@ -47,8 +48,8 @@ releases:
       <li>Add Japanese translations by @ryonakano</li>
 
     </ul>
+
 redirect_from:
   - /com.github.davidmhewitt.clipped.desktop/
 ---
-
 <p>Keep and search your clipboard history and paste old items quickly and easily.</p>

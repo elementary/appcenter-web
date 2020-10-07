@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.vala-tester
+app_id: "com.github.bartzaalberg.vala-tester"
 title: "Vala Tester"
 summary: "Test some Vala code!"
 developer: "Bart Zaalberg"
@@ -32,6 +32,7 @@ releases:
       <li>Fixed app icon text bug</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1551312000
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Changed cheatsheet label</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1550534400
   description: |-
@@ -54,10 +56,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.vala-tester.desktop/
 ---
-
 <p>A simple tool to test your Vala code.</p>
 <p>Features:</p>
 <ul>

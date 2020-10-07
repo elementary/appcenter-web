@@ -1,5 +1,5 @@
 ---
-app_id: com.github.stsdc.monitor
+app_id: "com.github.stsdc.monitor"
 title: "Monitor"
 summary: "Manage processes and monitor system resources"
 developer: "Stanisław Dac"
@@ -34,6 +34,7 @@ releases:
       <li>Show CPU temperature in the Indicator</li>
 
     </ul>
+
 - version: 0.9.0
   unix-timestamp: 1597708800
   description: |-
@@ -46,6 +47,7 @@ releases:
       <li>Save last opened view (@ryonakano)</li>
 
     </ul>
+
 - version: 0.8.1
   unix-timestamp: 1595203200
   description: |-
@@ -58,6 +60,7 @@ releases:
       <li>Add screenshots</li>
 
     </ul>
+
 - version: 0.8.0
   unix-timestamp: 1595116800
   description: |-
@@ -66,6 +69,7 @@ releases:
       <li>Add System resources tab</li>
 
     </ul>
+
 - version: 0.7.3
   unix-timestamp: 1592784000
   description: |-
@@ -76,6 +80,7 @@ releases:
       <li>Small bugfix</li>
 
     </ul>
+
 - version: 0.7.2
   unix-timestamp: 1586908800
   description: |-
@@ -90,6 +95,7 @@ releases:
       <li>Use newest version of live-chart (Laurent Callarec) ← Check his lib for creating charts, it&apos;s amazing!</li>
 
     </ul>
+
 - version: 0.7.0
   unix-timestamp: 1586563200
   description: |-
@@ -100,6 +106,7 @@ releases:
       <li>CPU frequency in tooltip (Ryo Nakano)</li>
 
     </ul>
+
 - version: 0.6.2
   unix-timestamp: 1576886400
   description: |-
@@ -110,6 +117,7 @@ releases:
       <li>Update German translation (Carsten Dietrich)</li>
 
     </ul>
+
 - version: 0.6.1
   unix-timestamp: 1573603200
   description: |-
@@ -122,6 +130,7 @@ releases:
       <li>Fix: Don&apos;t show swap percentage when it&apos;s not available (Ryo Nakano)</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1572307200
   description: |-
@@ -138,6 +147,7 @@ releases:
       <li>Update Japanese translation (Ryo Nakano)</li>
 
     </ul>
+
 - version: 0.5.0
   unix-timestamp: 1559865600
   description: |-
@@ -160,6 +170,7 @@ releases:
       <li>Update Spanish translation (Mario Rodrigo)</li>
 
     </ul>
+
 - version: 0.4.4
   unix-timestamp: 1559865600
   description: |-
@@ -168,6 +179,7 @@ releases:
       <li>Add start-in-background option to UI</li>
 
     </ul>
+
 - version: 0.4.3
   unix-timestamp: 1554940800
   description: |-
@@ -182,6 +194,7 @@ releases:
       <li>Fix Japanese translation</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1552262400
   description: |-
@@ -194,6 +207,7 @@ releases:
       <li>Add Japanese translation</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1550620800
   description: |-
@@ -206,6 +220,7 @@ releases:
       <li>Update Polish and Russian translation</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1548892800
   description: |-
@@ -222,8 +237,8 @@ releases:
       <li>Fix POTFILES</li>
 
     </ul>
+
 redirect_from:
   - /com.github.stsdc.monitor.desktop/
 ---
-
 <p>Display usage of system resources, filter and manage processes.</p>

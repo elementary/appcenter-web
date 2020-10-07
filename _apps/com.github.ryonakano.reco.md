@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ryonakano.reco
+app_id: "com.github.ryonakano.reco"
 title: "Reco"
 summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
@@ -37,10 +37,10 @@ releases:
       <li>Explicit gstreamer1.0-libav as a dependency to fix a potential crash when trying to record in AAC</li>
 
     </ul>
+
 redirect_from:
   - /com.github.ryonakano.reco.desktop/
 ---
-
 <p>An audio recording app that helps you recall things talked later.</p>
 <p>Features include:</p>
 <ul>

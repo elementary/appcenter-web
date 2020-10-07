@@ -1,10 +1,10 @@
 ---
-app_id: com.github.manexim.home
+app_id: "com.github.manexim.home"
 title: "Home"
 summary: "Control your smart home gadgets"
 developer: "Manexim"
 homepage: "https://github.com/manexim"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/7C6F8C9EC7992D85B738F5D448729F8A/screenshots/image-1_orig.png
@@ -66,6 +66,7 @@ releases:
       <li>Polish (by oskarkunik)</li>
 
     </ul>
+
 - version: 0.4.2
   unix-timestamp: 1565136000
   description: |-
@@ -106,6 +107,7 @@ releases:
       <li>Polish (by oskarkunik)</li>
 
     </ul>
+
 - version: 0.4.1
   unix-timestamp: 1565136000
   description: |-
@@ -146,6 +148,7 @@ releases:
       <li>Polish (by oskarkunik)</li>
 
     </ul>
+
 - version: 0.4.0
   unix-timestamp: 1564876800
   description: |-
@@ -192,6 +195,7 @@ releases:
       <li>Polish (by oskarkunik)</li>
 
     </ul>
+
 - version: 0.3.0
   unix-timestamp: 1562198400
   description: |-
@@ -238,6 +242,7 @@ releases:
       <li>Russian (by camellan)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1560470400
   description: |-
@@ -272,14 +277,15 @@ releases:
       <li>Install all available icon sizes</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1560211200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.manexim.home.desktop/
 ---
-
 <p>A smart home application to control your gadgets.</p>
 <p>Supported devices:</p>
 <ul>

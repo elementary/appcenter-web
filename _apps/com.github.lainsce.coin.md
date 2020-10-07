@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.coin
+app_id: "com.github.lainsce.coin"
 title: "Coin"
 summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
 developer: "Lains"
 homepage: "https://github.com/lainsce/coin/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/screenshots/image-1_orig.png
@@ -29,6 +29,7 @@ releases:
       <li>Fixed: Symbols of Bitcoin Cash, Tezos and Cardano Ada.</li>
 
     </ul>
+
 - version: 1.2.8
   unix-timestamp: 1580342400
   description: |-
@@ -39,6 +40,7 @@ releases:
       <li>Minor backend fixes.</li>
 
     </ul>
+
 - version: 1.2.7
   unix-timestamp: 1579046400
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Added Cardano and Tezos currencies.</li>
 
     </ul>
+
 - version: 1.2.5
   unix-timestamp: 1552608000
   description: |-
@@ -65,6 +68,7 @@ releases:
       <li>Minor fixes.</li>
 
     </ul>
+
 - version: 1.2.4
   unix-timestamp: 1536278400
   description: |-
@@ -77,6 +81,7 @@ releases:
       <li>Added Bitcoin Cash virtual currency.</li>
 
     </ul>
+
 - version: 1.2.3
   unix-timestamp: 1531440000
   description: |-
@@ -87,6 +92,7 @@ releases:
       <li>Some Translations.</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1523059200
   description: |-
@@ -97,6 +103,7 @@ releases:
       <li>The names of the currencies are now translatable.</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1509062400
   description: |-
@@ -107,6 +114,7 @@ releases:
       <li>Minor fixes all around.</li>
 
     </ul>
+
 - version: 1.1.9
   unix-timestamp: 1508457600
   description: |-
@@ -121,6 +129,7 @@ releases:
       <li>Adds support for high definition icons.</li>
 
     </ul>
+
 - version: 1.1.8
   unix-timestamp: 1507852800
   description: |-
@@ -133,6 +142,7 @@ releases:
       <li>Minor fixes to make Coin more aesthetically appealing.</li>
 
     </ul>
+
 - version: 1.1.7
   unix-timestamp: 1505606400
   description: |-
@@ -143,6 +153,7 @@ releases:
       <li>Add Brazilian Portuguese translations.</li>
 
     </ul>
+
 - version: 1.1.6
   unix-timestamp: 1505606400
   description: |-
@@ -153,6 +164,7 @@ releases:
       <li>Use GResources to load the GTK CSS Styling</li>
 
     </ul>
+
 - version: 1.1.5
   unix-timestamp: 1504742400
   description: |-
@@ -167,10 +179,10 @@ releases:
       <li>Add South African Rand (ZAR).</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.coin.desktop/
 ---
-
 <p>Track the virtual currencies in real world currency value with this handy applet</p>
 <ul>
   <li>Choose which currency and virtual currency to use for tracking</li>

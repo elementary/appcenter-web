@@ -1,5 +1,5 @@
 ---
-app_id: com.github.babluboy.bookworm
+app_id: "com.github.babluboy.bookworm"
 title: "Bookworm"
 summary: "A focused eBook reader"
 developer: "Siddhartha Das"
@@ -52,6 +52,7 @@ releases:
       <li>Fix for returning to the page position from the info view</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1518307200
   description: |-
@@ -66,6 +67,7 @@ releases:
       <li>Better support for EPUB table of contents</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1538265600
   description: |-
@@ -94,6 +96,7 @@ releases:
       <li>Some minor CSS compatibility with Juno</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1518307200
   description: |-
@@ -108,34 +111,40 @@ releases:
       <li>Better support for EPUB table of contents</li>
 
     </ul>
+
 - version: 0.9.5
   unix-timestamp: 1512864000
   description: |-
     <p>Annotations and two page views</p>
+
 - version: 0.9
   unix-timestamp: 1500768000
   description: |-
     <p>Support for MOBI format and UX improvements</p>
+
 - version: 0.8
   unix-timestamp: 1497744000
   description: |-
     <p>UX improvements for list view and other preference customizations</p>
+
 - version: 0.7
   unix-timestamp: 1495238400
   description: |-
     <p>Comics support and UX improvements</p>
+
 - version: 0.6
   unix-timestamp: 1494806400
   description: |-
     <p>PDF support and UX improvements</p>
+
 - version: 0.5
   unix-timestamp: 1493078400
   description: |-
     <p>Initial release with support for EPUB format</p>
+
 redirect_from:
   - /com.github.babluboy.bookworm.desktop/
 ---
-
 <p>Read the books you love without having to worry about the different format complexities like EPUB, PDF, MOBI, CBR, etc.</p>
 <p>Manage your library by tagging and updating metadata on books, to quickly find books using metadata searching and tag based filtering.</p>
 <p>This version supports EPUB, MOBI, PRC, PDF, FB2 and comics (CBR and CBZ) formats with support for more formats to follow soon.</p>

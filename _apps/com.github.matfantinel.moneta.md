@@ -1,5 +1,5 @@
 ---
-app_id: com.github.matfantinel.moneta
+app_id: "com.github.matfantinel.moneta"
 title: "Moneta"
 summary: "Monitor the exchange rates of real-world currencies on your desktop"
 developer: "Matheus Fantinel"
@@ -32,6 +32,7 @@ releases:
       <li>🇹🇷 Turkish translation (@safak45x)</li>
 
     </ul>
+
 - version: 2.1.0
   unix-timestamp: 1586476800
   description: |-
@@ -46,6 +47,7 @@ releases:
       <li>🇨🇵️🇪🇦️ Updated spanish and french translations</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1584057600
   description: |-
@@ -60,6 +62,7 @@ releases:
       <li>👀️ Moneta now displays the last time the information was updated for more transparency</li>
 
     </ul>
+
 - version: 1.1.5
   unix-timestamp: 1583193600
   description: |-
@@ -76,6 +79,7 @@ releases:
       <li>👀️ Moneta now shows the current exchange rate in its window title in the taskbar if your OS supports it</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1581724800
   description: |-
@@ -88,6 +92,7 @@ releases:
       <li>🇭🇺️ Hungarian Translation (@ovari)</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1580428800
   description: |-
@@ -102,14 +107,15 @@ releases:
       <li>🎨 Fix colors on non-default themes (Marcelo Fantinel | @marfantinel)</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1577145600
   description: |-
     <p>Initial Release 💰️</p>
+
 redirect_from:
   - /com.github.matfantinel.moneta.desktop/
 ---
-
 <p>Keep an eye on the exchange rate of currencies of your choice with this handy applet that stays on your desktop. Moneta is a fork from the app Coin by Lains, already on AppCenter, but adapted to handle real-world currencies instead of virtual ones.</p>
 <p>Features:</p>
 <ul>

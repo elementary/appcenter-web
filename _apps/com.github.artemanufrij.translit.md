@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.translit
+app_id: "com.github.artemanufrij.translit"
 title: "Translit"
 summary: "Translit is a simple method of encoding Cyrillic letters with Latin ones"
 developer: "Artem Anufrij"
@@ -25,10 +25,13 @@ releases:
       <li>Save and restore window size and position</li>
 
     </ul>
+
 - version: 0.2.1
   unix-timestamp: 1534723200
+
 - version: 0.2.0
   unix-timestamp: 1532390400
+
 - version: 0.1.6
   unix-timestamp: 1520294400
   description: |-
@@ -39,6 +42,7 @@ releases:
       <li>[RU]: F-Ф letter</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1518652800
   description: |-
@@ -57,6 +61,7 @@ releases:
       <li>Updated &apos;Category&apos; in .Desktop and Appdata</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1515542400
   description: |-
@@ -67,6 +72,7 @@ releases:
       <li>Added Belarus Support (by Michał Rowicki)</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1511136000
   description: |-
@@ -77,10 +83,10 @@ releases:
       <li>Set default language after installing app</li>
 
     </ul>
+
 redirect_from:
   - /com.github.artemanufrij.translit.desktop/
 ---
-
 <p>The term is derived from transliteration, the system of replacing letters of one alphabet with letters of another</p>
 <p>Supported languages:</p>
 <ul>

@@ -1,10 +1,10 @@
 ---
-app_id: com.github.jeremyvaartjes.comgen
+app_id: "com.github.jeremyvaartjes.comgen"
 title: "Comgen"
 summary: "Comment Generator: generate styled comments for your code"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.comgen/D55D28BAC51A00034E276104C710C466/screenshots/image-1_orig.png
@@ -29,6 +29,7 @@ releases:
       <li>French translation update by @NathanBnm</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1550275200
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>French translation added by @NathanBnm</li>
 
     </ul>
+
 - version: 1.0
   unix-timestamp: 1541289600
   description: |-
@@ -53,6 +55,7 @@ releases:
       <li>Miscellaneous fixes</li>
 
     </ul>
+
 - version: 0.2.6
   unix-timestamp: 1541030400
   description: |-
@@ -61,10 +64,10 @@ releases:
       <li>Initial Release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.jeremyvaartjes.comgen.desktop/
 ---
-
 <p>Comment Generator will let you create a header block that can include elements like an ascii art title, version number, authors and copyright information.</p>
 <p>Currently the following comment styles are available for use:</p>
 <ul>

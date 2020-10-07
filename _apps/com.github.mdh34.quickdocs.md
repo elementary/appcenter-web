@@ -1,10 +1,10 @@
 ---
-app_id: com.github.mdh34.quickdocs
+app_id: "com.github.mdh34.quickdocs"
 title: "quickDocs"
 summary: "Quickly Read Developer Docs"
 developer: "Matt Harris"
 homepage: "https://github.com/mdh34/quickDocs"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-1_orig.png
@@ -28,6 +28,7 @@ releases:
       <li>Added a &apos;find in page&apos; searchbar</li>
 
     </ul>
+
 - version: 2.2.5
   unix-timestamp: 1548028800
   description: |-
@@ -38,6 +39,7 @@ releases:
       <li>Minor bugfixes</li>
 
     </ul>
+
 - version: 2.2.4
   unix-timestamp: 1540512000
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>Package list bugfixes</li>
 
     </ul>
+
 - version: 2.2.3
   unix-timestamp: 1540339200
   description: |-
@@ -54,6 +57,7 @@ releases:
       <li>Added Chinese translations</li>
 
     </ul>
+
 - version: 2.2.1
   unix-timestamp: 1537488000
   description: |-
@@ -66,6 +70,7 @@ releases:
       <li>Updated theme changer to use the new Granite ModeSwitch</li>
 
     </ul>
+
 - version: 2.2.0
   unix-timestamp: 1537401600
   description: |-
@@ -78,6 +83,7 @@ releases:
       <li>Updated theme changer to use the new Granite ModeSwitch</li>
 
     </ul>
+
 - version: 2.1.1
   unix-timestamp: 1530576000
   description: |-
@@ -86,6 +92,7 @@ releases:
       <li>Juno AppCenter release</li>
 
     </ul>
+
 - version: 2.1.0
   unix-timestamp: 1530316800
   description: |-
@@ -94,6 +101,7 @@ releases:
       <li>Offline packages can now be easily searched through</li>
 
     </ul>
+
 - version: 2.0.5
   unix-timestamp: 1529193600
   description: |-
@@ -102,6 +110,7 @@ releases:
       <li>Fix a bug in opening some links</li>
 
     </ul>
+
 - version: 2.0.4
   unix-timestamp: 1528416000
   description: |-
@@ -110,6 +119,7 @@ releases:
       <li>Loki bugfixes</li>
 
     </ul>
+
 - version: 2.0.3
   unix-timestamp: 1527724800
   description: |-
@@ -118,6 +128,7 @@ releases:
       <li>Flatpak-friendly tweaks</li>
 
     </ul>
+
 - version: 2.0.2
   unix-timestamp: 1527724800
   description: |-
@@ -132,6 +143,7 @@ releases:
       <li>Misc patches</li>
 
     </ul>
+
 - version: 2.0.1
   unix-timestamp: 1523750400
   description: |-
@@ -140,6 +152,7 @@ releases:
       <li>Fixes offline DevDocs support - toggling the theme back and forth once should reload the cache</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1523318400
   description: |-
@@ -152,6 +165,7 @@ releases:
       <li>Brand new offline docs UI that allows for searching and easier viewing</li>
 
     </ul>
+
 - version: 1.2.2
   unix-timestamp: 1521763200
   description: |-
@@ -160,6 +174,7 @@ releases:
       <li>Simplify UI</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1520553600
   description: |-
@@ -168,6 +183,7 @@ releases:
       <li>UI Updates</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1520121600
   description: |-
@@ -176,6 +192,7 @@ releases:
       <li>Added the ability to use Valadoc offline</li>
 
     </ul>
+
 - version: 1.1.6
   unix-timestamp: 1519776000
   description: |-
@@ -184,6 +201,7 @@ releases:
       <li>quickDocs now restores the last page you were on</li>
 
     </ul>
+
 - version: 1.1.5
   unix-timestamp: 1517529600
   description: |-
@@ -192,6 +210,7 @@ releases:
       <li>quickDocs now remembers its last size and location!</li>
 
     </ul>
+
 - version: 1.1.4
   unix-timestamp: 1517270400
   description: |-
@@ -200,6 +219,7 @@ releases:
       <li>Fixed a bug where DevDocs wouldn&apos;t work offline</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1516406400
   description: |-
@@ -208,6 +228,7 @@ releases:
       <li>Minor UI tweaks</li>
 
     </ul>
+
 - version: 1.1.1
   unix-timestamp: 1515974400
   description: |-
@@ -216,6 +237,7 @@ releases:
       <li>New keyboard shortcut! Press ctrl+tab to switch tabs</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1515801600
   description: |-
@@ -228,6 +250,7 @@ releases:
       <li>quickDocs remembers which tab you were last using</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1515456000
   description: |-
@@ -244,10 +267,10 @@ releases:
       <li>Fix some AppCenter issues</li>
 
     </ul>
+
 redirect_from:
   - /com.github.mdh34.quickdocs.desktop/
 ---
-
 <p>A fast developer docs reader that supports Valadoc and DevDocs</p>
 <p>Includes:</p>
 <ul>

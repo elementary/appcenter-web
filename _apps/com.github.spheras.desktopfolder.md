@@ -1,10 +1,10 @@
 ---
-app_id: com.github.spheras.desktopfolder
+app_id: "com.github.spheras.desktopfolder"
 title: "Desktop Folder"
 summary: "Bring your desktop back to life"
 developer: "DesktopFolder Developers"
 homepage: "https://github.com/spheras/desktopfolder"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/spheras.desktopfolder/D516AB60E62284B0CC8128490D82AC0E/screenshots/image-1_orig.png
@@ -35,6 +35,7 @@ releases:
       <li>Minor bugfixing</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1550275200
   description: |-
@@ -65,6 +66,7 @@ releases:
       <li>Minor bugfixing</li>
 
     </ul>
+
 - version: 1.0.10
   unix-timestamp: 1541548800
   description: |-
@@ -83,6 +85,7 @@ releases:
       <li>Minor bugfixes and stabilization</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1539561600
   description: |-
@@ -95,6 +98,7 @@ releases:
       <li>Juno publication release</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1537401600
   description: |-
@@ -113,6 +117,7 @@ releases:
       <li>Minor Bugfixes are included for this release</li>
 
     </ul>
+
 - version: 1.0.6
   unix-timestamp: 1518739200
   description: |-
@@ -127,6 +132,7 @@ releases:
       <li>Files *~ are ignored now</li>
 
     </ul>
+
 - version: 1.0.5
   unix-timestamp: 1514246400
   description: |-
@@ -165,6 +171,7 @@ releases:
       <li>A lot of Minor Bugfixing</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1508371200
   description: |-
@@ -191,10 +198,10 @@ releases:
       <li>Minor Bugfixing included with this release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.spheras.desktopfolder.desktop/
 ---
-
 <p>Organize your desktop with panels that hold your things.</p>
 <ul>
   <li>Access files, folders and apps from your desktop</li>

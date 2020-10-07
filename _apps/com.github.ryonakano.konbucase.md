@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ryonakano.konbucase
+app_id: "com.github.ryonakano.konbucase"
 title: "KonbuCase"
 summary: "Convert case in your text"
 developer: "Ryo Nakano"
@@ -35,6 +35,7 @@ releases:
       <li>Add Portuguese-Portugal translation (thanks to @rottenpants466)</li>
 
     </ul>
+
 - version: 2.0.0
   unix-timestamp: 1593302400
   description: |-
@@ -47,6 +48,7 @@ releases:
       <li>Improve the app icon (big thanks to @Fatih20)</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1589500800
   description: |-
@@ -57,6 +59,7 @@ releases:
       <li>Update translations</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1589414400
   description: |-
@@ -73,6 +76,7 @@ releases:
       <li>Update translations</li>
 
     </ul>
+
 - version: 0.1.1
   unix-timestamp: 1588291200
   description: |-
@@ -87,14 +91,15 @@ releases:
       <li>Update result texts when changing ComboBox selection</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1587427200
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.ryonakano.konbucase.desktop/
 ---
-
 <p>A small text tool app that allows you convert case in your text.</p>
 <p>Features include:</p>
 <ul>

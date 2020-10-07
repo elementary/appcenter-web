@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bartzaalberg.sudokular
+app_id: "com.github.bartzaalberg.sudokular"
 title: "Sudokular"
 summary: "The number that is alone"
 developer: "Bart Zaalberg"
@@ -28,6 +28,7 @@ releases:
       <li>Added Polish translation</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1563321600
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Removed depracated Granite.Application</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1562716800
   description: |-
@@ -64,6 +66,7 @@ releases:
       <li>Updated screenshots</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1561939200
   description: |-
@@ -78,6 +81,7 @@ releases:
       <li>Updated header image</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1554076800
   description: |-
@@ -90,6 +94,7 @@ releases:
       <li>Added issues to repository so that Houston will have a place to send issues</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1553731200
   description: |-
@@ -100,10 +105,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.bartzaalberg.sudokular.desktop/
 ---
-
 <p>The goal of Sudoku is to fill in a 9×9 grid with digits so that each column, row, and 3×3 section contain the numbers between 1 to 9. At the beginning of the game, the 9×9 grid will have some of the squares filled in. Your job is to use logic to fill in the missing digits and complete the grid. A move is incorrect if:</p>
 <ul>
   <li>Any row contains more than one of the same number from 1 to 9</li>

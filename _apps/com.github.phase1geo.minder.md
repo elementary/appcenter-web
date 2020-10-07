@@ -1,10 +1,10 @@
 ---
-app_id: com.github.phase1geo.minder
+app_id: "com.github.phase1geo.minder"
 title: "Minder"
 summary: "Create, develop and visualize your ideas"
 developer: "Trevor Williams"
 homepage: "https://github.com/phase1geo/minder/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-1_orig.png
@@ -122,6 +122,7 @@ releases:
       <li>Fixed issue where copying a filename in a file manager and pasting in Minder would attempt to past the icon image
 
     instead of the filename when editing text.</li> </ul>
+
 - version: 1.10.0
   unix-timestamp: 1598486400
   description: |-
@@ -202,6 +203,7 @@ releases:
       <li>Fixed issue that allows you to click on or drag onto a hidden node.</li>
 
     </ul>
+
 - version: 1.9.2
   unix-timestamp: 1596758400
   description: |-
@@ -214,6 +216,7 @@ releases:
       <li>Fixed issue with reading in Minder files that exceed the XML parser size limitations.</li>
 
     </ul>
+
 - version: 1.9.1
   unix-timestamp: 1594512000
   description: |-
@@ -234,6 +237,7 @@ releases:
       <li>Fixed issue with reading in Minder files that exceed the XML parser size limitations.</li>
 
     </ul>
+
 - version: 1.9.0
   unix-timestamp: 1593129600
   description: |-
@@ -296,6 +300,7 @@ releases:
       <li>Fixed issue with pasting UTF8 strings from clipboard.</li>
 
     </ul>
+
 - version: 1.8.0
   unix-timestamp: 1589673600
   description: |-
@@ -362,6 +367,7 @@ releases:
       <li>Fixed Org-Mode export syntax errors.</li>
 
     </ul>
+
 - version: 1.7.3
   unix-timestamp: 1587340800
   description: |-
@@ -404,6 +410,7 @@ releases:
       <li>Fixed issue with exporting images when manual layout mode is selected.</li>
 
     </ul>
+
 - version: 1.7.2
   unix-timestamp: 1585180800
   description: |-
@@ -468,6 +475,7 @@ releases:
       <li>Fixed bug with updating tab tooltip and saving tab state when filename is changed.</li>
 
     </ul>
+
 - version: 1.6.0
   unix-timestamp: 1577318400
   description: |-
@@ -514,6 +522,7 @@ releases:
       <li>Fixed various compiler warnings/errors after compiling with latest version of Vala compiler.</li>
 
     </ul>
+
 - version: 1.5.1
   unix-timestamp: 1574467200
   description: |-
@@ -534,6 +543,7 @@ releases:
       <li>Fixed various compiler errors/warnings</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1567814400
   description: |-
@@ -586,6 +596,7 @@ releases:
       <li>Fixed keyboard shortcut for toggling focus mode.</li>
 
     </ul>
+
 - version: 1.4.1
   unix-timestamp: 1563062400
   description: |-
@@ -594,6 +605,7 @@ releases:
       <li>Fixed issue with automatic layout that was introduced in 1.4.0.</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1562112000
   description: |-
@@ -654,6 +666,7 @@ releases:
       <li>Fixed issue with displaying resized nodes on open or application startup.</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1559433600
   description: |-
@@ -662,6 +675,7 @@ releases:
       <li>Fixing issue with export functions.</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1558310400
   description: |-
@@ -700,6 +714,7 @@ releases:
       <li>Removed support for Loki builds.</li>
 
     </ul>
+
 - version: 1.2.1
   unix-timestamp: 1554854400
   description: |-
@@ -710,6 +725,7 @@ releases:
       <li>Removing automatic style apply when the affects is set to certain values.</li>
 
     </ul>
+
 - version: 1.2
   unix-timestamp: 1554768000
   description: |-
@@ -736,6 +752,7 @@ releases:
       <li>Lots of bug fixes.</li>
 
     </ul>
+
 - version: 1.1.3
   unix-timestamp: 1539388800
   description: |-
@@ -746,10 +763,12 @@ releases:
       <li>Adding support for special character insertion via the Compose key.</li>
 
     </ul>
+
 - version: 1.1.2
   unix-timestamp: 1539043200
   description: |-
     <p>Updating French translation.</p>
+
 - version: 1.1.1
   unix-timestamp: 1538006400
   description: |-
@@ -766,6 +785,7 @@ releases:
       <li>Fixed issue connecting a root node to another node.</li>
 
     </ul>
+
 - version: 1.1
   unix-timestamp: 1537228800
   description: |-
@@ -798,6 +818,7 @@ releases:
       <li>Other minor bug fixes.</li>
 
     </ul>
+
 - version: 1.0.8
   unix-timestamp: 1533513600
   description: |-
@@ -828,10 +849,12 @@ releases:
       <li>Added Brazilian Portuguese translation (thanks to btd1337!)</li>
 
     </ul>
+
 - version: 1.0.7
   unix-timestamp: 1531440000
   description: |-
     <p>Initial startup bug fix.</p>
+
 - version: 1.0.4
   unix-timestamp: 1531267200
   description: |-
@@ -856,14 +879,15 @@ releases:
       <li>Bug fixes.</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1530230400
   description: |-
     <p>Initial release</p>
+
 redirect_from:
   - /com.github.phase1geo.minder.desktop/
 ---
-
 <p>Use the power of mind-mapping to make your ideas come to life.</p>
 <ul>
   <li>Quickly create visual mind-maps using the keyboard and automatic layout.</li>

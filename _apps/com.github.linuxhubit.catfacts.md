@@ -1,5 +1,5 @@
 ---
-app_id: com.github.linuxhubit.catfacts
+app_id: "com.github.linuxhubit.catfacts"
 title: "Cat Facts"
 summary: "Find cat facts"
 developer: "Mirko Brombin"
@@ -21,8 +21,8 @@ releases:
   unix-timestamp: 1588291200
   description: |-
     <p>First release</p>
+
 redirect_from:
   - /com.github.linuxhubit.catfacts.desktop/
 ---
-
 <p>An application that helps you finding cat facts</p>

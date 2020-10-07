@@ -1,10 +1,10 @@
 ---
-app_id: com.github.cryptowyrm.copypastegrab
+app_id: "com.github.cryptowyrm.copypastegrab"
 title: "Copy Paste Grab"
 summary: "Download videos from hundreds of websites"
 developer: "Christoph Budzinski"
 homepage: "https://github.com/cryptowyrm/copypastegrab"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cryptowyrm.copypastegrab/BC81BEAA21EAEB18F882B63A1E729F7C/screenshots/image-1_orig.png
@@ -18,6 +18,9 @@ color:
   primary-text: "rgb(255, 255, 255)"
 price: 3
 releases:
+- version: 
+  unix-timestamp: 
+
 - version: 1.0.0
   unix-timestamp: 1540598400
   description: |-
@@ -26,10 +29,10 @@ releases:
       <li>First release</li>
 
     </ul>
+
 redirect_from:
   - /com.github.cryptowyrm.copypastegrab.desktop/
 ---
-
 <p>Easily download videos from hundreds of websites.</p>
 <p>Just copy a link to a video, paste it into the app and it&apos;s going to grab it for you!</p>
 <p>Note: Not all video websites allow downloading videos, so make sure you only download from websites that explicitly allow downloading videos in their Terms of Service.</p>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.allen-b1.news
+app_id: "com.github.allen-b1.news"
 title: "News"
 summary: "Read Atom and RSS feeds"
 developer: "Allen B"
@@ -29,6 +29,7 @@ releases:
       <li>Google News searches in your system language</li>
 
     </ul>
+
 - version: 1.3
   unix-timestamp: 1556409600
   description: |-
@@ -47,6 +48,7 @@ releases:
       <li>Added support for Atom feeds</li>
 
     </ul>
+
 - version: 1.2
   unix-timestamp: 1528848000
   description: |-
@@ -67,8 +69,8 @@ releases:
       <li>Simplified searching via Google News; added Ctrl+F shortcut</li>
 
     </ul>
+
 redirect_from:
   - /com.github.allen-b1.news.desktop/
 ---
-
 <p>News lets you read and aggregate Atom and RSS feeds.</p>

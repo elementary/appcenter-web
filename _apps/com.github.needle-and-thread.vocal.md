@@ -1,10 +1,10 @@
 ---
-app_id: com.github.needle-and-thread.vocal
+app_id: "com.github.needle-and-thread.vocal"
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
 developer: "Needle & Thread"
 homepage: "http://github.com/needle-and-thread/vocal"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-1_orig.png
@@ -28,6 +28,7 @@ releases:
     <p>This is a small point release that includes a fix for the progress bar, which in version 2.4.0
 
                 had an issue where only the left half of the progress bar could be used for seeking.</p>
+
 - version: 2.4
   unix-timestamp: 1554918082
   description: |-
@@ -60,6 +61,7 @@ releases:
       <li>Lots of stability and performance enhancements under the hood</li>
 
     </ul>
+
 - version: 2.3
   unix-timestamp: 1541346569
   description: |-
@@ -92,6 +94,7 @@ releases:
       <li>General stability improvements</li>
 
     </ul>
+
 - version: 2.2
   unix-timestamp: 1524422931
   description: |-
@@ -128,6 +131,7 @@ releases:
       <li>Many other small performance and stability enhancements.</li>
 
     </ul>
+
 - version: 2.1
   unix-timestamp: 1514653432
   description: |-
@@ -172,6 +176,7 @@ releases:
     	        crash nearly as much (hopefully never).</li>
 
     </ul>
+
 - version: 2.0
   unix-timestamp: 1493395200
   description: |-
@@ -182,10 +187,10 @@ releases:
     		redesigned podcast view, and tons of other great
 
     		improvements.</p>
+
 redirect_from:
   - /com.github.needle-and-thread.vocal.desktop/
 ---
-
 <p>Vocal is the best way to find interesting new podcasts, maintain a growing library,
       and enjoy audio and video shows that automatically get updated with new content.</p>
 <p>Features include:</p>

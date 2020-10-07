@@ -1,10 +1,10 @@
 ---
-app_id: com.github.jeremyvaartjes.ping
+app_id: "com.github.jeremyvaartjes.ping"
 title: "Ping!"
 summary: "Test your API against some data"
 developer: "Jeremy Vaartjes"
 homepage: "https://jeremy.vaartj.es"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/700CF8A4BCC851E28EDE47C92C399A17/screenshots/image-1_orig.png
@@ -31,6 +31,7 @@ releases:
       <li>French translation from @NathanBnm</li>
 
     </ul>
+
 - version: 0.5.1
   unix-timestamp: 1545782400
   description: |-
@@ -41,6 +42,7 @@ releases:
       <li>Brazilian Portuguese translation from @btd1337</li>
 
     </ul>
+
 - version: 0.5
   unix-timestamp: 1543708800
   description: |-
@@ -57,6 +59,7 @@ releases:
       <li>You can now press ctrl-r to execute a test. Pressing enter in the URL field will do the same.</li>
 
     </ul>
+
 - version: 0.4
   unix-timestamp: 1542240000
   description: |-
@@ -65,6 +68,7 @@ releases:
       <li>You can now use the URL encoded form format.</li>
 
     </ul>
+
 - version: 0.3
   unix-timestamp: 1542153600
   description: |-
@@ -75,6 +79,7 @@ releases:
       <li>You can now add custom headers to the request object.</li>
 
     </ul>
+
 - version: 0.2
   unix-timestamp: 1541721600
   description: |-
@@ -85,6 +90,7 @@ releases:
       <li>You can now see a list of headers returned by the server.</li>
 
     </ul>
+
 - version: 0.1
   unix-timestamp: 1541030400
   description: |-
@@ -93,8 +99,8 @@ releases:
       <li>Initial Release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.jeremyvaartjes.ping.desktop/
 ---
-
 <p>Ping lets you test your web API with some example data. A helpful tool that lets you degug what part of your API is causing you issues.</p>

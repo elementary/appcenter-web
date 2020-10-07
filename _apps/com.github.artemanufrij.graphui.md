@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.graphui
+app_id: "com.github.artemanufrij.graphui"
 title: "GraphUI"
 summary: "Graph Visualization"
 developer: "Artem Anufrij"
@@ -27,6 +27,7 @@ releases:
       <li>Open File Dialog on keypress &apos;0&apos;</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1563321600
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Quit app by Ctrl+Q</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1563235200
   description: |-
@@ -55,8 +57,10 @@ releases:
       <li>French (by Nathan Bonnemains)</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1541030400
+
 - version: 1.0.1
   unix-timestamp: 1541030400
   description: |-
@@ -85,8 +89,10 @@ releases:
       <li>Dutch (by Heimen Stoffels)</li>
 
     </ul>
+
 - version: 0.2.0
   unix-timestamp: 1532390400
+
 - version: 0.1.7
   unix-timestamp: 1521936000
   description: |-
@@ -107,6 +113,7 @@ releases:
       <li>relative path for &apos;image&apos; parameter</li>
 
     </ul>
+
 - version: 0.1.6
   unix-timestamp: 1519516800
   description: |-
@@ -117,6 +124,7 @@ releases:
       <li>Ctrl+S behaviour for opened file from &apos;Files&apos;</li>
 
     </ul>
+
 - version: 0.1.5
   unix-timestamp: 1519084800
   description: |-
@@ -127,6 +135,7 @@ releases:
       <li>gschema file</li>
 
     </ul>
+
 - version: 0.1.4
   unix-timestamp: 1519084800
   description: |-
@@ -163,6 +172,7 @@ releases:
       <li>Clear error message after successful compile</li>
 
     </ul>
+
 - version: 0.1.3
   unix-timestamp: 1518652800
   description: |-
@@ -175,12 +185,13 @@ releases:
       <li>Show details on error screen</li>
 
     </ul>
+
 - version: 0.1.0
   unix-timestamp: 1518652800
+
 redirect_from:
   - /com.github.artemanufrij.graphui.desktop/
 ---
-
 <p>Graph visualization based on graphviz with included a text editor and a preview area</p>
 <p>Supported types:</p>
 <ul>

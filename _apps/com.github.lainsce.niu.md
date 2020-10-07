@@ -1,10 +1,10 @@
 ---
-app_id: com.github.lainsce.niu
+app_id: "com.github.lainsce.niu"
 title: "Niu"
 summary: "Watch and track date and time in an innovative way with this handy applet"
 developer: "Lains"
 homepage: "https://github.com/lainsce/niu/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/screenshots/image-1_orig.png
@@ -29,6 +29,7 @@ releases:
       <li>Minor backend fixes</li>
 
     </ul>
+
 - version: 1.0.4
   unix-timestamp: 1565222400
   description: |-
@@ -39,6 +40,7 @@ releases:
       <li>Added: French Translation</li>
 
     </ul>
+
 - version: 1.0.3
   unix-timestamp: 1565222400
   description: |-
@@ -51,6 +53,7 @@ releases:
       <li>Fixed: Sometimes the clock would display (null)</li>
 
     </ul>
+
 - version: 1.0.2
   unix-timestamp: 1564617600
   description: |-
@@ -61,6 +64,7 @@ releases:
       <li>Fixed: backend calculations</li>
 
     </ul>
+
 - version: 1.0.1
   unix-timestamp: 1563926400
   description: |-
@@ -71,6 +75,7 @@ releases:
       <li>Added: Option to start a Pomodoro system in the indicator</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1563580800
   description: |-
@@ -81,10 +86,10 @@ releases:
       <li>First stable release.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.lainsce.niu.desktop/
 ---
-
 <p>See time and the current date like never before, using a compact and decimal way to show date and time in this applet or on the panel</p>
 <ul>
   <li>Quit anytime with the shortcut Ctrl + Q</li>

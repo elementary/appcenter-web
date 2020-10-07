@@ -1,5 +1,5 @@
 ---
-app_id: com.github.aggalex.wineglass
+app_id: "com.github.aggalex.wineglass"
 title: "Wineglass"
 summary: "A GUI for Wine"
 developer: "Alex Angelou"
@@ -37,10 +37,10 @@ releases:
       <li>Added tooltips</li>
 
     </ul>
+
 redirect_from:
   - /com.github.aggalex.wineglass.desktop/
 ---
-
 <p>Wineglass is a small application that allows the user to manage their wineprefixes easily and install windows programs without the need of the terminal. It can:</p>
 <ul>
   <li>Easily create and remove wineprefixes</li>

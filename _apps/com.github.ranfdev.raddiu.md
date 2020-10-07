@@ -1,5 +1,5 @@
 ---
-app_id: com.github.ranfdev.raddiu
+app_id: "com.github.ranfdev.raddiu"
 title: "Raddiu"
 summary: "Program to listen to web radios"
 developer: "ranfdev"
@@ -20,12 +20,13 @@ price: 0
 releases:
 - version: 1.1.1
   unix-timestamp: 1556409600
+
 - version: 1.0.8
   unix-timestamp: 1554508800
+
 redirect_from:
   - /com.github.ranfdev.raddiu.desktop/
 ---
-
 <p>Listen to web radios from all around the world.
     This program uses the radio-browser.info community made
     database of radios, to provide you with the biggest list

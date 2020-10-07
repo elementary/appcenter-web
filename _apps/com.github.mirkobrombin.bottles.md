@@ -1,5 +1,5 @@
 ---
-app_id: com.github.mirkobrombin.bottles.desktop
+app_id: "com.github.mirkobrombin.bottles.desktop"
 title: "Bottles"
 summary: "Easily manage your Wine bottles"
 developer: "Mirko Brombin"
@@ -29,10 +29,10 @@ releases:
       <li>Various code improvements</li>
 
     </ul>
+
 redirect_from:
   - /com.github.mirkobrombin.bottles.desktop/
 ---
-
 <p>Easily manage your Wine bottles (wineprefix)</p>
 <ul>
   <li>Create new bottles</li>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.matfantinel.reminduck
+app_id: "com.github.matfantinel.reminduck"
 title: "Reminduck"
 summary: "Remember your stuff in an adorably annoying way."
 developer: "Matheus Fantinel"
@@ -30,6 +30,7 @@ releases:
       <li>- 🇮🇹 Updated italian translation (@albanobattistella)</li>
 
     </ul>
+
 - version: 1.5.5
   unix-timestamp: 1579305600
   description: |-
@@ -38,6 +39,7 @@ releases:
       <li>🐞 Enable translations on Flatpak</li>
 
     </ul>
+
 - version: 1.5.0
   unix-timestamp: 1578614400
   description: |-
@@ -46,6 +48,7 @@ releases:
       <li>🗃️ Flatpak Support!</li>
 
     </ul>
+
 - version: 1.4.0
   unix-timestamp: 1574899200
   description: |-
@@ -62,6 +65,7 @@ releases:
       <li>🇮🇹 Italian Translation (Mirko Brombin | @mirkobrombin)</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1572998400
   description: |-
@@ -74,6 +78,7 @@ releases:
       <li>🇨🇵️ French Translation (Nathan Bonnemains | @NathanBnm)</li>
 
     </ul>
+
 - version: 1.2.0
   unix-timestamp: 1571184000
   description: |-
@@ -90,6 +95,7 @@ releases:
       <li>🇳🇱 Dutch translation (Vistaus)</li>
 
     </ul>
+
 - version: 1.1.0
   unix-timestamp: 1570752000
   description: |-
@@ -100,14 +106,15 @@ releases:
       <li>This should also make it work with other dark GTK themes</li>
 
     </ul>
+
 - version: 1.0.0
   unix-timestamp: 1570579200
   description: |-
     <p>Initial Release 🦆</p>
+
 redirect_from:
   - /com.github.matfantinel.reminduck.desktop/
 ---
-
 <p>Reminduck is a simple reminder app made to be quick and easy - it focuses on simple or recurrent reminders with set time and date and nothing else.</p>
 <p>It&apos;s perfect if all you want are simple or daily/weekly/monthly reminders. Anything more than that is not achievable by Reminduck right now - but you can help! Open an issue or a pull request if you have any ideas or requests.</p>
 <p>And it quacks.</p>

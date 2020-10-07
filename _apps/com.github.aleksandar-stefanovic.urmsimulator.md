@@ -1,10 +1,10 @@
 ---
-app_id: com.github.aleksandar-stefanovic.urmsimulator
+app_id: "com.github.aleksandar-stefanovic.urmsimulator"
 title: "URM Simulator"
 summary: "Simple URM simulations"
 developer: "Aleksandar Stefanović"
 homepage: "https://github.com/aleksandar-stefanovic/urmsimulator/"
-help_page: "#"
+help_page: #
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/AB3B98CF3794719ED25B59B9512FBB2C/screenshots/image-1_orig.png
@@ -27,6 +27,7 @@ releases:
       <li>Fixed issues with the project, which made it possible to publish to AppCenter again. Big thanks to Ryo Nakano!</li>
 
     </ul>
+
 - version: 1.3.2
   unix-timestamp: 1530403200
   description: |-
@@ -37,6 +38,7 @@ releases:
       <li>Fixed issues with Debian packaging.</li>
 
     </ul>
+
 - version: 1.3.1
   unix-timestamp: 1530230400
   description: |-
@@ -49,6 +51,7 @@ releases:
       <li>Basic input checking has been added.</li>
 
     </ul>
+
 - version: 1.3.0
   unix-timestamp: 1518393600
   description: |-
@@ -63,10 +66,10 @@ releases:
       <li>Instructions are now one-based numbered.</li>
 
     </ul>
+
 redirect_from:
   - /com.github.aleksandar-stefanovic.urmsimulator.desktop/
 ---
-
 <p>URM (Unlimited Register Machine) is a theoretical machine which has unlimited memory. It is used to describe that anything that can be programmed with four basic instructions can also be programmed with any other programming language.</p>
 <p>Use four basic instructions (Zero, Successor, Transfer, Jump) to program any other operator or function, since things like subtraction are not included!</p>
 <p>Features:</p>

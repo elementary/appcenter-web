@@ -1,5 +1,5 @@
 ---
-app_id: com.github.geigi.cozy
+app_id: "com.github.geigi.cozy"
 title: "Cozy"
 summary: "A modern audio book player"
 developer: "Julian Geywitz"
@@ -32,6 +32,7 @@ releases:
       <li>Swedish translation</li>
 
     </ul>
+
 - version: 0.6.11
   unix-timestamp: 1578341831
   description: |-
@@ -44,6 +45,7 @@ releases:
       <li>Other small fixes</li>
 
     </ul>
+
 - version: 0.6.10
   unix-timestamp: 1576842834
   description: |-
@@ -60,6 +62,7 @@ releases:
       <li>Other small fixes</li>
 
     </ul>
+
 - version: 0.6.9
   unix-timestamp: 1571404884
   description: |-
@@ -74,6 +77,7 @@ releases:
       <li>Fix: Sometimes the app name was not correctly displayed</li>
 
     </ul>
+
 - version: 0.6.8
   unix-timestamp: 1567959472
   description: |-
@@ -88,6 +92,7 @@ releases:
       <li>Fix: Sometimes the app name was not correctly displayed</li>
 
     </ul>
+
 - version: 0.6.7
   unix-timestamp: 1547330415
   description: |-
@@ -96,6 +101,7 @@ releases:
       <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
 
     </ul>
+
 - version: 0.6.6
   unix-timestamp: 1547324279
   description: |-
@@ -104,6 +110,7 @@ releases:
       <li>Fix: Cozy crashed on startup when prefering cover image files over embedded album art</li>
 
     </ul>
+
 - version: 0.6.5
   unix-timestamp: 1543573312
   description: |-
@@ -112,6 +119,7 @@ releases:
       <li>Fixed startup crash on elemntary OS 5.0 Juno</li>
 
     </ul>
+
 - version: 0.6.4
   unix-timestamp: 1540414183
   description: |-
@@ -124,6 +132,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 0.6.1b
   unix-timestamp: 1539206841
   description: |-
@@ -132,6 +141,7 @@ releases:
       <li>Fixed a bug which prevented cozy from automatically playing the next chapter</li>
 
     </ul>
+
 - version: 0.6.1
   unix-timestamp: 1536329525
   description: |-
@@ -150,6 +160,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
+
 - version: 0.6.0
   unix-timestamp: 1528790604
   description: |-
@@ -188,10 +199,10 @@ releases:
       <li>Optimizations under the hood</li>
 
     </ul>
+
 redirect_from:
   - /com.github.geigi.cozy.desktop/
 ---
-
 <p>You like audio books? Then lets get cozy!</p>
 <p>Cozy is a modern audio book player. Here are some of the current features:</p>
 <ul>

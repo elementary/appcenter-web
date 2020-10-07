@@ -1,5 +1,5 @@
 ---
-app_id: com.github.cjfloss.envelope
+app_id: "com.github.cjfloss.envelope"
 title: "Envelope"
 summary: "Personal budget manager"
 developer: "Cleiton Floss"
@@ -54,6 +54,7 @@ releases:
       <li>Updated HoustonCI</li>
 
     </ul>
+
 - version: 0.0.3
   unix-timestamp: 1518480000
   description: |-
@@ -80,6 +81,7 @@ releases:
       <li>Add current version to the binary</li>
 
     </ul>
+
 - version: 0.0.2
   unix-timestamp: 1517616000
   description: |-
@@ -96,6 +98,7 @@ releases:
       <li>Update app branding</li>
 
     </ul>
+
 - version: 0.0.1
   unix-timestamp: 1516579200
   description: |-
@@ -112,10 +115,10 @@ releases:
       <li>Import QIF files</li>
 
     </ul>
+
 redirect_from:
   - /com.github.cjfloss.envelope.desktop/
 ---
-
 <p>Maintain your personal budget by using the tried-and-true envelope system.
        Designate spending categories (envelopes) and distribute your monthly income into them.
        Configure accounts where you record all your transactions, then assign each of them to a category.</p>

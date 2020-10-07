@@ -1,5 +1,5 @@
 ---
-app_id: com.github.philip-scott.wallpaperize
+app_id: "com.github.philip-scott.wallpaperize"
 title: "Wallpaperize"
 summary: "Beautify your oddly-sized wallpapers"
 developer: "Felipe Escoto"
@@ -27,8 +27,8 @@ releases:
       <li>Wallpaperize is now available in elementary OS Juno!</li>
 
     </ul>
+
 redirect_from:
   - /com.github.philip-scott.wallpaperize.desktop/
 ---
-
 <p>Turn your oddly sized wallpapers into a piece of beauty. Simply right click on your picture&apos;s file, and select &quot;Wallpaperize&quot; from the drop down menu, or open the app and drag-and-drop the images you wish to wallpaperize.</p>
