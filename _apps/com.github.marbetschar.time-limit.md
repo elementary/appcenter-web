@@ -7,17 +7,31 @@ homepage: "https://github.com/marbetschar/time-limit"
 help_page: "https://github.com/marbetschar/time-limit/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/BBD088D6442FD595D9035C8518730F41/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/BBD088D6442FD595D9035C8518730F41/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/70B13588167D73AEE19D3A3D52159615/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/BBD088D6442FD595D9035C8518730F41/icons/64x64/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/BBD088D6442FD595D9035C8518730F41/icons/128x128/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/marbetschar.time-limit/BBD088D6442FD595D9035C8518730F41/icons/64x64@2/com.github.marbetschar.time-limit_com.github.marbetschar.time-limit.png
 color:
   primary: "#318AF4"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
+- version: 1.4.1
+  unix-timestamp: 1601251200
+  description: |-
+    <p>Fixed #25: Added hibernation support</p>
+
+    <p>Fixed #20: Avoid time shift if timer does not run</p>
+
+    <p>Fixed #41: Appstream validation failure</p>
+- version: 1.4.0
+  unix-timestamp: 1601251200
+  description: |-
+    <p>Fixed #25: Added hibernation support</p>
+
+    <p>Fixed #20: Avoid time shift if timer does not run</p>
 - version: 1.3.1
   unix-timestamp: 1599609600
   description: |-
@@ -25,7 +39,7 @@ releases:
 - version: 1.3.0
   unix-timestamp: 1595548800
   description: |-
-    <p>Fixed #26: Play notification sound regardless of &quot;do not disturb&quot; (needs new notification server)</p>
+    <p>Fixed #26: Play notification sound regardless of &quot;do not disturb&quot; (eeds new notification server)</p>
 
     <p>Fixed #16: Remember window position after close</p>
 
