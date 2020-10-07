@@ -7,17 +7,43 @@ homepage: "https://tenderowl.com/norka"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/369A5DE6E88B43E0CA7D6E2F76F7C072/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/icons/64x64/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/icons/128x128/com.github.tenderowl.norka_com.github.tenderowl.norka.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/icons/64x64@2/com.github.tenderowl.norka_com.github.tenderowl.norka.png
 color:
   primary: "#b5c3cb"
   primary-text: "#273445"
 price: 12
 releases:
+- version: 0.6.2
+  unix-timestamp: 1602028800
+  description: |-
+    <p>Improvements</p>
+
+    <ul>
+
+      <li>Editor width limited to 800 px for the best experience</li>
+
+      <li>Formatting shortcuts for easier editing</li>
+
+      <li>Preview documents before export</li>
+
+      <li>Export documents from grid</li>
+
+      <li>Modification and creation date in tooltips</li>
+
+    </ul>
+- version: 0.5.1
+  unix-timestamp: 1598832000
+  description: |-
+    <p>Update app translation.</p>
+- version: 0.5.0
+  unix-timestamp: 1598659200
+  description: |-
+    <p>A new fancy way to search through your documents is available. And Norka is fully localizable now. You are welcome :)</p>
 - version: 0.4.7
   unix-timestamp: 1597276800
   description: |-
@@ -115,6 +141,11 @@ redirect_from:
 ---
 
 <p>Imagine text writing experience without the hassle. Don&apos;t worry about saving files, complex markup, or accidentally deleted notes.</p>
-<p>Do what you want to do - concentrate on beautiful stories, short notes, or documenting. Norka cares about you.
-      All your notes insideAutomatically saved in placeCan be easily exported to files in one clickIf you neet markup
-- use markdownDon&apos;t like the default theme - choose different</p>
+<p>Do what you want to do - concentrate on beautiful stories, short notes, or documenting. Norka cares about you.</p>
+<ul>
+  <li>All your notes inside</li>
+  <li>Automatically saved in place</li>
+  <li>Can be easily exported to files in one click</li>
+  <li>If you neet markup - use markdown</li>
+  <li>Don&apos;t like the default theme - choose different</li>
+</ul>
