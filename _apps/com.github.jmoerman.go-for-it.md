@@ -7,16 +7,62 @@ homepage: "http://manuel-kehl.de/projects/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/7B15D64AC344258DBAD2A7921F70A854/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.8.6
+  unix-timestamp: 1602028800
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>The option to pick themes is no longer shown when using the elementary Gtk3 theme as the &quot;Inherit from GTK
+
+    theme&quot; application theme doesn&apos;t look right in combination with this.</li>
+
+      <li>Arabic translations have been updated.</li>
+
+    </ul>
+- version: 1.8.4
+  unix-timestamp: 1601769600
+  description: |-
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>The shortcuts for moving tasks up or down now work correctly.</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>A symbolic icon variant has been added for both the logo and the checkmark icons.</li>
+
+      <li>Various translations have been updated (Arabic, Croatian, Dutch, French, German, Italian, Norwegian Bokmål, Slovak,
+
+    Turkish). (Most of the changes will not apply to this version, however.)</li> </ul>
+- version: 1.8.3
+  unix-timestamp: 1601078400
+  description: |-
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Fixed an issue that would cause the application to crash when clearing the description of a task.</li>
+
+      <li>Fixed several minor memory leaks.</li>
+
+    </ul>
 - version: 1.8.2
   unix-timestamp: 1600560000
   description: |-

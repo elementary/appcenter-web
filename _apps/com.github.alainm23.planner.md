@@ -7,17 +7,29 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/0C2767FFFAF920F03AF7FA9A18B01F77/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.5.3
+  unix-timestamp: 1602028800
+  description: |-
+    <p>Bug fixes and performance improvement</p>
+
+    <ul>
+
+      <li>Github #554 - Reschedule tasks correctly.</li>
+
+      <li>Fixed bug when dragging and dropping tasks between projects.</li>
+
+    </ul>
 - version: 2.5.1
   unix-timestamp: 1601596800
   description: |-
