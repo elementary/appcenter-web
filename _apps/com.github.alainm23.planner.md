@@ -7,17 +7,35 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/5368FAF2B94596D552FDFFC5A0E255FC/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.5.4
+  unix-timestamp: 1602460800
+  description: |-
+    <p>Bug fixes and performance improvement</p>
+
+    <ul>
+
+      <li>New Quick Find button position.</li>
+
+      <li>Github #565 - Fixing error when displaying the project name.</li>
+
+      <li>Github #563 - Fixing error when moving a task to the end of the list.</li>
+
+      <li>Github #559 #415 - Enabled click to see full details of a completed task.</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.5.3
   unix-timestamp: 1602028800
   description: |-

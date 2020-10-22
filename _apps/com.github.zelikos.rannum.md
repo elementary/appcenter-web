@@ -7,18 +7,34 @@ homepage: "https://github.com/zelikos/rannum"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/64x64/com.github.zelikos.rannum_com.github.zelikos.rannum.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/128x128/com.github.zelikos.rannum_com.github.zelikos.rannum.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/63310FA3AEC39EA05515FB85EA03056A/icons/64x64@2/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/icons/64x64/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/icons/128x128/com.github.zelikos.rannum_com.github.zelikos.rannum.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/zelikos.rannum/52F06D9D6144F4EE71BEA437C2173113/icons/64x64@2/com.github.zelikos.rannum_com.github.zelikos.rannum.png
 color:
   primary: "#a56de2"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.2.2
+  unix-timestamp: 1602288000
+  description: |-
+    <p>Visual Tweaks and Backend Stuff</p>
+
+    <ul>
+
+      <li>Fixed spacing of the combo-button and number display</li>
+
+      <li>Header styling adjusted</li>
+
+      <li>Prep for elementary OS 6 support</li>
+
+      <li>Code cleanups</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1597968000
   description: |-

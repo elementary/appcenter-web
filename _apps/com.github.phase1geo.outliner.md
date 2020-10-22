@@ -7,18 +7,54 @@ homepage: "https://github.com/phase1geo/Outliner"
 help_page: "https://github.com/phase1geo/Outliner/wiki"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/64x64/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/128x128/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/64x64@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/90E89B2BA1AC16A7B011A4A587931564/icons/128x128@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/icons/64x64/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/icons/128x128/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/icons/64x64@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.outliner/EAD49B5FB348B8A1CDD630B0E2D9C236/icons/128x128@2/com.github.phase1geo.outliner_com.github.phase1geo.outliner.png
 color:
   primary: "#D48E15"
   primary-text: "#000000"
 price: 10
 releases:
+- version: 1.4.0
+  unix-timestamp: 1602806400
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added menu accelerators for Export, Print and Shortcut Cheatsheet menu items.</li>
+
+      <li>Added support for showing notifications after export completes.</li>
+
+      <li>Added support for Menu or Shift-F10 keyboard shortcut for showing contextual menu.</li>
+
+      <li>Added support for displaying main rows without text as blank rows.</li>
+
+      <li>Added support for joining two rows.</li>
+
+      <li>Added support for hiding header bar and tab bar for focused writing mode.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Dutch translation (thanks to Heimen Stoffels).</li>
+
+      <li>Improved look of menu accelerators.</li>
+
+      <li>Changing behavior of row split.</li>
+
+      <li>Updated shortcut cheatsheet.</li>
+
+      <li>Adding top margin to document for improved readability.</li>
+
+    </ul>
 - version: 1.3.0
   unix-timestamp: 1596326400
   description: |-

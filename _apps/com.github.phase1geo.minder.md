@@ -7,19 +7,43 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C5767701120ABA97A3FC16B29CE10666/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.11.3
+  unix-timestamp: 1602806400
+  description: |-
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Italian translation (thanks to Albano Battistella).</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed application crash issues due to using custom themes.</li>
+
+      <li>Added missing theme colors in custom theme pane.</li>
+
+      <li>Fixed issues with application crash when editing a root node.</li>
+
+      <li>Fixed issue with filepath parser highlighting normal text that contains slash characters.</li>
+
+    </ul>
 - version: 1.11.1
   unix-timestamp: 1600992000
   description: |-
@@ -479,19 +503,17 @@ releases:
 
       <li>When a new document is first saved, the first root node text is used as the default filename.</li>
 
-      <li>Added multi-select support which includes:
+      <li>Added multi-select support which includes:  Changing styles; Copy, cut, paste and delete support; Connect two
 
-                Changing stylesCopy, cut, paste and delete supportConnect two selected nodesCreate node links between two
+    selected nodes;
 
-    or more selected nodesFold/unfold selected nodes</li>
+                Create node links between two or more selected nodes; and Fold/unfold selected nodes.</li>
 
       <li>Added support for URLs in node titles.</li>
 
-      <li>Added support for Markdown within a note
+      <li>Added support for Markdown within a note:  Notes are syntax highlighted; and Embedded URLs can be opened by Control-Clicking
 
-                Notes are syntax highlightedEmbedded URLs can be opened by Control-Clicking on them</li>
-
-    </ul>
+    on them.</li> </ul>
 
     <p>Changes</p>
 
