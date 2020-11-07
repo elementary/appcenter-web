@@ -7,20 +7,36 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/99C617C4B62B531553A19A4744869887/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/71B1D69CC6E4CE85B5FFC09DBBC88E6D/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.5.0
+  unix-timestamp: 1604534400
+  description: |-
+    <ul>
+
+      <li>Added search of Snippets in main window.</li>
+
+      <li>Added last used Snippets shown first in Search and Paste window.</li>
+
+      <li>Added shortcuts for main window actions such as Add Snippet (Ctrl+n).</li>
+
+      <li>Added support for system Light and Dark appearance preference.</li>
+
+      <li>Improved theming of window controls to be more consistent with system.</li>
+
+    </ul>
 - version: 1.4.1
   unix-timestamp: 1599004800
   description: |-

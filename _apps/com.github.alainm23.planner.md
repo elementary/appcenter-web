@@ -7,17 +7,43 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E8C85614F00813E8A3751124E6C7EAE1/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.5.7
+  unix-timestamp: 1603670400
+  description: |-
+    <p>Bug fixes and performance improvement</p>
+
+    <ul>
+
+      <li>Github #577 - Fixed recurring tasks.</li>
+
+      <li>Updated translations.</li>
+
+    </ul>
+- version: 2.5.6
+  unix-timestamp: 1603411200
+  description: |-
+    <p>Bug fixes and performance improvement</p>
+
+    <ul>
+
+      <li>Github #575 - Homepage was fixed.</li>
+
+      <li>Github #336 - The option to change the text size was added.</li>
+
+      <li>Updated translations.</li>
+
+    </ul>
 - version: 2.5.4
   unix-timestamp: 1602460800
   description: |-

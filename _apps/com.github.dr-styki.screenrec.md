@@ -7,19 +7,31 @@ homepage: "https://github.com/dr-Styki/ScreenRec"
 help_page: "https://github.com/dr-Styki/ScreenRec/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/icons/64x64/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/icons/128x128/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/29C2AEF6C274C7DC80E5A19FB28FF6DE/icons/64x64@2/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/64x64/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/128x128/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/64x64@2/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 2.2.1
+  unix-timestamp: 1599609600
+  description: |-
+    <ul>
+
+      <li>Twitter now accept videos recorded by ScreenRec</li>
+
+      <li>Add Dutch translation thanks to Heimen Stoffels (Vistaus)</li>
+
+      <li>Add Russian translation thanks to nick87720z</li>
+
+    </ul>
 - version: 2.2.0
   unix-timestamp: 1599609600
   description: |-

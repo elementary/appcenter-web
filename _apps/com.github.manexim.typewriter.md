@@ -7,18 +7,98 @@ homepage: "https://github.com/manexim"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/icons/64x64/com.github.manexim.typewriter_com.github.manexim.typewriter.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/icons/128x128/com.github.manexim.typewriter_com.github.manexim.typewriter.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/01FC1ADCB2F42746B492C01E0C26426A/icons/64x64@2/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/icons/64x64/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/icons/128x128/com.github.manexim.typewriter_com.github.manexim.typewriter.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.typewriter/3BF5B82E94F054A3E1F94013D48A1835/icons/64x64@2/com.github.manexim.typewriter_com.github.manexim.typewriter.png
 color:
   primary: "#fafafa"
   primary-text: "#333"
 price: 5
 releases:
+- version: 0.4.3
+  unix-timestamp: 1603584000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Fix typo in name of translator</li>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+      <li>Italian (by mirkobrombin)</li>
+
+      <li>Spanish (by onerbs)</li>
+
+      <li>Dutch (by Vistaus)</li>
+
+      <li>Russian (by logdimov)</li>
+
+    </ul>
+- version: 0.4.2
+  unix-timestamp: 1603584000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Improved:</p>
+
+    <ul>
+
+      <li>Update translations</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+    </ul>
+
+    <p>Translations:</p>
+
+    <ul>
+
+      <li>French (by NathanBnm)</li>
+
+      <li>German (by meisenzahl)</li>
+
+      <li>Italian (by mirkobrombin)</li>
+
+      <li>Spanish (by onerbs)</li>
+
+      <li>Dutch (by Vistaus)</li>
+
+      <li>Russian (by logdimov)</li>
+
+    </ul>
 - version: 0.4.1
   unix-timestamp: 1599177600
   description: |-
@@ -54,7 +134,7 @@ releases:
 
       <li>Spanish (by onerbs)</li>
 
-      <li>Dutch (by Vistausk)</li>
+      <li>Dutch (by Vistaus)</li>
 
     </ul>
 - version: 0.4.0
