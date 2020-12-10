@@ -3,20 +3,92 @@ app_id: com.github.jmoerman.go-for-it
 title: "Go For It!"
 summary: "A stylish to-do list with built-in productivity timer"
 developer: "The Go For It! developers"
-homepage: "http://manuel-kehl.de/projects/go-for-it/"
+homepage: "https://jmoerman.github.io/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/519423B8BE55DCDD3606F59CCFAC6C35/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.9.0
+  unix-timestamp: 1607472000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>It is now possible to manually select todo.txt files for the task lists instead of selecting the folder to store
+
+    those in. It is now also no longer necessary to have a separate todo.txt file for archiving completed tasks.</li>
+
+      <li>For each list, it is now possible to select a CSV file to log your activity to.</li>
+
+      <li>When logging activity to a new CSV file a header describing the column contents is added.</li>
+
+      <li>Go For It! can now play a sound when it is time to take a break or when it is time to start working again.</li>
+
+      <li>Go For It! now supports plugins. The plugins that are currently available are 2 plugins to show the remaining
+
+    time: one for panels supporting Ayatana appindicators and another for docks/launchers supporting the LauncherEntry API.</li>
+
+      <li>Most tooltips now include the shortcut alternative to clicking the widget.</li>
+
+      <li>The option to select an application stylesheet has been removed. The automatically selected stylesheet should
+
+    work for all reasonable Gtk+ 3.0 themes.</li>
+
+      <li>The layout of the settings dialogs has been improved.</li>
+
+      <li>Baselines are now taken into account when aligning the tasks.</li>
+
+      <li>Moving tasks around using drag-and-drop now looks better. The point at which the task would be inserted is now
+
+    shown by reserving space for that task instead of just showing a stripe between the 2 rows where it would get inserted.</li> </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Popovers now use the same margins as GNOME apps if not targetting elementary OS.</li>
+
+      <li>Some popover styling issues that occurred when using one of the io.elementary.stylesheet.* Gtk themes have been
+
+    fixed.</li>
+
+      <li>CSV output is no longer separated by both a comma and space, but just by commas.</li>
+
+      <li>The menu entries for sorting tasks or clearing the list of completed tasks is now only shown if a task list is
+
+    shown.</li> </ul>
+- version: 1.8.7
+  unix-timestamp: 1606003200
+  description: |-
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>The placeholder tasks shown when creating a new list for the first time are no longer invisible.</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>The default application stylesheet is now by default determined at runtime. The minimal &quot;Inherit from GTK
+
+    theme&quot; stylesheet will now be used when a theme other than Adwaita or elementary is used.</li>
+
+      <li>A large number of translations have been updated. New translations include Danish and Hebrew.</li>
+
+    </ul>
 - version: 1.8.6
   unix-timestamp: 1602028800
   description: |-

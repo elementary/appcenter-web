@@ -7,16 +7,36 @@ homepage: "https://github.com/lainsce/palaura/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/5C002768525211937EBCB0CCD72EFBBA/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/6DEE86F927DA71B920521DBB461D2D51/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/5C002768525211937EBCB0CCD72EFBBA/icons/64x64/com.github.lainsce.palaura_com.github.lainsce.palaura.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/5C002768525211937EBCB0CCD72EFBBA/icons/128x128/com.github.lainsce.palaura_com.github.lainsce.palaura.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/5C002768525211937EBCB0CCD72EFBBA/icons/64x64@2/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/6DEE86F927DA71B920521DBB461D2D51/icons/64x64/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/6DEE86F927DA71B920521DBB461D2D51/icons/128x128/com.github.lainsce.palaura_com.github.lainsce.palaura.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/6DEE86F927DA71B920521DBB461D2D51/icons/64x64@2/com.github.lainsce.palaura_com.github.lainsce.palaura.png
 color:
   primary: "#ddbdbd"
   primary-text: "#333333"
 price: 8
 releases:
+- version: 1.5.1
+  unix-timestamp: 1606694400
+  description: |-
+    <p>Release: Change of APIs</p>
+
+    <ul>
+
+      <li>Changes: New API based on Google Dictionary, should be more stable.</li>
+
+    </ul>
+- version: 1.5.0
+  unix-timestamp: 1606435200
+  description: |-
+    <p>Release: Change of APIs</p>
+
+    <ul>
+
+      <li>Changes: New API based on Google Dictionary, should be more stable.</li>
+
+    </ul>
 - version: 1.2.1
   unix-timestamp: 1587686400
   description: |-

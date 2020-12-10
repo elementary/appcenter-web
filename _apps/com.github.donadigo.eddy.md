@@ -7,18 +7,58 @@ homepage: "https://github.com/donadigo/eddy"
 help_page: "https://github.com/donadigo/eddy"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/38B135CC08E6036428A2C1C8FA6B40BE/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/icons/64x64/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/icons/128x128/com.github.donadigo.eddy_com.github.donadigo.eddy.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.eddy/090625F15DE0228415D57CEAC2CE5B19/icons/64x64@2/com.github.donadigo.eddy_com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"
 price: 5
 releases:
+- version: 1.3.0
+  unix-timestamp: 1607040000
+  description: |-
+    <p>This release adds new features and translations to Eddy and prepares the transition to elementary OS 6.0.</p>
+
+    <p>You can now view previously installed apps.</p>
+
+    <ul>
+
+      <li>The option will appear in the welcome screen if you&apos;ve previously installed any apps.</li>
+
+      <li>You can also view the installed date in the details view of a package if it has one.</li>
+
+      <li>This history can be managed through the builtin Security &amp; Privacy settings in elementary OS.</li>
+
+    </ul>
+
+    <p>Other additions:</p>
+
+    <ul>
+
+      <li>Eddy will now show a warning icon if something is blocking currently ongoing operations in the app.</li>
+
+      <li>Preparation for elementary OS 6.0 styling changes (Cassidy James)</li>
+
+      <li>It is now possible to translate metadata of Eddy (Ryo Nakano)</li>
+
+    </ul>
+
+    <p>New translations:</p>
+
+    <ul>
+
+      <li>Simplified Chinese (colindemian)</li>
+
+      <li>Italian (Mirko Brombin)</li>
+
+      <li>Polish (tosziro)</li>
+
+    </ul>
 - version: 1.2.2
   unix-timestamp: 1587081600
   description: |-
@@ -257,5 +297,6 @@ redirect_from:
   <li>Install multiple packages at once</li>
   <li>Upgrade and downgrade existing packages</li>
   <li>Load all packages automatically from your Downloads folder</li>
+  <li>View history of previosly installed apps</li>
   <li>Complete system integration including notifications and progress bar in the dock</li>
 </ul>

@@ -7,20 +7,68 @@ homepage: "https://github.com/treagod/spectator"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/27C0BA4C09FE0830052D63C13CF33492/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/icons/64x64/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 6
 releases:
+- version: 0.5.6
+  unix-timestamp: 1605484800
+  description: |-
+    <p>Use $XDG_DATA_HOME for database path</p>
+- version: 0.5.5
+  unix-timestamp: 1605312000
+  description: |-
+    <p>Description fix</p>
+- version: 0.5.4
+  unix-timestamp: 1605312000
+  description: |-
+    <p>Fix a bug where a plain response would cause an error</p>
+- version: 0.5.3
+  unix-timestamp: 1605139200
+  description: |-
+    <p>Update dependency</p>
+- version: 0.5.2
+  unix-timestamp: 1605139200
+  description: |-
+    <p>Update dependency</p>
+- version: 0.5.1
+  unix-timestamp: 1605139200
+  description: |-
+    <p>Description Update</p>
+- version: 0.5.0
+  unix-timestamp: 1605139200
+  description: |-
+    <p>Spectator 0.5.0 introduces 2 changes to the UI</p>
+
+    <p>Drag &amp; Drop for Requests in the sidebar</p>
+
+    <p>Redesigned response view selection</p>
+
+    <ul>
+
+      <li>The seleceted response view will now be cached per response</li>
+
+    </ul>
+- version: 0.4.3
+  unix-timestamp: 1599696000
+  description: |-
+    <p>AppCenter Fix</p>
+
+    <ul>
+
+      <li>Spectator will now be displayed correctly in AppCenter once again.</li>
+
+    </ul>
 - version: 0.4.1
   unix-timestamp: 1569801600
   description: |-
@@ -44,25 +92,37 @@ releases:
   description: |-
     <p>Introduction of request collections</p>
 
+    <p>Added collection and history view in sidebar</p>
+
     <ul>
 
-      <li>Added collection and history view in sidebar
+      <li>Requests can now be grouped into collections</li>
 
-                Requests can now be grouped into collectionsEach request will be saved in a seperate history</li>
-
-      <li>Added keyboard shortcuts
-
-                Ctlr+n: Create a new requestCtlr+Shift+n: Create a new collectionCtlr+l: Switch to collection view in sidebarCtlr+h:
-
-    Switch to history view in sidebarCtlr+,: Open settings dialog</li>
-
-      <li>Sidebar is now resizable</li>
-
-      <li>WebKit will now be lazy-loaded</li>
-
-      <li>Added more translations</li>
+      <li>Each request will be saved in a seperate history</li>
 
     </ul>
+
+    <p>Added keyboard shortcuts</p>
+
+    <ul>
+
+      <li>Ctlr+n: Create a new request</li>
+
+      <li>Ctlr+Shift+n: Create a new collection</li>
+
+      <li>Ctlr+l: Switch to collection view in sidebar</li>
+
+      <li>Ctlr+h: Switch to history view in sidebar</li>
+
+      <li>Ctlr+,: Open settings dialog</li>
+
+    </ul>
+
+    <p>Sidebar is now resizable</p>
+
+    <p>WebKit will now be lazy-loaded</p>
+
+    <p>Added more translations</p>
 - version: 0.3.1
   unix-timestamp: 1559088000
   description: |-

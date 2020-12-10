@@ -7,35 +7,41 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/E8E43E5C8280AEBEA17782F3CF9A3F2B/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
-- version: 1.3.10
-  unix-timestamp: 1602288000
+- version: 1.5.0
+  unix-timestamp: 1607126400
   description: |-
-    <p>New and updated languages</p>
+    <p>Download any photo in your file system</p>
 
     <ul>
 
-      <li>Croatian by Milo Ivir</li>
+      <li>Click on share photo to find the download option.</li>
 
-      <li>Italian by Albano Battistella</li>
+      <li>Updated translation for Italian, Dutch, and German languages.</li>
 
-      <li>Portuguese Portugal by André Barata</li>
+    </ul>
+- version: 1.4.0
+  unix-timestamp: 1605398400
+  description: |-
+    <p>Wallpaper slideshow!</p>
 
-      <li>Brazilian Portuguese by costaht</li>
+    <ul>
+
+      <li>Select a set of photos to create the most beautiful wallpaper slideshow on your desktop.</li>
 
     </ul>
 - version: 1.3.9
@@ -267,9 +273,11 @@ redirect_from:
 <p>Have a minimalist, simple and elegant interface, additionally, you can change from light mode to dark mode as you prefer.</p>
 <p>Main features:</p>
 <ul>
-  <li>🌀️ To infinity and beyond!: Use the infinite scroll to load more photos</li>
-  <li>🖼️ Find out what you like: Search by categories or type in the search bar</li>
-  <li>🕚️ Keep your favorite photos with you: Every new wallpaper is saved in the history</li>
-  <li>📬️ Share with your friends: Select a variety of options for sharing an Unsplash link to the photo</li>
-  <li>🔄️ Filter by orientation: Portrait, Landscape or Any</li>
+  <li>🌠️ To infinity and beyond!: Use the infinite scroll to load more photos.</li>
+  <li>🔍️ Find out what you like: Search by categories or type in the search bar.</li>
+  <li>🕒️ Keep your favorite photos with you: Every new wallpaper is saved in the history.</li>
+  <li>📬️ Share with your friends: Select a variety of options for sharing an Unsplash link to the photo.</li>
+  <li>🔄️ Filter by orientation: Portrait, Landscape or Any.</li>
+  <li>🖼️ Create an amazing slideshow on your desktop by selecting your favorites photos.</li>
+  <li>🔽️ Download any photo you like.</li>
 </ul>
