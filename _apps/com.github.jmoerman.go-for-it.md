@@ -7,16 +7,56 @@ homepage: "https://jmoerman.github.io/go-for-it/"
 help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/AD11A566D34188787204D1209FD05369/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/0355F6F478D6D3A814A35124ACCCBDBE/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/AD11A566D34188787204D1209FD05369/icons/64x64/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/AD11A566D34188787204D1209FD05369/icons/128x128/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/AD11A566D34188787204D1209FD05369/icons/64x64@2/com.github.jmoerman.go-for-it_com.github.jmoerman.go-for-it.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
 price: 0
 releases:
+- version: 1.9.2
+  unix-timestamp: 1615161600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Added a keyboard shortcut (Ctrl + Q) to close the application.</li>
+
+    </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>Go For It! would give an error when trying to save a todo.txt list on an SMB share. Go For It! still won&apos;t
+
+    let you pick such a file as it cannot mount SMB shares itself.</li> </ul>
+- version: 1.9.1
+  unix-timestamp: 1613952000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>For each list, You can now select wether you would like to log creation dates to the todo.txt files.</li>
+
+      <li>It should now be easier to edit list properties for touchscreen users.</li>
+
+    </ul>
+
+    <p>Bugfixes:</p>
+
+    <ul>
+
+      <li>At startup the &quot;return to list&quot; (-&gt;) button could use the wrong icon, depending on the icon theme.</li>
+
+      <li>The menu button would be blurry on Adwaita.</li>
+
+    </ul>
 - version: 1.9.0
   unix-timestamp: 1607472000
   description: |-
@@ -359,4 +399,3 @@ redirect_from:
 
 <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.</p>
 <p>To-do lists are stored in the Todo.txt format. This simplifies synchronization with mobile devices and makes it possible to edit tasks using other front-ends.</p>
-<p>If you already use Todo.txt, beware of the fact, that Go For It! automatically archives completed tasks to the done list!</p>

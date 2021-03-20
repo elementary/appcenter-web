@@ -3,23 +3,35 @@ app_id: com.github.alcinnz.odysseus
 title: "Odysseus web browser"
 summary: "A simple and performant yet powerful window onto the open decentralized web"
 developer: "Adrian Cochrane"
-homepage: "https://alcinnz.github.io/Odysseus"
-help_page: "https://alcinnz.github.io/Odysseus-support"
+homepage: "https://odysseus.adrian.geek.nz/"
+help_page: "https://odysseus.adrian.geek.nz/guide.html"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/4A2E11752D748C44C713BAB917660A6F/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/icons/64x64/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/icons/128x128/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alcinnz.odysseus/8179D0BC65A742B3DE5D84A720FC1499/icons/64x64@2/com.github.alcinnz.odysseus_com.github.alcinnz.odysseus.png
 color:
   primary: "#57d5a9"
   primary-text: "#000"
 price: 1
 releases:
+- version: 1.7.3
+  unix-timestamp: 1614470400
+  description: |-
+    <p>Add vertical tabs</p>
+
+    <p>Enable WebKitGTK web extensions</p>
+
+    <p>Replace link promoting webfeeds</p>
+- version: 1.7.2
+  unix-timestamp: 1612224000
+  description: |-
+    <p>Fix crash on Manjaro</p>
 - version: 1.7.1
   unix-timestamp: 1600905600
   description: |-
@@ -208,8 +220,6 @@ releases:
   unix-timestamp: 1514505600
   description: |-
     <p>Disable broken WebInspector for now.</p>
-
-    <p>If you have the know-how to fix https://github.com/alcinnz/Odysseus/issues/54, please help.</p>
 - version: 1.0.4
   unix-timestamp: 1513987200
   description: |-

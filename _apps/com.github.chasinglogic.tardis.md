@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#4c158a"
   primary-text: "#fff"
-price: 5
+price: 0
 releases:
 - version: v1.2.1
   unix-timestamp: 1582934400
