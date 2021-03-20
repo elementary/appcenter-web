@@ -7,17 +7,71 @@ homepage: "https://planner-todo.web.app"
 help_page: "https://www.patreon.com/alainm23"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/E921DCC01984873CF5823CE3C24D6BDE/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/icons/64x64/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/icons/128x128/com.github.alainm23.planner_com.github.alainm23.planner.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/icons/64x64@2/com.github.alainm23.planner_com.github.alainm23.planner.png
 color:
   primary: "#ffffff"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 2.6.3
+  unix-timestamp: 1609200000
+  description: |-
+    <p>Merry Christmas everyone, Planner 2.6 is here.</p>
+
+    <ul>
+
+      <li>Github #647 - The error when installing from AppCenter was solved.</li>
+
+      <li>Updated translations.</li>
+
+    </ul>
+- version: 2.6.2
+  unix-timestamp: 1608940800
+  description: |-
+    <p>Merry Christmas everyone, Planner 2.6 is here.</p>
+
+    <ul>
+
+      <li>Github #640 - The labels don&apos;t appear in both the sidebar and the settings.</li>
+
+      <li>Github #641 - The project description.</li>
+
+      <li>Updated translations..</li>
+
+    </ul>
+- version: 2.6.1
+  unix-timestamp: 1608768000
+  description: |-
+    <p>Merry Christmas everyone, Planner 2.6 is here.</p>
+
+    <ul>
+
+      <li>New Board View.</li>
+
+      <li>Sub-project is here.</li>
+
+      <li>Quick Search now saves your last searches, so you can hop around without even typing.</li>
+
+      <li>Added new Tomorrow view to Quick Search.</li>
+
+      <li>Now it is possible to search between Sections.</li>
+
+      <li>Added a new view in Preferences to edit task defaults.</li>
+
+      <li>It is now possible to filter the tasks within a project by labels.</li>
+
+      <li>Labels have been added in the sidebar to make the use of filter by labels much faster.</li>
+
+      <li>It is now possible to sort the position Inbox, Today and Upcoming by Drag and Drop.</li>
+
+      <li>A giant code cleanup was done and resource usage was improved. Now Planner is faster and works much better.</li>
+
+    </ul>
 - version: 2.5.7
   unix-timestamp: 1603670400
   description: |-

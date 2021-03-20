@@ -7,19 +7,35 @@ homepage: "https://github.com/sergius02/QRit"
 help_page: "https://github.com/sergius02/QRit/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/icons/64x64/com.github.sergius02.qrit_com.github.sergius02.qrit.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/icons/128x128/com.github.sergius02.qrit_com.github.sergius02.qrit.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/BF10A74979B82F91AAF6C7421C6B592F/icons/64x64@2/com.github.sergius02.qrit_com.github.sergius02.qrit.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/icons/64x64/com.github.sergius02.qrit_com.github.sergius02.qrit.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/icons/128x128/com.github.sergius02.qrit_com.github.sergius02.qrit.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/icons/64x64@2/com.github.sergius02.qrit_com.github.sergius02.qrit.png
 color:
   primary: "#C1FFA5"
   primary-text: "rgb(0,60,210)"
 price: 0
 releases:
+- version: 1.1.3
+  unix-timestamp: 1607990400
+  description: |-
+    <ul>
+
+      <li>🐛 Bug Fix</li>
+
+    </ul>
+- version: 1.1.1
+  unix-timestamp: 1605657600
+  description: |-
+    <ul>
+
+      <li>🌐 Added russian translate, thanks to Dmitry Logvinov (@logdimov)</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1602201600
   description: |-
@@ -42,6 +58,5 @@ redirect_from:
   - /com.github.sergius02.qrit.desktop/
 ---
 
-<p>Create awesome QR codes with QRit!</p>
-<p>With QRit you can create awesome QR codes, you can change the background and foreground color to help you integrate them in any place.</p>
-<p>This application use the incredible qrencode</p>
+<p>With QRit you can create custom QR codes!. You can change the background and foreground color to help you integrate them in any place.</p>
+<p>This application use the incredible qrencode.</p>

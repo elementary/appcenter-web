@@ -7,21 +7,47 @@ homepage: "https://github.com/calo001/fondo"
 help_page: "https://github.com/calo001/fondo/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/3ACD3CA0E1403CA3993AFD0B2A665D89/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/icons/64x64/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/icons/128x128/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/icons/64x64@2/com.github.calo001.fondo_com.github.calo001.fondo.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.fondo/0C80BE126C646DDF92A8345A01A47F2A/icons/128x128@2/com.github.calo001.fondo_com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 1.5.2
+  unix-timestamp: 1615593600
+  description: |-
+    <p>Updates and fixes</p>
+
+    <ul>
+
+      <li>Fix #140 Images not downloading.</li>
+
+      <li>New languages and updates.</li>
+
+    </ul>
+- version: 1.5.1
+  unix-timestamp: 1607644800
+  description: |-
+    <p>Updates and fixes</p>
+
+    <ul>
+
+      <li>Fix warnings of parsing json.</li>
+
+      <li>Fix wallpaper overflow.</li>
+
+      <li>Show notification when a link is copied.</li>
+
+    </ul>
 - version: 1.5.0
   unix-timestamp: 1607126400
   description: |-

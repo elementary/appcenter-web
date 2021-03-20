@@ -7,18 +7,28 @@ homepage: "https://github.com/ryonakano/reco"
 help_page: "https://github.com/ryonakano/reco/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/DE4D0EDD534335672BDD2CCE846B0EEF/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
+- version: 2.4.2
+  unix-timestamp: 1609632000
+  description: |-
+    <ul>
+
+      <li>Inhibit sleeping while recording</li>
+
+      <li>Update Japanese translation</li>
+
+    </ul>
 - version: 2.4.1
   unix-timestamp: 1604102400
   description: |-

@@ -7,19 +7,31 @@ homepage: "https://github.com/sgpthomas/hourglass"
 help_page: "https://github.com/sgpthomas/hourglass/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/AD88050F9FC4801943067A9CB4F9C9BD/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/icons/64x64/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/icons/128x128/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/icons/64x64@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sgpthomas.hourglass/DBED397068CE0EE98233ACC1F430B786/icons/128x128@2/com.github.sgpthomas.hourglass_com.github.sgpthomas.hourglass.png
 color:
   primary: "#4ea87c"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 1.3.0
+  unix-timestamp: 1613520000
+  description: |-
+    <ul>
+
+      <li>Move the delete button in the action bar</li>
+
+      <li>Redesign app icons (big thanks to @Fatih20)</li>
+
+      <li>Update Brazilian Portuguese translation (by @gfavaro)</li>
+
+    </ul>
 - version: 1.2.3
   unix-timestamp: 1600300800
   description: |-

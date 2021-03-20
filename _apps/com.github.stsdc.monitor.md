@@ -7,17 +7,31 @@ homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E92E3DD11F7D4D984B700C82D8C8A612/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E92E3DD11F7D4D984B700C82D8C8A612/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E92E3DD11F7D4D984B700C82D8C8A612/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E92E3DD11F7D4D984B700C82D8C8A612/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/E92E3DD11F7D4D984B700C82D8C8A612/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
 color:
   primary: "#d7f4d7"
   primary-text: "#242d40"
 price: 0
 releases:
+- version: 0.9.2
+  unix-timestamp: 1607904000
+  description: |-
+    <ul>
+
+      <li>Display Storage usage</li>
+
+      <li>Update Russian translation (@camellan)</li>
+
+      <li>Update Portuguese translation (@hugok79)</li>
+
+      <li>Different colours for Upload and Download</li>
+
+    </ul>
 - version: 0.9.1
   unix-timestamp: 1599177600
   description: |-

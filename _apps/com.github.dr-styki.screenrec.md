@@ -7,19 +7,51 @@ homepage: "https://github.com/dr-Styki/ScreenRec"
 help_page: "https://github.com/dr-Styki/ScreenRec/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/64x64/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/128x128/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/4C43EAA3BCE1C39C388A5C26C806C601/icons/64x64@2/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/icons/64x64/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/icons/128x128/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/icons/64x64@2/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
+- version: 2.3.1
+  unix-timestamp: 1610496000
+  description: |-
+    <ul>
+
+      <li>Fix Cancel button color.</li>
+
+      <li>Use the right widget for shortcut tooltip.</li>
+
+      <li>Fix icon color in light/dark mode.</li>
+
+      <li>Add Romanian translation thanks to tiberiufrat.</li>
+
+      <li>Update Dutch translation by Vistaus.</li>
+
+    </ul>
+- version: 2.3.0
+  unix-timestamp: 1607385600
+  description: |-
+    <ul>
+
+      <li>Add keyboard shortcuts for pause/resume and stop buttons.</li>
+
+      <li>Add tooltip for pause/resume and stop buttons.</li>
+
+      <li>Add grab screen icon for elementary OS 6 dark mode.</li>
+
+      <li>Fix sound checkbox background for elementary OS 6.</li>
+
+      <li>Remove raw format.</li>
+
+    </ul>
 - version: 2.2.1
   unix-timestamp: 1599609600
   description: |-
