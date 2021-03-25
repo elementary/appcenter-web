@@ -7,19 +7,29 @@ homepage: "https://cassidyjames.com"
 help_page: "https://cassidyjames.com/support"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/8796190395852D2BC68678D914DA0732/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/icons/64x64/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/icons/128x128/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/icons/64x64@2/com.github.cassidyjames.ephemeral_com.github.cassidyjames.ephemeral.png
 color:
   primary: "#3b2a7d"
   primary-text: "#fff"
 price: 9
 releases:
+- version: 7.1.0
+  unix-timestamp: 1616630400
+  description: |-
+    <p>Automatically Open Sites Externally</p>
+
+    <p>You can now always open chosen sites externally, bypassing Ephemeral! On a page, open the &quot;Open page in…&quot; menu and check the new &quot;Automatically Open This Site Externally&quot;. Opening a link to that site will now open in your selected other browser instead of in Ephemeral; super handy for things like Twitter or GitHub where you always want to be logged in. To revert it, just open the site in Ephemeral and uncheck &quot;Automatically Open This Site Externally&quot; from the &quot;Open page in…&quot; menu.</p>
+
+    <p>Improved reliability of setting the window title; the title seen in the Dock menu or Multitasking View should now more reliably match the page&apos;s title, especially when updated with JavaScript.</p>
+
+    <p>Additional translations for new features will appear in future updates as translators have a chance to do their thing.</p>
 - version: 7.0.5
   unix-timestamp: 1610668800
   description: |-
@@ -673,10 +683,12 @@ redirect_from:
   <li>Search right from the URL bar</li>
   <li>Pick between privacy-respecting search engines from the menu</li>
   <li>Quickly disable or re-enable JavaScript from the menu</li>
+  <li>Choose to automatically open certain sites in another browser from the &quot;Open page in…&quot; menu</li>
 </ul>
 <p>Useful keyboard shortcuts and gestures:</p>
 <ul>
   <li>Navigate back or forward with a two-finger swipe on your trackpad</li>
+  <li>Open page in another browser with Ctrl+O</li>
   <li>Add a website to the URL suggestions with the ⭐️ icon or Ctrl+D</li>
   <li>Find text on the page with Ctrl+F</li>
   <li>Zoom in or out with Ctrl+Plus and Ctrl+Minus</li>

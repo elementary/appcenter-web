@@ -7,14 +7,26 @@ homepage: "https://github.com/artemanufrij/regextester"
 help_page: "https://github.com/artemanufrij/regextester/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/8DB22FC9A192BF71ED63F856340AE4D0/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/1E2409C94C9968E00618D74EB9167ED7/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/8DB22FC9A192BF71ED63F856340AE4D0/icons/64x64/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/1E2409C94C9968E00618D74EB9167ED7/icons/64x64/com.github.artemanufrij.regextester_com.github.artemanufrij.regextester.png
 color:
   primary: "#3a9104"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.1.1
+  unix-timestamp: 1616544000
+  description: |-
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Crash when press &apos;0&apos;</li>
+
+      <li>Some improvements by Nathan Bonnemains</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1563321600
   description: |-

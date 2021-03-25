@@ -7,17 +7,47 @@ homepage: "https://artemanufrij.github.io"
 help_page: "https://github.com/artemanufrij/webpin/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/2736F4F6434DEECF77AC5660CC59B69F/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/icons/64x64/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/icons/128x128/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/icons/64x64@2/com.github.artemanufrij.webpin_com.github.artemanufrij.webpin.png
 color:
   primary: "#399cd2"
   primary-text: "rgb(255,255,255)"
 price: 1
 releases:
+- version: 1.0.5
+  unix-timestamp: 1616544000
+  description: |-
+    <p>New:</p>
+
+    <ul>
+
+      <li>Gesture navigation (by Cassidy James Blaede)</li>
+
+    </ul>
+
+    <p>Fixed:</p>
+
+    <ul>
+
+      <li>Crash when press &apos;0&apos;</li>
+
+      <li>Some improvements by Nathan Bonnemains</li>
+
+    </ul>
+
+    <p>Translation:</p>
+
+    <ul>
+
+      <li>Polish (by Michał Nowakowski)</li>
+
+      <li>French (by Nathan Bonnemains)</li>
+
+    </ul>
 - version: 1.0.4
   unix-timestamp: 1563148800
   description: |-
