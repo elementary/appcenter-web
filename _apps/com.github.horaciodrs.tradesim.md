@@ -7,18 +7,26 @@ homepage: "https://github.com/horaciodrs/TradeSim"
 help_page: "https://github.com/horaciodrs/TradeSim/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/icons/64x64/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/icons/128x128/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/5928746AAD5D26C109669716BC32CE45/icons/64x64@2/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/icons/64x64/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/icons/128x128/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/icons/64x64@2/com.github.horaciodrs.tradesim_com.github.horaciodrs.tradesim.png
 color:
-  primary: "#d48e15"
+  primary: "#fff394"
   primary-text: "#ad5f00"
 price: 0
 releases:
+- version: 2021.4.1
+  unix-timestamp: 1617235200
+  description: |-
+    <p>General code improvements</p>
+
+    <p>GBPUSD quotes added</p>
+
+    <p>MACD Indicator added</p>
 - version: 2021.3.1
   unix-timestamp: 1614556800
   description: |-
