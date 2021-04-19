@@ -4,21 +4,59 @@ title: "Reco"
 summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
 homepage: "https://github.com/ryonakano/reco"
-help_page: "https://github.com/ryonakano/reco/issues"
+help_page: "https://github.com/ryonakano/reco/discussions"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/17BAD7170770BC22D38D147183AF9A0B/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/icons/64x64/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/icons/128x128/com.github.ryonakano.reco_com.github.ryonakano.reco.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/icons/64x64@2/com.github.ryonakano.reco_com.github.ryonakano.reco.png
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
 price: 0
 releases:
+- version: 2.4.5
+  unix-timestamp: 1618272000
+  description: |-
+    <ul>
+
+      <li>Update Dutch translation (thanks to @Vistaus)</li>
+
+      <li>Revert another change done in version 2.4.3 that potentially caused an error during the packaging process</li>
+
+      <li>Revive the change that had been reverted in version 2.4.4</li>
+
+    </ul>
+- version: 2.4.4
+  unix-timestamp: 1618272000
+  description: |-
+    <ul>
+
+      <li>Revert changes done in version 2.4.3 that potentially caused an error during the packaging process</li>
+
+    </ul>
+- version: 2.4.3
+  unix-timestamp: 1618272000
+  description: |-
+    <ul>
+
+      <li>MainWindow: Readable copy for dialog messages</li>
+
+      <li>MainWindow: Add window title for the new Gala feature that shows windows titles in Multitasking view</li>
+
+      <li>Add Italian translation (thanks to @albanobattistella)</li>
+
+      <li>Add Portuguese translation (thanks to @hugok79)</li>
+
+      <li>Update Japanese translation</li>
+
+      <li>Clean code</li>
+
+    </ul>
 - version: 2.4.2
   unix-timestamp: 1609632000
   description: |-

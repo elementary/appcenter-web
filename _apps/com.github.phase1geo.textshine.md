@@ -7,18 +7,20 @@ homepage: "https://github.com/phase1geo/TextShine"
 help_page: "https://github.com/phase1geo/TextShine/wiki"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/icons/64x64/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/icons/128x128/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/icons/64x64@2/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
-  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/40F56A1F9EC403D4B895932017B99651/icons/128x128@2/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/icons/64x64/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/icons/128x128/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/icons/64x64@2/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
+  "128@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/icons/128x128@2/com.github.phase1geo.textshine_com.github.phase1geo.textshine.png
 color:
   primary: "#fff394"
   primary-text: "#000000"
 price: 5
 releases:
+- version: 1.0.1
+  unix-timestamp: 1618099200
 - version: 1.0.0
   unix-timestamp: 1606608000
   description: |-

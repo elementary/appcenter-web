@@ -4,19 +4,33 @@ title: "KonbuCase"
 summary: "Convert case in your text"
 developer: "Ryo Nakano"
 homepage: "https://github.com/ryonakano/konbucase"
-help_page: "https://github.com/ryonakano/konbucase/issues"
+help_page: "https://github.com/ryonakano/konbucase/discussions"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/DC872B5F32501EB742B03453DF77A0D9/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/56D753828BD4B26AD09A89E012C39696/screenshots/image-1_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/DC872B5F32501EB742B03453DF77A0D9/icons/64x64/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/DC872B5F32501EB742B03453DF77A0D9/icons/128x128/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/DC872B5F32501EB742B03453DF77A0D9/icons/64x64@2/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/56D753828BD4B26AD09A89E012C39696/icons/64x64/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/56D753828BD4B26AD09A89E012C39696/icons/128x128/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.konbucase/56D753828BD4B26AD09A89E012C39696/icons/64x64@2/com.github.ryonakano.konbucase_com.github.ryonakano.konbucase.png
 color:
   primary: "#fafafa"
   primary-text: "#000000"
 price: 0
 releases:
+- version: 3.1.0
+  unix-timestamp: 1618272000
+  description: |-
+    <ul>
+
+      <li>Support Sentence case</li>
+
+      <li>Add Turkish translation (thanks to @safak45x)</li>
+
+      <li>Update Japanese translation</li>
+
+      <li>Clean code</li>
+
+    </ul>
 - version: 3.0.0
   unix-timestamp: 1598572800
   description: |-
