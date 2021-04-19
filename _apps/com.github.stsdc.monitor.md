@@ -7,17 +7,31 @@ homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/48776A12C26DAF6FA1AF8B2E2D82F2DB/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
 color:
   primary: "#d7f4d7"
   primary-text: "#242d40"
 price: 0
 releases:
+- version: 0.9.3
+  unix-timestamp: 1618617600
+  description: |-
+    <ul>
+
+      <li>🐛 Try to fix frequent GUI hangs 🥶</li>
+
+      <li>🇳🇱 Update Dutch translation (@Vistaus)</li>
+
+      <li>🇵🇹 Update Portuguese translation (@hugok79)</li>
+
+      <li>🇷🇴 Add Romanian translation (@tiberiufrat)</li>
+
+    </ul>
 - version: 0.9.2
   unix-timestamp: 1607904000
   description: |-

@@ -7,19 +7,153 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/C26B5B68C3350773F81F33A51A5CF91E/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.12.1
+  unix-timestamp: 1618444800
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added Basque translation (thanks to @alexgabi)</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated to Italian translation (thanks to @albanobattistella).</li>
+
+      <li>Updated to Brazilian Portugese translation (thanks to Felipe Simoes).</li>
+
+      <li>Opening a file will automatically close an existing unsaved, unchanged tab.</li>
+
+      <li>Changed color of connection drag handles to yellow.</li>
+
+      <li>Making it easier to grab connection drag handle when it is close to connection handles.</li>
+
+      <li>Reducing auto-saves when editing node text.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Removed help information from PNG export panel.</li>
+
+      <li>Fixed issue with exporting images with connections/stickers which could get cropped out.</li>
+
+      <li>Fixed issue with empty tab when file cannot be loaded.</li>
+
+      <li>Fixed issues with application crashes on startup in non-elementary environments.</li>
+
+    </ul>
+- version: 1.12.0
+  unix-timestamp: 1613001600
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added subscript and superscript support to Markdown parser.</li>
+
+      <li>Added support for switching tabs with Control-Tab and Shift-Control-Tab.</li>
+
+      <li>Added support for remembering last used open/save dialog directories.</li>
+
+      <li>Added support for Alt-Left/Right/Up/Down keyboard shortcuts to rearrange sibling nodes.</li>
+
+      <li>Added support for searching all tabs (thanks to @Messius58).</li>
+
+      <li>Added about window for non-elementary builds.</li>
+
+      <li>Added ability to move child nodes to parent via Alt+direction.</li>
+
+      <li>Added support for including images in Markdown export.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Added installation instructions to README.md for Debian (thanks to Robert Hubinak).</li>
+
+      <li>Replaced export UI with a new, improved UI with support for export options.</li>
+
+      <li>Moved add node menu items to a submenu.</li>
+
+      <li>Improved focus mode behavior.</li>
+
+      <li>Changed property header button to a toggle button and clarified the tooltip.</li>
+
+      <li>Changed keyboard shortcut to open sidebar from Control-| to F9.</li>
+
+      <li>Changed non-symbolic header bar icons to symbolic icons for non-elementary OS environments.</li>
+
+      <li>Improved link drawing algorithm to make link connections easier to see.</li>
+
+      <li>Changed Link Color in node inspector to Color to reflect the colors use.</li>
+
+      <li>Improved task button drawing.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issue where tab background colors were incorrect when changing tabs.</li>
+
+      <li>Fixed issue with getting valac pathname from Meson (thanks to paluszak).</li>
+
+      <li>Added desktop update call to post_install.py script.</li>
+
+      <li>Fixed issue with sidebar sizing.</li>
+
+      <li>Fixed issue with remembering the sticker sidebar panel was last opened when restarting.</li>
+
+      <li>Fixed layout issues when unfolding a parent with folded children.</li>
+
+      <li>Fixed issue with hiding node groups when the main node in group is folded.</li>
+
+      <li>Fixed issue with displaying link color in sidebar when root node is selected.</li>
+
+      <li>Fixed alpha value used for drawing node grouping when encompassed nodes are not in focus when focus mode is enabled.</li>
+
+      <li>Fixed issue with saving manually added embedded links in node text.</li>
+
+      <li>Fixed undo/redo text editing support.</li>
+
+      <li>Updated keyboard shortcuts in help window.</li>
+
+      <li>Fixed issue of tab content flashing when application opens with multiple tabs.</li>
+
+      <li>Fixed error when closing a tab.</li>
+
+      <li>Fixed issue with undo&apos;ing text modifications.</li>
+
+      <li>Fixed issues with style inspector scale widgets not properly reflecting their current value.</li>
+
+      <li>Fixed various issues with node layout.</li>
+
+      <li>Fixed issue with undo&apos;ing the deletion of a single node.</li>
+
+    </ul>
 - version: 1.11.3
   unix-timestamp: 1602806400
   description: |-
