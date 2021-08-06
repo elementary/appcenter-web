@@ -1,6 +1,6 @@
 # AppCenter Web
 
-Web frontend for viewing AppCenter apps
+Web frontend for viewing AppCenter apps for elementary OS 5.1.
 
 ## Building
 
