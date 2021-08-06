@@ -1,0 +1,43 @@
+---
+
+name: Publish
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  publish:
+    name: Publish
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 0
+
+      - name: Cache
+        uses: actions/cache@v2
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+
+      - name: Build
+        run: |
+          apt update && apt install ruby
+          ruby ./generate-loki.rb
+          ruby ./generate-hera.rb
+          docker run \
+          -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
+          jekyll/builder:3 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
