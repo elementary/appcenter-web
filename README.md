@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/elementary/appcenter-web.svg?branch=gh-pages)](https://travis-ci.org/elementary/appcenter-web)
-
 # AppCenter Web
 
 Web frontend for viewing AppCenter apps
