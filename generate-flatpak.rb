@@ -80,7 +80,7 @@ componentsData.css("components component").each do | component |
   end
   appFile.sub!('((help))', help)
 
-  color_primary = "#4c158a"
+  color_primary = "#485a6c"
   color_text = "#fff"
   price = "0"
 

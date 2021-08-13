@@ -73,7 +73,7 @@ YAML.load_stream(componentsData) do |doc|
   appFile.sub!('((help))', help)
 
   color_text = "#fff"
-  color_primary = "#4c158a"
+  color_primary = "#485a6c"
   price = "0"
   unless doc['Custom'].nil?
     unless doc['Custom']['x-appcenter-color-primary'].nil?
