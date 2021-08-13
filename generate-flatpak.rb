@@ -4,9 +4,9 @@ require "uri"
 require "open-uri"
 require "nokogiri"
 
-########
-# HERA #
-########
+###########
+# FLATPAK #
+###########
 
 # HTTPS doesn't work
 componentsDataGz = open("http://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz")
