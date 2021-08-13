@@ -9,8 +9,3 @@ max_line_length = 80
 indent_style = space
 indent_size = tab
 tab_width = 2
-
-[*.rb]
-indent_style = tab
-tab_width = 4
-
