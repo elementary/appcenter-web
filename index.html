@@ -8,12 +8,17 @@ color:
 {% comment %}
   Currently just showing Juno apps until a better sorting system or something is implemented.
 {% endcomment %}
-{% assign apps = site.apps | sort_natural: 'title' | sort: 'dist' %}
+
+{% assign loki_apps = site.apps | where:"dist","loki" | sort_natural: 'title' %}
+{% assign hera_apps = site.apps | where:"dist","hera" | sort_natural: 'title' %}
+{% assign flatpak_apps = site.apps | where:"dist","flatpak" | sort_natural: 'title' %}
+
+{% assign apps = flatpak_apps | concat: hera_apps | concat: loki_apps %}
 
 <div class="home main constrain">
   <h1>AppCenter</h1>
   <h2>Made for elementary OS</h2>
-  <p>Get these {{ site.apps | size }} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+  <p>Get these {{ apps | size }} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 </div>
 
 <div class="home apps">
