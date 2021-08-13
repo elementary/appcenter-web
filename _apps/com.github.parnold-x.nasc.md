@@ -7,24 +7,28 @@ homepage: "https://github.com/parnold-x/nasc"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/screenshots/image-3_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/65C0425E2B01AA4E3178228BA1A2584C/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/icons/64x64/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/icons/128x128/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/icons/64x64@2/com.github.parnold-x.nasc_com.github.parnold-x.nasc.png
 color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
 price: 8
 releases:
+- version: 0.7.6
+  unix-timestamp: 1620864000
+  description: |-
+    <p>Fixed a bug regarding unnecessary added spaces</p>
 - version: 0.7.5
   unix-timestamp: 1597881600
   description: |-
     <p>To define a user function type e.g.: function kineticEnergy 0.5*\x*\y^2</p>
 
-    <p>The you can use it anywhere e.g. car = kineticEnergy(1000 kg, 3 m/s)</p>
+    <p>Then you can use it anywhere e.g. car = kineticEnergy(1000 kg, 3 m/s)</p>
 - version: 0.7.4
   unix-timestamp: 1596585600
   description: |-

@@ -7,20 +7,28 @@ homepage: "https://www.snippetpixie.com"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/screenshots/image-4_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/screenshots/image-5_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-5_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/DDF26CD7CA21C18EAEB82BEEEE26AA03/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/icons/64x64/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/icons/128x128/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/icons/64x64@2/com.github.bytepixie.snippetpixie_com.github.bytepixie.snippetpixie.png
 color:
   primary: "#52658d"
   primary-text: "#fafafa"
 price: 10
 releases:
+- version: 1.5.2
+  unix-timestamp: 1621987200
+  description: |-
+    <ul>
+
+      <li>Enable Shift-Return to Shift-Ctrl-V into terminal emulators from the Search and Paste window.</li>
+
+    </ul>
 - version: 1.5.1
   unix-timestamp: 1614643200
   description: |-
