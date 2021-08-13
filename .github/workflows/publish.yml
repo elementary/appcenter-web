@@ -16,6 +16,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Install dependencies
+        run: |
+          sudo apt update
+          sudo apt install -y ruby-nokogiri
+
       - name: Checkout
         uses: actions/checkout@master
         with:
@@ -35,7 +40,6 @@ jobs:
 
       - name: Build
         run: |
-          sudo apt update && sudo apt install ruby-nokogiri
           ruby ./generate-loki.rb
           ruby ./generate-hera.rb
           ruby ./generate-flatpak.rb
