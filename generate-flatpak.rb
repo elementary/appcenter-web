@@ -129,7 +129,7 @@ componentsData.css("components component").each do | component |
 
   icon128 = component.at_css('icon[width="128"]')
   if not icon128.nil?
-    icons += "  '128': " + icon_prefix + "128x128/" + icon128.content + "\n"
+    icons += "  128: " + icon_prefix + "128x128/" + icon128.content + "\n"
   end
 
   appFile.sub!('((icons))', icons.rstrip)
