@@ -26,7 +26,7 @@ jobs:
       - name: Build
         run: |
           sudo apt update && sudo apt install ruby-nokogiri
-          bundle install
+          gem install nokogiri -- --use-system-libraries
           ruby ./generate-loki.rb
           ruby ./generate-hera.rb
           ruby ./generate-flatpak.rb
