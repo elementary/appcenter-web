@@ -9,8 +9,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Outliner/master/data/screenshots/screenshot-solarized-light.png
 icons:
-  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.outliner.png
-  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.outliner.png
+  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.outliner.png
+  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.outliner.png
 color:
   primary: "#D48E15"
   primary-text: "#000000"

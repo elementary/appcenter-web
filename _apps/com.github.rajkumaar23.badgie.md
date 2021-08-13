@@ -9,8 +9,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/rajkumaar23/badgie/master/data/screenshots/1.png
 icons:
-  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rajkumaar23.badgie.png
-  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.rajkumaar23.badgie.png
+  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rajkumaar23.badgie.png
+  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.rajkumaar23.badgie.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
