@@ -7,19 +7,137 @@ homepage: "https://github.com/phase1geo/minder/"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-2_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-3_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/screenshots/image-4_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/screenshots/image-3_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/screenshots/image-4_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/BD48B3BAEC74C991E6A67C536852A445/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/icons/64x64/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/icons/128x128/com.github.phase1geo.minder_com.github.phase1geo.minder.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.minder/E6649E89F490F517BC5F4B2110DCC885/icons/64x64@2/com.github.phase1geo.minder_com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"
 price: 10
 releases:
+- version: 1.12.5
+  unix-timestamp: 1623628800
+  description: |-
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Italian translation (thanks to @albanobattistella)</li>
+
+      <li>Updated Russian translation (thanks to Alexandre Prokoudine)</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Added missing translatable strings in various parts of the UI.</li>
+
+      <li>Fixed URL parser issues.</li>
+
+      <li>Fixed application crash when forward deleting non-Latin text.</li>
+
+    </ul>
+- version: 1.12.4
+  unix-timestamp: 1622592000
+  description: |-
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Small optimization to Meson build procedure.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed compile and run issue for distros lacking full granite support.</li>
+
+      <li>Fixed issue with displaying correct themes when themes are hidden that don&apos;t match system theme.</li>
+
+      <li>Added missing translatable strings.</li>
+
+    </ul>
+- version: 1.12.3
+  unix-timestamp: 1621641600
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added rounded branching style.</li>
+
+      <li>Added support for drawing clickable folding areas.</li>
+
+    </ul>
+
+    <p>Changes</p>
+
+    <ul>
+
+      <li>Updated Italian translation (thanks to @albanobattistella)</li>
+
+      <li>Changed shape of the unfold indicator.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed application crash on Manjaro.</li>
+
+      <li>Fixed link drawing order regression.</li>
+
+      <li>Removed error output when XML storage files do not exist.</li>
+
+      <li>Fixed parsing issue with filepaths starting with file://.</li>
+
+    </ul>
+- version: 1.12.2
+  unix-timestamp: 1619136000
+  description: |-
+    <p>New</p>
+
+    <ul>
+
+      <li>Added support for Control-Home/End to move the cursor to the beginning/end of the text.</li>
+
+      <li>Added support for folded children count tooltip.</li>
+
+    </ul>
+
+    <p>Bug Fixes</p>
+
+    <ul>
+
+      <li>Fixed issue where selected text at beginning of text would not be deleted when the Backspace key was used.</li>
+
+      <li>Fixed issue where selected text at end of text would not be deleted when the Delete key was used.</li>
+
+      <li>Fixed selection issues after moving the cursor by a word.</li>
+
+      <li>Fixed Home/End keys to move the cursor to the beginning/end of the current line.</li>
+
+      <li>Fixed node size and layout when system text size changes between Minder sessions.</li>
+
+      <li>Fixed issue with application crashing when older Minder file is loaded that used a custom theme.</li>
+
+      <li>Fixed issue with node sidebar image not being properly updated when sidebar is hidden.</li>
+
+      <li>Fixed square branch link drawing when some links have arrows drawn in them.</li>
+
+      <li>Fixed issue with the background border being drawn around link arrows in contexts where it should not.</li>
+
+    </ul>
 - version: 1.12.1
   unix-timestamp: 1618444800
   description: |-

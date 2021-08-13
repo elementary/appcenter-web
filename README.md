@@ -1,6 +1,6 @@
 # AppCenter Web
 
-Web frontend for viewing AppCenter apps for elementary OS 5.1.
+Web frontend for viewing AppCenter apps for elementary OS.
 
 ## Building
 
@@ -52,6 +52,7 @@ The list of apps is generated with a simple Ruby script. To rebuild the app list
 ```shell
 ruby generate-loki.rb
 ruby generate-hera.rb
+ruby generate-flatpak.rb
 ```
 
 This is automatically run daily with a GitHub Action workflow.
@@ -66,4 +67,4 @@ The site should now be available at http://0.0.0.0:4000/ on your local machine, 
 
 ## Thanks
 
-Thanks to [@gamerlv](https://github.com/gamerlv) for [the script](https://gist.github.com/gamerlv/4bb5e59415f239e8c79ff1d473e54520)!
+Thanks to [@gamerlv](https://github.com/gamerlv) for [the original script](https://gist.github.com/gamerlv/4bb5e59415f239e8c79ff1d473e54520)!

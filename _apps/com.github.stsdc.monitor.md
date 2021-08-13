@@ -7,17 +7,21 @@ homepage: "https://github.com/stsdc/monitor"
 help_page: "https://github.com/stsdc/monitor/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/0AA0407464C55A7D6902A61C1BD9CDFB/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/icons/64x64/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/icons/128x128/com.github.stsdc.monitor_com.github.stsdc.monitor.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/icons/64x64@2/com.github.stsdc.monitor_com.github.stsdc.monitor.png
 color:
   primary: "#d7f4d7"
   primary-text: "#242d40"
 price: 0
 releases:
+- version: 0.9.4
+  unix-timestamp: 1619136000
+  description: |-
+    <p>🐛 Should fix empty Indicator. Please reboot after installation ⚡️</p>
 - version: 0.9.3
   unix-timestamp: 1618617600
   description: |-

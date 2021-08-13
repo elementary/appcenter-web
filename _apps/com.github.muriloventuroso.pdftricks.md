@@ -7,17 +7,27 @@ homepage: "https://github.com/muriloventuroso/pdftricks"
 help_page: "#"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/E86E2F5749890AF3AF4A22622109A5D6/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/icons/64x64/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/icons/128x128/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/icons/64x64@2/com.github.muriloventuroso.pdftricks_com.github.muriloventuroso.pdftricks.png
 color:
   primary: "#F6546A"
   primary-text: "#fff"
 price: 2
 releases:
+- version: 0.3.1
+  unix-timestamp: 1618963200
+  description: |-
+    <p>Default save location of compressed pdf to same as the original</p>
+
+    <p>New option to control thumbnail generation</p>
+
+    <p>Bugfix</p>
+
+    <p>Update Translations</p>
 - version: 0.3.0
   unix-timestamp: 1594339200
   description: |-

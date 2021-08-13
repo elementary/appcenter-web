@@ -7,17 +7,29 @@ homepage: "https://github.com/gijsgoudzwaard/image-optimizer"
 help_page: "https://github.com/gijsgoudzwaard/image-optimizer/issues"
 dist: hera
 screenshots:
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/screenshots/image-1_orig.png
-  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/screenshots/image-2_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/ED697ED8D6BF023A25B6C0A058700D91/screenshots/image-1_orig.png
+  - https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/ED697ED8D6BF023A25B6C0A058700D91/screenshots/image-2_orig.png
 icons:
-  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
-  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/E35C3C97CDBC09D13BFE1307D5F75044/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/ED697ED8D6BF023A25B6C0A058700D91/icons/64x64/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/ED697ED8D6BF023A25B6C0A058700D91/icons/128x128/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
+  "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/gijsgoudzwaard.image-optimizer/ED697ED8D6BF023A25B6C0A058700D91/icons/64x64@2/com.github.gijsgoudzwaard.image-optimizer_com.github.gijsgoudzwaard.image-optimizer.png
 color:
   primary: "#687ddb"
   primary-text: "#ffffff"
 price: 2
 releases:
+- version: 0.1.20
+  unix-timestamp: 1627084800
+  description: |-
+    <p>Getting things ready for Elementary OS 6.</p>
+- version: 0.1.19
+  unix-timestamp: 1627084800
+  description: |-
+    <p>Getting things ready for Elementary OS 6.</p>
+- version: 0.1.18
+  unix-timestamp: 1626393600
+  description: |-
+    <p>Added the flatpak manifest file for elementary os 6. Also fixes vala 0.48 build issue.</p>
 - version: 0.1.17
   unix-timestamp: 1576454400
   description: |-
