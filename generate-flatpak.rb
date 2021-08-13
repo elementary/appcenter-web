@@ -49,7 +49,6 @@ componentsData.css("components component").each do | component |
 
   summary = component.at_css('summary')
   appFile.sub!('((summary))', summary.content)
-  puts summary
 
   dev_name = component.at_css('developer_name')
   if not dev_name.nil?
@@ -61,7 +60,6 @@ componentsData.css("components component").each do | component |
 
   description = component.at_css('description')
   appFile.sub!('((description))', description.inner_html)
-  puts description
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)
@@ -111,7 +109,7 @@ componentsData.css("components component").each do | component |
   if not image.nil?
     screenshots += "  - " + image.content + "\n"
   end
-  # TODO:
+  # TODO: multiple screenshots
   # releaseHash = ""
   # unless doc['Screenshots'].nil?
   #   doc['Screenshots'].each do |screenshot|
@@ -137,7 +135,7 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((icons))', icons.rstrip)
 
   releases = ""
-  # TODO
+  # TODO: Releases
   # unless doc['Releases'].nil?
   #   doc['Releases'].each do |release|
   #     unless release['version'].nil?
