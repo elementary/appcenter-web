@@ -1,0 +1,45 @@
+---
+
+name: Update Data
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *' # Hourly
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.7 # Not needed with a .ruby-version file
+          bundler-cache: true
+
+      - name: Build
+        run: |
+          sudo apt update && sudo apt install ruby-nokogiri
+          gem install nokogiri -- --use-system-libraries
+          ruby ./generate-loki.rb
+          ruby ./generate-hera.rb
+          ruby ./generate-flatpak.rb
+
+      - name: Commit
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Automatic update of data" -a
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
