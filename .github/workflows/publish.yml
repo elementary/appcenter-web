@@ -35,6 +35,7 @@ jobs:
 
       - name: Build
         run: |
+          apt-get install ruby-nokogiri
           ruby ./generate-loki.rb
           ruby ./generate-hera.rb
           ruby ./generate-flatpak.rb
