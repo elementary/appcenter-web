@@ -1,7 +1,7 @@
 ---
-app_id: com.github.linuxhubit.gitscover
-title: "Gitscover"
-summary: "Find new GitHub repositories"
+app_id: com.github.linuxhubit.shouldidoit
+title: "Should I do it"
+summary: "Should I do it?"
 developer: "Mirko Brombin"
 homepage: "#"
 help_page: "#"
@@ -18,4 +18,4 @@ releases:
 
 ---
 
-An application that helps you finding new GitHub repositories
+An app that helps you figure out whether or not to do something.

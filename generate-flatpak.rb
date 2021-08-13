@@ -90,78 +90,88 @@ componentsData.css("components component").each do | component |
   # end
   # appFile.sub!('((site))', site)
 
-  if not doc['Url'].nil? and not doc['Url']['help'].nil?
-    help = doc['Url']['help']
+  if not url.nil? and not url.attribute("help").nil?
+    help = url.attribute("help")
   else
     help = "#"
   end
   appFile.sub!('((help))', help)
+  # if not doc['Url'].nil? and not doc['Url']['help'].nil?
+  #   help = doc['Url']['help']
+  # else
+  #   help = "#"
+  # end
+  # appFile.sub!('((help))', help)
 
   color_text = "#fff"
   color_primary = "#4c158a"
   price = "0"
-  unless doc['Custom'].nil?
-    unless doc['Custom']['x-appcenter-color-primary'].nil?
-      color_primary = doc['Custom']['x-appcenter-color-primary']
-    end
+  # TODO
+  # unless doc['Custom'].nil?
+  #   unless doc['Custom']['x-appcenter-color-primary'].nil?
+  #     color_primary = doc['Custom']['x-appcenter-color-primary']
+  #   end
 
-    unless doc['Custom']['x-appcenter-color-primary-text'].nil?
-      color_text = doc['Custom']['x-appcenter-color-primary-text']
-    end
+  #   unless doc['Custom']['x-appcenter-color-primary-text'].nil?
+  #     color_text = doc['Custom']['x-appcenter-color-primary-text']
+  #   end
 
-    unless doc['Custom']['x-appcenter-suggested-price'].nil?
-      price = doc['Custom']['x-appcenter-suggested-price']
-    end
-  end
+  #   unless doc['Custom']['x-appcenter-suggested-price'].nil?
+  #     price = doc['Custom']['x-appcenter-suggested-price']
+  #   end
+  # end
   appFile.sub!('((color_primary))', color_primary)
   appFile.sub!('((color_text))', color_text)
   appFile.sub!('((price))', price)
 
-  mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
+  # mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
 
   screenshots = ""
-  releaseHash = ""
-  unless doc['Screenshots'].nil?
-    doc['Screenshots'].each do |screenshot|
-      screenshots += "  - " + URI::encode("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
-      releaseHash = screenshot['source-image']['url'].split("/")[0..3].join("/") if releaseHash.empty?
-    end
-  end
+  # TODO:
+  # releaseHash = ""
+  # unless doc['Screenshots'].nil?
+  #   doc['Screenshots'].each do |screenshot|
+  #     screenshots += "  - " + URI::encode("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
+  #     releaseHash = screenshot['source-image']['url'].split("/")[0..3].join("/") if releaseHash.empty?
+  #   end
+  # end
   appFile.sub!('((screenshots))', screenshots.rstrip)
 
   icons = ""
-  unless doc['Icon'].nil? or doc['Icon']['cached'].nil?
-    doc['Icon']['cached'].each do |icon|
-      if not icon['scale'].nil?
-        key = icon['height'].to_s + "@" + icon['scale'].to_s
-      else
-        key = icon['height'].to_s
-      end
-      icons += "  \"#{key}\": " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
-    end
-  end
+  # TODO
+  # unless doc['Icon'].nil? or doc['Icon']['cached'].nil?
+  #   doc['Icon']['cached'].each do |icon|
+  #     if not icon['scale'].nil?
+  #       key = icon['height'].to_s + "@" + icon['scale'].to_s
+  #     else
+  #       key = icon['height'].to_s
+  #     end
+  #     icons += "  \"#{key}\": " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
+  #   end
+  # end
   appFile.sub!('((icons))', icons.rstrip)
 
   releases = ""
-  unless doc['Releases'].nil?
-    doc['Releases'].each do |release|
-      unless release['version'].nil?
-        releases += "- version: " + release['version'].to_s + "\n"
-        unless release['unix-timestamp'].nil?
-          releases += "  unix-timestamp: " + release['unix-timestamp'].to_s + "\n"
-        end
-        unless release['description'].nil?
-          releases += "  description: |-\n"
-          release['description']['C'].each_line do |line|
-            releases += "    " + line + "\n"
-          end
-        end
-      end
-    end
-  end
+  # TODO
+  # unless doc['Releases'].nil?
+  #   doc['Releases'].each do |release|
+  #     unless release['version'].nil?
+  #       releases += "- version: " + release['version'].to_s + "\n"
+  #       unless release['unix-timestamp'].nil?
+  #         releases += "  unix-timestamp: " + release['unix-timestamp'].to_s + "\n"
+  #       end
+  #       unless release['description'].nil?
+  #         releases += "  description: |-\n"
+  #         release['description']['C'].each_line do |line|
+  #           releases += "    " + line + "\n"
+  #         end
+  #       end
+  #     end
+  #   end
+  # end
   appFile.sub!('((releases))', releases.rstrip)
 
-  File.open("_apps/#{doc['Package']}.md", "w+") do |file|
+  File.open("_apps/#{id.content}.md", "w+") do |file|
     file.write(appFile)
   end
 end
