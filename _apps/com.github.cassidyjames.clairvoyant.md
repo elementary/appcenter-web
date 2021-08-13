@@ -5,11 +5,11 @@ summary: "Get psychic answers from this fortune teller"
 developer: "Cassidy James Blaede"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.clairvoyant.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.clairvoyant.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.clairvoyant.png
 color:
   primary: "#4c158a"

@@ -5,11 +5,11 @@ summary: "Install and Manage .deb Files"
 developer: "Adam Bieńkowski"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.donadigo.eddy.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.donadigo.eddy.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.donadigo.eddy.png
 color:
   primary: "#4c158a"

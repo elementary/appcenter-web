@@ -5,11 +5,11 @@ summary: "View and copy colors from the elementary brand palette"
 developer: "Cassidy James Blaede"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.palette.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.palette.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.palette.png
 color:
   primary: "#4c158a"

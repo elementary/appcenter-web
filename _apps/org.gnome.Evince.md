@@ -5,11 +5,11 @@ summary: "Document viewer for popular document formats"
 developer: "Evince Developers"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.gnome.Evince.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.gnome.Evince.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/org.gnome.Evince.png
 color:
   primary: "#4c158a"

@@ -5,7 +5,7 @@ summary: "Solve simple equations"
 developer: "elementary, Inc."
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:

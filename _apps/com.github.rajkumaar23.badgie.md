@@ -5,11 +5,11 @@ summary: "Badges for your android app's README"
 developer: "Rajkumar S"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rajkumaar23.badgie.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rajkumaar23.badgie.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.rajkumaar23.badgie.png
 color:
   primary: "#4c158a"

@@ -5,11 +5,11 @@ summary: "Monitor the exchange rates of real-world currencies on your desktop"
 developer: "Matheus Fantinel"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matfantinel.moneta.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matfantinel.moneta.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matfantinel.moneta.png
 color:
   primary: "#4c158a"

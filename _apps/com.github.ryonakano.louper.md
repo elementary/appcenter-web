@@ -5,11 +5,11 @@ summary: "Magnify the selected text"
 developer: "Ryo Nakano"
 homepage: "#"
 help_page: "#"
-dist: hera
+dist: flatpak
 screenshots:
 
 icons:
-  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
+  64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
 color:
   primary: "#4c158a"

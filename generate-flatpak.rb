@@ -20,7 +20,7 @@ summary: "((summary))"
 developer: "((dev))"
 homepage: "((site))"
 help_page: "((help))"
-dist: hera
+dist: flatpak
 screenshots:
 ((screenshots))
 icons:
