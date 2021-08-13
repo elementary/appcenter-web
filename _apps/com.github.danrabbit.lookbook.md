@@ -12,9 +12,9 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.danrabbit.lookbook.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.danrabbit.lookbook.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
-price: 0
+  primary: "#fff"
+  primary-text: "#333"
+price: 10
 releases:
 
 redirect_from: com.github.danrabbit.lookbook.desktop/

@@ -12,9 +12,9 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.donadigo.eddy.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.donadigo.eddy.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
-price: 0
+  primary: "#b30033"
+  primary-text: "#f2f2f2"
+price: 5
 releases:
 
 redirect_from: com.github.donadigo.eddy.desktop/

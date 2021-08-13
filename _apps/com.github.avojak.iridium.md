@@ -12,9 +12,9 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.iridium.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.iridium.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
-price: 0
+  primary: "#fff"
+  primary-text: "#333"
+price: 5
 releases:
 
 redirect_from: com.github.avojak.iridium.desktop/

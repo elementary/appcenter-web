@@ -12,9 +12,9 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.alecaddd.sequeler.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.alecaddd.sequeler.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
-price: 0
+  primary: "#3f3f3f"
+  primary-text: "#ffffff"
+price: 25
 releases:
 
 redirect_from: com.github.alecaddd.sequeler.desktop/

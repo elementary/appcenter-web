@@ -39,7 +39,6 @@ redirect_from: ((redirect))
 puts 'about to iterate thru components...'
 componentsData.css("components component").each do | component |
   next if component.get_attribute("type") != "desktop"
-  # next if doc['Type'].nil?
 
   puts "Generating #{component.at_css('name').content}"
 
@@ -47,12 +46,9 @@ componentsData.css("components component").each do | component |
 
   name = component.at_css('name')
   appFile.sub!('((title))', name.content)
-  # title = doc['Name']['C']
-  # appFile.sub!('((title))', title)
 
   summary = component.at_css('summary')
   appFile.sub!('((summary))', summary.content)
-  # appFile.sub!('((summary))', doc['Summary']['C'])
 
   dev_name = component.at_css('developer_name')
   if not dev_name.nil?
@@ -60,23 +56,14 @@ componentsData.css("components component").each do | component |
   else
     developer = name.content + ' Developers'
   end
-  # if not doc['DeveloperName'].nil?
-  #   dev = doc['DeveloperName']['C']
-  # else
-  #   dev = title + " Developers"
-  # end
   appFile.sub!('((dev))', developer)
 
   description = component.at_css('description')
   appFile.sub!('((description))', description.content)
-  # appFile.sub!('((description))', doc['Description']['C'])
-
-  # appFile.sub!('((package))', doc['Package'])
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)
   appFile.sub!('((redirect))', id.content + ".desktop/")
-  # appFile.sub!('((id))', doc['ID'])
 
   url = component.at_css('url')
   if not url.nil? and not url.attribute("homepage").nil?
@@ -85,12 +72,6 @@ componentsData.css("components component").each do | component |
     site = "#"
   end
   appFile.sub!('((site))', site)
-  # if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
-  #   site = doc['Url']['homepage']
-  # else
-  #   site = "#"
-  # end
-  # appFile.sub!('((site))', site)
 
   if not url.nil? and not url.attribute("help").nil?
     help = url.attribute("help")
@@ -98,16 +79,26 @@ componentsData.css("components component").each do | component |
     help = "#"
   end
   appFile.sub!('((help))', help)
-  # if not doc['Url'].nil? and not doc['Url']['help'].nil?
-  #   help = doc['Url']['help']
-  # else
-  #   help = "#"
-  # end
-  # appFile.sub!('((help))', help)
 
-  color_text = "#fff"
   color_primary = "#4c158a"
+  color_text = "#fff"
   price = "0"
+
+  custom_color = component.at_css('value[key="x-appcenter-color-primary"]')
+  if not custom_color.nil?
+    color_primary = custom_color.content
+  end
+
+  custom_text = component.at_css('value[key="x-appcenter-color-primary-text"]')
+  if not custom_color.nil?
+    color_text = custom_text.content
+  end
+
+  custom_price = component.at_css('value[key="x-appcenter-suggested-price"]')
+  custom_key = component.at_css('value[key="x-appcenter-stripe"]')
+  if not custom_price.nil? and not custom_key.nil?
+    price = custom_price.content
+  end
   # TODO
   # unless doc['Custom'].nil?
   #   unless doc['Custom']['x-appcenter-color-primary'].nil?
@@ -125,8 +116,6 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((color_primary))', color_primary)
   appFile.sub!('((color_text))', color_text)
   appFile.sub!('((price))', price)
-
-  # mediaBase = "https://appstream.elementary.io/appcenter/media/bionic"
 
   screenshots = ""
   # TODO:
@@ -152,16 +141,6 @@ componentsData.css("components component").each do | component |
     icons += "  '128': " + icon_prefix + "128x128/" + icon128.content + "\n"
   end
 
-  # unless doc['Icon'].nil? or doc['Icon']['cached'].nil?
-  #   doc['Icon']['cached'].each do |icon|
-  #     if not icon['scale'].nil?
-  #       key = icon['height'].to_s + "@" + icon['scale'].to_s
-  #     else
-  #       key = icon['height'].to_s
-  #     end
-  #     icons += "  \"#{key}\": " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
-  #   end
-  # end
   appFile.sub!('((icons))', icons.rstrip)
 
   releases = ""

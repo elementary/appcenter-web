@@ -12,9 +12,9 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.davidmhewitt.torrential.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.davidmhewitt.torrential.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
-price: 0
+  primary: "rgb(224,247,255)"
+  primary-text: "#000"
+price: 3
 releases:
 
 redirect_from: com.github.davidmhewitt.torrential.desktop/

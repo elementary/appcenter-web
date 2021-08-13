@@ -12,8 +12,8 @@ icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
 color:
-  primary: "#4c158a"
-  primary-text: "#fff"
+  primary: "#fafafa"
+  primary-text: "#1a1a1a"
 price: 0
 releases:
 
