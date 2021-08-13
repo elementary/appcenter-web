@@ -19,4 +19,4 @@ releases:
 redirect_from: io.elementary.calculator.desktop/
 ---
 
-A simple calculator for everyday use. It supports basic and some scientific calculations including trigonometry functions, sin, cos, and tan.
+<p>A simple calculator for everyday use. It supports basic and some scientific calculations including trigonometry functions, sin, cos, and tan.</p>

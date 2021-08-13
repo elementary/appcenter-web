@@ -20,4 +20,20 @@ releases:
 redirect_from: com.github.alecaddd.sequeler.desktop/
 ---
 
-Easily connect to your local or remote databaseStore your Database Connections in the library, connect over SSH tunnel, type and execute SQL commands directly in the app, and do everything you need to do without the necessity of opening the terminal.Supported Databases:SQLiteMySQLMariaDBPostgreSQLFeatures Include:Test Connections before saving themView Table structure, content, and relationsWrite multiple custom SQL QueriesSwitch between light and dark modeHandy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), open a new window (ctrl+n)
+<p>Easily connect to your local or remote database</p>
+<p>Store your Database Connections in the library, connect over SSH tunnel, type and execute SQL commands directly in the app, and do everything you need to do without the necessity of opening the terminal.</p>
+<p>Supported Databases:</p>
+<ul>
+<li>SQLite</li>
+<li>MySQL</li>
+<li>MariaDB</li>
+<li>PostgreSQL</li>
+</ul>
+<p>Features Include:</p>
+<ul>
+<li>Test Connections before saving them</li>
+<li>View Table structure, content, and relations</li>
+<li>Write multiple custom SQL Queries</li>
+<li>Switch between light and dark mode</li>
+<li>Handy keyboard shortcuts to quit (ctrl+q), create new connection (ctrl+shift+n), open a new window (ctrl+n)</li>
+</ul>

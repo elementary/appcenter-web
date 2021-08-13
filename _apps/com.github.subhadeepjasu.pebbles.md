@@ -20,4 +20,13 @@ releases:
 redirect_from: com.github.subhadeepjasu.pebbles.desktop/
 ---
 
-An advanced calculator that helps you with complicated calculations in your homeworkFeatures:Scientific modeProgrammer modeCalculus modeStatistics modeDate Calculation modeSome common unit converters
+<p>An advanced calculator that helps you with complicated calculations in your homework</p>
+<p>Features:</p>
+<ul>
+<li>Scientific mode</li>
+<li>Programmer mode</li>
+<li>Calculus mode</li>
+<li>Statistics mode</li>
+<li>Date Calculation mode</li>
+<li>Some common unit converters</li>
+</ul>

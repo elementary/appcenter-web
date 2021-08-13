@@ -20,4 +20,4 @@ releases:
 redirect_from: com.github.sgpthomas.hourglass.desktop/
 ---
 
-Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.
+<p>Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.</p>

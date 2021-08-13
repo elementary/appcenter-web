@@ -20,4 +20,4 @@ releases:
 redirect_from: com.github.linuxhubit.gitscover.desktop/
 ---
 
-An application that helps you finding new GitHub repositories
+<p>An application that helps you finding new GitHub repositories</p>

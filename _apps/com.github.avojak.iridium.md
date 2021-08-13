@@ -20,4 +20,12 @@ releases:
 redirect_from: com.github.avojak.iridium.desktop/
 ---
 
-Easily connect and chat on any IRC server.Features include:Store your server connections and joined channels between sessionsConnect to servers securely with SSL supportFavorite channels for quick and easy accessPick up where you left off with automatic server reconnectionOptionally disable remembered connections for increased privacy
+<p>Easily connect and chat on any IRC server.</p>
+<p>Features include:</p>
+<ul>
+<li>Store your server connections and joined channels between sessions</li>
+<li>Connect to servers securely with SSL support</li>
+<li>Favorite channels for quick and easy access</li>
+<li>Pick up where you left off with automatic server reconnection</li>
+<li>Optionally disable remembered connections for increased privacy</li>
+</ul>

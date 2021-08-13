@@ -20,4 +20,4 @@ releases:
 redirect_from: io.elementary.camera.desktop/
 ---
 
-Camera is a simple app to take photos with a webcam.
+<p>Camera is a simple app to take photos with a webcam.</p>

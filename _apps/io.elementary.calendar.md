@@ -20,4 +20,4 @@ releases:
 redirect_from: io.elementary.calendar.desktop/
 ---
 
-A slim, lightweight calendar app that syncs and manages multiple calendars in one place, like Google Calendar, Outlook and CalDAV.
+<p>A slim, lightweight calendar app that syncs and manages multiple calendars in one place, like Google Calendar, Outlook and CalDAV.</p>

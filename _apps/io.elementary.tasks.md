@@ -20,4 +20,4 @@ releases:
 redirect_from: io.elementary.tasks.desktop/
 ---
 
-Designed and built to help manage all of your tasks and reminders. Create and complete tasks, manage lists and sync them across your machines using CalDAV.
+<p>Designed and built to help manage all of your tasks and reminders. Create and complete tasks, manage lists and sync them across your machines using CalDAV.</p>

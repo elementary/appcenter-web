@@ -20,4 +20,12 @@ releases:
 redirect_from: com.github.donadigo.eddy.desktop/
 ---
 
-Install, uninstall and view information about debian packages.Features include:Install multiple packages at onceUpgrade and downgrade existing packagesLoad all packages automatically from your Downloads folderView history of previously installed appsComplete system integration including notifications and progress bar in the dock
+<p>Install, uninstall and view information about debian packages.</p>
+<p>Features include:</p>
+<ul>
+<li>Install multiple packages at once</li>
+<li>Upgrade and downgrade existing packages</li>
+<li>Load all packages automatically from your Downloads folder</li>
+<li>View history of previously installed apps</li>
+<li>Complete system integration including notifications and progress bar in the dock</li>
+</ul>

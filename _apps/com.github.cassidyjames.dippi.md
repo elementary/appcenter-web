@@ -20,4 +20,28 @@ releases:
 redirect_from: com.github.cassidyjames.dippi.desktop/
 ---
 
-Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.Handy features:Find out if a display is a good choice based on its size and resolutionGet advice about different densitiesLearn the logical resolutionDifferentiate between laptops and desktop displaysStupid simple: all in a cute li'l windowBased my expertise and experience shipping HiDPI hardware and software at System76 and elementary.Tells you if a display’s density is:Very Low DPI,Fairly Low DPI,Ideal for LoDPI,Potentially Problematic,Ideal for HiDPI,Fairly High for HiDPI, orToo High DPISpecial thanks:Micah Ilbery for the shiny iconsDaniel Foré for his apps to use as code examples
+<p>Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.</p>
+<p>Handy features:</p>
+<ul>
+<li>Find out if a display is a good choice based on its size and resolution</li>
+<li>Get advice about different densities</li>
+<li>Learn the logical resolution</li>
+<li>Differentiate between laptops and desktop displays</li>
+<li>Stupid simple: all in a cute li'l window</li>
+</ul>
+<p>Based my expertise and experience shipping HiDPI hardware and software at System76 and elementary.</p>
+<p>Tells you if a display’s density is:</p>
+<ul>
+<li>Very Low DPI,</li>
+<li>Fairly Low DPI,</li>
+<li>Ideal for LoDPI,</li>
+<li>Potentially Problematic,</li>
+<li>Ideal for HiDPI,</li>
+<li>Fairly High for HiDPI, or</li>
+<li>Too High DPI</li>
+</ul>
+<p>Special thanks:</p>
+<ul>
+<li>Micah Ilbery for the shiny icons</li>
+<li>Daniel Foré for his apps to use as code examples</li>
+</ul>

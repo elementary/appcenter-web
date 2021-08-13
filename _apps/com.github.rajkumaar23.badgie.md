@@ -20,4 +20,4 @@ releases:
 redirect_from: com.github.rajkumaar23.badgie.desktop/
 ---
 
-Say NO to hardcoding! Generate badges for your android app's README with realtime data from Google Playstore such as Version, Number of Installs, Rating etc
+<p>Say NO to hardcoding! Generate badges for your android app's README with realtime data from Google Playstore such as Version, Number of Installs, Rating etc</p>

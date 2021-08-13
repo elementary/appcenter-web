@@ -20,4 +20,9 @@ releases:
 redirect_from: com.github.ryonakano.konbucase.desktop/
 ---
 
-A small text tool app that allows you convert case in your text.Features include:Click "Copy to Clipboard" button to copy the all texts in the text view without selecting themConvert your text between camelCase, PascalCase, Sentence case, snake_case, kebab-case, and space-separated
+<p>A small text tool app that allows you convert case in your text.</p>
+<p>Features include:</p>
+<ul>
+<li>Click "Copy to Clipboard" button to copy the all texts in the text view without selecting them</li>
+<li>Convert your text between camelCase, PascalCase, Sentence case, snake_case, kebab-case, and space-separated</li>
+</ul>

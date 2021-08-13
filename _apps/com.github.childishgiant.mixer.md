@@ -20,4 +20,8 @@ releases:
 redirect_from: com.github.childishgiant.mixer.desktop/
 ---
 
-A no-frills volume mixer, with simplicity and usability at its core.Simple volume controls including balance and output selectionIndividually change each audio source's values
+<p>A no-frills volume mixer, with simplicity and usability at its core.</p>
+<ul>
+<li>Simple volume controls including balance and output selection</li>
+<li>Individually change each audio source's values</li>
+</ul>

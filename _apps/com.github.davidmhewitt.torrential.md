@@ -20,4 +20,4 @@ releases:
 redirect_from: com.github.davidmhewitt.torrential.desktop/
 ---
 
-A speedy, no-frills torrent client. Comes with a sane set of default options and none of the overwhelming information you don't need.
+<p>A speedy, no-frills torrent client. Comes with a sane set of default options and none of the overwhelming information you don't need.</p>

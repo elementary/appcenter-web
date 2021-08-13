@@ -7,18 +7,18 @@ layout: default
     <img class="icon" width="64" height="64"
       {% for icon in page.icons %}
         {% if icon[0] == "64@2" %}
-          srcset="{{icon[1]}} 2x"
+          srcset="{{ icon[1] }} 2x"
         {% elsif icon[0] == "128" %}
-          srcset="{{icon[1]}}"
+          srcset="{{ icon[1] }}"
         {% elsif icon[0] == "64" %}
-          srcset="{{icon[1]}}"
+          srcset="{{ icon[1] }}"
         {% endif %}
       {% endfor %}
       src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg"
-    alt="{{page.title}} icon" />
+    alt="{{ page.title }} icon" />
 
-    <h1>{{page.title}}</h1>
-    <p>{{page.developer}}</p>
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.developer }}</p>
 
     <a class="button suggested" href="https://elementary.io">Get elementary OS</a>
 
@@ -30,13 +30,13 @@ layout: default
   {% include screenshots.html %}
 
   <section class="description constrain">
-    <h2>{{page.summary}}</h2>
+    <h2>{{ page.summary }}</h2>
 
-    {{content}}
+    {{ content }}
 
     <section class="get-it constrain">
       <h2>Get it {% if page.price != 0 %}for <strong>${{ page.price }}</strong>{% endif %} on AppCenter</h2>
-      <p>Get {{page.title}} and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Every app is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+      <p>Get {{ page.title }} and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Every app is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 
       {% include loki.html %}
       {% include hera.html %}
@@ -63,17 +63,17 @@ layout: default
   <div class="constrain">
     <a class="button go-home" href="/">← All Apps</a>
     {% if page.homepage != "#" %}
-      <a class="button" href="{{page.homepage}}" target="_blank">App Homepage</a>
+      <a class="button" href="{{ page.homepage }}" target="_blank">App Homepage</a>
     {% endif %}
     {% if page.help_page != "#" %}
-      <a class="button" href="{{page.help_page}}" target="_blank">App Help</a>
+      <a class="button" href="{{ page.help_page }}" target="_blank">App Help</a>
     {% endif %}
   </div>
 </footer>
 
 <style>
   header {
-    background-color: {% if page.color.primary != "((color_primary))" %}{{page.color.primary}}{% else %}{{site.color.primary}}{% endif %};
-    color: {% if page.color.primary-text != "((color_text))" %}{{page.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %}
+    background-color: {% if page.color.primary != "((color_primary))" %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %};
+    color: {% if page.color.primary-text != "((color_text))" %}{{ page.color.primary-text }}{% else %}{{ site.color.primary-text }}{% endif %}
   }
 </style>

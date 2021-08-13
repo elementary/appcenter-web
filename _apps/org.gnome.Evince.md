@@ -20,4 +20,5 @@ releases:
 redirect_from: org.gnome.Evince.desktop/
 ---
 
-A document viewer for the GNOME desktop. You can view, search or annotate documents in many different formats.Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7).
+<p>A document viewer for the GNOME desktop. You can view, search or annotate documents in many different formats.</p>
+<p>Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7).</p>

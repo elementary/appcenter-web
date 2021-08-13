@@ -49,6 +49,7 @@ componentsData.css("components component").each do | component |
 
   summary = component.at_css('summary')
   appFile.sub!('((summary))', summary.content)
+  puts summary
 
   dev_name = component.at_css('developer_name')
   if not dev_name.nil?
@@ -59,7 +60,8 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((dev))', developer)
 
   description = component.at_css('description')
-  appFile.sub!('((description))', description.content)
+  appFile.sub!('((description))', description.inner_html)
+  puts description
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)

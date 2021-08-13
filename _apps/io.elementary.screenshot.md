@@ -20,4 +20,4 @@ releases:
 redirect_from: io.elementary.screenshot.desktop/
 ---
 
-A simple screenshot tool. Capture whole screen shots, selected area shots, current window shots, and timed shots.
+<p>A simple screenshot tool. Capture whole screen shots, selected area shots, current window shots, and timed shots.</p>
