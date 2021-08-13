@@ -67,4 +67,4 @@ The site should now be available at http://0.0.0.0:4000/ on your local machine, 
 
 ## Thanks
 
-Thanks to [@gamerlv](https://github.com/gamerlv) for [the original script](https://gist.github.com/gamerlv/4bb5e59415f239e8c79ff1d473e54520)!
+Thanks to [@gamerlv](https://github.com/gamerlv) for [the original script](https://gist.github.com/gamerlv/4bb5e59415f239e8c79ff1d473e54520) and [Ryan McNeely](https://github.com/RMcNeely) for the [initial Flatpak port](https://github.com/elementary/appcenter-web/pull/58)!

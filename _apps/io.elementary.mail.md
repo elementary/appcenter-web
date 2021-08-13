@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: io.elementary.mail.desktop/
 ---
 
 Mail is designed to let you manage your email quickly and effortlessly. Its interface is based on conversations, so you can read an entire discussion without having to click from message to message.Lightweight mail client with full IMAP supportMail grouped into conversations, not a tree of threadsAs-you-type searchingMultiple account supportInline HTML composer that saves drafts to the serverWorks with Gmail, Yahoo! Mail, and other popular IMAP servers

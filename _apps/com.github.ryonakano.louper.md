@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.ryonakano.louper.desktop/
 ---
 
 A text magnification app that helps you zoom the selected text.Select the text you want to magnify and just launch the app! The app shows the selected text in huge size.Press Ctrl+C to copy the text showing. Press Esc/Ctrl+Q or unfocus the window to close the app.

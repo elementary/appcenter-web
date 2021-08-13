@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.linuxhubit.gitscover.desktop/
 ---
 
 An application that helps you finding new GitHub repositories

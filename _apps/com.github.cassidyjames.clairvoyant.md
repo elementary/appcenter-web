@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.cassidyjames.clairvoyant.desktop/
 ---
 
 Does he love you? Should you have pizza for dinner? Is there such thing as a stupid question? Discover the answers to these questions and more with Clairvoyant, the magic 8-ball inspired fortune teller.Ask a question, then open Clairvoyant for an answer.Not satisfied? Ask again, then hit the "Ask Again" icon to try again.Do what you'd like with the answers—just don't shoot the messenger!

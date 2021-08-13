@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.linuxhubit.shouldidoit.desktop/
 ---
 
 An app that helps you figure out whether or not to do something.

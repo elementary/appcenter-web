@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.cassidyjames.dippi.desktop/
 ---
 
 Analyze any display. Input a few simple details and figure out the aspect ratio, DPI, and other details of a particular display. Great for deciding which laptop or external monitor to purchase, and if it would be considered HiDPI.Handy features:Find out if a display is a good choice based on its size and resolutionGet advice about different densitiesLearn the logical resolutionDifferentiate between laptops and desktop displaysStupid simple: all in a cute li'l windowBased my expertise and experience shipping HiDPI hardware and software at System76 and elementary.Tells you if a display’s density is:Very Low DPI,Fairly Low DPI,Ideal for LoDPI,Potentially Problematic,Ideal for HiDPI,Fairly High for HiDPI, orToo High DPISpecial thanks:Micah Ilbery for the shiny iconsDaniel Foré for his apps to use as code examples

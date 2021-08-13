@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.marbetschar.time-limit.desktop/
 ---
 
 Drag the blue arrow to set a timer. Release to start and click to pause. When the time is up, a notification will show up with a nice sound.Keyboard shortcuts:for pause/playto reset

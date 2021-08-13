@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.avojak.iridium.desktop/
 ---
 
 Easily connect and chat on any IRC server.Features include:Store your server connections and joined channels between sessionsConnect to servers securely with SSL supportFavorite channels for quick and easy accessPick up where you left off with automatic server reconnectionOptionally disable remembered connections for increased privacy

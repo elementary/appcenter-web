@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.donadigo.eddy.desktop/
 ---
 
 Install, uninstall and view information about debian packages.Features include:Install multiple packages at onceUpgrade and downgrade existing packagesLoad all packages automatically from your Downloads folderView history of previously installed appsComplete system integration including notifications and progress bar in the dock

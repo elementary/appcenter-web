@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.danrabbit.harvey.desktop.desktop/
 ---
 
 Calculate and visualize color contrast. Harvey checks a given set of colors for WCAG contrast compliance.Pick colors from your displaySee explanations for different grades on hoverQuit with the handy shortcut Ctrl + QJoin the contrast rebellion

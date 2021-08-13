@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.subhadeepjasu.pebbles.desktop/
 ---
 
 An advanced calculator that helps you with complicated calculations in your homeworkFeatures:Scientific modeProgrammer modeCalculus modeStatistics modeDate Calculation modeSome common unit converters

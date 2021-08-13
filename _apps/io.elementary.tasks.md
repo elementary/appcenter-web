@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: io.elementary.tasks.desktop/
 ---
 
 Designed and built to help manage all of your tasks and reminders. Create and complete tasks, manage lists and sync them across your machines using CalDAV.

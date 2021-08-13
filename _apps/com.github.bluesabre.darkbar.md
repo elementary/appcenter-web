@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.bluesabre.darkbar.desktop/
 ---
 
 Darkbar replaces window decorations with your preference of a dark or light theme variant.It allows the following settings for each application:None: Let the application decideFollow System Theme: Use the same theme as the operating systemLight: Prefer the "light" theme variantDark: Prefer the "dark" theme variantOnly applications using traditional decorations are supported. If your app is unaffected by Darkbar, the application controls its window decorations.

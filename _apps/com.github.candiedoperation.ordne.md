@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.candiedoperation.ordne.desktop/
 ---
 
 A simple Pomodoro Timer. Manage Work and Break Hours, Improve Productivity, Stay Focused.

@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: com.github.manexim.typewriter.desktop/
 ---
 
 Get lost in typing and don't worry about losing your precious work.

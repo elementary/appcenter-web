@@ -17,6 +17,7 @@ color:
 price: 0
 releases:
 
+redirect_from: io.elementary.camera.desktop/
 ---
 
 Camera is a simple app to take photos with a webcam.

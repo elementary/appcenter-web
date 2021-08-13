@@ -31,6 +31,7 @@ color:
 price: ((price))
 releases:
 ((releases))
+redirect_from: ((redirect))
 ---
 
 ((description))'
@@ -74,6 +75,7 @@ componentsData.css("components component").each do | component |
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)
+  appFile.sub!('((redirect))', id.content + ".desktop/")
   # appFile.sub!('((id))', doc['ID'])
 
   url = component.at_css('url')
