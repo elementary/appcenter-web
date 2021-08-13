@@ -32,6 +32,7 @@ jobs:
           apt update && apt install ruby
           ruby ./generate-loki.rb
           ruby ./generate-hera.rb
+          ruby ./generate-flatpak.rb
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           jekyll/builder:3 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
