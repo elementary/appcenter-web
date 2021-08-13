@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-
+  - https://raw.githubusercontent.com/subhadeepjasu/enigma/main/screenshots/screenshot_home.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.subhadeepjasu.enigma.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.subhadeepjasu.enigma.png

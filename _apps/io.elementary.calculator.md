@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-
+  - https://raw.githubusercontent.com/elementary/calculator/master/data/screenshot@2x.png
 icons:
 
 color:

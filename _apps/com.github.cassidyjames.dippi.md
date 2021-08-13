@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-
+  - https://raw.githubusercontent.com/cassidyjames/dippi/master/data/screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.dippi.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.dippi.png

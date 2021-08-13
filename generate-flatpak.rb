@@ -99,25 +99,16 @@ componentsData.css("components component").each do | component |
   if not custom_price.nil? and not custom_key.nil?
     price = custom_price.content
   end
-  # TODO
-  # unless doc['Custom'].nil?
-  #   unless doc['Custom']['x-appcenter-color-primary'].nil?
-  #     color_primary = doc['Custom']['x-appcenter-color-primary']
-  #   end
 
-  #   unless doc['Custom']['x-appcenter-color-primary-text'].nil?
-  #     color_text = doc['Custom']['x-appcenter-color-primary-text']
-  #   end
-
-  #   unless doc['Custom']['x-appcenter-suggested-price'].nil?
-  #     price = doc['Custom']['x-appcenter-suggested-price']
-  #   end
-  # end
   appFile.sub!('((color_primary))', color_primary)
   appFile.sub!('((color_text))', color_text)
   appFile.sub!('((price))', price)
 
   screenshots = ""
+  image = component.at_css('image')
+  if not image.nil?
+    screenshots += "  - " + image.content + "\n"
+  end
   # TODO:
   # releaseHash = ""
   # unless doc['Screenshots'].nil?

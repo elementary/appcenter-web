@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-
+  - https://gitlab.gnome.org/GNOME/evince/raw/master/data/screenshots/evince-1.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.gnome.Evince.png
   '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/org.gnome.Evince.png
