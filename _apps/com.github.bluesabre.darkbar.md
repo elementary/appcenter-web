@@ -9,7 +9,8 @@ dist: hera
 screenshots:
 
 icons:
-
+  '64': http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bluesabre.darkbar.png
+  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bluesabre.darkbar.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"

@@ -138,7 +138,18 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((screenshots))', screenshots.rstrip)
 
   icons = ""
-  # TODO
+  icon_prefix = "http://flatpak.elementary.io/repo/appstream/x86_64/icons/"
+
+  icon64 = component.at_css('icon[width="64"]')
+  if not icon64.nil?
+    icons += "  64: " + icon_prefix + "64x64/" + icon64.content + "\n"
+  end
+
+  icon128 = component.at_css('icon[width="128"]')
+  if not icon128.nil?
+    icons += "  '128': " + icon_prefix + "128x128/" + icon128.content + "\n"
+  end
+
   # unless doc['Icon'].nil? or doc['Icon']['cached'].nil?
   #   doc['Icon']['cached'].each do |icon|
   #     if not icon['scale'].nil?

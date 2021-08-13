@@ -20,19 +20,15 @@ color:
   {% for app in apps %}
     {% assign id = app.id | remove: '/' %}
     <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
-      {% if app.screenshots %}
-        <img
-          {% for icon in app.icons %}
-            {% if icon[0] == "64@2" %}
-              srcset="{{icon[1]}} 2x"
-            {% elsif icon[0] == "64" %}
-              src="{{icon[1]}}"
-            {% endif %}
-          {% endfor %}
-        alt="{{app.title}} icon" />
-      {% else %}
-        <img src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg" alt="No icon" />
-      {% endif %}
+      <img
+        {% for icon in app.icons %}
+          {% if icon[0] == "64@2" %}
+            srcset="{{icon[1]}} 2x"
+          {% elsif icon[0] == "64" %}
+            src="{{icon[1]}}"
+          {% endif %}
+        {% endfor %}
+      alt="{{app.title}} icon" />
 
       <span class="title">{{ app.title }}</span>
       <span class="summary">{{ app.summary }}</span>
