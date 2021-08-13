@@ -31,8 +31,6 @@ color:
 price: ((price))
 releases:
 ((releases))
-redirect_from:
-  - /((package)).desktop/
 ---
 
 ((description))'
@@ -46,8 +44,8 @@ componentsData.css("components component").each do | component |
 
   appFile = template.dup
 
-  id = component.at_css('id')
-  appFile.sub!('((title))', id.content)
+  name = component.at_css('name')
+  appFile.sub!('((title))', name.content)
   # title = doc['Name']['C']
   # appFile.sub!('((title))', title)
 
@@ -59,7 +57,7 @@ componentsData.css("components component").each do | component |
   if not dev_name.nil?
     developer = dev_name.content
   else
-    developer = id + 'Developers'
+    developer = name.content + ' Developers'
   end
   # if not doc['DeveloperName'].nil?
   #   dev = doc['DeveloperName']['C']
@@ -72,20 +70,25 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((description))', description.content)
   # appFile.sub!('((description))', doc['Description']['C'])
 
-  package = component.at_css('package')
-  appFile.sub!('((package))', package.content)
   # appFile.sub!('((package))', doc['Package'])
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)
   # appFile.sub!('((id))', doc['ID'])
 
-  if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
-    site = doc['Url']['homepage']
+  url = component.at_css('url')
+  if not url.nil? and not url.attribute("homepage").nil?
+    site = url.attribute("homepage")
   else
     site = "#"
   end
   appFile.sub!('((site))', site)
+  # if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
+  #   site = doc['Url']['homepage']
+  # else
+  #   site = "#"
+  # end
+  # appFile.sub!('((site))', site)
 
   if not doc['Url'].nil? and not doc['Url']['help'].nil?
     help = doc['Url']['help']
