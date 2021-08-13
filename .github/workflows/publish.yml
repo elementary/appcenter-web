@@ -30,6 +30,8 @@ jobs:
       - name: Build
         run: |
           apt update && apt install ruby
+          gem install jekyll bundler
+          bundle install
           ruby ./generate-loki.rb
           ruby ./generate-hera.rb
           ruby ./generate-flatpak.rb
