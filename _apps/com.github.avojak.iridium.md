@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/avojak/iridium/master/data/assets/screenshots/iridium-screenshot-01.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.iridium.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.iridium.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.iridium.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 5
 releases:
 
-redirect_from: com.github.avojak.iridium.desktop/
+redirect_from: /com.github.avojak.iridium.desktop/
 ---
 
 <p>Easily connect and chat on any IRC server.</p>

@@ -63,7 +63,7 @@ componentsData.css("components component").each do | component |
 
   id = component.at_css('id')
   appFile.sub!('((id))', id.content)
-  appFile.sub!('((redirect))', id.content + ".desktop/")
+  appFile.sub!('((redirect))', "/" + id.content + ".desktop/")
 
   url = component.at_css('url')
   if not url.nil? and not url.attribute("homepage").nil?

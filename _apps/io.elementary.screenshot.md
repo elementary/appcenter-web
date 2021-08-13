@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/elementary/screenshot/master/data/screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.screenshot.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.screenshot.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.screenshot.png
 color:
   primary: "#4c158a"
   primary-text: "#fff"
 price: 0
 releases:
 
-redirect_from: io.elementary.screenshot.desktop/
+redirect_from: /io.elementary.screenshot.desktop/
 ---
 
 <p>A simple screenshot tool. Capture whole screen shots, selected area shots, current window shots, and timed shots.</p>

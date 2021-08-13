@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/zelikos/rannum/main/data/screenshot1.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.zelikos.rannum.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.zelikos.rannum.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.zelikos.rannum.png
 color:
   primary: "#a56de2"
   primary-text: "#fff"
 price: 3
 releases:
 
-redirect_from: com.github.zelikos.rannum.desktop/
+redirect_from: /com.github.zelikos.rannum.desktop/
 ---
 
 <p>Simulate the results of rolling a die.</p>

@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/ryonakano/konbucase/main/data/Screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.konbucase.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.konbucase.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.konbucase.png
 color:
   primary: "#fafafa"
   primary-text: "#000000"
 price: 0
 releases:
 
-redirect_from: com.github.ryonakano.konbucase.desktop/
+redirect_from: /com.github.ryonakano.konbucase.desktop/
 ---
 
 <p>A small text tool app that allows you convert case in your text.</p>

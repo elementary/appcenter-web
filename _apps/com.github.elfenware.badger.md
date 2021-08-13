@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/elfenware/badger/master/data/window-screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.elfenware.badger.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.elfenware.badger.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.elfenware.badger.png
 color:
   primary: "#fff"
   primary-text: "#333"
 price: 0
 releases:
 
-redirect_from: com.github.elfenware.badger.desktop/
+redirect_from: /com.github.elfenware.badger.desktop/
 ---
 
 <p>Whether you're dashing through Mario Kart on MupenGUI, binge-watching Silicon Valley on Cinema, or writing your next novel on Quilter, you need to relax your body every once in a while.</p>

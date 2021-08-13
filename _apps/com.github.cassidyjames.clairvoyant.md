@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/cassidyjames/clairvoyant/master/data/screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.cassidyjames.clairvoyant.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.clairvoyant.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.cassidyjames.clairvoyant.png
 color:
   primary: "#0e141f"
   primary-text: "#fff"
 price: 1
 releases:
 
-redirect_from: com.github.cassidyjames.clairvoyant.desktop/
+redirect_from: /com.github.cassidyjames.clairvoyant.desktop/
 ---
 
 <p>Does he love you? Should you have pizza for dinner? Is there such thing as a stupid question? Discover the answers to these questions and more with Clairvoyant, the magic 8-ball inspired fortune teller.</p>

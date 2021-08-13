@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/bluesabre/darkbar/main/data/screenshots/1x.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bluesabre.darkbar.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bluesabre.darkbar.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bluesabre.darkbar.png
 color:
   primary: "#2a2a2a"
   primary-text: "rgb(255, 255, 255)"
 price: 2
 releases:
 
-redirect_from: com.github.bluesabre.darkbar.desktop/
+redirect_from: /com.github.bluesabre.darkbar.desktop/
 ---
 
 <p>Darkbar replaces window decorations with your preference of a dark or light theme variant.</p>

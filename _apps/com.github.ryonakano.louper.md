@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/ryonakano/louper/main/data/Screenshot.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
 color:
   primary: "#fafafa"
   primary-text: "#1a1a1a"
 price: 0
 releases:
 
-redirect_from: com.github.ryonakano.louper.desktop/
+redirect_from: /com.github.ryonakano.louper.desktop/
 ---
 
 <p>A text magnification app that helps you zoom the selected text.</p>

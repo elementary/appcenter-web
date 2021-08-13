@@ -10,14 +10,14 @@ screenshots:
   - https://raw.githubusercontent.com/subhadeepjasu/enigma/main/screenshots/screenshot_home.png
 icons:
   64: http://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.subhadeepjasu.enigma.png
-  '128': http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.subhadeepjasu.enigma.png
+  128: http://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.subhadeepjasu.enigma.png
 color:
   primary: "#57392D"
   primary-text: "#FFFFFF"
 price: 0
 releases:
 
-redirect_from: com.github.subhadeepjasu.enigma.desktop/
+redirect_from: /com.github.subhadeepjasu.enigma.desktop/
 ---
 
 <p>A classic 3-rotor Enigma machine emulator. This app is only for educational purpose. Enigma encryption is very weak compared to today's standards</p>
