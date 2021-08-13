@@ -13,7 +13,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/icons/128x128/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/icons/64x64@2/com.github.aimproxy.cyfrif_com.github.aimproxy.cyfrif.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

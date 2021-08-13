@@ -13,7 +13,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryanafrish7.satellite/FF3DB5089BE63A26C1C0E2E1CF1819A7/icons/128x128/com.github.ryanafrish7.satellite_com.github.ryanafrish7.satellite.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/ryanafrish7.satellite/FF3DB5089BE63A26C1C0E2E1CF1819A7/icons/64x64@2/com.github.ryanafrish7.satellite_com.github.ryanafrish7.satellite.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

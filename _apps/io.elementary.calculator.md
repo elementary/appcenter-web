@@ -11,7 +11,7 @@ screenshots:
 icons:
 
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:
