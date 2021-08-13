@@ -13,7 +13,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/128x128/com.github.panosx2.brightness_com.github.panosx2.brightness.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/icons/64x64@2/com.github.panosx2.brightness_com.github.panosx2.brightness.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

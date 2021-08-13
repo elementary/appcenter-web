@@ -17,7 +17,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/icons/128x128/com.github.treagod.spectator_com.github.treagod.spectator.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/icons/64x64@2/com.github.treagod.spectator_com.github.treagod.spectator.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 6
 releases:

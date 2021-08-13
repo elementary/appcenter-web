@@ -16,7 +16,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/icons/128x128/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/icons/64x64@2/com.github.dr-styki.screenrec_com.github.dr-styki.screenrec.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

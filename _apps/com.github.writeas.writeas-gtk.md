@@ -16,7 +16,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/128x128/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/icons/64x64@2/com.github.writeas.writeas-gtk_com.github.writeas.writeas-gtk.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 25
 releases:

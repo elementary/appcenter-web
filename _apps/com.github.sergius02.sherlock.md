@@ -16,7 +16,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.sherlock/49E1DF3D14DAE23D35EACF5B2052CE88/icons/128x128/com.github.sergius02.sherlock_com.github.sergius02.sherlock.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.sherlock/49E1DF3D14DAE23D35EACF5B2052CE88/icons/64x64@2/com.github.sergius02.sherlock_com.github.sergius02.sherlock.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

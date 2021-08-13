@@ -15,7 +15,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/syfds.soundy/07C2DB9A30D8DF839A45EFDA47540DFD/icons/128x128/com.github.syfds.soundy_com.github.syfds.soundy.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/syfds.soundy/07C2DB9A30D8DF839A45EFDA47540DFD/icons/64x64@2/com.github.syfds.soundy_com.github.syfds.soundy.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 0
 releases:

@@ -14,7 +14,7 @@ icons:
   "128": https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/CB0D8807CCCB19E52A4E92502207CEE3/icons/128x128/com.github.dahenson.agenda_com.github.dahenson.agenda.png
   "64@2": https://appstream.elementary.io/appcenter/media/bionic/com/github/dahenson.agenda/CB0D8807CCCB19E52A4E92502207CEE3/icons/64x64@2/com.github.dahenson.agenda_com.github.dahenson.agenda.png
 color:
-  primary: "#4c158a"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: 3
 releases:
