@@ -120,7 +120,7 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((screenshots))', screenshots.rstrip)
 
   icons = ""
-  icon_prefix = "http://flatpak.elementary.io/repo/appstream/x86_64/icons/"
+  icon_prefix = "https://flatpak.elementary.io/repo/appstream/x86_64/icons/"
 
   icon64 = component.at_css('icon[width="64"]')
   if not icon64.nil?
