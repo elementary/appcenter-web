@@ -13,6 +13,18 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.0.1
+  unix-timestamp: 1597104000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Include window decorations in screenshots for server-side decorated windows</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626220800
   description: |-
