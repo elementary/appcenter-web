@@ -15,6 +15,26 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 3.6.3
+  unix-timestamp: 1629072000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Ensure user installation is selected by default when navigating from the homepage</li>
+
+      <li>Fix opening apps from app installed toasts</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.6.2
   unix-timestamp: 1628467200
   description: |-
