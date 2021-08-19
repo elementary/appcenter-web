@@ -34,10 +34,14 @@ jobs:
 
       - name: Commit
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add -A
-          git commit -m "Automatic update of data" -a
+          FILES_CHANGED=$(git diff --name-only | wc -l)
+          if [[ $FILES_CHANGED != 0 ]] then;
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add -A
+            git commit -m "Automatic update of data" -a
+          else
+          fi
 
       - name: Push
         uses: ad-m/github-push-action@v0.6.0
