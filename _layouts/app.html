@@ -21,9 +21,9 @@ layout: default
     <p>{{ page.developer }}</p>
 
     {% if page.dist == "flatpak" %}
-      {% if page.price == 0 %}
+      {% unless page.price %}
         <a class="button suggested" href="https://flatpak.elementary.io/repo/appstream/{{ page.app_id }}.flatpakref" download="{{ page.title }}.flatpakref">Download as Flatpak</a>
-      {% endif %}
+      {% endunless %}
     {% endif %}
   </div>
 </header>
