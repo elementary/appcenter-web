@@ -35,7 +35,7 @@ jobs:
       - name: Commit
         run: |
           FILES_CHANGED=$(git diff --name-only | wc -l)
-          if [[ $FILES_CHANGED != 0 ]] then;
+          if [[ $FILES_CHANGED != 0 ]]; then
             git config --local user.email "action@github.com"
             git config --local user.name "GitHub Action"
             git add -A
