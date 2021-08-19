@@ -47,9 +47,9 @@ layout: default
       <div class="call-to-action">
         <a class="button" href="https://developer.elementary.io" target="_blank">Publish on AppCenter</a>
         {% if page.dist == "flatpak" %}
-          {% if page.price == 0 %}
+          {% unless page.price %}
             <a class="button suggested" href="https://flatpak.elementary.io/repo/appstream/{{ page.app_id }}.flatpakref" download="{{ page.title }}.flatpakref">Download as Flatpak</a>
-          {% endif %}
+          {% endunless %}
         {% endif %}
       </div>
     </section>
