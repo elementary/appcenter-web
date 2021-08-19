@@ -3,8 +3,9 @@ app_id: com.github.lainsce.niu
 title: "Niu"
 summary: "Watch and track date and time in an innovative way with this handy applet"
 developer: "Lains"
-homepage: "https://github.com/lainsce/niu/"
-help_page: "#"
+homepage: https://github.com/lainsce/niu/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.niu/F45A2AFA17724215862E7BB643793F0D/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#222222"
   primary-text: "#00DAC7"
-price: 0
+price: false
 releases:
 - version: 1.1.0
   unix-timestamp: 1580342400

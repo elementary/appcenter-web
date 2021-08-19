@@ -3,8 +3,9 @@ app_id: com.github.fleury08.prettifier
 title: "Prettifier"
 summary: "Prettify your JSON/XML outputs"
 developer: "Jaroslav Staněk"
-homepage: "https://jstanek.eu/"
-help_page: "https://github.com/fleury08/prettifier/issues"
+homepage: https://jstanek.eu/
+help_page: https://github.com/fleury08/prettifier/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/fleury08.prettifier/D103483DDB1115CB22E583DB924D3A47/screenshots/image-1_orig.png

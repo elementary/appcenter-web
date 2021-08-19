@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.snaptastic
 title: "Snaptastic"
 summary: "A manager for snaps"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/snaptastic"
-help_page: "https://github.com/bartzaalberg/snaptastic/issues"
+homepage: https://github.com/bartzaalberg/snaptastic
+help_page: https://github.com/bartzaalberg/snaptastic/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.snaptastic/7BA4F3F058F3010EF4A89B2DC8E01AA2/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.padjis.gcron
 title: "Gcron"
 summary: "Display, understand and edit your cron configuration"
 developer: "padjis"
-homepage: "https://github.com/padjis/gcron"
-help_page: "https://github.com/padjis/gcron/issues"
+homepage: https://github.com/padjis/gcron
+help_page: https://github.com/padjis/gcron/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.gcron/4EC29388A06ED2C64E7A399702FA76A6/screenshots/image-1_orig.png

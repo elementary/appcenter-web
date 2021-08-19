@@ -3,8 +3,9 @@ app_id: com.github.davidmhewitt.torrential
 title: "Torrential"
 summary: "Download torrents in style"
 developer: "David Hewitt"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/davidmhewitt/torrential
+help_page: https://github.com/davidmhewitt/torrential/issues
+bugtracker: https://github.com/davidmhewitt/torrential/issues
 dist: flatpak
 screenshots:
   - https://github.com/davidmhewitt/torrential/raw/main/data/com.github.davidmhewitt.torrential.screenshot.png

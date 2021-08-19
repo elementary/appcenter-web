@@ -3,8 +3,9 @@ app_id: com.github.keyilan.swatches
 title: "Swatches"
 summary: "Colour variation tool"
 developer: "柯禕藍"
-homepage: "https://github.com/keyilan/"
-help_page: "#"
+homepage: https://github.com/keyilan/
+help_page: false
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/keyilan.swatches/4694231EC032C16929FC167E8E3CAC20/screenshots/image-1_orig.png

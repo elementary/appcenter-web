@@ -3,8 +3,9 @@ app_id: com.github.naaando.lyrics
 title: "Lyrics"
 summary: "The beautiful way to sing your songs"
 developer: "Fernando da Silva Sousa"
-homepage: "https://github.com/naaando/lyrics"
-help_page: "#"
+homepage: https://github.com/naaando/lyrics
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.lyrics/51775EF2F0F4D1050EBDCDD3FA2A594F/screenshots/image-1_orig.png

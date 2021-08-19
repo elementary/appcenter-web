@@ -3,8 +3,9 @@ app_id: com.github.hezral.inspektor
 title: "Inspektor"
 summary: "View and export your files metadata easily"
 developer: "Adi Hezral"
-homepage: "https://github.com/hezral/inspektor"
-help_page: "https://github.com/hezral/inspektor/issues"
+homepage: https://github.com/hezral/inspektor
+help_page: https://github.com/hezral/inspektor/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/hezral.inspektor/8B52702F20F5A04A9CB22E0A7E675A76/screenshots/image-1_orig.png

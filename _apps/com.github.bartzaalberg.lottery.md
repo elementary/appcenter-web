@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.lottery
 title: "Lottery"
 summary: "Who will be the winner?"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/lottery"
-help_page: "https://github.com/bartzaalberg/lottery/issues"
+homepage: https://github.com/bartzaalberg/lottery
+help_page: https://github.com/bartzaalberg/lottery/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.lottery/63A6D1AC704FB4FD121C9AC01E171CB3/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "rgba(245, 245, 245, 1)"
   primary-text: "#fe2e56"
-price: 0
+price: false
 releases:
 - version: 1.6.0
   unix-timestamp: 1552953600

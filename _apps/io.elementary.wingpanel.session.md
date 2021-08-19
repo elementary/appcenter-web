@@ -6,15 +6,16 @@ compulsory: false
 title: "Session Indicator"
 summary: "Switch users, lock, log out, suspend, or shut down"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
 
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.3.0
   unix-timestamp: 1626134400

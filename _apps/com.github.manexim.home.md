@@ -3,8 +3,9 @@ app_id: com.github.manexim.home
 title: "Home"
 summary: "Control your smart home gadgets"
 developer: "Manexim"
-homepage: "https://github.com/manexim"
-help_page: "#"
+homepage: https://github.com/manexim
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.home/7C6F8C9EC7992D85B738F5D448729F8A/screenshots/image-1_orig.png

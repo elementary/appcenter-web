@@ -3,8 +3,9 @@ app_id: com.github.childishgiant.mixer
 title: "Mixer"
 summary: "Change the volume of apps"
 developer: "Allie Law"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/childishgiant/mixer
+help_page: https://github.com/childishgiant/mixer/issues
+bugtracker: https://github.com/childishgiant/mixer/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/childishgiant/mixer/master/docs/light.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.childishgiant.mixer.desktop/

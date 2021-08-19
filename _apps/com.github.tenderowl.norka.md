@@ -3,8 +3,9 @@ app_id: com.github.tenderowl.norka
 title: "Norka"
 summary: "Continuous text editor"
 developer: "Andrey Maksimov"
-homepage: "https://tenderowl.com/norka"
-help_page: "#"
+homepage: https://tenderowl.com/norka
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tenderowl.norka/B1696CDD05E4BE3731A6A9DB040F37CD/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.dbhowell.peeq
 title: "Peeq"
 summary: "Postgresql Client with programmer utilities"
 developer: "David Howell"
-homepage: "https://github.com/dbhowell/peeq"
-help_page: "https://github.com/dbhowell/peeq/issues"
+homepage: https://github.com/dbhowell/peeq
+help_page: https://github.com/dbhowell/peeq/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dbhowell.peeq/5468F6EB6A86F52877CB191CFACD9BBF/screenshots/image-1_orig.png

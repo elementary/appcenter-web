@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.vala-tester
 title: "Vala Tester"
 summary: "Test some Vala code!"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/vala-tester"
-help_page: "https://github.com/bartzaalberg/vala-tester/issues"
+homepage: https://github.com/bartzaalberg/vala-tester
+help_page: https://github.com/bartzaalberg/vala-tester/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.vala-tester/8622ADD835B49511E234B958DF66D06B/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
-price: 0
+price: false
 releases:
 - version: 1.1.0
   unix-timestamp: 1551657600

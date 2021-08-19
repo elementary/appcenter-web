@@ -6,15 +6,16 @@ compulsory: false
 title: "Date & Time Indicator"
 summary: "The date and time indicator"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/wingpanel-indicator-datetime_preferences-system-time.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.3.0
   unix-timestamp: 1626220800

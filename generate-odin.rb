@@ -19,8 +19,9 @@ compulsory: ((compulsory))
 title: "((title))"
 summary: "((summary))"
 developer: "((dev))"
-homepage: "((site))"
-help_page: "((help))"
+homepage: ((site))
+help_page: ((help))
+bugtracker: ((bugtracker))
 dist: odin
 icons:
 ((icons))
@@ -82,21 +83,27 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((compulsory))', compulsory)
 
-  site = "#"
+  site = "false"
   if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
     site = doc['Url']['homepage']
   end
   appFile.sub!('((site))', site)
 
-  help = "#"
+  help = "false"
   if not doc['Url'].nil? and not doc['Url']['help'].nil?
     help = doc['Url']['help']
   end
   appFile.sub!('((help))', help)
 
+  bugtracker = "false"
+  if not doc['Url'].nil? and not doc['Url']['bugtracker'].nil?
+    help = doc['Url']['bugtracker']
+  end
+  appFile.sub!('((bugtracker))', bugtracker)
+
   color_text = "#fff"
   color_primary = "#485a6c"
-  price = "0"
+  price = "false"
   unless doc['Custom'].nil?
     unless doc['Custom']['x-appcenter-color-primary'].nil?
       color_primary = doc['Custom']['x-appcenter-color-primary']

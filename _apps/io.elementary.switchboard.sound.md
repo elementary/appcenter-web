@@ -6,15 +6,16 @@ compulsory: false
 title: "Sound Settings"
 summary: "Change sound and microphone volume"
 developer: "elementary, Inc."
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-sound_preferences-desktop-sound.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.2.7
   unix-timestamp: 1626220800

@@ -3,8 +3,9 @@ app_id: com.github.bcedu.shutdownscheduler
 title: "Shutdown Scheduler"
 summary: "Schedule your computer's shutdown easily"
 developer: "Eduard Berloso Clarà"
-homepage: "https://github.com/bcedu/ShutdownScheduler"
-help_page: "https://github.com/bcedu/ShutdownScheduler/issues"
+homepage: https://github.com/bcedu/ShutdownScheduler
+help_page: https://github.com/bcedu/ShutdownScheduler/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.shutdownscheduler/8CE2CD37D65E14750AB64B4AFDA39DE7/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.6.3
   unix-timestamp: 1572393600

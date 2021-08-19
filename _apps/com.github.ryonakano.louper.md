@@ -3,8 +3,9 @@ app_id: com.github.ryonakano.louper
 title: "Louper"
 summary: "Magnify the selected text"
 developer: "Ryo Nakano"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/ryonakano/louper
+help_page: https://github.com/ryonakano/louper/discussions
+bugtracker: https://github.com/ryonakano/louper/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/louper/main/data/Screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fafafa"
   primary-text: "#1a1a1a"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.ryonakano.louper.desktop/

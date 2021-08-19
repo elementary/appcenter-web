@@ -6,8 +6,9 @@ compulsory: Pantheon
 title: "AppCenter"
 summary: "Browse and manage apps"
 developer: "elementary, Inc."
-homepage: "http://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/appcenter"
+homepage: http://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/appcenter
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/appcenter_io.elementary.appcenter.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 3.6.3
   unix-timestamp: 1629072000

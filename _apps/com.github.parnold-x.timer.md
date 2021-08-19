@@ -3,8 +3,9 @@ app_id: com.github.parnold-x.timer
 title: "Timer"
 summary: "The ultimate tea timer"
 developer: "Peter Arnold"
-homepage: "https://github.com/parnold-x/timer"
-help_page: "#"
+homepage: https://github.com/parnold-x/timer
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.timer/02BD2671131BB025EB89F460671BC004/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "rgb(234, 255, 198)"
   primary-text: "rgb(23, 107, 0)"
-price: 0
+price: false
 releases:
 - version: 0.3.1
   unix-timestamp: 1574812800

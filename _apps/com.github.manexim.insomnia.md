@@ -3,8 +3,9 @@ app_id: com.github.manexim.insomnia
 title: "Insomnia"
 summary: "Prevent the display from being turned off or the device from going into sleep mode"
 developer: "Manexim"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/manexim
+help_page: false
+bugtracker: https://github.com/manexim/insomnia/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/manexim/insomnia/master/data/screenshots/000.png

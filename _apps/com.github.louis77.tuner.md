@@ -3,8 +3,9 @@ app_id: com.github.louis77.tuner
 title: "Tuner"
 summary: "Discover and listen to internet radio stations"
 developer: "Louis Brauer"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/louis77/tuner
+help_page: http://github.com/louis77/tuner/issues
+bugtracker: http://github.com/louis77/tuner/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/louis77/tuner/master/docs/screen_light_1.4.2.png

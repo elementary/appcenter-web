@@ -6,15 +6,16 @@ compulsory: false
 title: "User Accounts Settings"
 summary: "Manage account permissions and configure user names, passwords, and photos"
 developer: "User Accounts Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-useraccounts_system-users.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.4.0
   unix-timestamp: 1626220800

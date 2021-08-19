@@ -3,8 +3,9 @@ app_id: com.github.efdos.mupengui
 title: "MupenGUI"
 summary: "Easy Mupen64Plus FrontEnd"
 developer: "Douglas Muratore"
-homepage: "http://github.com/efdos/MupenGUI"
-help_page: "http://github.com/efdos/MupenGUI/issues"
+homepage: http://github.com/efdos/MupenGUI
+help_page: http://github.com/efdos/MupenGUI/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/efdos.mupengui/D13C00FC8675A56F1F24253B6F5EF240/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.8.7
   unix-timestamp: 1519171200

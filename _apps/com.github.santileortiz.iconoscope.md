@@ -3,8 +3,9 @@ app_id: com.github.santileortiz.iconoscope
 title: "Iconoscope"
 summary: "Explore the icon database in your system."
 developer: "Santiago León O."
-homepage: "https://github.com/santileortiz/Iconoscope"
-help_page: "#"
+homepage: https://github.com/santileortiz/Iconoscope
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/santileortiz.iconoscope/7DD49619A73B67066A984EB62F06728D/screenshots/image-1_orig.png

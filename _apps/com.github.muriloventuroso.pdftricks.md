@@ -3,8 +3,9 @@ app_id: com.github.muriloventuroso.pdftricks
 title: "PDF Tricks"
 summary: "Tricks for PDF Files"
 developer: "Murilo Venturoso"
-homepage: "https://github.com/muriloventuroso/pdftricks"
-help_page: "#"
+homepage: https://github.com/muriloventuroso/pdftricks
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.pdftricks/4B1997BD2C839FC681D7880A47C25DAB/screenshots/image-1_orig.png

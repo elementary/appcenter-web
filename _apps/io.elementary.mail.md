@@ -6,8 +6,9 @@ compulsory: false
 title: "Mail"
 summary: "Send and receive mail"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://github.com/elementary/mail/discussions/categories/q-a"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/mail/discussions/categories/q-a
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.mail_io.elementary.mail.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.1.0
   unix-timestamp: 1627430400

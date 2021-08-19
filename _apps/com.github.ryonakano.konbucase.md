@@ -3,8 +3,9 @@ app_id: com.github.ryonakano.konbucase
 title: "KonbuCase"
 summary: "Convert case in your text"
 developer: "Ryo Nakano"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/ryonakano/konbucase
+help_page: https://github.com/ryonakano/konbucase/discussions
+bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/konbucase/main/data/Screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fafafa"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.ryonakano.konbucase.desktop/

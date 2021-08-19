@@ -3,8 +3,9 @@ app_id: com.github.ryonakano.reco
 title: "Reco"
 summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
-homepage: "https://github.com/ryonakano/reco"
-help_page: "https://github.com/ryonakano/reco/discussions"
+homepage: https://github.com/ryonakano/reco
+help_page: https://github.com/ryonakano/reco/discussions
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryonakano.reco/4ED2D39BA0C86520B664FB6D9B863A78/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#a10705"
   primary-text: "#ffffff"
-price: 0
+price: false
 releases:
 - version: 2.4.5
   unix-timestamp: 1618272000

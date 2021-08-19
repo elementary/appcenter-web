@@ -3,8 +3,9 @@ app_id: com.github.donadigo.appeditor
 title: "AppEditor"
 summary: "Edit application menu"
 developer: "Adam Bieńkowski"
-homepage: "https://github.com/donadigo/appeditor"
-help_page: "https://github.com/donadigo/appeditor"
+homepage: https://github.com/donadigo/appeditor
+help_page: https://github.com/donadigo/appeditor
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/donadigo.appeditor/F19F284BE57C9E27370BCAE1FCFFBDA4/screenshots/image-1_orig.png

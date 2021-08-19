@@ -3,8 +3,9 @@ app_id: com.github.calo001.luna
 title: "Luna"
 summary: "An amazing calendar widget"
 developer: "Carlos Lopez"
-homepage: "https://github.com/calo001/luna"
-help_page: "https://github.com/calo001/luna/issues"
+homepage: https://github.com/calo001/luna
+help_page: https://github.com/calo001/luna/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/calo001.luna/4FCED7A1231AE3732BE2864B0CA9277D/screenshots/image-1_orig.png

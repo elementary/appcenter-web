@@ -3,8 +3,9 @@ app_id: com.github.ranfdev.raddiu
 title: "Raddiu"
 summary: "Program to listen to web radios"
 developer: "ranfdev"
-homepage: "http://github.com/ranfdev/raddiu"
-help_page: "http://github.com/ranfdev/raddiu/issues"
+homepage: http://github.com/ranfdev/raddiu
+help_page: http://github.com/ranfdev/raddiu/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ranfdev.raddiu/3599D272B9F99CF6006F657E5FA70AC4/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#ffe16b"
   primary-text: "#000"
-price: 0
+price: false
 releases:
 - version: 1.1.1
   unix-timestamp: 1556409600

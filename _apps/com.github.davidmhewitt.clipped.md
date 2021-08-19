@@ -3,8 +3,9 @@ app_id: com.github.davidmhewitt.clipped
 title: "Clipped"
 summary: "Manage your clipboard with ease"
 developer: "David Hewitt"
-homepage: "https://github.com/davidmhewitt/clipped"
-help_page: "https://github.com/davidmhewitt/clipped/issues"
+homepage: https://github.com/davidmhewitt/clipped
+help_page: https://github.com/davidmhewitt/clipped/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/davidmhewitt.clipped/1C8712DE837295E9F26275CD24BD99E6/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#e3bab1"
   primary-text: "#2b313d"
-price: 0
+price: false
 releases:
 - version: 1.1.1
   unix-timestamp: 1557878400

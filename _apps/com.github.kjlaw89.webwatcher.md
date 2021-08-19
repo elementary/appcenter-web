@@ -3,8 +3,9 @@ app_id: com.github.kjlaw89.webwatcher.desktop
 title: "Web Watcher"
 summary: "Know when your websites are misbehaving!"
 developer: "KJ Lawrence"
-homepage: "https://kjlaw89.github.io/webwatcher/"
-help_page: "https://github.com/kjlaw89/webwatcher/issues"
+homepage: https://kjlaw89.github.io/webwatcher/
+help_page: https://github.com/kjlaw89/webwatcher/issues
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.webwatcher.desktop/CA9DF0CE9C19A5D6BD068190C697E2A2/screenshots/image-1_orig.png

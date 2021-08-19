@@ -3,8 +3,9 @@ app_id: com.github.alainm23.byte
 title: "Byte"
 summary: "Rediscover your music"
 developer: "Alain M."
-homepage: "https://github.com/alainm23/byte"
-help_page: "https://www.patreon.com/alainm23"
+homepage: https://github.com/alainm23/byte
+help_page: https://www.patreon.com/alainm23
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.byte/C2C1A59F4DB2D0260B864DC3F1C802C5/screenshots/image-1_orig.png

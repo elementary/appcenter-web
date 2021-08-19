@@ -6,8 +6,9 @@ compulsory: false
 title: "Power Indicator"
 summary: "View battery levels, adjust display brightness, and see apps using lots of power"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/wingpanel-indicator-power_preferences-system-power.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626220800

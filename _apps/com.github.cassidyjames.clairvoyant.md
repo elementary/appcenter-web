@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.clairvoyant
 title: "Clairvoyant"
 summary: "Get psychic answers from this fortune teller"
 developer: "Cassidy James Blaede"
-homepage: "#"
-help_page: "#"
+homepage: https://cassidyjames.com
+help_page: https://cassidyjames.com/support
+bugtracker: https://github.com/cassidyjames/clairvoyant/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/cassidyjames/clairvoyant/master/data/screenshot.png

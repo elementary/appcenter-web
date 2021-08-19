@@ -3,8 +3,9 @@ app_id: com.github.jmoerman.go-for-it
 title: "Go For It!"
 summary: "A stylish to-do list with built-in productivity timer"
 developer: "The Go For It! developers"
-homepage: "https://jmoerman.github.io/go-for-it/"
-help_page: "https://github.com/JMoerman/Go-For-It/blob/master/README.md"
+homepage: https://jmoerman.github.io/go-for-it/
+help_page: https://github.com/JMoerman/Go-For-It/blob/master/README.md
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jmoerman.go-for-it/AD11A566D34188787204D1209FD05369/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"
-price: 0
+price: false
 releases:
 - version: 1.9.2
   unix-timestamp: 1615161600

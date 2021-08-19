@@ -3,8 +3,9 @@ app_id: com.github.devalien.workspaces
 title: "Workspaces"
 summary: "Always be ready for work"
 developer: "Goncalo Margalho"
-homepage: "http://github.com/DevAlien/workspaces"
-help_page: "http://github.com/DevAlien/workspaces/issues"
+homepage: http://github.com/DevAlien/workspaces
+help_page: http://github.com/DevAlien/workspaces/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/devalien.workspaces/02395CDA9CF0C0DF46BFB3954C2B319E/screenshots/image-1_orig.png

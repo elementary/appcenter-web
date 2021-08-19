@@ -6,15 +6,16 @@ compulsory: Pantheon
 title: "Multitasking & Window Management"
 summary: "A window & compositing manager for Pantheon"
 developer: "elementary, Inc."
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
 
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.1
   unix-timestamp: 1597104000

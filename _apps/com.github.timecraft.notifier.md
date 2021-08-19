@@ -3,8 +3,9 @@ app_id: com.github.timecraft.notifier
 title: "Notifier"
 summary: "Never forget to do something"
 developer: "Timecraft"
-homepage: "https://github.com/Timecraft/notifier"
-help_page: "https://github.com/Timecraft/notifier/issues"
+homepage: https://github.com/Timecraft/notifier
+help_page: https://github.com/Timecraft/notifier/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.notifier/88FEDC5E593DB35E2115AA89ADD4F3E4/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#ffe16b"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 - version: 2.1.1
   unix-timestamp: 1539648000

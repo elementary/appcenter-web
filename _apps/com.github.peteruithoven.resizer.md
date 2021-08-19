@@ -3,8 +3,9 @@ app_id: com.github.peteruithoven.resizer
 title: "Resizer"
 summary: "Quickly resize images from the context menu"
 developer: "Peter Uithoven"
-homepage: "https://github.com/peteruithoven/resizer"
-help_page: "https://github.com/peteruithoven/resizer/issues"
+homepage: https://github.com/peteruithoven/resizer
+help_page: https://github.com/peteruithoven/resizer/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/peteruithoven.resizer/093C7E3C3D0457147C41C5585DB91526/screenshots/image-1_orig.png
@@ -19,7 +20,7 @@ icons:
 color:
   primary: "#60caee"
   primary-text: "#ffffff"
-price: 0
+price: false
 releases:
 - version: 1.1.2
   unix-timestamp: 1581724800

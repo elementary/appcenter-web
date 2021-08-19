@@ -6,15 +6,16 @@ compulsory: false
 title: "Applications Menu"
 summary: "Open and search for apps"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/applications-menu"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/applications-menu
+bugtracker: false
 dist: odin
 icons:
 
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.8.0
   unix-timestamp: 1626220800

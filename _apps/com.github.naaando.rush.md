@@ -3,8 +3,9 @@ app_id: com.github.naaando.rush
 title: "Rush"
 summary: "A timer to use pomodoro technique"
 developer: "Fernando da Silva Sousa"
-homepage: "https://github.com/naaando/rush"
-help_page: "#"
+homepage: https://github.com/naaando/rush
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/naaando.rush/1AC6A5A46205D383F72FECCCE1FA9F33/screenshots/image-1_orig.png

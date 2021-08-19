@@ -3,8 +3,9 @@ app_id: com.github.linuxhubit.shouldidoit
 title: "Should I do it"
 summary: "Should I do it?"
 developer: "Mirko Brombin"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/linuxhubit/shouldidoit
+help_page: https://github.com/linuxhubit/shouldidoit
+bugtracker: https://github.com/linuxhubit/shouldidoit/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/linuxhubit/shouldidoit/master/data/screenshot-1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#aa5fb0"
   primary-text: "#ffffff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.linuxhubit.shouldidoit.desktop/

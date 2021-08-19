@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.sudokular
 title: "Sudokular"
 summary: "The number that is alone"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/sudokular"
-help_page: "https://github.com/bartzaalberg/sudokular/issues"
+homepage: https://github.com/bartzaalberg/sudokular
+help_page: https://github.com/bartzaalberg/sudokular/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.sudokular/84D0439BCAB9CB1B465C89E298BAC1BF/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "rgb(230, 199, 168)"
   primary-text: "rgb(0, 0, 0)"
-price: 0
+price: false
 releases:
 - version: 1.1.0
   unix-timestamp: 1574899200

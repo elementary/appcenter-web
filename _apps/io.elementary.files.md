@@ -6,8 +6,9 @@ compulsory: false
 title: "Files"
 summary: "Browse and manage files and folders"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://github.com/elementary/files/discussions/categories/q-a"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/files/discussions/categories/q-a
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/pantheon-files_system-file-manager.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.1
   unix-timestamp: 1627862400

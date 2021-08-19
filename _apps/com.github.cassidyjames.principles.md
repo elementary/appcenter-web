@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.principles
 title: "Principles"
 summary: "Remember Dieter Rams' ten principles of good design"
 developer: "Cassidy James Blaede"
-homepage: "https://github.com/cassidyjames/principles"
-help_page: "https://cassidyjames.com/support"
+homepage: https://github.com/cassidyjames/principles
+help_page: https://cassidyjames.com/support
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.principles/DFF937644AFC13A49AFF1FBC66BBB45C/screenshots/image-1_orig.png

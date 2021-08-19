@@ -3,8 +3,9 @@ app_id: com.github.bluesabre.darkbar
 title: "Darkbar"
 summary: "Darken application titlebars based on your preference"
 developer: "Sean Davis"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/bluesabre/darkbar
+help_page: false
+bugtracker: https://github.com/bluesabre/darkbar/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/bluesabre/darkbar/main/data/screenshots/1x.png

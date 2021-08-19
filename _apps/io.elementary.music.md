@@ -6,8 +6,9 @@ compulsory: false
 title: "Music"
 summary: "The official elementary music player"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/noise"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/noise
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/noise_io.elementary.music.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 5.1.1
   unix-timestamp: 1626393600

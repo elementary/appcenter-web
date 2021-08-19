@@ -3,8 +3,9 @@ app_id: com.github.lainsce.palaura
 title: "Palaura"
 summary: "Find any word's definition with this handy dictionary"
 developer: "Lains"
-homepage: "https://github.com/lainsce/palaura/"
-help_page: "#"
+homepage: https://github.com/lainsce/palaura/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.palaura/6DEE86F927DA71B920521DBB461D2D51/screenshots/image-1_orig.png

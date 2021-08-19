@@ -6,8 +6,9 @@ compulsory: false
 title: "Calendar"
 summary: "View and schedule events"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://github.com/elementary/calendar/discussions/categories/q-a"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/calendar/discussions/categories/q-a
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/maya-calendar_io.elementary.calendar.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626652800

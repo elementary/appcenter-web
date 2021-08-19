@@ -6,15 +6,16 @@ compulsory: false
 title: "Bluetooth Indicator"
 summary: "Connect and disconnect paired Bluetooth devices"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/wingpanel-indicator-bluetooth_preferences-bluetooth.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.1.7
   unix-timestamp: 1626220800

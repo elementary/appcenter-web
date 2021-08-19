@@ -6,8 +6,9 @@ compulsory: false
 title: "Videos"
 summary: "Watch videos and movies"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/videos"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/videos
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.videos_io.elementary.videos.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.7.3
   unix-timestamp: 1626220800

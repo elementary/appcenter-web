@@ -3,8 +3,9 @@ app_id: com.github.lainsce.notejot
 title: "Notejot"
 summary: "Jot your ideas"
 developer: "Lains"
-homepage: "https://github.com/lainsce/notejot/"
-help_page: "#"
+homepage: https://github.com/lainsce/notejot/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.notejot/9C329326870069327FE21B23D65C2FAE/screenshots/image-1_orig.png

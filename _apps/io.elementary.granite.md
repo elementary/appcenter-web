@@ -6,15 +6,16 @@ compulsory: Pantheon
 title: "Granite"
 summary: "Build consistent and usable apps more quickly and easily"
 developer: "elementary, Inc."
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
 
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.1.0
   unix-timestamp: 1626134400

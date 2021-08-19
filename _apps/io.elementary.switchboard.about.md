@@ -6,8 +6,9 @@ compulsory: false
 title: "System"
 summary: "View operating system and hardware information"
 developer: "System Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-about_application-x-firmware.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626307200

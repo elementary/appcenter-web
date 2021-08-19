@@ -3,8 +3,9 @@ app_id: com.github.dcharles525.pho
 title: "Pho"
 summary: "Pho for 4chan"
 developer: "David Johnson"
-homepage: "https://github.com/dcharles525/pho"
-help_page: "#"
+homepage: https://github.com/dcharles525/pho
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dcharles525.pho/A34EBDD66D733C4C3A653E0440B56EA5/screenshots/image-1_orig.png

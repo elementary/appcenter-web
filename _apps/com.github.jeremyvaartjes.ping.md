@@ -3,8 +3,9 @@ app_id: com.github.jeremyvaartjes.ping
 title: "Ping!"
 summary: "Test your API against some data"
 developer: "Jeremy Vaartjes"
-homepage: "https://jeremy.vaartj.es"
-help_page: "#"
+homepage: https://jeremy.vaartj.es
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.ping/700CF8A4BCC851E28EDE47C92C399A17/screenshots/image-1_orig.png

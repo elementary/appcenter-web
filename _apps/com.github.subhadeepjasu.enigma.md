@@ -3,8 +3,9 @@ app_id: com.github.subhadeepjasu.enigma
 title: "Enigma"
 summary: "An Enigma Machine emulator"
 developer: "Subhadeep Jasu"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/SubhadeepJasu/enigma
+help_page: https://github.com/SubhadeepJasu/enigma/issues/new
+bugtracker: https://github.com/SubhadeepJasu/enigma/issues/labels/bug
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/subhadeepjasu/enigma/main/screenshots/screenshot_home.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#57392D"
   primary-text: "#FFFFFF"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.subhadeepjasu.enigma.desktop/

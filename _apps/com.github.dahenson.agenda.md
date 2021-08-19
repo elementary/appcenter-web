@@ -3,8 +3,9 @@ app_id: com.github.dahenson.agenda
 title: "Agenda"
 summary: "Get things done"
 developer: "Dane Henson"
-homepage: "#"
-help_page: "#"
+homepage: http://brainofdane.com
+help_page: false
+bugtracker: https://github.com/dahenson/agenda/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/dahenson/agenda/master/data/screenshot.png

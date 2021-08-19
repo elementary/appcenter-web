@@ -3,8 +3,9 @@ app_id: com.github.manexim.typewriter
 title: "Typewriter"
 summary: "A minimal writer with autosave"
 developer: "Manexim"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/manexim
+help_page: false
+bugtracker: https://github.com/manexim/typewriter/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/manexim/typewriter/master/data/screenshots/000.png

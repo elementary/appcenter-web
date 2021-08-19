@@ -3,8 +3,9 @@ app_id: com.github.phase1geo.textshine
 title: "TextShine"
 summary: "Powerfully transform text"
 developer: "Trevor Williams"
-homepage: "https://github.com/phase1geo/TextShine"
-help_page: "https://github.com/phase1geo/TextShine/wiki"
+homepage: https://github.com/phase1geo/TextShine
+help_page: https://github.com/phase1geo/TextShine/wiki
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/phase1geo.textshine/A1AECE22CB77A28D4F38DAAB516310CB/screenshots/image-1_orig.png

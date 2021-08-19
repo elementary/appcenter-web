@@ -3,8 +3,9 @@ app_id: com.github.phase1geo.outliner
 title: "Outliner"
 summary: "Organize your words"
 developer: "Trevor Williams"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/phase1geo/Outliner
+help_page: https://github.com/phase1geo/Outliner/wiki
+bugtracker: https://github.com/phase1geo/Outliner/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Outliner/master/data/screenshots/screenshot-solarized-light.png

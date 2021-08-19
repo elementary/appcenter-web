@@ -6,15 +6,16 @@ compulsory: false
 title: "Bluetooth Settings"
 summary: "Configure Bluetooth Settings"
 developer: "Bluetooth Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-bluetooth_bluetooth.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.3.6
   unix-timestamp: 1626134400

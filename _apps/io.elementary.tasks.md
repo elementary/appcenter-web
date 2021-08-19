@@ -3,8 +3,9 @@ app_id: io.elementary.tasks
 title: "Tasks"
 summary: "Synced tasks and reminders"
 developer: "elementary, Inc."
-homepage: "#"
-help_page: "#"
+homepage: http://elementary.io
+help_page: false
+bugtracker: https://github.com/elementary/tasks/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/tasks/master/data/screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /io.elementary.tasks.desktop/

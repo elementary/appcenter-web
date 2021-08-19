@@ -3,8 +3,9 @@ app_id: com.github.padjis.ghistory
 title: "ghistory"
 summary: "Graphic interface for your bash history"
 developer: "padjis"
-homepage: "https://github.com/padjis/ghistory"
-help_page: "https://github.com/padjis/ghistory/issues"
+homepage: https://github.com/padjis/ghistory
+help_page: https://github.com/padjis/ghistory/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/padjis.ghistory/F898F4FCCCF4830695F5A5DFF9AB28A9/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.nick92.tranqil.desktop
 title: "Tranqil"
 summary: "Relax to soothing sounds of nature"
 developer: "Nick Wilkins"
-homepage: "https://github.com/nick92/tranqil"
-help_page: "#"
+homepage: https://github.com/nick92/tranqil
+help_page: false
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/nick92.tranqil.desktop/EB437DA612CD1E7116F0DA3634FE69AF/screenshots/image-1_orig.png

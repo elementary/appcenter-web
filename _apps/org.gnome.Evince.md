@@ -3,8 +3,9 @@ app_id: org.gnome.Evince
 title: "Evince"
 summary: "Document viewer for popular document formats"
 developer: "Evince Developers"
-homepage: "#"
-help_page: "#"
+homepage: https://wiki.gnome.org/Apps/Evince
+help_page: false
+bugtracker: https://wiki.gnome.org/Apps/Evince/ReportingBugs
 dist: flatpak
 screenshots:
   - https://gitlab.gnome.org/GNOME/evince/raw/master/data/screenshots/evince-1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /org.gnome.Evince.desktop/

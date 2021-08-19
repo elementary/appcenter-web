@@ -3,8 +3,9 @@ app_id: com.github.christophernugent.locksmith
 title: "Locksmith"
 summary: "Generate strong, secure passwords"
 developer: "Christopher Nugent"
-homepage: "https://github.com/ChristopherNugent/Locksmith"
-help_page: "https://github.com/ChristopherNugent/Locksmith/issues"
+homepage: https://github.com/ChristopherNugent/Locksmith
+help_page: https://github.com/ChristopherNugent/Locksmith/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/christophernugent.locksmith/5DB6FA6631ECFB3188E63C375639C0AD/screenshots/image-1_orig.png

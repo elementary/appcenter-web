@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.php-tester
 title: "PHP Tester"
 summary: "Test some PHP code!"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/php-tester"
-help_page: "https://github.com/bartzaalberg/php-tester/issues"
+homepage: https://github.com/bartzaalberg/php-tester
+help_page: https://github.com/bartzaalberg/php-tester/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.php-tester/F3A514F3A736F64C4ED54515EEB11907/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "rgb(100, 87, 133)"
   primary-text: "#FFF"
-price: 0
+price: false
 releases:
 - version: 1.9.0
   unix-timestamp: 1553126400

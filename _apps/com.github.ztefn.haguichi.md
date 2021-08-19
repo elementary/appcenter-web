@@ -3,8 +3,9 @@ app_id: com.github.ztefn.haguichi
 title: "Haguichi"
 summary: "A graphical frontend for Hamachi"
 developer: "Stephen Brandt"
-homepage: "https://haguichi.net"
-help_page: "https://haguichi.net/tips-and-tricks/"
+homepage: https://haguichi.net
+help_page: https://haguichi.net/tips-and-tricks/
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ztefn.haguichi/96900846BF9AEED4D0A46333CCD78A62/screenshots/image-1_orig.png

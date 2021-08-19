@@ -6,15 +6,16 @@ compulsory: false
 title: "Sound Indicator"
 summary: "Adjust speaker and microphone volume or see Now Playing information and media controls"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/wingpanel-indicator-sound_preferences-desktop-sound.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626220800

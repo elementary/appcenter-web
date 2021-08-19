@@ -38,7 +38,7 @@ layout: default
     {{ content }}
 
     <section class="get-it constrain">
-      <h2>Get it {% if page.price != 0 %}for <strong>${{ page.price }}</strong>{% endif %} on AppCenter</h2>
+      <h2>Get it {% if page.price %}for <strong>${{ page.price }}</strong>{% endif %} on AppCenter</h2>
       <p>Get {{ page.title }} and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Every app is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 
       {% include loki.html %}
@@ -69,13 +69,15 @@ layout: default
 <footer>
   <div class="constrain">
     <a class="button go-home" href="/">← All Apps</a>
-    {% if page.homepage != "#" %}
-      <a class="button" href="{{ page.homepage }}" target="_blank">App Homepage</a>
+    {% if page.homepage %}
+      <a class="button" href="{{ page.homepage }}" target="_blank">Homepage</a>
     {% endif %}
-    {% if page.help_page != "#" %}
-      <a class="button" href="{{ page.help_page }}" target="_blank">App Help</a>
+    {% if page.bugtracker %}
+      <a class="button" href="{{ page.bugtracker }}" target="_blank">Send Feedback</a>
     {% endif %}
-    <a class="button" href="https://elementary.io/" target="_blank">Get elementary OS</a>
+    {% if page.help_page %}
+      <a class="button" href="{{ page.help_page }}" target="_blank">Help</a>
+    {% endif %}
   </div>
 </footer>
 

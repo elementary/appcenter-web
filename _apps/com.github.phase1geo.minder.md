@@ -3,8 +3,9 @@ app_id: com.github.phase1geo.minder
 title: "Minder"
 summary: "Create, develop and visualize your ideas"
 developer: "Trevor Williams"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/phase1geo/minder/
+help_page: false
+bugtracker: https://github.com/phase1geo/minder/issues/
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Minder/master/data/screenshots/screenshot-current-properties.png

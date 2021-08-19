@@ -6,8 +6,9 @@ compulsory: false
 title: "Power Settings"
 summary: "Configure display brightness, power buttons, and suspend behavior"
 developer: "Power Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-power_preferences-system-power.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.5.0
   unix-timestamp: 1626220800

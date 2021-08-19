@@ -3,8 +3,9 @@ app_id: com.github.skarva.lockbox
 title: "Lock Box"
 summary: "Lock your secrets up tight"
 developer: "skarva llc"
-homepage: "https://skarva.tech"
-help_page: "#"
+homepage: https://skarva.tech
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/skarva.lockbox/27B87A3ED73A27DBC1228E96F74A0C9D/screenshots/image-1_orig.png

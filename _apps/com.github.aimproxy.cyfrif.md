@@ -3,8 +3,9 @@ app_id: com.github.aimproxy.cyfrif
 title: "Cyfrif"
 summary: "Time Management App using Pomodoro Technique"
 developer: "Micael Dias (@aimproxy)"
-homepage: "https://github.com/aimproxy/cyfrif"
-help_page: "#"
+homepage: https://github.com/aimproxy/cyfrif
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.cyfrif/3F343156938E372E1732A56C1083581D/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.1.7
   unix-timestamp: 1564012800

@@ -3,8 +3,9 @@ app_id: com.github.stsdc.monitor
 title: "Monitor"
 summary: "Manage processes and monitor system resources"
 developer: "Stanisław Dac"
-homepage: "https://github.com/stsdc/monitor"
-help_page: "https://github.com/stsdc/monitor/issues"
+homepage: https://github.com/stsdc/monitor
+help_page: https://github.com/stsdc/monitor/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/stsdc.monitor/47E585E37987310F845A43DC84088476/screenshots/image-1_orig.png

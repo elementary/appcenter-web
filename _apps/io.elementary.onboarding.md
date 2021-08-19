@@ -6,8 +6,9 @@ compulsory: Pantheon
 title: "Welcome"
 summary: "Change common settings on first-run"
 developer: "elementary, Inc."
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.onboarding_io.elementary.onboarding.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1594684800

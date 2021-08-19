@@ -6,8 +6,9 @@ compulsory: Pantheon
 title: "System Settings"
 summary: "Change system and user settings"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/settings"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/settings
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard_preferences-desktop.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626134400

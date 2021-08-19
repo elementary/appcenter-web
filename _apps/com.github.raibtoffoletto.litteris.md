@@ -3,8 +3,9 @@ app_id: com.github.raibtoffoletto.litteris
 title: "Litteris"
 summary: "Penpal Correspondence Organized"
 developer: "Raí B. Toffoletto"
-homepage: "https://toffoletto.me"
-help_page: "https://raibtoffoletto.github.io/litteris"
+homepage: https://toffoletto.me
+help_page: https://raibtoffoletto.github.io/litteris
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/raibtoffoletto.litteris/D12548192288277B4CF292E7A56C8F9B/screenshots/image-1_orig.png

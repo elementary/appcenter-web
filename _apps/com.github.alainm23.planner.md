@@ -3,8 +3,9 @@ app_id: com.github.alainm23.planner
 title: "Planner"
 summary: "Never worry about forgetting things again"
 developer: "Alain M."
-homepage: "https://planner-todo.web.app"
-help_page: "https://www.patreon.com/alainm23"
+homepage: https://planner-todo.web.app
+help_page: https://www.patreon.com/alainm23
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alainm23.planner/1EED61DD196FC4EE4B3C5A806D89FD90/screenshots/image-1_orig.png

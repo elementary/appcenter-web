@@ -6,15 +6,16 @@ compulsory: false
 title: "Night Light Indicator"
 summary: "Easily snooze or adjust the temperature of Night Light from the Panel"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://elementaryos.stackexchange.com/questions/tagged/wingpanel"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
+bugtracker: false
 dist: odin
 icons:
 
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.1.0
   unix-timestamp: 1626220800

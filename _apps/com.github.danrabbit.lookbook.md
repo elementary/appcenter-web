@@ -3,8 +3,9 @@ app_id: com.github.danrabbit.lookbook
 title: "LookBook"
 summary: "Browse and find system icons"
 developer: "Daniel Foré"
-homepage: "#"
-help_page: "#"
+homepage: http://danielfore.com
+help_page: false
+bugtracker: https://github.com/danrabbit/lookbook/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/danrabbit/lookbook/main/data/screenshot.png

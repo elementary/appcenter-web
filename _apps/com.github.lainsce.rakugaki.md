@@ -3,8 +3,9 @@ app_id: com.github.lainsce.rakugaki
 title: "Rakugaki"
 summary: "Want to just draw, sketch or doodle? This is the tool for you."
 developer: "Lains"
-homepage: "https://github.com/lainsce/rakugaki/"
-help_page: "#"
+homepage: https://github.com/lainsce/rakugaki/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.rakugaki/DEACFE3E6189F40B5318DBCDF0C30E3A/screenshots/image-1_orig.png

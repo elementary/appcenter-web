@@ -3,8 +3,9 @@ app_id: com.github.brandonlujan.exchange.desktop
 title: "Exchange"
 summary: "Convert currencies with no hassle"
 developer: "Brandon Luján"
-homepage: "https://github.com/brandonlujan/exchange"
-help_page: "#"
+homepage: https://github.com/brandonlujan/exchange
+help_page: false
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/brandonlujan.exchange.desktop/F8BBFA2387F00F22A8B967BDF0C9D32B/screenshots/image-1_orig.png

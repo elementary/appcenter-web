@@ -6,15 +6,16 @@ compulsory: false
 title: "Screen Time & Limits Settings"
 summary: "Configure time limits and restrict application usage"
 developer: "Screen Time & Limits Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-parental-controls_preferences-system-parental-controls.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626220800

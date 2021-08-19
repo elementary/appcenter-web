@@ -3,8 +3,9 @@ app_id: com.github.manexim.news
 title: "News Feed"
 summary: "The best news sources, all in one place"
 developer: "Manexim"
-homepage: "https://github.com/manexim"
-help_page: "#"
+homepage: https://github.com/manexim
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/manexim.news/C3E4286A3C0CEB99CBBFA79538830EBB/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.lafydev.animage
 title: "Animage"
 summary: "A simple photo slideshow"
 developer: "Lafy"
-homepage: "https://github.com/Lafydev/Animage/"
-help_page: "#"
+homepage: https://github.com/Lafydev/Animage/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lafydev.animage/8FED789BE658682248E0809A8BF46FC0/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.0.0
   unix-timestamp: 1607990400

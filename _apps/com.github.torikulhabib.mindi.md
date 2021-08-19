@@ -3,8 +3,9 @@ app_id: com.github.torikulhabib.mindi
 title: "Mindi"
 summary: "A simple Video to Audio converter"
 developer: "torikul habib"
-homepage: "https://github.com/torikulhabib/mindi"
-help_page: "#"
+homepage: https://github.com/torikulhabib/mindi
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.mindi/D068BCD779CE9D74544AC8C72A351014/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.recipes
 title: "Recipes"
 summary: "A markdown recipes application"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/recipes"
-help_page: "https://github.com/bartzaalberg/recipes/issues"
+homepage: https://github.com/bartzaalberg/recipes
+help_page: https://github.com/bartzaalberg/recipes/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.recipes/09E62C6ECA0C84E9642697EC4EA8656A/screenshots/image-1_orig.png

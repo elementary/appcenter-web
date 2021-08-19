@@ -3,8 +3,9 @@ app_id: com.github.muriloventuroso.givemelyrics
 title: "Give Me Lyrics"
 summary: "Lyrics for your songs"
 developer: "Murilo Venturoso"
-homepage: "https://github.com/muriloventuroso/givemelyrics"
-help_page: "#"
+homepage: https://github.com/muriloventuroso/givemelyrics
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/muriloventuroso.givemelyrics/8C36615DB05A407020B792A22350D90C/screenshots/image-1_orig.png

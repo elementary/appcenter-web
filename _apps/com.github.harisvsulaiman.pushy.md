@@ -3,8 +3,9 @@ app_id: com.github.harisvsulaiman.pushy.desktop
 title: "Pushy"
 summary: "Pushbullet client"
 developer: "Haris Sulaiman"
-homepage: "https://github.com/harisvsulaiman/Pushy"
-help_page: "#"
+homepage: https://github.com/harisvsulaiman/Pushy
+help_page: false
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/harisvsulaiman.pushy.desktop/4F8F77DC5C43DD18CF9F419AC7AD962B/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#e9f4fc"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 
 redirect_from:

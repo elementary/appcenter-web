@@ -6,15 +6,16 @@ compulsory: false
 title: "Desktop Settings"
 summary: "Configure the dock, hot corners, and change wallpaper"
 developer: "Desktop Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-pantheon-shell_preferences-desktop-wallpaper.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1626307200

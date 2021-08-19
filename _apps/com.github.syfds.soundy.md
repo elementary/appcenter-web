@@ -3,8 +3,9 @@ app_id: com.github.syfds.soundy
 title: "Soundy"
 summary: "GTK client to control your soundtouch speaker"
 developer: "Sergej Dobryak"
-homepage: "https://github.com/syfds/soundy"
-help_page: "https://github.com/syfds/soundy"
+homepage: https://github.com/syfds/soundy
+help_page: https://github.com/syfds/soundy
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/syfds.soundy/07C2DB9A30D8DF839A45EFDA47540DFD/screenshots/image-1_orig.png

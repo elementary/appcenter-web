@@ -6,8 +6,9 @@ compulsory: false
 title: "Terminal"
 summary: "Use the command line"
 developer: "elementary, Inc."
-homepage: "https://elementary.io/"
-help_page: "https://github.com/elementary/terminal/discussions/categories/q-a"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/terminal/discussions/categories/q-a
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.terminal_utilities-terminal.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.0.0
   unix-timestamp: 1592179200

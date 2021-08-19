@@ -3,8 +3,9 @@ app_id: org.gnome.Epiphany.desktop
 title: "GNOME Web"
 summary: "Web browser for GNOME"
 developer: "The GNOME Project"
-homepage: "#"
-help_page: "#"
+homepage: https://wiki.gnome.org/Apps/Web
+help_page: https://help.gnome.org/users/epiphany/stable/
+bugtracker: https://gitlab.gnome.org/GNOME/epiphany/issues
 dist: flatpak
 screenshots:
   - https://git.gnome.org/browse/epiphany/plain/data/screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /org.gnome.Epiphany.desktop.desktop/

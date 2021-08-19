@@ -3,8 +3,9 @@ app_id: com.github.dr-styki.screenrec
 title: "ScreenRec"
 summary: "Record videos of the screen"
 developer: "Stevy THOMAS (dr_Styki)"
-homepage: "https://github.com/dr-Styki/ScreenRec"
-help_page: "https://github.com/dr-Styki/ScreenRec/issues"
+homepage: https://github.com/dr-Styki/ScreenRec
+help_page: https://github.com/dr-Styki/ScreenRec/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/dr-styki.screenrec/294838E510EF5655BB4DDAED065C79D6/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.3.1
   unix-timestamp: 1610496000

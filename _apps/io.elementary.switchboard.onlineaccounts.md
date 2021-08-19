@@ -6,8 +6,9 @@ compulsory: false
 title: "Online Accounts Settings"
 summary: "Manage online accounts and connected applications"
 developer: "Online Accounts Settings Developers"
-homepage: "https://elementary.io"
-help_page: "#"
+homepage: https://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard-plug-online-accounts_preferences-desktop-online-accounts.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.1.0
   unix-timestamp: 1627430400

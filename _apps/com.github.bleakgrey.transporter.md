@@ -3,8 +3,9 @@ app_id: com.github.bleakgrey.transporter.desktop
 title: "Transporter"
 summary: "Hassle-free file sharing"
 developer: "bleak_grey"
-homepage: "https://github.com/bleakgrey"
-help_page: "#"
+homepage: https://github.com/bleakgrey
+help_page: false
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/bleakgrey.transporter.desktop/4DD4810CE0F35CC35C7497DC419FD576/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.3.3
   unix-timestamp: 1526601600

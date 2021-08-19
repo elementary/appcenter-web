@@ -3,8 +3,9 @@ app_id: com.github.alecaddd.sequeler
 title: "Sequeler"
 summary: "Friendly SQL Client"
 developer: "Alessandro Castellani"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/Alecaddd/sequeler
+help_page: https://github.com/Alecaddd/sequeler/issues
+bugtracker: https://github.com/Alecaddd/sequeler/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Alecaddd/sequeler/master/data/assets/screenshots/sequeler-screenshot.png

@@ -3,8 +3,9 @@ app_id: com.github.ronnydo.wammer
 title: "Wammer"
 summary: "Jamming your WiFi network"
 developer: "Ronny Dobra"
-homepage: "https://github.com/RonnyDo/Wammer"
-help_page: "https://github.com/RonnyDo/Wammer/"
+homepage: https://github.com/RonnyDo/Wammer
+help_page: https://github.com/RonnyDo/Wammer/
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.wammer/5DEA09BB3DBAC383966931EC73A409BB/screenshots/image-1_orig.png

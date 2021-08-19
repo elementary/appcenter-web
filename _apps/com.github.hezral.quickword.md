@@ -3,8 +3,9 @@ app_id: com.github.hezral.quickword
 title: "QuickWord"
 summary: "Quickly lookup words on the fly and offline"
 developer: "Adi Hezral"
-homepage: "https://github.com/hezral/quickword"
-help_page: "https://github.com/hezral/quickword/issues"
+homepage: https://github.com/hezral/quickword
+help_page: https://github.com/hezral/quickword/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/hezral.quickword/998AA85139AAE5CE6D83FC01E51C7EDE/screenshots/image-1_orig.png
