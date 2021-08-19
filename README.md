@@ -52,8 +52,8 @@ The list of apps is generated with a simple Ruby script. To rebuild the app list
 ```shell
 ruby generate-loki.rb
 ruby generate-hera.rb
-ruby generate-flatpak.rb
 ruby generate-odin.rb
+ruby generate-flatpak.rb
 ```
 
 This is automatically run hourly with a GitHub Action workflow.
