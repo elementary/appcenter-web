@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.about
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "System"
 summary: "View operating system and hardware information"
 developer: "System Developers"

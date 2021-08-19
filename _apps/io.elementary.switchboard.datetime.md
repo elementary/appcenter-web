@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.datetime
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Date & Time Settings"
 summary: "Configure date, time, and select time zone"
 developer: "Date & Time Settings Developers"

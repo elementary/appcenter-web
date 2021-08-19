@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.a11y
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Accessibility Indicator"
 summary: "Activate accessibility features and settings"
 developer: "elementary, Inc."

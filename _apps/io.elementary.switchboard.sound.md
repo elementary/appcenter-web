@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.sound
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Sound Settings"
 summary: "Change sound and microphone volume"
 developer: "elementary, Inc."

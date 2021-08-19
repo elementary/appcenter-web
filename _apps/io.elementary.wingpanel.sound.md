@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.sound
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Sound Indicator"
 summary: "Adjust speaker and microphone volume or see Now Playing information and media controls"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.initial-setup
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "Initial Setup"
 summary: "Set up elementary OS"
 developer: "elementary, Inc."

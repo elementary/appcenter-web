@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.a11y
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Universal Access Settings"
 summary: "Configure accessibility features"
 developer: "Universal Access Settings Developers"

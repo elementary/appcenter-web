@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.network
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Network Indicator"
 summary: "Connect to wireless networks and manage VPNs"
 developer: "elementary, Inc."

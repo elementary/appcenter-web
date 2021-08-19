@@ -1,5 +1,8 @@
 ---
 app_id: org.gtk.Gtk3theme.elementary
+type: runtime
+extends: false
+compulsory: Pantheon
 title: "Greenfield"
 summary: "The Gtk Stylesheet for elementary OS"
 developer: "elementary, Inc."

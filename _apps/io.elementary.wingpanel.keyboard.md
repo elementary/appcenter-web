@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.keyboard
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Keyboard Indicator"
 summary: "The keyboard indicator"
 developer: "elementary, Inc."

@@ -13,6 +13,9 @@ componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
 app_id: ((id))
+type: ((type))
+extends: ((extends))
+compulsory: ((compulsory))
 title: "((title))"
 summary: "((summary))"
 developer: "((dev))"
@@ -61,17 +64,33 @@ YAML.load_stream(componentsData) do |doc|
   appFile.sub!('((package))', doc['Package'])
   appFile.sub!('((id))', doc['ID'])
 
+  extends = "false"
+  if not doc['Extends'].nil?
+    extends = doc['Extends'][0]
+  end
+  appFile.sub!('((extends))', extends)
+
+  type = "false"
+  if not doc['Type'].nil?
+    type = doc['Type']
+  end
+  appFile.sub!('((type))', type)
+
+  compulsory = "false"
+  if not doc['CompulsoryForDesktops'].nil?
+    compulsory = doc['CompulsoryForDesktops'][0]
+  end
+  appFile.sub!('((compulsory))', compulsory)
+
+  site = "#"
   if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
     site = doc['Url']['homepage']
-  else
-    site = "#"
   end
   appFile.sub!('((site))', site)
 
+  help = "#"
   if not doc['Url'].nil? and not doc['Url']['help'].nil?
     help = doc['Url']['help']
-  else
-    help = "#"
   end
   appFile.sub!('((help))', help)
 

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.applications-menu
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Applications Menu"
 summary: "Open and search for apps"
 developer: "elementary, Inc."

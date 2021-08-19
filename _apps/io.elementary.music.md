@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.music
+type: desktop-application
+extends: false
+compulsory: false
 title: "Music"
 summary: "The official elementary music player"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "System Settings"
 summary: "Change system and user settings"
 developer: "elementary, Inc."

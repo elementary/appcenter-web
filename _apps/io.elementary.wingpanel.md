@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "Wingpanel"
 summary: "Top panel that holds indicators and the applications menu"
 developer: "elementary, Inc."

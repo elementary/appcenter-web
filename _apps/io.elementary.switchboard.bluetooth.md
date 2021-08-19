@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.bluetooth
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Bluetooth Settings"
 summary: "Configure Bluetooth Settings"
 developer: "Bluetooth Settings Developers"

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.useraccounts
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "User Accounts Settings"
 summary: "Manage account permissions and configure user names, passwords, and photos"
 developer: "User Accounts Settings Developers"

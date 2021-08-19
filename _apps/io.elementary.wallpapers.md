@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wallpapers
+type: generic
+extends: false
+compulsory: false
 title: "elementary Wallpapers"
 summary: "Curated wallpapers for elementary OS"
 developer: "elementary, Inc."

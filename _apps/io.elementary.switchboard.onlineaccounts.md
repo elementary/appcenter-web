@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.onlineaccounts
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Online Accounts Settings"
 summary: "Manage online accounts and connected applications"
 developer: "Online Accounts Settings Developers"

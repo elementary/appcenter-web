@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.appcenter
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "AppCenter"
 summary: "Browse and manage apps"
 developer: "elementary, Inc."

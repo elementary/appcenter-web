@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.datetime
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Date & Time Indicator"
 summary: "The date and time indicator"
 developer: "elementary, Inc."

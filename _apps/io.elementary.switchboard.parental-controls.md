@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.parental-controls
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Screen Time & Limits Settings"
 summary: "Configure time limits and restrict application usage"
 developer: "Screen Time & Limits Settings Developers"

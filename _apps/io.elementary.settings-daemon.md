@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.settings-daemon
+type: generic
+extends: false
+compulsory: Pantheon
 title: "Settings Daemon"
 summary: "Manage settings and background tasks"
 developer: "elementary, Inc."

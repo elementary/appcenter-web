@@ -46,7 +46,11 @@ layout: default
 
       <div class="call-to-action">
         <a class="button" href="https://developer.elementary.io" target="_blank">Publish on AppCenter</a>
-        <a class="button" href="https://elementary.io/" target="_blank">Learn more about elementary OS</a>
+        {% if page.dist == "flatpak" %}
+          {% if page.price == 0 %}
+            <a class="button suggested" href="https://flatpak.elementary.io/repo/appstream/{{ page.app_id }}.flatpakref" download="{{ page.title }}.flatpakref">Download as Flatpak</a>
+          {% endif %}
+        {% endif %}
       </div>
     </section>
 
@@ -71,6 +75,7 @@ layout: default
     {% if page.help_page != "#" %}
       <a class="button" href="{{ page.help_page }}" target="_blank">App Help</a>
     {% endif %}
+    <a class="button" href="https://elementary.io/" target="_blank">Get elementary OS</a>
   </div>
 </footer>
 

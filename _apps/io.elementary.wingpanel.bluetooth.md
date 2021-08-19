@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.bluetooth
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Bluetooth Indicator"
 summary: "Connect and disconnect paired Bluetooth devices"
 developer: "elementary, Inc."

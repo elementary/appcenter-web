@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.onboarding
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "Welcome"
 summary: "Change common settings on first-run"
 developer: "elementary, Inc."

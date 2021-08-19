@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.keyboard
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Keyboard Settings"
 summary: "Configure keyboard behavior, layouts, and shortcuts"
 developer: "Keyboard Settings Developers"

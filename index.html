@@ -5,24 +5,15 @@ color:
   primary-text: "#fff"
 ---
 
-{% comment %}
-  Currently just showing Juno apps until a better sorting system or something is implemented.
-{% endcomment %}
-
-{% assign loki_apps = site.apps | where:"dist","loki" | sort_natural: 'title' %}
-{% assign hera_apps = site.apps | where:"dist","hera" | sort_natural: 'title' %}
 {% assign flatpak_apps = site.apps | where:"dist","flatpak" | sort_natural: 'title' %}
-
-{% assign apps = flatpak_apps | concat: hera_apps | concat: loki_apps %}
-
 <div class="home main constrain">
   <h1>AppCenter</h1>
   <h2>Made for elementary OS</h2>
-  <p>Get these {{ apps | size }} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
+  <p>Get these {{ flatpak_apps | size }} curated apps and more on elementary AppCenter, the open, pay-what-you-want app store for indie developers. Each is open source and has been reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience.</p>
 </div>
 
 <div class="home apps">
-  {% for app in apps %}
+  {% for app in flatpak_apps %}
     {% assign id = app.id | remove: '/' %}
     <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
       <img width="64" height="64"
@@ -49,6 +40,83 @@ color:
       }
     </style>
   {% endfor %}
+</div>
+
+{% assign odin_apps = site.apps | where:"dist", "odin" | sort_natural: 'title' %}
+{% assign system_apps = odin_apps | where:"type", "desktop-application" | sort_natural: 'title' %}
+{% assign noncompulsory_system_apps = system_apps | where:"compulsory", false | sort_natural: 'title' %}
+<div class="home main constrain">
+  <h3>System Apps</h3>
+  <p>These {{ system_apps | size }} apps and system components also come with elementary OS 6.</p>
+</div>
+
+<div class="home apps">
+  {% for app in system_apps %}
+    {% assign id = app.id | remove: '/' %}
+    <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
+      <img width="64" height="64"
+        {% for icon in app.icons %}
+          {% if icon[0] == "64@2" %}
+            srcset="{{icon[1]}} 2x"
+          {% elsif icon[0] == "128" %}
+            srcset="{{icon[1]}}"
+          {% elsif icon[0] == "64" %}
+            srcset="{{icon[1]}}"
+          {% endif %}
+        {% endfor %}
+        src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg"
+      alt="{{app.title}} icon" />
+
+      <span class="title">{{ app.title }}</span>
+      <span class="summary">{{ app.summary }}</span>
+    </a>
+
+    <style>
+      .app[id="{{id}}"]:hover {
+        background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
+        color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
+      }
+    </style>
+  {% endfor %}
+</div>
+
+{% assign loki_apps = site.apps | where:"dist","loki" | sort_natural: 'title' %}
+{% assign hera_apps = site.apps | where:"dist","hera" | sort_natural: 'title' %}
+{% assign legacy_apps = hera_apps | concat: loki_apps %}
+<div class="home main constrain">
+  <h3>Legacy Apps</h3>
+  <p>These {{ legacy_apps | size }} apps were released for a previous version of elementary OS and are not yet available in AppCenter on elementary OS 6. Contact their developers to ask them to port their apps to OS 6.</p>
+</div>
+
+<div class="home apps">
+{% for app in legacy_apps %}
+{% assign id = app.id | remove: '/' %}
+<a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
+{% if app.screenshots %}
+<img
+{% for icon in app.icons %}
+{% if icon[0] == "64@2" %}
+srcset="{{icon[1]}} 2x"
+{% elsif icon[0] == "64" %}
+src="{{icon[1]}}"
+{% endif %}
+{% endfor %}
+alt="{{app.title}} icon" />
+{% else %}
+<img src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg" alt="No icon" />
+{% endif %}
+
+<span class="title">{{app.title}}</span>
+<span class="summary">{{app.summary}}</span>
+</a>
+
+<style>
+.app[id="{{id}}"]:hover {
+background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
+color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
+}
+</style>
+{% endfor %}
 </div>
 
 <footer>

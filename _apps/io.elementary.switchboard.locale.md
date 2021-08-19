@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.locale
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Language & Region Settings"
 summary: "Manage languages, and configure region and format"
 developer: "Language & Region Settings Developers"

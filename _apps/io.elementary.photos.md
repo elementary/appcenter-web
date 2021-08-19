@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.photos
+type: desktop-application
+extends: false
+compulsory: false
 title: "Photos"
 summary: "Organize your photos"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.terminal
+type: desktop-application
+extends: false
+compulsory: false
 title: "Terminal"
 summary: "Use the command line"
 developer: "elementary, Inc."

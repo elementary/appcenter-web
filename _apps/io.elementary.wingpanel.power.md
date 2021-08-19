@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.power
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Power Indicator"
 summary: "View battery levels, adjust display brightness, and see apps using lots of power"
 developer: "elementary, Inc."

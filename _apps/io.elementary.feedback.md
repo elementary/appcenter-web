@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.feedback
+type: desktop-application
+extends: false
+compulsory: false
 title: "Feedback"
 summary: "Submit and track issue reports"
 developer: "elementary, Inc."

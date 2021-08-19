@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.icons
+type: icon-theme
+extends: false
+compulsory: Pantheon
 title: "elementary Icons"
 summary: "Named, vector icons for elementary OS"
 developer: "elementary, Inc."

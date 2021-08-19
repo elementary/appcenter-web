@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.network
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Network Settings"
 summary: "Manage network devices and connectivity"
 developer: "Network Settings Developers"

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.power
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Power Settings"
 summary: "Configure display brightness, power buttons, and suspend behavior"
 developer: "Power Settings Developers"

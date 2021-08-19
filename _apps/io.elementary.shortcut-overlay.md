@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.shortcut-overlay
+type: desktop-application
+extends: false
+compulsory: false
 title: "Shortcuts"
 summary: "View system shortcuts"
 developer: "elementary, Inc."

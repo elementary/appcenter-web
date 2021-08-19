@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.nightlight
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Night Light Indicator"
 summary: "Easily snooze or adjust the temperature of Night Light from the Panel"
 developer: "elementary, Inc."

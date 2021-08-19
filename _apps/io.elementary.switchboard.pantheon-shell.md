@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.pantheon-shell
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Desktop Settings"
 summary: "Configure the dock, hot corners, and change wallpaper"
 developer: "Desktop Settings Developers"

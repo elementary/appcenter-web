@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.wingpanel.session
+type: addon
+extends: io.elementary.wingpanel
+compulsory: false
 title: "Session Indicator"
 summary: "Switch users, lock, log out, suspend, or shut down"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.code
+type: desktop-application
+extends: false
+compulsory: false
 title: "Code"
 summary: "The editor that works"
 developer: "elementary, Inc."

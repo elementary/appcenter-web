@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.switchboard.wacom
+type: addon
+extends: io.elementary.switchboard
+compulsory: false
 title: "Wacom Settings"
 summary: "Configure Wacom tablets"
 developer: "Wacom Settings Developers"

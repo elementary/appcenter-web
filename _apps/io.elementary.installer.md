@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.installer
+type: generic
+extends: false
+compulsory: false
 title: "Installer"
 summary: "Install elementary OS"
 developer: "elementary, Inc."

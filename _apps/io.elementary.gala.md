@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.gala
+type: generic
+extends: false
+compulsory: Pantheon
 title: "Multitasking & Window Management"
 summary: "A window & compositing manager for Pantheon"
 developer: "elementary, Inc."

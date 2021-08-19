@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.granite
+type: generic
+extends: false
+compulsory: Pantheon
 title: "Granite"
 summary: "Build consistent and usable apps more quickly and easily"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.videos
+type: desktop-application
+extends: false
+compulsory: false
 title: "Videos"
 summary: "Watch videos and movies"
 developer: "elementary, Inc."

@@ -1,5 +1,8 @@
 ---
 app_id: io.elementary.files
+type: desktop-application
+extends: false
+compulsory: false
 title: "Files"
 summary: "Browse and manage files and folders"
 developer: "elementary, Inc."
