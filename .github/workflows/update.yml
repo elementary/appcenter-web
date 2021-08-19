@@ -40,7 +40,6 @@ jobs:
             git config --local user.name "GitHub Action"
             git add -A
             git commit -m "Automatic update of data" -a
-          else
           fi
 
       - name: Push
