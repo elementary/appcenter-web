@@ -19,6 +19,30 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1598140800
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Show brightness level when scrolled</li>
+
+      <li>Show battery percentage automatically at 20% or lower</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Match scroll direction with Sound indicator</li>
+
+      <li>Show "Fully Charged" at 100% when plugged in</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626220800
   description: |-

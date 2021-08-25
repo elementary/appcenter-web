@@ -19,6 +19,20 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.1
+  unix-timestamp: 1629676800
+  description: |-
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Use formatted device name when available</li>
+
+      <li>Display more information for certain GPUs, including Intel® Xe Graphics</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626307200
   description: |-
