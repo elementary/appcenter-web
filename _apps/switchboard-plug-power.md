@@ -15,6 +15,26 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 2.6.0
+  unix-timestamp: 1629763200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Add toggle for showing battery percentage in Panel</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Fix a potential issue with resuming from sleep</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.5.0
   unix-timestamp: 1626220800
   description: |-
