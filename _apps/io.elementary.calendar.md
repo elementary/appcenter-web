@@ -13,8 +13,8 @@ icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.calendar.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.calendar.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#fff"
+  primary-text: "#206b00"
 price: false
 releases:
 
