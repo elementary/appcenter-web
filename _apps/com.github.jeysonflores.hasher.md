@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-  - https://github.com/JeysonFlores/hasher/blob/main/data/assets/screenshots/screenshot-1.png
+  - https://raw.githubusercontent.com/JeysonFlores/hasher/main/data/assets/screenshots/screenshot-1.png
 icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.jeysonflores.hasher.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.jeysonflores.hasher.png
@@ -24,6 +24,7 @@ redirect_from: /com.github.jeysonflores.hasher.desktop/
 <p>Supported Algorithms:</p>
 <ul>
 <li>MD5</li>
+<li>SHA1</li>
 <li>SHA224</li>
 <li>SHA256</li>
 <li>SHA384</li>
