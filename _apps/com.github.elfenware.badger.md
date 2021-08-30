@@ -20,14 +20,15 @@ releases:
 redirect_from: /com.github.elfenware.badger.desktop/
 ---
 
-<p>Whether you're dashing through Mario Kart on MupenGUI, binge-watching Silicon Valley on Cinema, or writing your next novel on Quilter, you need to relax your body every once in a while.</p>
+<p>When you are using your computer for extended periods of time, you need to relax your body every once in a while.</p>
 <p>Badger helps you do exactly that. It reminds you—or should I say, badgers you—to destress yourself and rest your eyes and muscles.</p>
-<p>Currently, it has these five reminders:</p>
+<p>Currently, it has these six reminders:</p>
 <ul>
 <li>Blink eyes</li>
 <li>Stretch fingers</li>
 <li>Stretch arms</li>
 <li>Stretch legs</li>
 <li>Turn neck</li>
+<li>Maintain posture</li>
 </ul>
 <p>Stay healthy.</p>
