@@ -13,6 +13,30 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 2.8.2
+  unix-timestamp: 1630281600
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Show apps with no category under "Other"</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 2.8.1
+  unix-timestamp: 1630022400
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Fix an issue where Flatpak apps wouldn't show until after a restart</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.8.0
   unix-timestamp: 1626220800
   description: |-

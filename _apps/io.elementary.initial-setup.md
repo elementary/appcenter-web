@@ -13,6 +13,28 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.1.1
+  unix-timestamp: 1629936000
+- version: 6.1.0
+  unix-timestamp: 1629849600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Confirm and change device name</li>
+
+      <li>Two-finger swipe to navigate back</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626220800
   description: |-

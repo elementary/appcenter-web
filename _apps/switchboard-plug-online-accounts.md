@@ -15,6 +15,18 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.2.0
+  unix-timestamp: 1629849600
+  description: |-
+    <ul>
+
+      <li>Edit saved IMAP accounts</li>
+
+      <li>Automatically detect authentication method for IMAP</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.0
   unix-timestamp: 1627430400
   description: |-

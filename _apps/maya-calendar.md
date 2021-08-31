@@ -15,6 +15,26 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.0.1
+  unix-timestamp: 1629763200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix broken calendar color with some online providers</li>
+
+      <li>Fix an issue with some all-day events</li>
+
+    </ul>
+
+    <p>Minor Updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626652800
   description: |-
