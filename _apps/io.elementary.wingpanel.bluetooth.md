@@ -17,6 +17,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.1.8
+  unix-timestamp: 1629849600
+  description: |-
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Improve restoring Bluetooth state on restart and resuming from suspend</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.1.7
   unix-timestamp: 1626220800
   description: |-

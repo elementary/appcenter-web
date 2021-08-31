@@ -17,6 +17,20 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.1
+  unix-timestamp: 1629849600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Ensure accel_to_string works with multiple modifiers</li>
+
+      <li>Fix locale issues in Flatpaks</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.0
   unix-timestamp: 1626134400
   description: |-
@@ -92,7 +106,7 @@ releases:
 
       <li>Toasts now reset their timeout when sending a new notification and the timeout is stopped while hovering</li>
 
-      <li>Backlash, Right Control, and Left Control are now handled by accel_to_string</li>
+      <li>Backslash, Right Control, and Left Control are now handled by accel_to_string</li>
 
       <li>Make tab tooltips of DynamicNotebook settable</li>
 

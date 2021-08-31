@@ -19,6 +19,30 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.2
+  unix-timestamp: 1629763200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix small context menus on breadcrumbs</li>
+
+      <li>Fix bookmarking a single selected item with Ctrl + D</li>
+
+      <li>Fix renaming bookmarks in the sidebar</li>
+
+      <li>FIx an issue with showing color tags when thumbnails are hidden</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.1
   unix-timestamp: 1627862400
   description: |-

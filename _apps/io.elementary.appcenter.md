@@ -19,6 +19,42 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.7.1
+  unix-timestamp: 1630281600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Show apps from newly sideloaded remotes without requiring a restart</li>
+
+      <li>Less abrupt transition when changing app sources</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 3.7.0
+  unix-timestamp: 1629763200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Install Linux kernel headers for device drivers that use DKMS</li>
+
+      <li>Use system Flatpak runtimes for locally installed apps</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Mention Sideload when search returns no results</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.6.3
   unix-timestamp: 1629072000
   description: |-
