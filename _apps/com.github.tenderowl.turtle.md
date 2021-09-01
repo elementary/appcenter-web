@@ -1,7 +1,7 @@
 ---
 app_id: com.github.tenderowl.turtle
 title: "Turtle"
-summary: "Add any app to the App Menu"
+summary: "Add apps to the Applications Menu"
 developer: "Tender Owl"
 homepage: "#"
 help_page: "#"
@@ -9,7 +9,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/tenderowl/turtle/master/data/images/turtle-screenshot.png
 icons:
-
+  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.tenderowl.turtle.png
+  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.tenderowl.turtle.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
@@ -19,4 +20,4 @@ releases:
 redirect_from: /com.github.tenderowl.turtle.desktop/
 ---
 
-<p>Turtle lets you add any launcherless applications to the App Menu - even AppImages.</p>
+<p>Add any launcherless applications to the Applications Menu—even AppImages or downloaded binaries. Just open Turtle, navigate to the app, and select a name and image to show in the Applications Menu.</p>
