@@ -3,7 +3,7 @@ app_id: com.github.subhadeepjasu.pebbles
 title: "Pebbles"
 summary: "Perform advanced calculations with ease"
 developer: "Subhadeep Jasu"
-homepage: https://github.com/SubhadeepJasu/pebbles
+homepage: https://subhadeepjasu.github.io/#/project/pebbles
 help_page: https://github.com/SubhadeepJasu/pebbles/issues
 bugtracker: https://github.com/SubhadeepJasu/pebbles/issues
 dist: flatpak
