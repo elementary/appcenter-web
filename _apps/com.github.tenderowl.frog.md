@@ -20,5 +20,4 @@ releases:
 redirect_from: /com.github.tenderowl.frog.desktop/
 ---
 
-<p>Extract text from any image, website or video.</p>
 <p>Quickly extract text from any source such as images, websites, even video - everywhere you can grab an image shot.</p>
