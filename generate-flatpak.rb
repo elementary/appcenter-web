@@ -39,7 +39,7 @@ redirect_from: ((redirect))
 
 puts 'about to iterate thru components...'
 componentsData.css("components component").each do | component |
-  next if component.get_attribute("type") != "desktop"
+  next if component.get_attribute("type") != "desktop" or component.at_css("id").content.start_with?("org.gnome")
 
   puts "Generating #{component.at_css('name').content}"
 
