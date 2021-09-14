@@ -1,7 +1,7 @@
 ---
 app_id: io.github.jhaygood86.mauborgne
 title: "Maurborgne"
-summary: "2FA TOTP COde Generator"
+summary: "2FA TOTP Code Generator"
 developer: "Justin Haygood"
 homepage: "#"
 help_page: "#"
