@@ -19,6 +19,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.1
+  unix-timestamp: 1631059200
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Fix a crash on startup for some devices</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.0
   unix-timestamp: 1626220800
   description: |-
