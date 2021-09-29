@@ -17,6 +17,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.5.1
+  unix-timestamp: 1632268800
+  description: |-
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Ensure IBus automatically starts on login when needed</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.5.0
   unix-timestamp: 1626220800
   description: |-

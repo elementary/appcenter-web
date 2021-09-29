@@ -19,6 +19,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.7.2
+  unix-timestamp: 1632268800
+  description: |-
+    <ul>
+
+      <li>Draw selection rectangle when dragging to select</li>
+
+      <li>Show image titles in preview mode</li>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 2.7.1
   unix-timestamp: 1626134400
   description: |-
