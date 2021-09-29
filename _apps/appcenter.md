@@ -15,6 +15,38 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 3.8.0
+  unix-timestamp: 1632182400
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Show content warnings on app info pages</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Show other apps by an author for Flatpak sources</li>
+
+      <li>Populate banner on home locally instead of relying on an external API</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Greatly increased number of recently-updated apps shown on home page</li>
+
+      <li>Navigate banners on the home page with multitouch gestures</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.7.1
   unix-timestamp: 1630281600
   description: |-

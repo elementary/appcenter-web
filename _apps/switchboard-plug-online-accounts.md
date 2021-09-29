@@ -15,6 +15,32 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.2.1
+  unix-timestamp: 1632787200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Make sure the refresh interval for an IMAP account is set</li>
+
+      <li>Fix adding, editing, and removing lists in CalDAV apps like Tasks</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Make sure you can always navigate next by pressing the Enter key</li>
+
+      <li>Close dialogs when pressing the Escape key</li>
+
+      <li>Use a more complete list of authentication methods for IMAP</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.2.0
   unix-timestamp: 1629849600
   description: |-
@@ -32,7 +58,7 @@ releases:
   description: |-
     <ul>
 
-      <li>Verify login credentails when saving IMAP accounts</li>
+      <li>Verify login credentials when saving IMAP accounts</li>
 
       <li>Set up Archive, Drafts, Sent, and Templates folders for IMAP</li>
 

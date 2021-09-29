@@ -13,6 +13,26 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.2.0
+  unix-timestamp: 1600732800
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Stash the picture-in-picture window by pushing it off screen</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Fix a potential crash while changing wallpapers</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.1
   unix-timestamp: 1597104000
   description: |-

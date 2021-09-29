@@ -13,6 +13,24 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 2.9.0
+  unix-timestamp: 1632700800
+  description: |-
+    <p>New features</p>
+
+    <ul>
+
+      <li>Launch apps selectively on integrated or dedicated graphics for systems with hybrid graphics</li>
+
+    </ul>
+
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.8.2
   unix-timestamp: 1630281600
   description: |-

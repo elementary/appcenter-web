@@ -15,6 +15,28 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.0.2
+  unix-timestamp: 1632268800
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix notification icons in the notification indicator</li>
+
+      <li>Fix an issue where event timezones were overwritten</li>
+
+      <li>Ensure Calendar is launched when notifications are clicked</li>
+
+    </ul>
+
+    <p>Minor Updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.1
   unix-timestamp: 1629763200
   description: |-
@@ -251,7 +273,4 @@ redirect_from:
   - /maya-calendar.desktop/
 ---
 
-<p>
-      A slim, lightweight calendar app that syncs and manages multiple calendars in one place, like Google Calendar, Outlook
-and CalDAV.
-    </p>
+<p>A slim, lightweight calendar app that syncs and manages multiple calendars in one place, like Google Calendar, Outlook and CalDAV.</p>

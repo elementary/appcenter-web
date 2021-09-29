@@ -15,6 +15,32 @@ color:
   primary-text: "#fff"
 price: 0
 releases:
+- version: 6.0.3
+  unix-timestamp: 1632700800
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Open bookmarks in a new tab with Ctrl + Click</li>
+
+      <li>Fix dropping uris onto storage devices and network locations in sidebar</li>
+
+      <li>Fix restoring tabs after a system restart</li>
+
+      <li>Don't unselect when secondary clicking blank space around a file or folder</li>
+
+      <li>Show the folder context menu when secondary clicking outside of a selection</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.2
   unix-timestamp: 1629763200
   description: |-
