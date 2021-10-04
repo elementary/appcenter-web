@@ -7,7 +7,7 @@ homepage: "#"
 help_page: "#"
 dist: flatpak
 screenshots:
-  - https://github.com/fleury08/prettifier/raw/main/data/images/PrettifierXML.png
+  - https://github.com/fleury08/prettifier/raw/main/data/images/PrettifierJSON.png
 icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.fleury08.prettifier.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.fleury08.prettifier.png

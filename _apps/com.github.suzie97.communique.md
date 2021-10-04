@@ -1,7 +1,7 @@
 ---
 app_id: com.github.suzie97.communique
 title: "Communique"
-summary: "RSS Reader with cross-platform sync."
+summary: "RSS Reader with cross-platform sync"
 developer: "Rajdeep Singha"
 homepage: "#"
 help_page: "#"
