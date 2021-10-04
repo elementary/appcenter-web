@@ -1,7 +1,7 @@
 ---
 app_id: io.github.jhaygood86.mauborgne
 title: "Maurborgne"
-summary: "2FA TOTP Code Generator"
+summary: "2FA OTP Code Generator"
 developer: "Justin Haygood"
 homepage: https://jhaygood86.github.io/mauborgne/
 help_page: false
@@ -15,10 +15,10 @@ icons:
 color:
   primary: "#0e9a83"
   primary-text: "rgb(255, 255, 255)"
-price: 3
+price: 10
 releases:
 
 redirect_from: /io.github.jhaygood86.mauborgne.desktop/
 ---
 
-<p>Import TOTP Pads from QR Codes and Generate OTP Codes for secure 2FA logins</p>
+<p>Import OTP Pads from QR Codes and Generate OTP Codes for secure 2FA logins</p>
