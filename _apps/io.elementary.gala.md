@@ -17,6 +17,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.2.1
+  unix-timestamp: 1601337600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Fix a potential crash when taking screenshots</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.2.0
   unix-timestamp: 1600732800
   description: |-
