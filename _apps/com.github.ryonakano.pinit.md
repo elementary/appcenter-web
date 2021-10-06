@@ -1,0 +1,23 @@
+---
+app_id: com.github.ryonakano.pinit
+title: "Pin It!"
+summary: "Pin any apps into the launcher"
+developer: "Ryo Nakano"
+homepage: "#"
+help_page: "#"
+dist: flatpak
+screenshots:
+  - https://raw.githubusercontent.com/ryonakano/pinit/main/data/screenshot-welcome-view.png
+icons:
+  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.pinit.png
+color:
+  primary: "#007367"
+  primary-text: "#1a1a1a"
+price: 0
+releases:
+
+redirect_from: /com.github.ryonakano.pinit.desktop/
+---
+
+<p>Add portable apps like raw executable files, AppImage files, etc. into Applications Menu easily. Edit or delete existing desktop files without opening a file manager.</p>
+<p>Pin It! comes with syntax errors detection, so you will never need to waste your time seeking for why your desktop entry won't be shown in Applications Menu.</p>
