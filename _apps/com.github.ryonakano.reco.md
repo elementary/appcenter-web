@@ -3,8 +3,9 @@ app_id: com.github.ryonakano.reco
 title: "Reco"
 summary: "Record talks to remember the contents later"
 developer: "Ryo Nakano"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/ryonakano/reco
+help_page: https://github.com/ryonakano/reco/discussions
+bugtracker: https://github.com/ryonakano/reco/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/reco/main/data/Screenshot.png

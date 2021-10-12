@@ -3,8 +3,9 @@ app_id: com.github.phase1geo.annotator
 title: "Annotator"
 summary: "Communicate with images better"
 developer: "Trevor Williams"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/phase1geo/Annotator/
+help_page: false
+bugtracker: https://github.com/phase1geo/Annotator/issues/
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Annotator/master/data/screenshots/screenshot-light.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#007367"
   primary-text: "#ffffff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.phase1geo.annotator.desktop/

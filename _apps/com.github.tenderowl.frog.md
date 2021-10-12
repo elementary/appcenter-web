@@ -3,8 +3,9 @@ app_id: com.github.tenderowl.frog
 title: "Frog"
 summary: "Extract text from anywhere"
 developer: "Tender Owl"
-homepage: "#"
-help_page: "#"
+homepage: https://tenderowl.com/work/frog
+help_page: https://github.com/tenderowl/frog/issues
+bugtracker: https://github.com/tenderowl/frog/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/tenderowl/frog/master/data/screenshots/frog-screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.tenderowl.frog.desktop/

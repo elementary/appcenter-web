@@ -3,8 +3,9 @@ app_id: com.github.peteruithoven.resizer
 title: "Resizer"
 summary: "Quickly resize images"
 developer: "Peter Uithoven"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/peteruithoven/resizer
+help_page: https://github.com/peteruithoven/resizer/issues
+bugtracker: https://github.com/peteruithoven/resizer/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/peteruithoven/resizer/master/screenshot-6-image.png

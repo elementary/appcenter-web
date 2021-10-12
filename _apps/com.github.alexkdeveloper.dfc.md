@@ -3,8 +3,9 @@ app_id: com.github.alexkdeveloper.dfc
 title: "Desktopius"
 summary: "Simple app for create a desktop files"
 developer: "Alex Kryuchkov"
-homepage: "#"
-help_page: "#"
+homepage: http://github.com/alexkdeveloper/dfc
+help_page: http://github.com/alexkdeveloper/dfc/issues
+bugtracker: http://github.com/alexkdeveloper/dfc/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/alexkdeveloper/dfc/main/data/screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.alexkdeveloper.dfc.desktop/

@@ -3,8 +3,9 @@ app_id: io.elementary.videos
 title: "Videos"
 summary: "Watch videos and movies"
 developer: "elementary, Inc."
-homepage: "#"
-help_page: "#"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/videos
+bugtracker: https://github.com/elementary/videos/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/videos/master/data/screenshot.png

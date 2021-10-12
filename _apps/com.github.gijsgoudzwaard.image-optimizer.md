@@ -3,8 +3,9 @@ app_id: com.github.gijsgoudzwaard.image-optimizer
 title: "Image Optimizer"
 summary: "Simple lossless image compression"
 developer: "Gijs Goudzwaard"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/gijsgoudzwaard/image-optimizer
+help_page: https://github.com/gijsgoudzwaard/image-optimizer/issues
+bugtracker: https://github.com/gijsgoudzwaard/image-optimizer/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/GijsGoudzwaard/Image-Optimizer/master/data/screenshots/welcome-screen.png

@@ -3,8 +3,9 @@ app_id: com.github.suzie97.communique
 title: "Communique"
 summary: "RSS Reader with cross-platform sync"
 developer: "Rajdeep Singha"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/Suzie97/Communique
+help_page: https://github.com/Suzie97/Communique/issues
+bugtracker: https://github.com/Suzie97/Communique/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/suzie97/communique/master/data/communique-light-screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#FAFAFA"
   primary-text: "#1A1A1A"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.suzie97.communique.desktop/

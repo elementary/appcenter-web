@@ -3,8 +3,9 @@ app_id: com.github.ryonakano.pinit
 title: "Pin It!"
 summary: "Pin any apps into the launcher"
 developer: "Ryo Nakano"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/ryonakano/pinit
+help_page: https://github.com/ryonakano/pinit/discussions
+bugtracker: https://github.com/ryonakano/pinit/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/pinit/main/data/screenshot-welcome-view.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#28bca3"
   primary-text: "#1a1a1a"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.ryonakano.pinit.desktop/
