@@ -3,8 +3,9 @@ app_id: com.github.rapidfingers.translator
 title: "Translator"
 summary: "Translator"
 developer: "RapidFingers"
-homepage: "https://rapidfingers.github.io/Translator/"
-help_page: "#"
+homepage: https://rapidfingers.github.io/Translator/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rapidfingers.translator/62791E8FB9B8D97E03D750FE68A6B2D7/screenshots/image-1_orig.png

@@ -1,17 +1,21 @@
 ---
 app_id: io.elementary.initial-setup
+type: desktop-application
+extends: false
+compulsory: Pantheon
 title: "Initial Setup"
 summary: "Set up elementary OS"
 developer: "elementary, Inc."
-homepage: "http://elementary.io"
-help_page: "#"
+homepage: http://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.initial-setup_system-os-installer.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 6.1.1
   unix-timestamp: 1629936000

@@ -3,8 +3,9 @@ app_id: com.github.akiraux.akira
 title: "Akira"
 summary: "The Linux Design Tool"
 developer: "Alessandro Castellani"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/akiraux/akira
+help_page: https://github.com/akiraux/akira/issues
+bugtracker: https://github.com/akiraux/akira/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/akiraux/akira/master/data/screenshots/screenshot-1.png

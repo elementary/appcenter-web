@@ -3,8 +3,9 @@ app_id: com.github.rkoesters.xkcd-gtk
 title: "Comic Sticks"
 summary: "Read xkcd: a webcomic of romance, sarcasm, math, and language"
 developer: "Ryan Koesters"
-homepage: "https://github.com/rkoesters/xkcd-gtk"
-help_page: "#"
+homepage: https://github.com/rkoesters/xkcd-gtk
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rkoesters.xkcd-gtk/C3A095D135DB83EE2D2AFD0CFC054EDC/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#96a8c8"
   primary-text: "#1a1a1a"
-price: 0
+price: false
 releases:
 - version: 1.3.2
   unix-timestamp: 1581120000

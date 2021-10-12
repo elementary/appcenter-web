@@ -3,8 +3,9 @@ app_id: com.github.aleksandar-stefanovic.urmsimulator
 title: "URM Simulator"
 summary: "Simple URM simulations"
 developer: "Aleksandar Stefanović"
-homepage: "https://github.com/aleksandar-stefanovic/urmsimulator/"
-help_page: "#"
+homepage: https://github.com/aleksandar-stefanovic/urmsimulator/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aleksandar-stefanovic.urmsimulator/AB3B98CF3794719ED25B59B9512FBB2C/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#8b7793"
   primary-text: "#FAFAFA"
-price: 0
+price: false
 releases:
 - version: 1.3.3
   unix-timestamp: 1563840000

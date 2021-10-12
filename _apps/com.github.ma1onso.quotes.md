@@ -3,8 +3,9 @@ app_id: com.github.ma1onso.quotes
 title: "Forismatic"
 summary: "Quotes for daily inspiration"
 developer: "Alonso Enrique"
-homepage: "https://github.com/ma1onso"
-help_page: "#"
+homepage: https://github.com/ma1onso
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ma1onso.quotes/C0913E5FFC862D088632E4BFC18D6F7A/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.linuxhubsubpixel.license
 title: "License"
 summary: "Choose your project license"
 developer: "Mirko Brombin"
-homepage: "https://github.com/linuxhubsubpixel/license"
-help_page: "https://github.com/linuxhubsubpixel/license"
+homepage: https://github.com/linuxhubsubpixel/license
+help_page: https://github.com/linuxhubsubpixel/license
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/linuxhubsubpixel.license/0000E0DD1069BF881217979682BD0C8F/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#3278cd"
   primary-text: "rgb(157, 200, 236)"
-price: 0
+price: false
 releases:
 - version: 1.0.3
   unix-timestamp: 1576281600

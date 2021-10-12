@@ -3,8 +3,9 @@ app_id: com.github.juarezfranco.tarefas-desktop
 title: "Tasks"
 summary: "Manager tasks"
 developer: "Juarez Franco"
-homepage: "#"
-help_page: "#"
+homepage: false
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/juarezfranco.tarefas-desktop/04A2804799B7348F180E60395B7EFDBC/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#a56de2"
   primary-text: "rgb(255, 255, 255)"
-price: 0
+price: false
 releases:
 - version: 1.0
   unix-timestamp: 1567468800

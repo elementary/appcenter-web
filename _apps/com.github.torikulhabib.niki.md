@@ -3,8 +3,9 @@ app_id: com.github.torikulhabib.niki
 title: "Niki"
 summary: "Media Player"
 developer: "Torikul Habib"
-homepage: "https://github.com/torikulhabib/niki"
-help_page: "#"
+homepage: https://github.com/torikulhabib/niki
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.niki/28F263964FF692AF334E8FFF70BCD01D/screenshots/image-1_orig.png

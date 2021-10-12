@@ -3,8 +3,9 @@ app_id: com.github.bleakgrey.tootle
 title: "Tootle"
 summary: "Lightning fast client for Mastodon"
 developer: "bleak_grey"
-homepage: "https://github.com/bleakgrey"
-help_page: "#"
+homepage: https://github.com/bleakgrey
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bleakgrey.tootle/6578C6B69CB123785F9B81E16D110955/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#F5F8FF"
   primary-text: "#413F58"
-price: 0
+price: false
 releases:
 - version: 0.2.0
   unix-timestamp: 1540944000

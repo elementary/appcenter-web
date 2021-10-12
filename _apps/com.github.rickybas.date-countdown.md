@@ -3,8 +3,9 @@ app_id: com.github.rickybas.date-countdown
 title: "Date Countdown"
 summary: "A minimalist date countdown applet"
 developer: "Ricky Bassom"
-homepage: "https://github.com/rickybas/date-countdown"
-help_page: "#"
+homepage: https://github.com/rickybas/date-countdown
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/rickybas.date-countdown/D81A71EBD0F88AE5820F45FDE4D676A2/screenshots/image-1_orig.png

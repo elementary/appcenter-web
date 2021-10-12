@@ -3,8 +3,9 @@ app_id: com.github.marbetschar.time-limit
 title: "Time Limit"
 summary: "A simple and beautiful timer"
 developer: "Marco Betschart"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/marbetschar/time-limit
+help_page: https://github.com/marbetschar/time-limit/issues
+bugtracker: https://github.com/marbetschar/time-limit/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/marbetschar/time-limit/master/data/screenshots/Dark-Light-Accent-Variants-Background.png

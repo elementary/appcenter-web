@@ -3,8 +3,9 @@ app_id: com.github.alcadica.develop
 title: "Develop"
 summary: "Creates easily apps and widgets"
 developer: "Alcadica"
-homepage: "http://www.alcadica.com/"
-help_page: "https://github.com/alcadica/develop/issues"
+homepage: http://www.alcadica.com/
+help_page: https://github.com/alcadica/develop/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/alcadica.develop/D3739A360E27AB1C8647D7E931AC7885/screenshots/image-1_orig.png

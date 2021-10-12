@@ -3,8 +3,9 @@ app_id: com.github.sgpthomas.hourglass
 title: "Hourglass"
 summary: "A simple clock application that provides stopwatches, alarms, and timers"
 developer: "Samuel Thomas"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/sgpthomas/hourglass
+help_page: https://github.com/sgpthomas/hourglass/issues
+bugtracker: https://github.com/sgpthomas/hourglass/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/sgpthomas/hourglass/master/data/screenshots/alarm.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#4ea87c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.sgpthomas.hourglass.desktop/

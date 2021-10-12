@@ -3,8 +3,9 @@ app_id: io.elementary.mail
 title: "Mail"
 summary: "Send and receive mail"
 developer: "elementary, Inc."
-homepage: "#"
-help_page: "#"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/mail/discussions/categories/q-a
+bugtracker: https://github.com/elementary/mail/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/mail/master/data/screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#ffe16b"
   primary-text: "#000"
-price: 0
+price: false
 releases:
 
 redirect_from: /io.elementary.mail.desktop/

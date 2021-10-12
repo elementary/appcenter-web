@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.palette
 title: "Palette"
 summary: "View and copy colors from the elementary brand palette"
 developer: "Cassidy James Blaede"
-homepage: "#"
-help_page: "#"
+homepage: https://cassidyjames.com
+help_page: https://cassidyjames.com/support
+bugtracker: https://github.com/cassidyjames/palette/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/cassidyjames/palette/master/data/screenshots/screenshot.png

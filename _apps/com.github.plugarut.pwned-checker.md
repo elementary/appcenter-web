@@ -3,8 +3,9 @@ app_id: com.github.plugarut.pwned-checker
 title: "Pwned Checker"
 summary: "Check if your password has been leaked"
 developer: "Tudor Plugaru"
-homepage: "https://github.com/PlugaruT/pwned-checker"
-help_page: "#"
+homepage: https://github.com/PlugaruT/pwned-checker
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/plugarut.pwned-checker/F7C9EC1B38A66BEB0535955B0E51210D/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.2.4
   unix-timestamp: 1565568000

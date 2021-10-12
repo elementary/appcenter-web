@@ -3,8 +3,9 @@ app_id: com.github.bytepixie.snippetpixie
 title: "Snippet Pixie"
 summary: "Your little expandable text snippet helper"
 developer: "Byte Pixie"
-homepage: "https://www.snippetpixie.com"
-help_page: "#"
+homepage: https://www.snippetpixie.com
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bytepixie.snippetpixie/C961B1B4096220FF7E71344D90F634B6/screenshots/image-1_orig.png

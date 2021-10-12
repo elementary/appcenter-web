@@ -3,8 +3,9 @@ app_id: io.elementary.calendar
 title: "Calendar"
 summary: "View and schedule events"
 developer: "elementary, Inc."
-homepage: "#"
-help_page: "#"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/calendar/discussions/categories/q-a
+bugtracker: https://github.com/elementary/calendar/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/calendar/master/data/screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#206b00"
-price: 0
+price: false
 releases:
 
 redirect_from: /io.elementary.calendar.desktop/

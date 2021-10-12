@@ -3,8 +3,9 @@ app_id: com.github.artemanufrij.webpin
 title: "Webpin"
 summary: "A simple app to pin websites on the desktop"
 developer: "Artem Anufrij"
-homepage: "https://artemanufrij.github.io"
-help_page: "https://github.com/artemanufrij/webpin/issues"
+homepage: https://artemanufrij.github.io
+help_page: https://github.com/artemanufrij/webpin/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.webpin/7A1879C4452280D0CEFFCB89A56DE78D/screenshots/image-1_orig.png

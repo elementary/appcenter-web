@@ -3,8 +3,9 @@ app_id: com.github.donadigo.eddy
 title: "Eddy"
 summary: "Install and Manage .deb Files"
 developer: "Adam Bieńkowski"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/donadigo/eddy
+help_page: https://github.com/donadigo/eddy
+bugtracker: https://github.com/donadigo/eddy/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/donadigo/eddy/master/Screenshot_1.png

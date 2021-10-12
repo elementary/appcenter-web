@@ -3,8 +3,9 @@ app_id: com.github.avojak.iridium
 title: "Iridium"
 summary: "Friendly IRC Client"
 developer: "Andrew Vojak"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/avojak/iridium
+help_page: https://github.com/avojak/iridium/issues
+bugtracker: https://github.com/avojak/iridium/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/avojak/iridium/master/data/assets/screenshots/iridium-screenshot-01.png

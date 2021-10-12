@@ -3,8 +3,9 @@ app_id: com.github.robertsanseries.ciano
 title: "Ciano"
 summary: "A multimedia file converter"
 developer: "Robert San"
-homepage: "https://robertsanseries.github.io/ciano/"
-help_page: "https://github.com/robertsanseries/ciano/issues"
+homepage: https://robertsanseries.github.io/ciano/
+help_page: https://github.com/robertsanseries/ciano/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/robertsanseries.ciano/F30FDF52CA912F383B367AB6AD17AE2F/screenshots/image-1_orig.png

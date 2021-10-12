@@ -3,8 +3,9 @@ app_id: com.github.danrabbit.harvey.desktop
 title: "Harvey"
 summary: "The hero that Gotham needs right now"
 developer: "Daniel Foré"
-homepage: "http://danielfore.com"
-help_page: "#"
+homepage: http://danielfore.com
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.harvey.desktop/8D71ABF97385E7D46A5A7C103A7E31EB/screenshots/image-1_orig.png

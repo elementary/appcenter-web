@@ -3,8 +3,9 @@ app_id: com.github.parnold-x.nasc
 title: "NaSC"
 summary: "Do maths like a normal person"
 developer: "Peter Arnold"
-homepage: "https://github.com/parnold-x/nasc"
-help_page: "#"
+homepage: https://github.com/parnold-x/nasc
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/parnold-x.nasc/698B3A30CBA03573C78D634860D207AC/screenshots/image-1_orig.png

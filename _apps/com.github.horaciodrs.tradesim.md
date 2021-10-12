@@ -3,8 +3,9 @@ app_id: com.github.horaciodrs.tradesim
 title: "TradeSim"
 summary: "The Linux Trading Simulator"
 developer: "Horacio Daniel Ros"
-homepage: "https://github.com/horaciodrs/TradeSim"
-help_page: "https://github.com/horaciodrs/TradeSim/issues"
+homepage: https://github.com/horaciodrs/TradeSim
+help_page: https://github.com/horaciodrs/TradeSim/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/horaciodrs.tradesim/29795ECEE932A2F951D4C4E9B54A0119/screenshots/image-1_orig.png

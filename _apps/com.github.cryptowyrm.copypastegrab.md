@@ -3,8 +3,9 @@ app_id: com.github.cryptowyrm.copypastegrab
 title: "Copy Paste Grab"
 summary: "Download videos from hundreds of websites"
 developer: "Christoph Budzinski"
-homepage: "https://github.com/cryptowyrm/copypastegrab"
-help_page: "#"
+homepage: https://github.com/cryptowyrm/copypastegrab
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cryptowyrm.copypastegrab/BC81BEAA21EAEB18F882B63A1E729F7C/screenshots/image-1_orig.png

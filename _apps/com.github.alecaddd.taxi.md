@@ -3,8 +3,9 @@ app_id: com.github.alecaddd.taxi
 title: "Taxi"
 summary: "The FTP Client that drives you anywhere"
 developer: "Alessandro Castellani"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/Alecaddd/taxi
+help_page: false
+bugtracker: https://github.com/Alecaddd/taxi/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Alecaddd/taxi/master/data/screenshot.png

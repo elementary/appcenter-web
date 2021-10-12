@@ -3,8 +3,9 @@ app_id: com.github.needle-and-thread.vocal
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
 developer: "Needle & Thread"
-homepage: "http://github.com/needle-and-thread/vocal"
-help_page: "#"
+homepage: http://github.com/needle-and-thread/vocal
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/needle-and-thread.vocal/CD30FFB597C9D941DAF027A44E0ABBA9/screenshots/image-1_orig.png

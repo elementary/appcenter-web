@@ -3,8 +3,9 @@ app_id: com.github.kmal-kenneth.monilet
 title: "Monilet"
 summary: "A monitor widget."
 developer: "Kenet Acuña"
-homepage: "http://github.com/kmal-kenneth"
-help_page: "http://github.com/kmal-kenneth/issues"
+homepage: http://github.com/kmal-kenneth
+help_page: http://github.com/kmal-kenneth/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/kmal-kenneth.monilet/4EDBE1C3A067C03FBBA209A98DA668FC/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#292B37"
   primary-text: "#DCDFE4"
-price: 0
+price: false
 releases:
 - version: 0.2.2
   unix-timestamp: 1581206400

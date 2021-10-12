@@ -3,8 +3,9 @@ app_id: com.github.cleac.olifant
 title: "Olifant"
 summary: "Lightning fast client for Mastodon"
 developer: "alexcleac"
-homepage: "https://github.com/cleac/olifant"
-help_page: "#"
+homepage: https://github.com/cleac/olifant
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cleac.olifant/71165A24E4E08E1D42F1D3B807C3C0F5/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#F5F8FF"
   primary-text: "#413F58"
-price: 0
+price: false
 releases:
 - version: 0.2.1-beta4
   unix-timestamp: 1593561600

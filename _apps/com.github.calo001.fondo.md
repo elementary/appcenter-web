@@ -3,8 +3,9 @@ app_id: com.github.calo001.fondo
 title: "Fondo"
 summary: "Find the most beautiful wallpapers"
 developer: "Carlos Lopez"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/calo001/fondo
+help_page: https://github.com/calo001/fondo/issues
+bugtracker: https://github.com/calo001/fondo/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/calo001/fondo/master/data/images/screenshot_1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#82ffc4"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.calo001.fondo.desktop/

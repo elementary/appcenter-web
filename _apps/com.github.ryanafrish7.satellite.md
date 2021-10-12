@@ -3,8 +3,9 @@ app_id: com.github.ryanafrish7.satellite
 title: "Satellite"
 summary: "Monitor how the system resources are being utilized"
 developer: "Afrish Khan S"
-homepage: "https://github.com/RyanAfrish7/satellite"
-help_page: "#"
+homepage: https://github.com/RyanAfrish7/satellite
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ryanafrish7.satellite/FF3DB5089BE63A26C1C0E2E1CF1819A7/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.1.0
   unix-timestamp: 1562889600

@@ -3,8 +3,9 @@ app_id: com.github.mirkobrombin.bottles
 title: "Bottles"
 summary: "Easily manage your Wine bottles"
 developer: "Mirko Brombin"
-homepage: "https://github.com/mirkobrombin/bottles"
-help_page: "https://github.com/mirkobrombin/Bottles/wiki"
+homepage: https://github.com/mirkobrombin/bottles
+help_page: https://github.com/mirkobrombin/Bottles/wiki
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mirkobrombin.bottles/0A214F87CE14479A8A40F67B42A12535/screenshots/image-1_orig.png
@@ -19,7 +20,7 @@ icons:
 color:
   primary: "#F0E5F2"
   primary-text: "#95005D"
-price: 0
+price: false
 releases:
 - version: 0.2.5
   unix-timestamp: 1587772800

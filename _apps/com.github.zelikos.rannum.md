@@ -3,8 +3,9 @@ app_id: com.github.zelikos.rannum
 title: "Roll-It"
 summary: "Roll the dice"
 developer: "Patrick Csikos"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/zelikos/rannum
+help_page: false
+bugtracker: https://github.com/zelikos/rannum/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/zelikos/rannum/main/data/screenshot1.png

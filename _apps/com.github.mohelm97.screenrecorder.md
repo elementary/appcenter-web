@@ -3,8 +3,9 @@ app_id: com.github.mohelm97.screenrecorder
 title: "Screen Recorder"
 summary: "A simple screen recording app for daily use."
 developer: "Mohammed ALMadhoun"
-homepage: "https://github.com/mohelm97/screenrecorder"
-help_page: "https://github.com/mohelm97/screenrecorder/issues"
+homepage: https://github.com/mohelm97/screenrecorder
+help_page: https://github.com/mohelm97/screenrecorder/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mohelm97.screenrecorder/98E144B73F6A64B11A5EB68D9EB14B4F/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#c6262e"
   primary-text: "rgb(255, 255, 255)"
-price: 0
+price: false
 releases:
 - version: 0.2
   unix-timestamp: 1552435200

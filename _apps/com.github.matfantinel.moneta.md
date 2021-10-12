@@ -3,8 +3,9 @@ app_id: com.github.matfantinel.moneta
 title: "Moneta"
 summary: "Monitor the exchange rates of real-world currencies on your desktop"
 developer: "Matheus Fantinel"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/matfantinel/moneta
+help_page: https://github.com/matfantinel/moneta/issues
+bugtracker: https://github.com/matfantinel/moneta/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/matfantinel/moneta/master/data/screenshots/Main.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.matfantinel.moneta.desktop/

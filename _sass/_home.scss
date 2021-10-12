@@ -55,12 +55,9 @@
         display: none;
       }
 
-      &.hera {
-        opacity: 0.67;
-      }
-
+      &.hera,
       &.loki {
-        opacity: 0.33;
+        opacity: 0.67;
       }
     }
   }

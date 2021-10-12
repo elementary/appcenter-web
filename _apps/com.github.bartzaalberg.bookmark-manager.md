@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.bookmark-manager
 title: "Bookmark Manager"
 summary: "Manage your SSH bookmarks"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/bookmark-manager"
-help_page: "https://github.com/bartzaalberg/bookmark-manager/issues"
+homepage: https://github.com/bartzaalberg/bookmark-manager
+help_page: https://github.com/bartzaalberg/bookmark-manager/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.bookmark-manager/9E4AAAD8F9A0E301DA54279ADB694333/screenshots/image-1_orig.png

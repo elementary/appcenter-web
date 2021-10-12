@@ -3,8 +3,9 @@ app_id: com.github.elfenware.badger
 title: "Badger"
 summary: "Remind yourself to not sit and stare at the screen for too long"
 developer: "Elfenware"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/elfenware/badger
+help_page: https://github.com/elfenware/badger/issues
+bugtracker: https://github.com/elfenware/badger/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/badger/master/data/window-screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#333"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.elfenware.badger.desktop/

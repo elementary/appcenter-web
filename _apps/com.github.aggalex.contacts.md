@@ -3,8 +3,9 @@ app_id: com.github.aggalex.contacts
 title: "Contacts"
 summary: "Manage your contacts"
 developer: "Alex Angelou"
-homepage: "https://github.com/aggalex/Contacts"
-help_page: "https://github.com/aggalex/Contacts/issues"
+homepage: https://github.com/aggalex/Contacts
+help_page: https://github.com/aggalex/Contacts/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aggalex.contacts/FF0EB133B084B100293F53907EBAF764/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "@LIME_100"
   primary-text: "@LIME_900"
-price: 0
+price: false
 releases:
 - version: 1.0.3
   unix-timestamp: 1565740800

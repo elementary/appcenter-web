@@ -3,8 +3,9 @@ app_id: com.github.mdh34.quickdocs
 title: "quickDocs"
 summary: "Quickly Read Developer Docs"
 developer: "Matt Harris"
-homepage: "https://github.com/mdh34/quickDocs"
-help_page: "#"
+homepage: https://github.com/mdh34/quickDocs
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/mdh34.quickdocs/3347E48FEDFE8A21B87A274A19E6E0DA/screenshots/image-1_orig.png

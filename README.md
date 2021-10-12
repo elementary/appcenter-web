@@ -56,7 +56,7 @@ ruby generate-odin.rb
 ruby generate-flatpak.rb
 ```
 
-This is automatically run daily with a GitHub Action workflow.
+This is automatically run hourly with a GitHub Action workflow.
 
 ### Serve
 

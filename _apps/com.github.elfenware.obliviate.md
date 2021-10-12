@@ -3,8 +3,9 @@ app_id: com.github.elfenware.obliviate
 title: "Obliviate"
 summary: "A password manager that forgets your passwords"
 developer: "Elfenware"
-homepage: "#"
-help_page: "#"
+homepage: https://obliviate.app
+help_page: https://github.com/elfenware/obliviate/issues
+bugtracker: https://github.com/elfenware/obliviate/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/obliviate/main/data/window-screenshot.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#333"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.elfenware.obliviate.desktop/

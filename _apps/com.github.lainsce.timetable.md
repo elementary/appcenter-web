@@ -3,8 +3,9 @@ app_id: com.github.lainsce.timetable
 title: "Timetable"
 summary: "Plot out your own timetable for the week and organize it"
 developer: "Lains"
-homepage: "https://github.com/lainsce/timetable/"
-help_page: "#"
+homepage: https://github.com/lainsce/timetable/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.timetable/FFFFDEBB6AEA498B0F6D29671B90C4DD/screenshots/image-1_orig.png

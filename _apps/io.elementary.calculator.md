@@ -3,8 +3,9 @@ app_id: io.elementary.calculator
 title: "Calculator"
 summary: "Solve simple equations"
 developer: "elementary, Inc."
-homepage: "#"
-help_page: "#"
+homepage: https://elementary.io/
+help_page: https://elementaryos.stackexchange.com/questions/tagged/calculator
+bugtracker: https://github.com/elementary/calculator/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/calculator/master/data/screenshot@2x.png
@@ -13,7 +14,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 
 redirect_from: /io.elementary.calculator.desktop/

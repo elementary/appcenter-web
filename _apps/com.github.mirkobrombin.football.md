@@ -3,8 +3,9 @@ app_id: com.github.mirkobrombin.football
 title: "Football"
 summary: "Check Football competitions status"
 developer: "Mirko Brombin"
-homepage: "https://github.com/mirkobrombin/Football"
-help_page: "https://github.com/mirkobrombin/Football/issues/new"
+homepage: https://github.com/mirkobrombin/Football
+help_page: https://github.com/mirkobrombin/Football/issues/new
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/mirkobrombin.football/8CF94DDB6ED972D3654DA9E65DF80100/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#216200"
   primary-text: "#FFF"
-price: 0
+price: false
 releases:
 
 redirect_from:

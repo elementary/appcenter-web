@@ -3,8 +3,9 @@ app_id: com.github.lainsce.quilter
 title: "Quilter"
 summary: "Focus on your writing"
 developer: "Lains"
-homepage: "https://github.com/lainsce/quilter/"
-help_page: "#"
+homepage: https://github.com/lainsce/quilter/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.quilter/0E27F01B53CAD3237A97F5C24AC1E8E2/screenshots/image-1_orig.png

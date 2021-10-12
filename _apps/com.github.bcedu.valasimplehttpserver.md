@@ -3,8 +3,9 @@ app_id: com.github.bcedu.valasimplehttpserver
 title: "VServer"
 summary: "Acces to your files from any device in the same network"
 developer: "Eduard Berloso Clarà"
-homepage: "https://github.com/bcedu/ValaSimpleHTTPServer"
-help_page: "https://github.com/bcedu/ValaSimpleHTTPServer/issues"
+homepage: https://github.com/bcedu/ValaSimpleHTTPServer
+help_page: https://github.com/bcedu/ValaSimpleHTTPServer/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.valasimplehttpserver/113B03F9D0E36A0B84C52562EF2F2528/screenshots/image-1_orig.png

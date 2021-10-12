@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.dippi
 title: "Dippi"
 summary: "Calculate display info like DPI and aspect ratio"
 developer: "Cassidy James Blaede"
-homepage: "#"
-help_page: "#"
+homepage: https://cassidyjames.com
+help_page: https://cassidyjames.com/support
+bugtracker: https://github.com/cassidyjames/dippi/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/cassidyjames/dippi/master/data/screenshot.png

@@ -3,8 +3,9 @@ app_id: com.github.aimproxy.dotfonts
 title: "DotFonts"
 summary: "Find beautiful fonts and easy install"
 developer: "Micael Dias (@aimproxy)"
-homepage: "https://github.com/aimproxy/dotfonts"
-help_page: "https://github.com/aimproxy/dotfonts/issues"
+homepage: https://github.com/aimproxy/dotfonts
+help_page: https://github.com/aimproxy/dotfonts/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/aimproxy.dotfonts/D7EF8375BECF1112AC18361AD511295B/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.1.3
   unix-timestamp: 1564358400

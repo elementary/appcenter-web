@@ -3,8 +3,9 @@ app_id: com.github.lainsce.coin
 title: "Coin"
 summary: "Never miss out on the monetary value of a virtual currency with this handy applet"
 developer: "Lains"
-homepage: "https://github.com/lainsce/coin/"
-help_page: "#"
+homepage: https://github.com/lainsce/coin/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.coin/9353C161B4997972B610F0CA2F368CA1/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#badbad"
   primary-text: "#212121"
-price: 0
+price: false
 releases:
 - version: 1.3.0
   unix-timestamp: 1581033600

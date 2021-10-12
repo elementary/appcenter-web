@@ -3,8 +3,9 @@ app_id: com.github.arshubham.gitignore
 title: "gitIgnore"
 summary: ".gitignore reference for various languages"
 developer: "Shubham Arora"
-homepage: "https://shubhamarora.in"
-help_page: "https://github.com/arshubham/gitignore/issues"
+homepage: https://shubhamarora.in
+help_page: https://github.com/arshubham/gitignore/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/arshubham.gitignore/F1158456BFEABE1759FACDBE65CE6B11/screenshots/image-1_orig.png
@@ -19,7 +20,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 2.0.0
   unix-timestamp: 1549670400

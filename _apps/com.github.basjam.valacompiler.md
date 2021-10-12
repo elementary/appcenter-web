@@ -3,8 +3,9 @@ app_id: com.github.basjam.valacompiler
 title: "ValaCompiler"
 summary: "A Simple GUI for valac"
 developer: "Basem Kheyar"
-homepage: "https://github.com/basjam/ValaCompiler/"
-help_page: "#"
+homepage: https://github.com/basjam/ValaCompiler/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/basjam.valacompiler/D89B58D0EFE3F3F2F99C0A64B8ADA29E/screenshots/image-1_orig.png

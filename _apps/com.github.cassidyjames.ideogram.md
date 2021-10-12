@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.ideogram
 title: "Ideogram"
 summary: "Insert emoji anywhere 🎉"
 developer: "Cassidy James Blaede"
-homepage: "https://cassidyjames.com"
-help_page: "https://cassidyjames.com/support"
+homepage: https://cassidyjames.com
+help_page: https://cassidyjames.com/support
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ideogram/0C017930E6AF47115AB48FCCC2BB151F/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.matfantinel.reminduck
 title: "Reminduck"
 summary: "Remember your stuff in an adorably annoying way."
 developer: "Matheus Fantinel"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/matfantinel/reminduck
+help_page: https://github.com/matfantinel/reminduck/issues
+bugtracker: https://github.com/matfantinel/reminduck/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/matfantinel/reminduck/master/data/screenshots/Welcome.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#3D3D3D"
   primary-text: "#FFF394"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.matfantinel.reminduck.desktop/

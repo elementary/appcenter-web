@@ -3,8 +3,9 @@ app_id: com.github.artemanufrij.regextester
 title: "Regex Tester"
 summary: "A simple app for testing regular expressions"
 developer: "Artem Anufrij"
-homepage: "https://github.com/artemanufrij/regextester"
-help_page: "https://github.com/artemanufrij/regextester/issues"
+homepage: https://github.com/artemanufrij/regextester
+help_page: https://github.com/artemanufrij/regextester/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.regextester/1E2409C94C9968E00618D74EB9167ED7/screenshots/image-1_orig.png

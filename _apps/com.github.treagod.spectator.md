@@ -3,8 +3,9 @@ app_id: com.github.treagod.spectator
 title: "Spectator"
 summary: "Comfortably test your REST APIs!"
 developer: "Marvin Ahlgrimm"
-homepage: "https://github.com/treagod/spectator"
-help_page: "#"
+homepage: https://github.com/treagod/spectator
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/treagod.spectator/84AB1F18324D910E1E4FA3A8FB0B7C9F/screenshots/image-1_orig.png

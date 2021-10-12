@@ -3,8 +3,9 @@ app_id: com.github.linuxhubit.catfacts
 title: "Cat Facts"
 summary: "Find cat facts"
 developer: "Mirko Brombin"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/linuxhubit/catfacts
+help_page: https://github.com/linuxhubit/catfacts
+bugtracker: https://github.com/linuxhubit/catfacts/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/linuxhubit/catfacts/master/data/screenshot-1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#aa5fb0"
   primary-text: "#ffffff"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.linuxhubit.catfacts.desktop/

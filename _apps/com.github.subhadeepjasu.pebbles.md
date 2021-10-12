@@ -3,8 +3,9 @@ app_id: com.github.subhadeepjasu.pebbles
 title: "Pebbles"
 summary: "Perform advanced calculations with ease"
 developer: "Subhadeep Jasu"
-homepage: "#"
-help_page: "#"
+homepage: https://subhadeepjasu.github.io/#/project/pebbles
+help_page: https://github.com/SubhadeepJasu/pebbles/issues
+bugtracker: https://github.com/SubhadeepJasu/pebbles/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/SubhadeepJasu/pebbles/master/screenshots/Screenshot-Scientific.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#84AEAA"
   primary-text: "rgb(39,40,99)"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.subhadeepjasu.pebbles.desktop/

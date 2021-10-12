@@ -3,8 +3,9 @@ app_id: com.github.jeysonflores.hasher
 title: "Hasher"
 summary: "Hash your files"
 developer: "Jeyson Antonio Flores Deras"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/JeysonFlores/hasher
+help_page: https://github.com/JeysonFlores/hasher/issues
+bugtracker: https://github.com/JeysonFlores/hasher/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/JeysonFlores/hasher/main/data/assets/screenshots/screenshot-1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#efefef"
   primary-text: "#508ff3"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.jeysonflores.hasher.desktop/

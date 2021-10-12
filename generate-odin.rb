@@ -13,11 +13,15 @@ componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
 app_id: ((id))
+type: ((type))
+extends: ((extends))
+compulsory: ((compulsory))
 title: "((title))"
 summary: "((summary))"
 developer: "((dev))"
-homepage: "((site))"
-help_page: "((help))"
+homepage: ((site))
+help_page: ((help))
+bugtracker: ((bugtracker))
 dist: odin
 icons:
 ((icons))
@@ -61,23 +65,45 @@ YAML.load_stream(componentsData) do |doc|
   appFile.sub!('((package))', doc['Package'])
   appFile.sub!('((id))', doc['ID'])
 
+  extends = "false"
+  if not doc['Extends'].nil?
+    extends = doc['Extends'][0]
+  end
+  appFile.sub!('((extends))', extends)
+
+  type = "false"
+  if not doc['Type'].nil?
+    type = doc['Type']
+  end
+  appFile.sub!('((type))', type)
+
+  compulsory = "false"
+  if not doc['CompulsoryForDesktops'].nil?
+    compulsory = doc['CompulsoryForDesktops'][0]
+  end
+  appFile.sub!('((compulsory))', compulsory)
+
+  site = "false"
   if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
     site = doc['Url']['homepage']
-  else
-    site = "#"
   end
   appFile.sub!('((site))', site)
 
+  help = "false"
   if not doc['Url'].nil? and not doc['Url']['help'].nil?
     help = doc['Url']['help']
-  else
-    help = "#"
   end
   appFile.sub!('((help))', help)
 
+  bugtracker = "false"
+  if not doc['Url'].nil? and not doc['Url']['bugtracker'].nil?
+    help = doc['Url']['bugtracker']
+  end
+  appFile.sub!('((bugtracker))', bugtracker)
+
   color_text = "#fff"
   color_primary = "#485a6c"
-  price = "0"
+  price = "false"
   unless doc['Custom'].nil?
     unless doc['Custom']['x-appcenter-color-primary'].nil?
       color_primary = doc['Custom']['x-appcenter-color-primary']
@@ -131,7 +157,7 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((releases))', releases.rstrip)
 
-  File.open("_apps/#{doc['Package']}.md", "w+") do |file|
+  File.open("_apps/#{doc['ID']}.md", "w+") do |file|
     file.write(appFile)
   end
 end

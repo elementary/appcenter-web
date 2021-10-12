@@ -3,8 +3,9 @@ app_id: com.github.ronnydo.colorpicker
 title: "Color Picker"
 summary: "The most intuitive Color Picker to speed up your workflow"
 developer: "Ronny Dobra"
-homepage: "https://github.com/RonnyDo/ColorPicker"
-help_page: "#"
+homepage: https://github.com/RonnyDo/ColorPicker
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/ronnydo.colorpicker/F20B5F2CB156F30CB2BEB72162451573/screenshots/image-1_orig.png
@@ -16,7 +17,7 @@ icons:
 color:
   primary: "#A3FF91"
   primary-text: "#333333"
-price: 0
+price: false
 releases:
 - version: 1.1.3
   unix-timestamp: 1577923200

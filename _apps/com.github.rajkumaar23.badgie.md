@@ -3,8 +3,9 @@ app_id: com.github.rajkumaar23.badgie
 title: "Badgie"
 summary: "Badges for your android app's README"
 developer: "Rajkumar S"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/rajkumaar23/badgie
+help_page: https://github.com/rajkumaar23/badgie/issues
+bugtracker: https://github.com/rajkumaar23/badgie/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/rajkumaar23/badgie/master/data/screenshots/1.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.rajkumaar23.badgie.desktop/

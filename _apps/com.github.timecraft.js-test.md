@@ -3,8 +3,9 @@ app_id: com.github.timecraft.js-test
 title: "JS Test"
 summary: "Test your JavaScript"
 developer: "Timecraft"
-homepage: "https://github.com/timecraft/js-test"
-help_page: "https://github.com/timecraft/js-test/issues"
+homepage: https://github.com/timecraft/js-test
+help_page: https://github.com/timecraft/js-test/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/timecraft.js-test/22F9AC1FD6C9D778405C58C43DDC9667/screenshots/image-1_orig.png
@@ -20,7 +21,7 @@ icons:
 color:
   primary: "rgb(255, 179, 0)"
   primary-text: "#000"
-price: 0
+price: false
 releases:
 - version: 0.1.2
   description: |-

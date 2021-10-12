@@ -3,8 +3,9 @@ app_id: com.github.bartzaalberg.alias
 title: "Alias"
 summary: "Simplify your commands"
 developer: "Bart Zaalberg"
-homepage: "https://github.com/bartzaalberg/alias"
-help_page: "https://github.com/bartzaalberg/alias/issues"
+homepage: https://github.com/bartzaalberg/alias
+help_page: https://github.com/bartzaalberg/alias/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bartzaalberg.alias/EF50BC4FF92822E2534D03C0BE7E90DB/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#E7E6E5"
   primary-text: "#1A2834"
-price: 0
+price: false
 releases:
 - version: 1.6.0
   unix-timestamp: 1574899200

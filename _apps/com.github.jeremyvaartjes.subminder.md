@@ -3,8 +3,9 @@ app_id: com.github.jeremyvaartjes.subminder
 title: "SubMinder"
 summary: "Keep tabs on your subscriptions"
 developer: "Jeremy Vaartjes"
-homepage: "https://jeremy.vaartj.es"
-help_page: "#"
+homepage: https://jeremy.vaartj.es
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremyvaartjes.subminder/02305A7612077D0B76BF5678E4927ABF/screenshots/image-1_orig.png

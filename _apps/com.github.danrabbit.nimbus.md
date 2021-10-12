@@ -3,8 +3,9 @@ app_id: com.github.danrabbit.nimbus
 title: "Nimbus"
 summary: "See outside without going there"
 developer: "Daniel Foré"
-homepage: "http://danielfore.com"
-help_page: "#"
+homepage: http://danielfore.com
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/danrabbit.nimbus/CE52828F7F5DCB246833F75E1DE0EC58/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#e9f4fc"
   primary-text: "#044b6c"
-price: 0
+price: false
 releases:
 - version: 0.3.2
   unix-timestamp: 1530316800

@@ -1,17 +1,21 @@
 ---
 app_id: io.elementary.shortcut-overlay
+type: desktop-application
+extends: false
+compulsory: false
 title: "Shortcuts"
 summary: "View system shortcuts"
 developer: "elementary, Inc."
-homepage: "http://elementary.io"
-help_page: "#"
+homepage: http://elementary.io
+help_page: false
+bugtracker: false
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.shortcut-overlay_preferences-desktop-keyboard.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.2.0
   unix-timestamp: 1626220800

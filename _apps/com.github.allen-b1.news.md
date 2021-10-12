@@ -3,8 +3,9 @@ app_id: com.github.allen-b1.news
 title: "News"
 summary: "Read Atom and RSS feeds"
 developer: "Allen B"
-homepage: "https://github.com/allen-b1/news"
-help_page: "https://github.com/allen-b1/news/issues/new"
+homepage: https://github.com/allen-b1/news
+help_page: https://github.com/allen-b1/news/issues/new
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/allen-b1.news/BF795BB55B926620608EF23FEBE2CCAF/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#f20050"
   primary-text: "#FFF"
-price: 0
+price: false
 releases:
 - version: 1.4
   unix-timestamp: 1590364800

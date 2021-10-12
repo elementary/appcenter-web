@@ -3,8 +3,9 @@ app_id: com.github.artemanufrij.findfileconflicts
 title: "File Conflicts Finder"
 summary: "Helps to detect and solve possible file conflicts"
 developer: "Artem Anufrij"
-homepage: "http://anufrij.org"
-help_page: "https://github.com/artemanufrij/findfileconflicts/issues"
+homepage: http://anufrij.org
+help_page: https://github.com/artemanufrij/findfileconflicts/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/artemanufrij.findfileconflicts/66A8F61614941CE62667459CB998B9D6/screenshots/image-1_orig.png

@@ -3,8 +3,9 @@ app_id: com.github.torikulhabib.nino
 title: "Nino"
 summary: "A Widgets network monitor"
 developer: "torikul habib"
-homepage: "https://github.com/torikulhabib/nino"
-help_page: "#"
+homepage: https://github.com/torikulhabib/nino
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/torikulhabib.nino/55163EE31B5B8C790DD9C053A19CD81B/screenshots/image-1_orig.png

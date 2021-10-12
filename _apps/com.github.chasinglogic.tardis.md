@@ -3,8 +3,9 @@ app_id: com.github.chasinglogic.tardis
 title: "Tardis"
 summary: "Automatically manage backups"
 developer: "Mathew Robinson"
-homepage: "https://github.com/chasinglogic/tardis"
-help_page: "https://github.com/chasinglogic/tardis/issues"
+homepage: https://github.com/chasinglogic/tardis
+help_page: https://github.com/chasinglogic/tardis/issues
+bugtracker: false
 dist: hera
 screenshots:
 
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: v1.2.1
   unix-timestamp: 1582934400

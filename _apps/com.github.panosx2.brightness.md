@@ -3,8 +3,9 @@ app_id: com.github.panosx2.brightness
 title: "Dimmer"
 summary: "Change screen's brightness"
 developer: "Panos P."
-homepage: "https://github.com/panosx2/brightness"
-help_page: "https://github.com/panosx2/brightness"
+homepage: https://github.com/panosx2/brightness
+help_page: https://github.com/panosx2/brightness
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/panosx2.brightness/2FFAC77CF086C249EA237A5F986AA037/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.4.30
   unix-timestamp: 1557187200

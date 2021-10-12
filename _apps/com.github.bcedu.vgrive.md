@@ -3,8 +3,9 @@ app_id: com.github.bcedu.vgrive
 title: "VGrive"
 summary: "Google Drive client with automatic synchronization for Linux"
 developer: "Eduard Berloso Clarà"
-homepage: "https://github.com/bcedu/VGrive"
-help_page: "https://github.com/bcedu/VGrive/issues"
+homepage: https://github.com/bcedu/VGrive
+help_page: https://github.com/bcedu/VGrive/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bcedu.vgrive/8C2C13C986FF0B61793A69C348B19932/screenshots/image-1_orig.png

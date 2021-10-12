@@ -3,8 +3,9 @@ app_id: com.github.brendanperry.stocks
 title: "Simple Stocks"
 summary: "Keep tabs on your favorite stocks"
 developer: "Brendan Perry"
-homepage: "https://github.com/brendanperry/stocks"
-help_page: "#"
+homepage: https://github.com/brendanperry/stocks
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/brendanperry.stocks/BBDC0F5FBB2A8E153FD67A597EF22AC2/screenshots/image-1_orig.png

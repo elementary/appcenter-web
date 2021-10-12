@@ -3,8 +3,9 @@ app_id: com.github.jeremypw.gnonograms
 title: "Gnonograms"
 summary: "Create and solve gnonogram puzzles"
 developer: "Jeremy Paul Wootten"
-homepage: "https://github.com/jeremypw/gnonograms"
-help_page: "https://github.com/jeremypw/gnonograms"
+homepage: https://github.com/jeremypw/gnonograms
+help_page: https://github.com/jeremypw/gnonograms
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/jeremypw.gnonograms/08A839FFB669B68461F264264E01D16C/screenshots/image-1_orig.png
@@ -17,7 +18,7 @@ icons:
 color:
   primary: "#d4d4d4"
   primary-text: "#180297"
-price: 0
+price: false
 releases:
 - version: 1.4.3
   unix-timestamp: 1575936000

@@ -3,8 +3,9 @@ app_id: com.github.lainsce.reganam
 title: "Reganam"
 summary: "Resource Management game set in space"
 developer: "Lains"
-homepage: "https://github.com/lainsce/reganam/"
-help_page: "#"
+homepage: https://github.com/lainsce/reganam/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.reganam/5BCBB2BAB6B7BB1390C932F465E9A4CD/screenshots/image-1_orig.png

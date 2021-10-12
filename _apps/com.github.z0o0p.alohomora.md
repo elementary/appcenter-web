@@ -3,8 +3,9 @@ app_id: com.github.z0o0p.alohomora
 title: "Alohomora"
 summary: "Store and manage passwords securely"
 developer: "Taqmeel Zubeir"
-homepage: "https://github.com/z0o0p/alohomora"
-help_page: "http://github.com/z0o0p/alohomora/issues"
+homepage: https://github.com/z0o0p/alohomora
+help_page: http://github.com/z0o0p/alohomora/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/z0o0p.alohomora/D2A4D1EBF3B72D359CE93107297B65C4/screenshots/image-1_orig.png

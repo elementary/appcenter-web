@@ -18,8 +18,9 @@ app_id: ((id))
 title: "((title))"
 summary: "((summary))"
 developer: "((dev))"
-homepage: "((site))"
-help_page: "((help))"
+homepage: ((site))
+help_page: ((help))
+bugtracker: ((bugtracker))
 dist: flatpak
 screenshots:
 ((screenshots))
@@ -65,35 +66,39 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((id))', id.content)
   appFile.sub!('((redirect))', "/" + id.content + ".desktop/")
 
-  url = component.at_css('url')
-  if not url.nil? and not url.attribute("homepage").nil?
-    site = url.attribute("homepage")
-  else
-    site = "#"
+  site = "false"
+  url_home = component.at_css('url[type="homepage"]')
+  if not url_home.nil?
+    site = url_home.content
   end
   appFile.sub!('((site))', site)
 
-  if not url.nil? and not url.attribute("help").nil?
-    help = url.attribute("help")
-  else
-    help = "#"
+  help = "false"
+  url_help = component.at_css('url[type="help"]')
+  if not url_help.nil?
+    help = url_help.content
   end
   appFile.sub!('((help))', help)
 
+  bugtracker = "false"
+  url_bugtracker = component.at_css('url[type="bugtracker"]')
+  if not url_bugtracker.nil?
+    bugtracker = url_bugtracker.content
+  end
+  appFile.sub!('((bugtracker))', bugtracker)
+
   color_primary = "#485a6c"
   color_text = "#fff"
-  price = "0"
 
   custom_color = component.at_css('value[key="x-appcenter-color-primary"]')
-  if not custom_color.nil?
-    color_primary = custom_color.content
-  end
-
   custom_text = component.at_css('value[key="x-appcenter-color-primary-text"]')
-  if not custom_color.nil?
+
+  if not custom_color.nil? and not custom_text.nil?
+    color_primary = custom_color.content
     color_text = custom_text.content
   end
 
+  price = "false"
   custom_price = component.at_css('value[key="x-appcenter-suggested-price"]')
   custom_key = component.at_css('value[key="x-appcenter-stripe"]')
   if not custom_price.nil? and not custom_key.nil?

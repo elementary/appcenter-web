@@ -3,8 +3,9 @@ app_id: com.github.tkashkin.boiler
 title: "Boiler"
 summary: "Control your kettle remotely"
 developer: "Anatoliy Kashkin"
-homepage: "https://tkashkin.tk/projects/boiler/"
-help_page: "#"
+homepage: https://tkashkin.tk/projects/boiler/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/tkashkin.boiler/E398C1A0A50ED7FF3F034CE395BD124C/screenshots/image-1_orig.png
@@ -19,7 +20,7 @@ icons:
 color:
   primary: "#ff8800"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 - version: 0.2.1
   unix-timestamp: 1547424000

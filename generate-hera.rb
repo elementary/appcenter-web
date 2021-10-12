@@ -16,8 +16,9 @@ app_id: ((id))
 title: "((title))"
 summary: "((summary))"
 developer: "((dev))"
-homepage: "((site))"
-help_page: "((help))"
+homepage: ((site))
+help_page: ((help))
+bugtracker: ((bugtracker))
 dist: hera
 screenshots:
 ((screenshots))
@@ -58,23 +59,27 @@ YAML.load_stream(componentsData) do |doc|
   appFile.sub!('((package))', doc['Package'])
   appFile.sub!('((id))', doc['ID'])
 
+  site = "false"
   if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
     site = doc['Url']['homepage']
-  else
-    site = "#"
   end
   appFile.sub!('((site))', site)
 
+  help = "false"
   if not doc['Url'].nil? and not doc['Url']['help'].nil?
     help = doc['Url']['help']
-  else
-    help = "#"
   end
   appFile.sub!('((help))', help)
 
+  bugtracker = "false"
+  if not doc['Url'].nil? and not doc['Url']['bugtracker'].nil?
+    help = doc['Url']['bugtracker']
+  end
+  appFile.sub!('((bugtracker))', bugtracker)
+
   color_text = "#fff"
   color_primary = "#485a6c"
-  price = "0"
+  price = "false"
   unless doc['Custom'].nil?
     unless doc['Custom']['x-appcenter-color-primary'].nil?
       color_primary = doc['Custom']['x-appcenter-color-primary']

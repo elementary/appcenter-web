@@ -3,8 +3,9 @@ app_id: com.github.kjlaw89.archetype.desktop
 title: "Archetype"
 summary: "Start developing apps with just a few clicks!"
 developer: "KJ Lawrence"
-homepage: "https://kjlaw89.github.io/archetype/"
-help_page: "https://github.com/kjlaw89/archetype/issues"
+homepage: https://kjlaw89.github.io/archetype/
+help_page: https://github.com/kjlaw89/archetype/issues
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/kjlaw89.archetype.desktop/A0AC41BE7C1EBCF8C81B5060EB575EEC/screenshots/image-1_orig.png

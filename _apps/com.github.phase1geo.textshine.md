@@ -3,8 +3,9 @@ app_id: com.github.phase1geo.textshine
 title: "TextShine"
 summary: "Powerfully transform text"
 developer: "Trevor Williams"
-homepage: "#"
-help_page: "#"
+homepage: https://github.com/phase1geo/TextShine
+help_page: https://github.com/phase1geo/TextShine/wiki
+bugtracker: https://github.com/phase1geo/TextShine/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/TextShine/master/data/screenshots/screenshot-actions.png
@@ -14,7 +15,7 @@ icons:
 color:
   primary: "#fff394"
   primary-text: "#000000"
-price: 0
+price: false
 releases:
 
 redirect_from: /com.github.phase1geo.textshine.desktop/

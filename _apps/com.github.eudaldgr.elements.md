@@ -3,8 +3,9 @@ app_id: com.github.eudaldgr.elements
 title: "Elements"
 summary: "All the elements of the universe!"
 developer: "eudald gubert i roldan"
-homepage: "https://github.com/eudaldgr/elements"
-help_page: "https://github.com/eudaldgr/elements/issues"
+homepage: https://github.com/eudaldgr/elements
+help_page: https://github.com/eudaldgr/elements/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/eudaldgr.elements/1ABAAC7C3539EB7C7198DB12D2DC0925/screenshots/image-1_orig.png

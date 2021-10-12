@@ -3,8 +3,9 @@ app_id: com.github.cassidyjames.ephemeral
 title: "Ephemeral"
 summary: "The always-incognito web browser"
 developer: "Cassidy James Blaede"
-homepage: "https://cassidyjames.com"
-help_page: "https://cassidyjames.com/support"
+homepage: https://cassidyjames.com
+help_page: https://cassidyjames.com/support
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/cassidyjames.ephemeral/9C5F603D43C660EBF594B67AB16FD60E/screenshots/image-1_orig.png

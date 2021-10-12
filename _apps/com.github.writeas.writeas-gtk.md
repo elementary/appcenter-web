@@ -3,8 +3,9 @@ app_id: com.github.writeas.writeas-gtk
 title: "Write.as"
 summary: "Publish a thought in seconds"
 developer: "Write.as"
-homepage: "https://write.as/"
-help_page: "https://write.as/contact"
+homepage: https://write.as/
+help_page: https://write.as/contact
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/writeas.writeas-gtk/CA128BA0E113CBE5D56E36A0C312E96D/screenshots/image-1_orig.png

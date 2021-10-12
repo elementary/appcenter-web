@@ -3,8 +3,9 @@ app_id: com.github.luizaugustomm.tomato.desktop
 title: "Tomato"
 summary: "Keep focused on your work"
 developer: "Tomato Team"
-homepage: "https://github.com/luizaugustomm/tomato"
-help_page: "https://github.com/luizaugustomm/tomato/issues"
+homepage: https://github.com/luizaugustomm/tomato
+help_page: https://github.com/luizaugustomm/tomato/issues
+bugtracker: false
 dist: loki
 screenshots:
   - https://appstream.elementary.io/appcenter/media/xenial/com/github/luizaugustomm.tomato.desktop/99862E7956BD56447EA027AB212E1EFD/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#000"
-price: 0
+price: false
 releases:
 - version: 2.0.2
   unix-timestamp: 1496620800

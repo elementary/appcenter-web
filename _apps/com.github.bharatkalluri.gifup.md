@@ -3,8 +3,9 @@ app_id: com.github.bharatkalluri.gifup.desktop
 title: "Gifup"
 summary: "Create GIFs from Videos quickly!"
 developer: "Bharat Kalluri"
-homepage: "https://github.com/bharatkalluri/gifup"
-help_page: "https://github.com/bharatkalluri/gifup/issues"
+homepage: https://github.com/bharatkalluri/gifup
+help_page: https://github.com/bharatkalluri/gifup/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bharatkalluri.gifup.desktop/5DA6657AE86518BE4746CDADF9BDA185/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#C64A89"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 0.0.21
   unix-timestamp: 1531872000

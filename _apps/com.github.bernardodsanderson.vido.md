@@ -3,8 +3,9 @@ app_id: com.github.bernardodsanderson.vido
 title: "VIDO"
 summary: "Online Video Downloader"
 developer: "Bernardo Anderson"
-homepage: "http://github.com/bernardodsanderson/vido"
-help_page: "#"
+homepage: http://github.com/bernardodsanderson/vido
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/bernardodsanderson.vido/DB298333FD04203FBFB37171AB6B93C0/screenshots/image-1_orig.png

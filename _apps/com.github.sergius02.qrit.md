@@ -3,8 +3,9 @@ app_id: com.github.sergius02.qrit
 title: "QRit"
 summary: "QR codes creator"
 developer: "Sergio Fernández Celorio"
-homepage: "https://github.com/sergius02/QRit"
-help_page: "https://github.com/sergius02/QRit/issues"
+homepage: https://github.com/sergius02/QRit
+help_page: https://github.com/sergius02/QRit/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.qrit/669D0C2FF0F8C0CDA97F08F03AC205D3/screenshots/image-1_orig.png

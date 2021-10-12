@@ -3,8 +3,9 @@ app_id: com.github.babluboy.bookworm
 title: "Bookworm"
 summary: "A focused eBook reader"
 developer: "Siddhartha Das"
-homepage: "https://babluboy.github.io/bookworm"
-help_page: "https://github.com/babluboy/bookworm/wiki"
+homepage: https://babluboy.github.io/bookworm
+help_page: https://github.com/babluboy/bookworm/wiki
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/babluboy.bookworm/BFE643B526245658B3F8FA2BE47642AB/screenshots/image-1_orig.png

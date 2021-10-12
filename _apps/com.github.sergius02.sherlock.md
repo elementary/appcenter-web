@@ -3,8 +3,9 @@ app_id: com.github.sergius02.sherlock
 title: "Sherlock"
 summary: "Get information from an IP"
 developer: "Sergio Fernández Celorio"
-homepage: "https://github.com/sergius02/Sherlock"
-help_page: "https://github.com/sergius02/Sherlock/issues"
+homepage: https://github.com/sergius02/Sherlock
+help_page: https://github.com/sergius02/Sherlock/issues
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/sergius02.sherlock/49E1DF3D14DAE23D35EACF5B2052CE88/screenshots/image-1_orig.png
@@ -18,7 +19,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: 0
+price: false
 releases:
 - version: 1.2.0
   unix-timestamp: 1607040000

@@ -3,8 +3,9 @@ app_id: com.github.lainsce.yishu
 title: "Yishu"
 summary: "A bespoke and simple Todo.txt client"
 developer: "Lains"
-homepage: "https://github.com/lainsce/yishu/"
-help_page: "#"
+homepage: https://github.com/lainsce/yishu/
+help_page: false
+bugtracker: false
 dist: hera
 screenshots:
   - https://appstream.elementary.io/appcenter/media/bionic/com/github/lainsce.yishu/1D67851F851815EADFAEBA173B0F92A2/screenshots/image-1_orig.png
@@ -15,7 +16,7 @@ icons:
 color:
   primary: "#dee8bc"
   primary-text: "#333333"
-price: 0
+price: false
 releases:
 - version: 1.2.5
   unix-timestamp: 1591401600
