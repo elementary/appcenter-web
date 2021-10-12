@@ -3,9 +3,8 @@ app_id: com.github.ckruse.ColorMate.desktop
 title: "ColorMate"
 summary: "Your friendly color helper"
 developer: "Christian Kruse"
-homepage: https://github.com/ckruse/ColorMate
-help_page: https://github.com/ckruse/ColorMate/issues
-bugtracker: https://github.com/ckruse/ColorMate/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ckruse/ColorMate/main/ColorMate.png
@@ -15,7 +14,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#333"
-price: false
+price: 0
 releases:
 
 redirect_from: /com.github.ckruse.ColorMate.desktop.desktop/

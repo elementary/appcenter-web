@@ -3,9 +3,8 @@ app_id: com.github.dcharles525.crypt
 title: "Crypt"
 summary: "View and Watch Crypto Currency With Ease!"
 developer: "David Johnson"
-homepage: https://github.com/dcharles525/crypt
-help_page: false
-bugtracker: https://github.com/dcharles525/crypt/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/dcharles525/crypt/master/data/screenshot.png

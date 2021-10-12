@@ -3,9 +3,8 @@ app_id: com.github.hezral.clips
 title: "Clips"
 summary: "Clipboard Manager"
 developer: "Adi Hezral"
-homepage: https://github.com/hezral/clips
-help_page: https://github.com/hezral/clips/issues
-bugtracker: https://github.com/hezral/clips/issues/labels/bug
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://github.com/hezral/clips/blob/master/data/screenshot-01.png?raw=true

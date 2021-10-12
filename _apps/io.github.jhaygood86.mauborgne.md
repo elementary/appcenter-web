@@ -3,9 +3,8 @@ app_id: io.github.jhaygood86.mauborgne
 title: "Maurborgne"
 summary: "2FA OTP Code Generator"
 developer: "Justin Haygood"
-homepage: https://jhaygood86.github.io/mauborgne/
-help_page: false
-bugtracker: https://github.com/jhaygood86/mauborgne/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/jhaygood86/mauborgne/main/data/screenshot.png

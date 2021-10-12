@@ -3,9 +3,8 @@ app_id: com.github.lafydev.animage
 title: "Animage"
 summary: "A simple photo slideshow"
 developer: "Lafy"
-homepage: https://github.com/Lafydev/Animage/
-help_page: false
-bugtracker: https://github.com/Lafydev/Animage/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/lafydev/animage/master/screenshot.png

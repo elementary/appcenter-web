@@ -3,9 +3,8 @@ app_id: io.github.jhaygood86.big-purple-remote
 title: "Big Purple Remote"
 summary: "Remote for Roku® devices"
 developer: "Justin Haygood"
-homepage: https://jhaygood86.github.io/big-purple-remote/
-help_page: false
-bugtracker: https://github.com/jhaygood86/big-purple-remote/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/jhaygood86/big-purple-remote/main/data/screenshot.png

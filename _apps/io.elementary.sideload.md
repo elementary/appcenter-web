@@ -1,14 +1,10 @@
 ---
 app_id: io.elementary.sideload
-type: desktop-application
-extends: false
-compulsory: false
 title: "Sideload"
 summary: "Install apps downloaded from the Internet"
 developer: "elementary, Inc."
-homepage: http://elementary.io
-help_page: false
-bugtracker: false
+homepage: "http://elementary.io"
+help_page: "#"
 dist: odin
 icons:
   "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.sideload_io.elementary.sideload.png
@@ -17,7 +13,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: false
+price: 0
 releases:
 - version: 6.0.2
   unix-timestamp: 1632268800

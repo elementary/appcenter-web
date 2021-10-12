@@ -3,9 +3,8 @@ app_id: com.github.linuxhubit.catfacts
 title: "Cat Facts"
 summary: "Find cat facts"
 developer: "Mirko Brombin"
-homepage: https://github.com/linuxhubit/catfacts
-help_page: https://github.com/linuxhubit/catfacts
-bugtracker: https://github.com/linuxhubit/catfacts/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/linuxhubit/catfacts/master/data/screenshot-1.png

@@ -3,9 +3,8 @@ app_id: com.github.ztefn.haguichi
 title: "Haguichi"
 summary: "A graphical frontend for Hamachi"
 developer: "Stephen Brandt"
-homepage: https://haguichi.net
-help_page: https://haguichi.net/tips-and-tricks/
-bugtracker: https://github.com/ztefn/haguichi/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ztefn/haguichi/elementary/data/screenshots/1.png
@@ -15,7 +14,7 @@ icons:
 color:
   primary: "#FFE6D6"
   primary-text: "#D60000"
-price: false
+price: 0
 releases:
 
 redirect_from: /com.github.ztefn.haguichi.desktop/

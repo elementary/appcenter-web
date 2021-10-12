@@ -3,9 +3,8 @@ app_id: io.elementary.capnet-assist
 title: "Captive Network Assistant"
 summary: "Connect to captive network portals"
 developer: "elementary, Inc."
-homepage: https://elementary.io/
-help_page: false
-bugtracker: https://github.com/elementary/capnet-assist/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/capnet-assist/master/data/screenshot.png
@@ -15,7 +14,7 @@ icons:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
-price: false
+price: 0
 releases:
 
 redirect_from: /io.elementary.capnet-assist.desktop/

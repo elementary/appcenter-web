@@ -3,9 +3,8 @@ app_id: com.github.subhadeepjasu.ensembles
 title: "Ensembles"
 summary: "Play and arrange music live as a one-person band"
 developer: "Subhadeep Jasu"
-homepage: https://github.com/SubhadeepJasu/ensembles
-help_page: https://github.com/SubhadeepJasu/ensembles/issues
-bugtracker: https://github.com/SubhadeepJasu/ensembles/issues
+homepage: "#"
+help_page: "#"
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/SubhadeepJasu/Ensembles/master/screenshots/Screenshot.png
@@ -15,7 +14,7 @@ icons:
 color:
   primary: "#CD5F20"
   primary-text: "#FFFFFF"
-price: false
+price: 0
 releases:
 
 redirect_from: /com.github.subhadeepjasu.ensembles.desktop/

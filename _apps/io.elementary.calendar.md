@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#fff"
   primary-text: "#206b00"
-price: false
+price: 0
 releases:
 
 redirect_from: /io.elementary.calendar.desktop/
