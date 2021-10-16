@@ -21,4 +21,4 @@ releases:
 redirect_from: /io.github.jhaygood86.mauborgne.desktop/
 ---
 
-<p>Import OTP Pads from QR Codes and Generate OTP Codes for secure 2FA logins</p>
+<p>Import OTP pads from QR codes and generate OTP codes for secure 2FA logins</p>
