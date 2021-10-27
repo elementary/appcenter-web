@@ -17,6 +17,8 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1634860800
 - version: 6.0.0
   unix-timestamp: 1626307200
 redirect_from:

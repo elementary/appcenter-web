@@ -19,6 +19,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.1
+  unix-timestamp: 1634860800
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Don't launch Captive Network Assistent with full connectivity</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.0
   unix-timestamp: 1626220800
   description: |-

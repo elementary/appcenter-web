@@ -17,10 +17,22 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.9.1
+  unix-timestamp: 1635206400
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Show secondary click menu for search results</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.9.0
   unix-timestamp: 1632700800
   description: |-
-    <p>New features</p>
+    <p>New features:</p>
 
     <ul>
 
@@ -28,7 +40,7 @@ releases:
 
     </ul>
 
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 
@@ -38,7 +50,7 @@ releases:
 - version: 2.8.2
   unix-timestamp: 1630281600
   description: |-
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 
@@ -50,7 +62,7 @@ releases:
 - version: 2.8.1
   unix-timestamp: 1630022400
   description: |-
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 
@@ -62,7 +74,7 @@ releases:
 - version: 2.8.0
   unix-timestamp: 1626220800
   description: |-
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 
@@ -84,7 +96,7 @@ releases:
 - version: 2.7.1
   unix-timestamp: 1590624000
   description: |-
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 
@@ -94,7 +106,7 @@ releases:
 - version: 2.7.0
   unix-timestamp: 1588118400
   description: |-
-    <p>Minor updates</p>
+    <p>Minor updates:</p>
 
     <ul>
 

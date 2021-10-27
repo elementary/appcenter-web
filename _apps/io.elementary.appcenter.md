@@ -19,6 +19,32 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.8.1
+  unix-timestamp: 1634860800
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Don't store $0 app installs as paid</li>
+
+      <li>Fix missing illicit substances icon</li>
+
+      <li>Don't show plugins on the homepage</li>
+
+      <li>Only show "Multiplayer" badge for games</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Show installation progress in a more compact way</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.8.0
   unix-timestamp: 1632182400
   description: |-

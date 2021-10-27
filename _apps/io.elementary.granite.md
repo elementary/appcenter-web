@@ -17,6 +17,20 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.2
+  unix-timestamp: 1635120000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Use values from the Settings Portal when possible</li>
+
+      <li>Disable horizontal scrolling by default in SettingsPage</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.1
   unix-timestamp: 1629849600
   description: |-
