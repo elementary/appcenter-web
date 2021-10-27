@@ -17,10 +17,12 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 1.1.0
+  unix-timestamp: 1634774400
 - version: 1.0.0
   unix-timestamp: 1626307200
 redirect_from:
   - /io.elementary.settings-daemon.desktop/
 ---
 
-<p>This process sync settings to the greeter and manages background tasks like scheduling dark mode and Housekeeping.</p>
+<p>Syncs settings to the greeter and manages background tasks, like scheduling dark style and housekeeping.</p>

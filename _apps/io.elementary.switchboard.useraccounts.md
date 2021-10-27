@@ -17,6 +17,30 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.1
+  unix-timestamp: 1635206400
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Ensure user information in sidebar updates upon changes</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Support locales with 3-letter codes</li>
+
+      <li>Performance improvements</li>
+
+      <li>Better support for non-Ubuntu based distributions</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.0
   unix-timestamp: 1626220800
   description: |-

@@ -17,6 +17,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.5.5
+  unix-timestamp: 1635206400
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Support locales with 3-letter codes</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Better support for non-Ubuntu based distributions</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.5.4
   unix-timestamp: 1626220800
   description: |-

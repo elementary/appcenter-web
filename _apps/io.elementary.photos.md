@@ -19,6 +19,28 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.7.3
+  unix-timestamp: 1635206400
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Focus photos on startup when previewing to fix navigating with left and right arrow keys</li>
+
+      <li>Fix a possible crash with invalid date and time info</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Move Toggle Sidebar and Toggle Photo Info actions to the main menubutton</li>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 2.7.2
   unix-timestamp: 1632268800
   description: |-
