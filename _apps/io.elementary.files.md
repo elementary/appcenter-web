@@ -19,6 +19,30 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.4
+  unix-timestamp: 1635465600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Show translated bookmark names when changing languages</li>
+
+      <li>Stop some audio file icons disappearing when scrolling or changing view</li>
+
+      <li>Stop brief appearance of status overlay when changing root folder in Column View</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Remove message about reporting issues when running from Terminal</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.3
   unix-timestamp: 1632700800
   description: |-

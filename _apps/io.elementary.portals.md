@@ -17,6 +17,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 1.0.1
+  unix-timestamp: 1635379200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent delay after logging in</li>
+
+    </ul>
 - version: 1.0.0
   unix-timestamp: 1635120000
   description: |-

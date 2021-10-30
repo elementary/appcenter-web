@@ -17,6 +17,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 1.2.1
+  unix-timestamp: 1635465600
+  description: |-
+    <ul>
+
+      <li>Fix the app not launching if a shortcut key is set to blank</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 1.2.0
   unix-timestamp: 1626220800
   description: |-
