@@ -17,6 +17,28 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.1
+  unix-timestamp: 1635465600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Update current day when opening</li>
+
+      <li>Fix disappearing dates when changing between dark and light styles</li>
+
+      <li>Fix potential memory leak</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.0
   unix-timestamp: 1626220800
   description: |-

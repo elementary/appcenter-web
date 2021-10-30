@@ -19,6 +19,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.8.2
+  unix-timestamp: 1635465600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Correctly show the installed status of first-party applications</li>
+
+    </ul>
 - version: 3.8.1
   unix-timestamp: 1634860800
   description: |-
