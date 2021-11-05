@@ -15,7 +15,7 @@ color:
 <div class="home apps">
   {% for app in flatpak_apps %}
     {% assign id = app.id | remove: '/' %}
-    <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}">
+    <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}" tabindex="0">
       <img width="64" height="64"
         {% for icon in app.icons %}
           {% if icon[0] == "64@2" %}
@@ -34,7 +34,7 @@ color:
     </a>
 
     <style>
-      .app[id="{{id}}"]:hover {
+      .app[id="{{id}}"]:hover,.app[id="{{id}}"]:focus {
         background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
         color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
       }
