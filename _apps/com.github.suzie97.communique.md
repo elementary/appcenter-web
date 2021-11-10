@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#FAFAFA"
   primary-text: "#1A1A1A"
-price: false
+price: 0
 releases:
 
 redirect_from: /com.github.suzie97.communique.desktop/
