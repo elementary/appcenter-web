@@ -8,7 +8,7 @@ help_page: https://github.com/childishgiant/mixer/issues
 bugtracker: https://github.com/childishgiant/mixer/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/childishgiant/mixer/master/docs/light.png
+  - https://raw.githubusercontent.com/childishgiant/mixer/main/docs/light.png
 icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.childishgiant.mixer.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.childishgiant.mixer.png
