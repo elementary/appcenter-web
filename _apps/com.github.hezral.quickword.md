@@ -1,7 +1,7 @@
 ---
 app_id: com.github.hezral.quickword
 title: "QuickWord"
-summary: "Quickly lookup words on the fly and offline"
+summary: "Quick and easy word lookups"
 developer: "Adi Hezral"
 homepage: https://github.com/hezral/quickword
 help_page: https://github.com/hezral/quickword/issues
