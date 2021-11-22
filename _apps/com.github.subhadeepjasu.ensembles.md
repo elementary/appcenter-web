@@ -3,7 +3,7 @@ app_id: com.github.subhadeepjasu.ensembles
 title: "Ensembles"
 summary: "Play and arrange music live as a one-person band"
 developer: "Subhadeep Jasu"
-homepage: https://github.com/SubhadeepJasu/ensembles
+homepage: https://subhadeepjasu.github.io/#/project/ensembles
 help_page: https://github.com/SubhadeepJasu/ensembles/issues
 bugtracker: https://github.com/SubhadeepJasu/ensembles/issues
 dist: flatpak
@@ -33,5 +33,6 @@ redirect_from: /com.github.subhadeepjasu.ensembles.desktop/
 <li>Touch based on-screen assignable joystick</li>
 <li>Play a one-person band along with Auto Accompaniment Styles based on various genres of music</li>
 <li>Automate your band with Registration Memory and 12 assignable Multipad Variables</li>
+<li>Record your playback using a 10-track recorder</li>
 <li>Connect to external MIDI keyboard/controller with General MIDI Standard compatibility</li>
 </ul>
