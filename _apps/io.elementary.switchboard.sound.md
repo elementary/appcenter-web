@@ -17,6 +17,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Show device icons</li>
+
+      <li>Switch to enable the screen reader</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.2.7
   unix-timestamp: 1626220800
   description: |-
