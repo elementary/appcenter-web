@@ -17,6 +17,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.5.6
+  unix-timestamp: 1637193600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Ensure "Formats" dropdown remains correct after installing or removing languages</li>
+
+    </ul>
 - version: 2.5.5
   unix-timestamp: 1635206400
   description: |-

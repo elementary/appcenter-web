@@ -17,6 +17,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.1
+  unix-timestamp: 1637193600
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Show more specific icons for different types of devices</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626220800
   description: |-

@@ -19,6 +19,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.2
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent blank lines in VPN list</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.1
   unix-timestamp: 1634860800
   description: |-

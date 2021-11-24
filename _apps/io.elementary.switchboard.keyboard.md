@@ -17,6 +17,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.6.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Redesigned custom shortcuts view</li>
+
+      <li>On-screen keyboard switch in Layouts tab</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.5.1
   unix-timestamp: 1632268800
   description: |-
