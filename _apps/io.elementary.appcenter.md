@@ -19,6 +19,22 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.9.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Amusements appear in the Games category</li>
+
+      <li>Categories show as a grid instead of a list</li>
+
+      <li>Allow window to shrink to much narrower sizes</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.8.2
   unix-timestamp: 1635465600
   description: |-

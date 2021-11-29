@@ -19,6 +19,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1606003200
+  description: |-
+    <ul>
+
+      <li>Redesign Housekeeping and add Downloads option</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1594684800
   description: |-

@@ -17,6 +17,50 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.10.1
+  unix-timestamp: 1637712000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix a regression with settings search</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 2.10.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Show search results for bookmarked folders</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent a potential crash on startup</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.9.1
   unix-timestamp: 1635206400
   description: |-

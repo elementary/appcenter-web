@@ -17,6 +17,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Move Text settings to their own page</li>
+
+      <li>More granular settings for text scale</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626307200
   description: |-

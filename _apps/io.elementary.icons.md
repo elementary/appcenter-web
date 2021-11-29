@@ -17,6 +17,38 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Additions:</p>
+
+    <ul>
+
+      <li>preferences-desktop-font*</li>
+
+    </ul>
+
+    <p>Updated families:</p>
+
+    <ul>
+
+      <li>Additional sizes for playlist-queue</li>
+
+      <li>Redesign PDF file type</li>
+
+      <li>Additional sizes for emblem-downloads</li>
+
+      <li>Remove arrows from Copy and Paste actions</li>
+
+    </ul>
+
+    <p>Removals:</p>
+
+    <ul>
+
+      <li>multimedia-video-player</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626307200
   description: |-
@@ -28,11 +60,11 @@ releases:
 
       <li>Improved appearance of color icons against dark backgrounds</li>
 
-      <li>More gender-nuetral people icons</li>
+      <li>More gender-neutral people icons</li>
 
       <li>Rounded media controls</li>
 
-      <li>Rounded lightening bolt shape</li>
+      <li>Rounded lightning bolt shape</li>
 
       <li>More colorful battery icons</li>
 
