@@ -17,6 +17,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.2
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Update permissions when enabling and disabling accounts</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.1
   unix-timestamp: 1635206400
   description: |-
@@ -25,6 +43,8 @@ releases:
     <ul>
 
       <li>Ensure user information in sidebar updates upon changes</li>
+
+      <li>Update permissions when enabling and disabling accounts</li>
 
     </ul>
 

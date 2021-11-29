@@ -19,6 +19,44 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Projects with the same name now include their parent folder name as well</li>
+
+      <li>When scrolling to search results, overshoot slightly for better visibility</li>
+
+      <li>Use the FileChooser portal instead of the one from GTK</li>
+
+      <li>Center the global search dialog over the main Code window</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix visibility of Terminal button on Welcome page</li>
+
+      <li>Fix some keyboard shortcuts affecting unfocused Document instead of focused Terminal</li>
+
+      <li>Close Terminal if shell exited and create new Terminal if re-opened with no shell</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>"Visible whitespace" combobox is now a switch</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.1
   unix-timestamp: 1630108800
   description: |-

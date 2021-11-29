@@ -17,6 +17,34 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.2.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>New Features:</p>
+
+    <ul>
+
+      <li>min_length property for Granite.ValidatedEntry</li>
+
+      <li>Granite.HyperTextView for navigatable URLs in text views</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent crashing on environments without dark style preference support</li>
+
+    </ul>
 - version: 6.1.2
   unix-timestamp: 1635120000
   description: |-
