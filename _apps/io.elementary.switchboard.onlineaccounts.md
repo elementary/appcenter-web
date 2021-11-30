@@ -19,6 +19,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.2.2
+  unix-timestamp: 1637712000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Dim window when creating a new IMAP account</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.2.1
   unix-timestamp: 1632787200
   description: |-
