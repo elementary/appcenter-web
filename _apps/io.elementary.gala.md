@@ -17,8 +17,34 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.3.0
+  unix-timestamp: 1637625600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix shadow clipping on server-side decorated windows</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Support for high-resolution scroll events</li>
+
+      <li>Redesigned Alt + Tab switcher</li>
+
+      <li>Dim the parents of modal dialogs</li>
+
+      <li>Dialogs fall down on parents instead of shooting out</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.2.1
-  unix-timestamp: 1601337600
+  unix-timestamp: 1632873600
   description: |-
     <p>Improvements:</p>
 
@@ -30,7 +56,7 @@ releases:
 
     </ul>
 - version: 6.2.0
-  unix-timestamp: 1600732800
+  unix-timestamp: 1632268800
   description: |-
     <p>New features:</p>
 
@@ -50,7 +76,7 @@ releases:
 
     </ul>
 - version: 6.0.1
-  unix-timestamp: 1597104000
+  unix-timestamp: 1628640000
   description: |-
     <p>Improvements:</p>
 
