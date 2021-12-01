@@ -24,9 +24,9 @@ redirect_from: /com.github.matthiasjg.trimirjournal.desktop/
 <p>Designed and built for personal text journaling and activity tracking. Write a diary, log your activities, keep track of your metrics. Search, filter and evaluate your journal—your life.</p>
 <p>Features:</p>
 <ul>
-<li>Write expressive journal entries with emoijs, organized with hashtags (i.e. "#linux rocks 😎️")</li>
+<li>Write expressive journal entries with emoijs and clickable URLs, organized with hashtags (i.e. "#linux rocks 😎️")</li>
 <li>Search your journal</li>
 <li>Filter your journal by hashtag</li>
 <li>Render timeline charts when filtering for "metric tags", i.e. a hashtag followed by a number with optional unit (e.g. "#Trailrun 5km")</li>
-<li>Backup and restore your journal to and from a JSON file</li>
+<li>Backup and restore your journal to and from a JSON or ZIP archive file compatible with ZenJournal (Disclaimer: Trimir Journal is not created by, affiliated with, or supported by ZenJournal.)</li>
 </ul>
