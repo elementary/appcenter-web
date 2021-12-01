@@ -5,7 +5,7 @@ summary: "Organize and listen to your podcasts!"
 developer: "Christopher Leggett"
 homepage: false
 help_page: false
-bugtracker: false
+bugtracker: https://github.com/leggettc18/leopod/issues
 dist: flatpak
 screenshots:
   - https://github.com/leggettc18/leopod/blob/main/screenshots/screenshot1.png?raw=true

@@ -1,0 +1,25 @@
+---
+app_id: hr.from.josipantolis.starfish
+title: "Starfish"
+summary: "Surf the Geminispace"
+developer: "Josip Antoliš"
+homepage: https://github.com/starfish-app/starfish
+help_page: false
+bugtracker: https://github.com/starfish-app/starfish/issues
+dist: flatpak
+screenshots:
+  - https://raw.githubusercontent.com/starfish-app/starfish/main/data/screenshots/styling.png
+icons:
+  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/hr.from.josipantolis.starfish.png
+  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/hr.from.josipantolis.starfish.png
+color:
+  primary: "#FFBC8F"
+  primary-text: "#1D3963"
+price: false
+releases:
+
+redirect_from: /hr.from.josipantolis.starfish.desktop/
+---
+
+<p>Browse Gemini sites on the small internet. Read personal stories and fictional tales. Enjoy written words without flashy distractions. Keep your browsing private and stay safe from tracking.</p>
+<p>Starfish is a begginer-friendly desktop client for Gemini protol. It supports all core features of Gemini, such as beautiful rendering of text based content and encrypted communication with servers. On top of those Starfish offers comforts of modern browsers, like local browsing history, tabs and favorites.</p>
