@@ -19,9 +19,17 @@ color:
   primary-text: "#fff"
 price: false
 releases:
-- version: 6.2.2
-  unix-timestamp: 1637712000
+- version: 6.3.0
+  unix-timestamp: 1639353600
   description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Edit saved CalDAV accounts</li>
+
+    </ul>
+
     <p>Fixes:</p>
 
     <ul>

@@ -19,6 +19,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.9.1
+  unix-timestamp: 1639094400
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Prevent potential crashes when updating</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Link to Flathub's search page when no search results are found</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.9.0
   unix-timestamp: 1637625600
   description: |-

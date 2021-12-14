@@ -17,6 +17,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.10.2
+  unix-timestamp: 1639094400
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Searching settings always searches the full title</li>
+
+    </ul>
 - version: 2.10.1
   unix-timestamp: 1637712000
   description: |-
