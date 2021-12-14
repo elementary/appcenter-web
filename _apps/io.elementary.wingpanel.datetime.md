@@ -17,6 +17,38 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.0
+  unix-timestamp: 1639094400
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Open Calendar on middle-click</li>
+
+      <li>Show due Tasks for the selected day</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Update current day when opening</li>
+
+      <li>Fix potential memory leak</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Performance improvements</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.1
   unix-timestamp: 1635465600
   description: |-

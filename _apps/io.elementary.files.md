@@ -19,6 +19,50 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.1
+  unix-timestamp: 1639008000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Close FileChooser with Esc key</li>
+
+      <li>Use new emblems for git status</li>
+
+      <li>Show selection actions in secondary click menu</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Always show Permissions page in Properties dialog</li>
+
+      <li>In Permissions page, show user and group numeric IDs when names not available</li>
+
+      <li>In Permissions page, show message when no information available</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Only allow one FileChooser per parent window</li>
+
+      <li>Navigate to folder when pressing enter in FileChooser instead of selecting</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.0
   unix-timestamp: 1638144000
   description: |-
@@ -31,6 +75,12 @@ releases:
       <li>Add file filters and New Folder options to file chooser portal</li>
 
       <li>Allow blank passwords for remote connections, e.g. for SSH via a private key</li>
+
+      <li>Make ejecting devices safer</li>
+
+      <li>Add option to stop drive if possible</li>
+
+      <li>Show unformatted drives and drives without media</li>
 
     </ul>
 
@@ -45,6 +95,10 @@ releases:
       <li>Allow dropping bookmark directly below the Recent bookmark</li>
 
       <li>Do not show unusable drop target below the Trash bookmark</li>
+
+      <li>Fix sidebar showing both drive and volume for same device</li>
+
+      <li>Fix sidebar showing SSH servers in both Storage and Network sections</li>
 
     </ul>
 

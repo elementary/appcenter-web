@@ -17,6 +17,8 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 1.0.4
+  unix-timestamp: 1639353600
 - version: 1.0.3
   unix-timestamp: 1629849600
 - version: 1.0.2

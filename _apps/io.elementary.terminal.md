@@ -19,6 +19,30 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.1
+  unix-timestamp: 1607817600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Properly restore zoom levels for all locales</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Use XTerm title for window title if available</li>
+
+      <li>Change "Reload Tab" shortcut to Shift + F5 to avoid clash with some foreground processes </li>
+
+      <li>Change preferred shortcut for "Reload Tab" to Shift + Control + R</li>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1592179200
   description: |-
