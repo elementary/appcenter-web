@@ -17,6 +17,14 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1639353600
+  description: |-
+    <ul>
+
+      <li>Make Odin Dark the default</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626134400
   description: |-
