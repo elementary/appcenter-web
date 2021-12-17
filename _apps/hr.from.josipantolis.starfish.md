@@ -21,5 +21,5 @@ releases:
 redirect_from: /hr.from.josipantolis.starfish.desktop/
 ---
 
-<p>Browse Gemini sites on the small internet. Read personal stories and fictional tales. Enjoy written words without flashy distractions. Keep your browsing private and stay safe from tracking.</p>
-<p>Starfish is a begginer-friendly desktop client for Gemini protol. It supports all core features of Gemini, such as beautiful rendering of text based content and encrypted communication with servers. On top of those Starfish offers comforts of modern browsers, like local browsing history, tabs and favorites.</p>
+<p>Browse Gemini sites on the small internet. Read blogs and fiction, enjoy text without distractions, keep your browsing private.</p>
+<p>Starfish is a beginner-friendly desktop client for Gemini protol. It supports all core features of Gemini, such as beautiful rendering of text based content and encrypted communication with servers. On top of those Starfish offers comforts of modern browsers, like local browsing history, tabs and favorites.</p>
