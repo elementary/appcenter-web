@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/starfish-app/starfish/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/starfish-app/starfish/main/data/screenshots/styling.png
+  - https://raw.githubusercontent.com/starfish-app/starfish/1.3.1/data/screenshots/styling.png
 icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/hr.from.josipantolis.starfish.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/hr.from.josipantolis.starfish.png
