@@ -1,6 +1,6 @@
 ---
 app_id: io.elementary.wingpanel
-type: desktop-application
+type: generic
 extends: false
 compulsory: Pantheon
 title: "Wingpanel"
@@ -11,14 +11,24 @@ help_page: https://elementaryos.stackexchange.com/questions/tagged/wingpanel
 bugtracker: false
 dist: odin
 icons:
-  "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/io.elementary.wingpanel_io.elementary.wingpanel.png
-  "128": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/128x128/io.elementary.wingpanel_io.elementary.wingpanel.png
-  "64@2": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64@2/io.elementary.wingpanel_io.elementary.wingpanel.png
+
 color:
   primary: "#485a6c"
   primary-text: "#fff"
 price: false
 releases:
+- version: 3.0.2
+  unix-timestamp: 1639785600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Fix startup delay on the greeter</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 3.0.1
   unix-timestamp: 1632700800
   description: |-
