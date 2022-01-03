@@ -1,7 +1,7 @@
 ---
 app_id: com.github.hezral.clips
 title: "Clips"
-summary: "Clipboard Manager"
+summary: "Multi format clipboard manager"
 developer: "Adi Hezral"
 homepage: https://github.com/hezral/clips
 help_page: https://github.com/hezral/clips/issues
