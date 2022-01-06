@@ -22,7 +22,7 @@ redirect_from: /com.github.gabutakut.gabutdm.desktop/
 ---
 
 <p>Download whatever you want.</p>
-<p>Gabut Download Manager application that can download Link URIs Metallink Magnetlink Torrents using Aria2c and, an application that has a local server service interface. can also accept file transfers from smartphones. Made with love.:D</p>
+<p>Gabut Download Manager application that can download all you need like Link URIs Metallink Magnetlink Torrents using Aria2c and, an application that has a local server service interface. can also accept file transfers from smartphones.</p>
 <p>Features:</p>
 <ul>
 <li>Torrent.</li>
