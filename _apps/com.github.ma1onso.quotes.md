@@ -64,8 +64,7 @@ releases:
       <li>Fix AppStream screenshot reference</li>
 
     </ul>
-redirect_from:
-  - /com.github.ma1onso.quotes.desktop/
+redirect_from: /com.github.ma1onso.quotes.desktop/
 ---
 
 <p>Get random quotes for daily inspiration, share and get another quotes ;), be happy.</p>

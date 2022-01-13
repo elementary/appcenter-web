@@ -62,8 +62,7 @@ releases:
       <li>Initial Release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.jeremyvaartjes.comgen.desktop/
+redirect_from: /com.github.jeremyvaartjes.comgen.desktop/
 ---
 
 <p>Comment Generator will let you create a header block that can include elements like an ascii art title, version number, authors and copyright information.</p>

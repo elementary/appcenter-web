@@ -189,8 +189,7 @@ releases:
       <li>Optimizations under the hood</li>
 
     </ul>
-redirect_from:
-  - /com.github.geigi.cozy.desktop/
+redirect_from: /com.github.geigi.cozy.desktop/
 ---
 
 <p>You like audio books? Then lets get cozy!</p>

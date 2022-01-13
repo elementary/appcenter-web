@@ -53,8 +53,7 @@ releases:
   unix-timestamp: 1565395200
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.skarva.lockbox.desktop/
+redirect_from: /com.github.skarva.lockbox.desktop/
 ---
 
 <p>Keep your notes and website credentials secure in an easy-to-manage collection. It is ready to go when you&apos;re logged in, and securely encrypted when you&apos;re not.</p>

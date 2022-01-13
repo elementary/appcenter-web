@@ -75,8 +75,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bleakgrey.tootle.desktop/
+redirect_from: /com.github.bleakgrey.tootle.desktop/
 ---
 
 <p>Tootle is a client for the world’s largest free, open-source, decentralized microblogging network with real-time notifications and multiple accounts support.</p>

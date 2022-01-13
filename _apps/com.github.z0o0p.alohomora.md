@@ -80,8 +80,7 @@ releases:
   unix-timestamp: 1594339200
   description: |-
     <p>Initial Release</p>
-redirect_from:
-  - /com.github.z0o0p.alohomora.desktop/
+redirect_from: /com.github.z0o0p.alohomora.desktop/
 ---
 
 <p>A clean and easy-to-use password manager that securely stores all your passwords in your device.</p>

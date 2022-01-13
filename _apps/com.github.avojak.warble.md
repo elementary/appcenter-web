@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/avojak/warble/master/data/assets/screenshots/warble-screenshot-01.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.warble.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.warble.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.warble.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.warble.png
 color:
   primary: "#fff"
   primary-text: "#333"

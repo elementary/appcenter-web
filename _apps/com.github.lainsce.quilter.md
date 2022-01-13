@@ -248,8 +248,7 @@ releases:
       <li>Added: New Layout; Half-Width, check it out by changing layouts on the statusbar.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.quilter.desktop/
+redirect_from: /com.github.lainsce.quilter.desktop/
 ---
 
 <p>Focus on your writing and write beautiful solid stories with the Focus Mode in tow in this Markdown editor</p>

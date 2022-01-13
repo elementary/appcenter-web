@@ -109,8 +109,7 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.dot-matrix.desktop/
+redirect_from: /com.github.lainsce.dot-matrix.desktop/
 ---
 
 <p>Make out icons, glyphs, or anything you can create with lines in this grid of dots</p>

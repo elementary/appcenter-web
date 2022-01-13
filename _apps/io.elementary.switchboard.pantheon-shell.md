@@ -87,7 +87,6 @@ releases:
     <p>Fix issues with setting wallpapers on the Login and Lock screen</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-pantheon-shell.desktop/
+redirect_from: /io.elementary.switchboard.pantheon-shell.desktop/
 ---
 

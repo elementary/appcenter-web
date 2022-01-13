@@ -119,8 +119,7 @@ releases:
       <li>Spanish (by Juan Velandia)</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.screencast.desktop/
+redirect_from: /com.github.artemanufrij.screencast.desktop/
 ---
 
 <p>Screencast makes it simple to record your screen for making something like video tutorials</p>

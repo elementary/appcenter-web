@@ -200,8 +200,7 @@ releases:
       <li>Send custom headers and self defined bodies to your application and displays the response in a clean way.</li>
 
     </ul>
-redirect_from:
-  - /com.github.treagod.spectator.desktop/
+redirect_from: /com.github.treagod.spectator.desktop/
 ---
 
 <p>Gives you the possibilty to test your REST application.</p>

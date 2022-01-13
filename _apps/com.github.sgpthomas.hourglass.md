@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/sgpthomas/hourglass/master/data/screenshots/alarm.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.sgpthomas.hourglass.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.sgpthomas.hourglass.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.sgpthomas.hourglass.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.sgpthomas.hourglass.png
 color:
   primary: "#3a9104"
   primary-text: "#fff"

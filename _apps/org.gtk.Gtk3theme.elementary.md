@@ -57,8 +57,7 @@ releases:
       <li>Complete redesign</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.stylesheet.desktop/
+redirect_from: /org.gtk.Gtk3theme.elementary.desktop/
 ---
 
 <p>An original Gtk.CSS stylesheet designed specifically for elementary OS and its desktop environment: Pantheon.</p>

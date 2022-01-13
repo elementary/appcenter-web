@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://github.com/davidmhewitt/torrential/raw/main/data/com.github.davidmhewitt.torrential.screenshot.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.davidmhewitt.torrential.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.davidmhewitt.torrential.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.davidmhewitt.torrential.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.davidmhewitt.torrential.png
 color:
   primary: "rgb(224,247,255)"
   primary-text: "#000"

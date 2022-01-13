@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/raibtoffoletto/litteris/master/data/com.github.raibtoffoletto.litteris.screenshot.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.raibtoffoletto.litteris.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.raibtoffoletto.litteris.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.raibtoffoletto.litteris.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.raibtoffoletto.litteris.png
 color:
   primary: "#ffa154"
   primary-text: "#0e141f"

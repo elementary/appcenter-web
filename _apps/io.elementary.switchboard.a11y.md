@@ -47,7 +47,6 @@ releases:
     <p>Remove panes whose settings now live somewhere else</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-a11y.desktop/
+redirect_from: /io.elementary.switchboard.a11y.desktop/
 ---
 

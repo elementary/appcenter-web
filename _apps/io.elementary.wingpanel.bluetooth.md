@@ -55,7 +55,6 @@ releases:
   unix-timestamp: 1574640000
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-bluetooth.desktop/
+redirect_from: /io.elementary.wingpanel.bluetooth.desktop/
 ---
 

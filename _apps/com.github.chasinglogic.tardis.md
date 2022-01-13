@@ -20,8 +20,7 @@ price: false
 releases:
 - version: v1.2.1
   unix-timestamp: 1582934400
-redirect_from:
-  - /com.github.chasinglogic.tardis.desktop/
+redirect_from: /com.github.chasinglogic.tardis.desktop/
 ---
 
 <p>A simple backup application for elementary OS</p>

@@ -65,8 +65,7 @@ releases:
   unix-timestamp: 1541548800
   description: |-
     <p>Hello Juno!</p>
-redirect_from:
-  - /com.github.torikulhabib.nino.desktop/
+redirect_from: /com.github.torikulhabib.nino.desktop/
 ---
 
 <p>An internet speed monitor</p>

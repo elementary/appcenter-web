@@ -61,7 +61,6 @@ releases:
   unix-timestamp: 1574640000
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-session.desktop/
+redirect_from: /io.elementary.wingpanel.session.desktop/
 ---
 

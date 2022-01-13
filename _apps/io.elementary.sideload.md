@@ -95,8 +95,7 @@ releases:
       <li>First release. Hello world!</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.sideload.desktop/
+redirect_from: /io.elementary.sideload.desktop/
 ---
 
 <p>Sideload Flatpak apps per user and automatically add their remotes to AppCenter. Sideload shows important information about apps before you install like their download size.</p>

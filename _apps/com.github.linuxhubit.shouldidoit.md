@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/linuxhubit/shouldidoit/master/data/screenshot-1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.linuxhubit.shouldidoit.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.linuxhubit.shouldidoit.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.linuxhubit.shouldidoit.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.linuxhubit.shouldidoit.png
 color:
   primary: "#aa5fb0"
   primary-text: "#ffffff"

@@ -48,8 +48,7 @@ releases:
       <li>Add Japanese translations by @ryonakano</li>
 
     </ul>
-redirect_from:
-  - /com.github.davidmhewitt.clipped.desktop/
+redirect_from: /com.github.davidmhewitt.clipped.desktop/
 ---
 
 <p>Keep and search your clipboard history and paste old items quickly and easily.</p>

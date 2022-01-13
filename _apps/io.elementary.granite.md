@@ -255,8 +255,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /libgranite-common.desktop/
+redirect_from: /io.elementary.granite.desktop/
 ---
 
 <p>A companion library for GTK and GLib that provides complex widgets and convenience methods designed for use in apps built for elementary OS.</p>

@@ -65,8 +65,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.shortcut-overlay.desktop/
+redirect_from: /io.elementary.shortcut-overlay.desktop/
 ---
 
 <p>Native OS-wide shortcut overlay</p>

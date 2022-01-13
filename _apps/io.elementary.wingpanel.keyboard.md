@@ -47,7 +47,6 @@ releases:
     <p>Fixed issue with text color</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-keyboard.desktop/
+redirect_from: /io.elementary.wingpanel.keyboard.desktop/
 ---
 

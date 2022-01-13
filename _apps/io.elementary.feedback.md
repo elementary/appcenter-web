@@ -59,8 +59,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.feedback.desktop/
+redirect_from: /io.elementary.feedback.desktop/
 ---
 
 <p>Feedback assists users in reporting issues against the correct GitHub repository.</p>

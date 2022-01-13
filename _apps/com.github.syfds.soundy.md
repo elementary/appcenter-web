@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/syfds/soundy/master/data/screenshot/screenshot-1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.syfds.soundy.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.syfds.soundy.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.syfds.soundy.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.syfds.soundy.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

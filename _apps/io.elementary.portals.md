@@ -37,8 +37,7 @@ releases:
       <li>Add OpenURI Portal</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.portals.desktop/
+redirect_from: /io.elementary.portals.desktop/
 ---
 
 <p>Portals provide APIs to secure apps which enable them to access system features while requiring informed consent.</p>

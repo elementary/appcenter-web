@@ -28,8 +28,7 @@ releases:
       <li>Fix AppStream screenshot reference</li>
 
     </ul>
-redirect_from:
-  - /com.github.alonsoenrique.quotes.desktop/
+redirect_from: /com.github.alonsoenrique.quotes.desktop/
 ---
 
 <p>Get random quotes for daily inspiration, share and get another quotes ;), be happy.</p>

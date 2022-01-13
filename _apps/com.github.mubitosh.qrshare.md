@@ -1,5 +1,5 @@
 ---
-app_id: com.github.mubitosh.qrshare.desktop
+app_id: com.github.mubitosh.qrshare
 title: "QR Share"
 summary: "Quick and easy file sharing"
 developer: "Santosh Heigrujam"
@@ -32,8 +32,7 @@ releases:
       <li>Bug fixes</li>
 
     </ul>
-redirect_from:
-  - /com.github.mubitosh.qrshare.desktop/
+redirect_from: /com.github.mubitosh.qrshare.desktop/
 ---
 
 <p>Share files and folders as below:</p>

@@ -84,8 +84,7 @@ releases:
   unix-timestamp: 1551571200
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.hannesschulze.optimizer.desktop/
+redirect_from: /com.github.hannesschulze.optimizer.desktop/
 ---
 
 <p>Find out what&apos;s eating up your system resources and delete unnecessary files from your disk.</p>

@@ -1,8 +1,8 @@
 require 'zlib'
 require 'yaml'
-require "uri"
-require "open-uri"
-require "nokogiri"
+require 'uri'
+require 'open-uri'
+require 'nokogiri'
 require 'cgi'
 
 ###########
@@ -10,7 +10,7 @@ require 'cgi'
 ###########
 
 # HTTPS doesn't work
-componentsDataGz = open("http://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz")
+componentsDataGz = open('http://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz')
 xmlData = Zlib::GzipReader.new( componentsDataGz ).read
 componentsData = Nokogiri::XML(xmlData)
 
@@ -63,9 +63,10 @@ componentsData.css("components component").each do | component |
   description = component.at_css('description')
   appFile.sub!('((description))', description.inner_html)
 
-  id = component.at_css('id')
-  appFile.sub!('((id))', id.content)
-  appFile.sub!('((redirect))', "/" + id.content + ".desktop/")
+  id = component.at_css('id').content.sub(/\.desktop$/, '')
+  puts "  id: #{id}"
+  appFile.sub!('((id))', id)
+  appFile.sub!('((redirect))', "/" + id + ".desktop/")
 
   site = "false"
   url_home = component.at_css('url[type="homepage"]')
@@ -110,10 +111,11 @@ componentsData.css("components component").each do | component |
   appFile.sub!('((color_text))', color_text)
   appFile.sub!('((price))', price)
 
-  screenshots = ""
+  screenshots = ''
   image = component.at_css('image')
   if not image.nil?
-    screenshots += "  - " + image.content + "\n"
+    screenshots += '  - ' + image.content + "\n"
+
   end
   # TODO: multiple screenshots
   # releaseHash = ""
@@ -130,12 +132,12 @@ componentsData.css("components component").each do | component |
 
   icon64 = component.at_css('icon[width="64"]')
   if not icon64.nil?
-    icons += "  '64': " + icon_prefix + "64x64/" + icon64.content + "\n"
+    icons += '  "64": ' + icon_prefix + '64x64/' + icon64.content + "\n"
   end
 
   icon128 = component.at_css('icon[width="128"]')
   if not icon128.nil?
-    icons += "  '128': " + icon_prefix + "128x128/" + icon128.content + "\n"
+    icons += '  "128": ' + icon_prefix + '128x128/' + icon128.content + "\n"
   end
 
   appFile.sub!('((icons))', icons.rstrip)
@@ -160,7 +162,7 @@ componentsData.css("components component").each do | component |
   # end
   appFile.sub!('((releases))', releases.rstrip)
 
-  File.open("_apps/#{id.content}.md", "w+") do |file|
+  File.open("_apps/#{id}.md", "w+") do |file|
     file.write(appFile)
   end
 end

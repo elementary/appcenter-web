@@ -81,8 +81,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard.desktop/
+redirect_from: /io.elementary.switchboard.desktop/
 ---
 
 <p>A system settings application that focuses on modularity and simplicity.</p>

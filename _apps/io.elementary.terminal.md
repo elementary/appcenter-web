@@ -361,8 +361,7 @@ releases:
       <li>Translation updates</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.terminal.desktop/
+redirect_from: /io.elementary.terminal.desktop/
 ---
 
 <p>Terminal is a terminal emulator application for accessing a UNIX shell environment which can be used to run programs available on your system.</p>

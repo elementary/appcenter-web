@@ -138,8 +138,7 @@ releases:
       <li>Czech (by Daniel Zvir)</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.hashit.desktop/
+redirect_from: /com.github.artemanufrij.hashit.desktop/
 ---
 
 <p>A tool that allows you to ensure a file hasn&apos;t become corrupted by comparing its hashsum</p>

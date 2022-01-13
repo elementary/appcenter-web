@@ -30,8 +30,7 @@ releases:
       <li>stocks-1.0.0.zip</li>
 
     </ul>
-redirect_from:
-  - /com.github.brendanperry.stocks.desktop/
+redirect_from: /com.github.brendanperry.stocks.desktop/
 ---
 
 <p>See your favorite stocks, their current price, and percent change. Data provided by IEX Cloud (free account required).</p>

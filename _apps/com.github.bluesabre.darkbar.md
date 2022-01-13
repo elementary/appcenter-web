@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/bluesabre/darkbar/main/data/screenshots/1x.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bluesabre.darkbar.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bluesabre.darkbar.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bluesabre.darkbar.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bluesabre.darkbar.png
 color:
   primary: "#2a2a2a"
   primary-text: "rgb(255, 255, 255)"

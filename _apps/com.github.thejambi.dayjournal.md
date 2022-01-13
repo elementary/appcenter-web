@@ -1,5 +1,5 @@
 ---
-app_id: com.github.thejambi.dayjournal.desktop
+app_id: com.github.thejambi.dayjournal
 title: "DayJournal"
 summary: "A future-proof journal."
 developer: "Zach Burnham"
@@ -19,8 +19,7 @@ color:
 price: 1
 releases:
 
-redirect_from:
-  - /com.github.thejambi.dayjournal.desktop/
+redirect_from: /com.github.thejambi.dayjournal.desktop/
 ---
 
 <p>A future-proof journal.</p>

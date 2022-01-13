@@ -10,7 +10,7 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Philip-Scott/Notes-up/master/Screenshot1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.philip_scott.notes-up.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.philip_scott.notes-up.png
 color:
   primary: "#BEDAFF"
   primary-text: "#274771"

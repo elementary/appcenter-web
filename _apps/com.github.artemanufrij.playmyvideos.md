@@ -425,8 +425,7 @@ releases:
   unix-timestamp: 1509840000
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.artemanufrij.playmyvideos.desktop/
+redirect_from: /com.github.artemanufrij.playmyvideos.desktop/
 ---
 
 <p>A very fast video player designed extra for large local libraries which also supports downloading of box covers</p>

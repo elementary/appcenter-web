@@ -27,8 +27,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.cryptowyrm.copypastegrab.desktop/
+redirect_from: /com.github.cryptowyrm.copypastegrab.desktop/
 ---
 
 <p>Easily download videos from hundreds of websites.</p>

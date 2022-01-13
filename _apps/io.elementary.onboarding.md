@@ -79,8 +79,7 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /io.elementary.onboarding.desktop/
+redirect_from: /io.elementary.onboarding.desktop/
 ---
 
 <p>Onboarding assists users during their first log in to elementary OS.</p>

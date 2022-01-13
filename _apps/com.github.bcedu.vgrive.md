@@ -79,8 +79,7 @@ releases:
   unix-timestamp: 1567036800
   description: |-
     <p>VGrive initial release!</p>
-redirect_from:
-  - /com.github.bcedu.vgrive.desktop/
+redirect_from: /com.github.bcedu.vgrive.desktop/
 ---
 
 <p>VGrive is a client (back-end and front-end) for Google Drive made in Vala.

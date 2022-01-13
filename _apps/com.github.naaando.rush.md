@@ -88,8 +88,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.naaando.rush.desktop/
+redirect_from: /com.github.naaando.rush.desktop/
 ---
 
 <p>Time manager app to break your work into intervals to keep you focused.</p>

@@ -113,8 +113,7 @@ releases:
       <li>Import QIF files</li>
 
     </ul>
-redirect_from:
-  - /com.github.cjfloss.envelope.desktop/
+redirect_from: /com.github.cjfloss.envelope.desktop/
 ---
 
 <p>Maintain your personal budget by using the tried-and-true envelope system.

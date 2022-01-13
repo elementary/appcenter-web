@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/dbhowell/peeq/master/data/screenshot_001.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.dbhowell.peeq.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.dbhowell.peeq.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.dbhowell.peeq.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.dbhowell.peeq.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"

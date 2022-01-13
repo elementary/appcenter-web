@@ -125,8 +125,7 @@ releases:
   unix-timestamp: 1505433600
   description: |-
     <p>Ciano first release.</p>
-redirect_from:
-  - /com.github.robertsanseries.ciano.desktop/
+redirect_from: /com.github.robertsanseries.ciano.desktop/
 ---
 
 <p>The easiest way to convert your multimedia files to the most popular formats.</p>

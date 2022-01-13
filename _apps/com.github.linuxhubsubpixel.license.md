@@ -29,8 +29,7 @@ releases:
   unix-timestamp: 1567209600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.linuxhubsubpixel.license.desktop/
+redirect_from: /com.github.linuxhubsubpixel.license.desktop/
 ---
 
 <p>An application that helps you finding the best license for your open source project</p>

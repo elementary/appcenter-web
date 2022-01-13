@@ -1,7 +1,8 @@
 require 'zlib'
 require 'yaml'
-require "uri"
-require "open-uri"
+require 'uri'
+require 'open-uri'
+require 'cgi'
 
 ########
 # LOKI #
@@ -30,8 +31,7 @@ color:
 price: ((price))
 releases:
 ((releases))
-redirect_from:
-  - /((package)).desktop/
+redirect_from: ((redirect))
 ---
 
 ((description))'
@@ -43,12 +43,16 @@ YAML.load_stream(componentsData) do |doc|
 
   appFile = template.dup
 
-  appFile.sub!('((title))', doc['Name']['C'])
-  appFile.sub!('((summary))', doc['Summary']['C'])
-  appFile.sub!('((dev))', doc['DeveloperName']['C'])
+  appFile.sub!('((title))', CGI.escapeHTML(doc['Name']['C']))
+  appFile.sub!('((summary))', CGI.escapeHTML(doc['Summary']['C']))
+  appFile.sub!('((dev))', CGI.escapeHTML(doc['DeveloperName']['C']))
   appFile.sub!('((description))', doc['Description']['C'])
-  appFile.sub!('((package))', doc['Package'])
-  appFile.sub!('((id))', doc['ID'])
+  # appFile.sub!('((package))', doc['Package'])
+
+  id = doc['ID'].sub(/\.desktop$/, '')
+  puts "  id: #{id}"
+  appFile.sub!('((id))', id)
+  appFile.sub!('((redirect))', "/" + id + ".desktop/")
 
   site = "false"
   if not doc['Url'].nil? and not doc['Url']['homepage'].nil?
@@ -132,7 +136,7 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((releases))', releases.rstrip)
 
-  File.open("_apps/#{doc['Package']}.md", "w+") do |file|
+  File.open("_apps/#{id}.md", "w+") do |file|
     file.write(appFile)
   end
 end

@@ -22,8 +22,7 @@ releases:
   unix-timestamp: 1554768000
   description: |-
     <p>Initial release.</p>
-redirect_from:
-  - /com.github.tvale.xkcdesktop.desktop/
+redirect_from: /com.github.tvale.xkcdesktop.desktop/
 ---
 
 <p>View xkcd comics on your desktop.</p>

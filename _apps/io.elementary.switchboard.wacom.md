@@ -23,7 +23,6 @@ releases:
   unix-timestamp: 1627344000
   description: |-
     <p>Initial Release!</p>
-redirect_from:
-  - /io.elementary.switchboard.wacom.desktop/
+redirect_from: /io.elementary.switchboard.wacom.desktop/
 ---
 

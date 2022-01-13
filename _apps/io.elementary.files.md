@@ -829,8 +829,7 @@ releases:
       <li>Minor bug fixes</li>
 
     </ul>
-redirect_from:
-  - /pantheon-files.desktop/
+redirect_from: /io.elementary.files.desktop/
 ---
 
 <p>Easily copy, move, and rename your files, or use folders to stay organized. Whether you like files in lists, grids or columns, you can always find them right away. Access all your files, whether locally, on an external device or remotely using FTP, SFTP, AFP, Webdav, or Windows share.</p>

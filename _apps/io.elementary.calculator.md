@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/calculator/master/data/screenshot@2x.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.calculator.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.calculator.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.calculator.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.calculator.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

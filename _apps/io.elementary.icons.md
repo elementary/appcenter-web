@@ -219,8 +219,7 @@ releases:
       <li>Add 24px user status icons</li>
 
     </ul>
-redirect_from:
-  - /elementary-icon-theme.desktop/
+redirect_from: /io.elementary.icons.desktop/
 ---
 
 <p>An original set of vector icons designed specifically for elementary OS and its desktop environment: Pantheon.</p>

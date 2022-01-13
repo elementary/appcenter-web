@@ -1,5 +1,5 @@
 ---
-app_id: com.github.artemanufrij.showmypictures.desktop
+app_id: com.github.artemanufrij.showmypictures
 title: "Memories"
 summary: "Manage local image files"
 developer: "Artem Anufrij"
@@ -256,8 +256,7 @@ releases:
     </ul>
 - version: 0.1.0
   unix-timestamp: 1515974400
-redirect_from:
-  - /com.github.artemanufrij.showmypictures.desktop/
+redirect_from: /com.github.artemanufrij.showmypictures.desktop/
 ---
 
 <p>A very fast image viewer designed extra for large local libraries.</p>

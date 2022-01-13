@@ -335,8 +335,7 @@ releases:
   unix-timestamp: 1539648000
 - version: 2.4.1
   unix-timestamp: 1487548800
-redirect_from:
-  - /io.elementary.code.desktop/
+redirect_from: /io.elementary.code.desktop/
 ---
 
 <p>Whether you're writing in Markdown or managing a complex app codebase, Code is the lightweight but full-featured editor for you. It auto-saves your files to ensure they're always up-to-date, and it remembers your tabs so you never lose your spot—even between sessions.</p>

@@ -169,8 +169,7 @@ releases:
       <li>New translations</li>
 
     </ul>
-redirect_from:
-  - /noise.desktop/
+redirect_from: /io.elementary.music.desktop/
 ---
 
 <p>Music is a fast and beautiful audio player with a focus on music and libraries. It handles external devices and album art.</p>

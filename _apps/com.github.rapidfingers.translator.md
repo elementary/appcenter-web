@@ -124,8 +124,7 @@ releases:
       <li>Fix dark theme color</li>
 
     </ul>
-redirect_from:
-  - /com.github.rapidfingers.translator.desktop/
+redirect_from: /com.github.rapidfingers.translator.desktop/
 ---
 
 <p>Simple and fast translator</p>

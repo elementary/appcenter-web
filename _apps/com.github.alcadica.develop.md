@@ -181,8 +181,7 @@ releases:
       <li>Creates elementary OS wingpanel indicator template</li>
 
     </ul>
-redirect_from:
-  - /com.github.alcadica.develop.desktop/
+redirect_from: /com.github.alcadica.develop.desktop/
 ---
 
 <p>A simple tool to help developers to develop their own apps and widgets.</p>

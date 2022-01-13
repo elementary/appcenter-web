@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://github.com/hezral/inspektor/blob/master/data/screenshot-01.png?raw=true
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.hezral.inspektor.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.hezral.inspektor.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.hezral.inspektor.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.hezral.inspektor.png
 color:
   primary: "#B7E1E5"
   primary-text: "#29484F"

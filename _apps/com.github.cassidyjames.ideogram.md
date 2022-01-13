@@ -94,8 +94,7 @@ releases:
   unix-timestamp: 1539820800
   description: |-
     <p>🎉 Initial release for AppCenter</p>
-redirect_from:
-  - /com.github.cassidyjames.ideogram.desktop/
+redirect_from: /com.github.cassidyjames.ideogram.desktop/
 ---
 
 <p>Quickly insert emoji anywhere you can paste text, including non-native apps. Hit ⌘+E to open the emoji picker, choose the emoji you want, and it’s instantly copied and pasted into any focused text input. 👍</p>

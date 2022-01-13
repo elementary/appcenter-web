@@ -3,9 +3,9 @@ app_id: io.elementary.switchboard.datetime
 type: addon
 extends: io.elementary.switchboard
 compulsory: false
-title: "Date & Time Settings"
+title: "Date &amp; Time Settings"
 summary: "Configure date, time, and select time zone"
-developer: "Date & Time Settings Developers"
+developer: "Date &amp; Time Settings Developers"
 homepage: https://elementary.io
 help_page: false
 bugtracker: false
@@ -51,7 +51,6 @@ releases:
   unix-timestamp: 1585699200
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-datetime.desktop/
+redirect_from: /io.elementary.switchboard.datetime.desktop/
 ---
 

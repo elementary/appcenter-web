@@ -3,9 +3,9 @@ app_id: io.elementary.switchboard.parental-controls
 type: addon
 extends: io.elementary.switchboard
 compulsory: false
-title: "Screen Time & Limits Settings"
+title: "Screen Time &amp; Limits Settings"
 summary: "Configure time limits and restrict application usage"
-developer: "Screen Time & Limits Settings Developers"
+developer: "Screen Time &amp; Limits Settings Developers"
 homepage: https://elementary.io
 help_page: false
 bugtracker: false
@@ -63,7 +63,6 @@ releases:
     <p>Reliably apply time restrictions</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-parental-controls.desktop/
+redirect_from: /io.elementary.switchboard.parental-controls.desktop/
 ---
 

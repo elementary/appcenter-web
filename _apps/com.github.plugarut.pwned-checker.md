@@ -132,8 +132,7 @@ releases:
   unix-timestamp: 1522368000
   description: |-
     <p>First Release</p>
-redirect_from:
-  - /com.github.plugarut.pwned-checker.desktop/
+redirect_from: /com.github.plugarut.pwned-checker.desktop/
 ---
 
 <p>Simple application for checking if a password has appeared in a leak. haveibeenpwned.com database is used.</p>

@@ -243,8 +243,7 @@ releases:
       <li>Add your own recipe by PR</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.recipes.desktop/
+redirect_from: /com.github.bartzaalberg.recipes.desktop/
 ---
 
 <p>Do some cooking with some easy recipes. All the recipes are written in simple markdown. Don&apos;t see what you like? Add your own!</p>

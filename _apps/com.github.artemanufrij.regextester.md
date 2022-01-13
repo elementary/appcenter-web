@@ -82,8 +82,7 @@ releases:
       <li>Group support</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.regextester.desktop/
+redirect_from: /com.github.artemanufrij.regextester.desktop/
 ---
 
 <p>A regular expression is a special text string that describes a search pattern. Regex Tester shows all matches of search pattern in a string.</p>

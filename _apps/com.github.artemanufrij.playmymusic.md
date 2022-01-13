@@ -1,7 +1,7 @@
 ---
 app_id: com.github.artemanufrij.playmymusic
 title: "Melody"
-summary: "A music player for listening to local music files, online radios and audio CD's"
+summary: "A music player for listening to local music files, online radios and audio CD&#39;s"
 developer: "Artem Anufrij"
 homepage: http://anufrij.org/melody/
 help_page: https://github.com/artemanufrij/playmymusic/issues
@@ -844,8 +844,7 @@ releases:
       <li>Small style improvements</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.playmymusic.desktop/
+redirect_from: /com.github.artemanufrij.playmymusic.desktop/
 ---
 
 <p>A very fast music player designed extra for large local libraries which also supports online radios and downloading album covers</p>

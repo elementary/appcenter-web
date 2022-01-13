@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/louis77/tuner/master/docs/screen_light_1.4.2.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.louis77.tuner.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.louis77.tuner.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.louis77.tuner.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.louis77.tuner.png
 color:
   primary: "#FE9AB8"
   primary-text: "#000"

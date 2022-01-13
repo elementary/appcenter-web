@@ -109,7 +109,6 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard-plug-online-accounts.desktop/
+redirect_from: /io.elementary.switchboard.onlineaccounts.desktop/
 ---
 

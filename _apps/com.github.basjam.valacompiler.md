@@ -88,8 +88,7 @@ releases:
   unix-timestamp: 1511913600
   description: |-
     <p>Release: Initial Release</p>
-redirect_from:
-  - /com.github.basjam.valacompiler.desktop/
+redirect_from: /com.github.basjam.valacompiler.desktop/
 ---
 
 <p>A simple GUI for valac that is aimed at replacing the terminal use in vala development.</p>

@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Annotator/master/data/screenshots/screenshot-light.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.annotator.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.annotator.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.annotator.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.annotator.png
 color:
   primary: "#007367"
   primary-text: "#ffffff"

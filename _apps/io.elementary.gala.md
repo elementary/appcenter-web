@@ -3,8 +3,8 @@ app_id: io.elementary.gala
 type: generic
 extends: false
 compulsory: Pantheon
-title: "Multitasking & Window Management"
-summary: "A window & compositing manager for Pantheon"
+title: "Multitasking &amp; Window Management"
+summary: "A window &amp; compositing manager for Pantheon"
 developer: "elementary, Inc."
 homepage: https://elementary.io
 help_page: false
@@ -177,8 +177,7 @@ releases:
       <li>Fix animations for moving and maximizing tiled windows</li>
 
     </ul>
-redirect_from:
-  - /gala.desktop/
+redirect_from: /io.elementary.gala.desktop/
 ---
 
 <p>A window &amp; compositing manager based on libmutter and designed by elementary for use with Pantheon.</p>

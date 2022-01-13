@@ -394,8 +394,7 @@ releases:
       <li>Dragging a selected task could cause the timer to state that all tasks are finished.</li>
 
     </ul>
-redirect_from:
-  - /com.github.jmoerman.go-for-it.desktop/
+redirect_from: /com.github.jmoerman.go-for-it.desktop/
 ---
 
 <p>Go For It! is a simple and stylish productivity app, featuring a to-do list, merged with a timer that keeps your focus on the current task.</p>

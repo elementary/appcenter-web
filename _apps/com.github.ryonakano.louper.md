@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/louper/main/data/Screenshot.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
 color:
   primary: "#fafafa"
   primary-text: "#1a1a1a"

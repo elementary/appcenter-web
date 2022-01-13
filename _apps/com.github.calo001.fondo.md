@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/calo001/fondo/master/data/images/screenshot_1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.calo001.fondo.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.calo001.fondo.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.calo001.fondo.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.calo001.fondo.png
 color:
   primary: "#82ffc4"
   primary-text: "#000000"

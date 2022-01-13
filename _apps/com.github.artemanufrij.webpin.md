@@ -339,8 +339,7 @@ releases:
       <li>Open WebApp on single click instead double click</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.webpin.desktop/
+redirect_from: /com.github.artemanufrij.webpin.desktop/
 ---
 
 <p>Create your own WebApps. Pin your any favorite website on Applications Menu or Plank like a regular desktop app.</p>

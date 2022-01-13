@@ -37,7 +37,6 @@ releases:
   unix-timestamp: 1572393600
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-nightlight.desktop/
+redirect_from: /io.elementary.wingpanel.nightlight.desktop/
 ---
 

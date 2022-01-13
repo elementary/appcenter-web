@@ -85,7 +85,6 @@ releases:
     <p>Pair with devices that require a password, key code, or confirmation</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-bluetooth.desktop/
+redirect_from: /io.elementary.switchboard.bluetooth.desktop/
 ---
 

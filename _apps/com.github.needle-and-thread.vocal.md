@@ -2,7 +2,7 @@
 app_id: com.github.needle-and-thread.vocal
 title: "Vocal"
 summary: "A Great Podcast Client for the Modern Free Desktop"
-developer: "Needle & Thread"
+developer: "Needle &amp; Thread"
 homepage: http://github.com/needle-and-thread/vocal
 help_page: false
 bugtracker: false
@@ -183,8 +183,7 @@ releases:
     		redesigned podcast view, and tons of other great
 
     		improvements.</p>
-redirect_from:
-  - /com.github.needle-and-thread.vocal.desktop/
+redirect_from: /com.github.needle-and-thread.vocal.desktop/
 ---
 
 <p>Vocal is the best way to find interesting new podcasts, maintain a growing library,

@@ -3,9 +3,9 @@ app_id: io.elementary.switchboard.locale
 type: addon
 extends: io.elementary.switchboard
 compulsory: false
-title: "Language & Region Settings"
+title: "Language &amp; Region Settings"
 summary: "Manage languages, and configure region and format"
-developer: "Language & Region Settings Developers"
+developer: "Language &amp; Region Settings Developers"
 homepage: https://elementary.io
 help_page: false
 bugtracker: false
@@ -97,7 +97,6 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard-plug-locale.desktop/
+redirect_from: /io.elementary.switchboard.locale.desktop/
 ---
 

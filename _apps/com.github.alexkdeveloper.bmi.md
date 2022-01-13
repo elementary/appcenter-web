@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/alexkdeveloper/bmi/main/data/screenshot1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.alexkdeveloper.bmi.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.alexkdeveloper.bmi.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.alexkdeveloper.bmi.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.alexkdeveloper.bmi.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

@@ -73,8 +73,7 @@ releases:
   unix-timestamp: 1527897600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.dcharles525.pho.desktop/
+redirect_from: /com.github.dcharles525.pho.desktop/
 ---
 
 <p>Browser 4chan like never before with amazing GTK+ and Vala technologies! Explore the wonders of /g/ or /news/, or any of the dozens of 4chan boards!</p>

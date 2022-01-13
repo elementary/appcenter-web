@@ -63,8 +63,7 @@ releases:
       <li>Publish anonymously to Write.as</li>
 
     </ul>
-redirect_from:
-  - /com.github.writeas.writeas-gtk.desktop/
+redirect_from: /com.github.writeas.writeas-gtk.desktop/
 ---
 
 <p>Write.as is a simple writing tool and publishing platform. There&apos;s no sign up — just open the app, write something, and publish.</p>

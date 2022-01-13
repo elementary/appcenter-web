@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/calo001/luna/master/data/images/screenshot_1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.calo001.luna.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.calo001.luna.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.calo001.luna.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.calo001.luna.png
 color:
   primary: "#fafafa"
   primary-text: "#485a6c"

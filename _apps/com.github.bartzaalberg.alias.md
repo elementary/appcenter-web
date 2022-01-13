@@ -239,8 +239,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.alias.desktop/
+redirect_from: /com.github.bartzaalberg.alias.desktop/
 ---
 
 <p>A tool to manage your bash aliases</p>

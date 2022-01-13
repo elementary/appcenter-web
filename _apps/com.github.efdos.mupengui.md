@@ -22,8 +22,7 @@ price: false
 releases:
 - version: 0.8.7
   unix-timestamp: 1519171200
-redirect_from:
-  - /com.github.efdos.mupengui.desktop/
+redirect_from: /com.github.efdos.mupengui.desktop/
 ---
 
 <p>Mupen64Plus FrontEnd that allows for an easy configuration of Keyboard and Joystick bindings, to play your favourite N64 games.</p>

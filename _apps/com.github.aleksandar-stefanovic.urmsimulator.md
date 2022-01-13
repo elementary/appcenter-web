@@ -64,8 +64,7 @@ releases:
       <li>Instructions are now one-based numbered.</li>
 
     </ul>
-redirect_from:
-  - /com.github.aleksandar-stefanovic.urmsimulator.desktop/
+redirect_from: /com.github.aleksandar-stefanovic.urmsimulator.desktop/
 ---
 
 <p>URM (Unlimited Register Machine) is a theoretical machine which has unlimited memory. It is used to describe that anything that can be programmed with four basic instructions can also be programmed with any other programming language.</p>

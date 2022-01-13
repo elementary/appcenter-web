@@ -133,8 +133,7 @@ releases:
   unix-timestamp: 1493078400
   description: |-
     <p>Initial release with support for EPUB format</p>
-redirect_from:
-  - /com.github.babluboy.bookworm.desktop/
+redirect_from: /com.github.babluboy.bookworm.desktop/
 ---
 
 <p>Read the books you love without having to worry about the different format complexities like EPUB, PDF, MOBI, CBR, etc.</p>

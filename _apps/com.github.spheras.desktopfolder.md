@@ -192,8 +192,7 @@ releases:
       <li>Minor Bugfixing included with this release</li>
 
     </ul>
-redirect_from:
-  - /com.github.spheras.desktopfolder.desktop/
+redirect_from: /com.github.spheras.desktopfolder.desktop/
 ---
 
 <p>Organize your desktop with panels that hold your things.</p>

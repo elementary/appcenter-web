@@ -183,8 +183,7 @@ releases:
       <li>Connect to the address given by MuseIC and control the media from any device (mobile phone, tablet, etc.) with
 
     a web browser</li> </ul>
-redirect_from:
-  - /com.github.bcedu.museic.desktop/
+redirect_from: /com.github.bcedu.museic.desktop/
 ---
 
 <p>MuseIC is a fast and simple music player with remote control from any device through internet browser.</p>

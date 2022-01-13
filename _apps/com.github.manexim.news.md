@@ -144,8 +144,7 @@ releases:
   unix-timestamp: 1572739200
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.manexim.news.desktop/
+redirect_from: /com.github.manexim.news.desktop/
 ---
 
 <p>Read the latest headlines and get coverage of current events. Read engaging stories on the topics that interest you.</p>

@@ -103,8 +103,7 @@ releases:
       <li>Add changelog to appdata.xml</li>
 
     </ul>
-redirect_from:
-  - /com.github.santileortiz.iconoscope.desktop/
+redirect_from: /com.github.santileortiz.iconoscope.desktop/
 ---
 
 <p>Easily visualize icons to find inconsistencies, or check the look of icons in different themes. Some useful features include:</p>
