@@ -1,7 +1,7 @@
 ---
 app_id: com.github.matthiasjg.trimirjournal
 title: "Trimir Journal"
-summary: "Your personal activity "Tricorder"."
+summary: "Your personal activity &quot;Tricorder&quot;."
 developer: "Matthias Joachim Geisler, openwebcraft"
 homepage: https://github.com/matthiasjg/trimirjournal
 help_page: false

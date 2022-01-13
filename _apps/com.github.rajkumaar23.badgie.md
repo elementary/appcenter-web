@@ -1,7 +1,7 @@
 ---
 app_id: com.github.rajkumaar23.badgie
 title: "Badgie"
-summary: "Badges for your android app's README"
+summary: "Badges for your android app&#39;s README"
 developer: "Rajkumar S"
 homepage: https://github.com/rajkumaar23/badgie
 help_page: https://github.com/rajkumaar23/badgie/issues

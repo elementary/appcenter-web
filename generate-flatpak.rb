@@ -3,6 +3,7 @@ require 'yaml'
 require "uri"
 require "open-uri"
 require "nokogiri"
+require 'cgi'
 
 ###########
 # FLATPAK #
@@ -46,16 +47,16 @@ componentsData.css("components component").each do | component |
   appFile = template.dup
 
   name = component.at_css('name')
-  appFile.sub!('((title))', name.content)
+  appFile.sub!('((title))', CGI.escapeHTML(name.content))
 
   summary = component.at_css('summary')
-  appFile.sub!('((summary))', summary.content)
+  appFile.sub!('((summary))', CGI.escapeHTML(summary.content))
 
   dev_name = component.at_css('developer_name')
   if not dev_name.nil?
-    developer = dev_name.content
+    developer = CGI.escapeHTML(dev_name.content)
   else
-    developer = name.content + ' Developers'
+    developer = CGI.escapeHTML(name.content) + ' Developers'
   end
   appFile.sub!('((dev))', developer)
 

@@ -1,7 +1,7 @@
 ---
 app_id: com.github.rajsolai.response
 title: "Response"
-summary: "Test your Webpage's Responsiveness"
+summary: "Test your Webpage&#39;s Responsiveness"
 developer: "Solai Raj"
 homepage: http://github.com/RajSolai/Response
 help_page: http://github.com/RajSolai/Response/issues
