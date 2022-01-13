@@ -71,7 +71,6 @@ releases:
     <p>Add prompt to shutdown to power button actions</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-power.desktop/
+redirect_from: /io.elementary.switchboard.power.desktop/
 ---
 

@@ -87,7 +87,6 @@ releases:
     <p>Exclude Space from single-key shortcuts</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-keyboard.desktop/
+redirect_from: /io.elementary.switchboard.keyboard.desktop/
 ---
 

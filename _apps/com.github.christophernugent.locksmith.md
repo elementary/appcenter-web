@@ -57,8 +57,7 @@ releases:
   unix-timestamp: 1528070400
   description: |-
     <p>Initial 1.0.0 release!</p>
-redirect_from:
-  - /com.github.christophernugent.locksmith.desktop/
+redirect_from: /com.github.christophernugent.locksmith.desktop/
 ---
 
 <p>Locksmith is an application for generating secure passwords. It provides tools for both memorable word-based passwords and random alpha-numeric passwords.</p>

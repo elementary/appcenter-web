@@ -97,8 +97,7 @@ releases:
     </ul>
 - version: 1.0.4
   unix-timestamp: 1522368000
-redirect_from:
-  - /com.github.artemanufrij.findfileconflicts.desktop/
+redirect_from: /com.github.artemanufrij.findfileconflicts.desktop/
 ---
 
 <p>Helps to find file names which could have conflicts on non Unix based operating systems</p>

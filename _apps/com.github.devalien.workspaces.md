@@ -192,8 +192,7 @@ releases:
   unix-timestamp: 1597622400
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.devalien.workspaces.desktop/
+redirect_from: /com.github.devalien.workspaces.desktop/
 ---
 
 <p>Make working on different projects easy again!</p>

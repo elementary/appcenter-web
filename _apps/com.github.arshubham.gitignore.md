@@ -34,8 +34,7 @@ releases:
   unix-timestamp: 1534032000
   description: |-
     <p>Initial release!</p>
-redirect_from:
-  - /com.github.arshubham.gitignore.desktop/
+redirect_from: /com.github.arshubham.gitignore.desktop/
 ---
 
 <p>A simple application for getting .gitignore reference from gitignore.io. You can download .gitignore for multiple languages at once.</p>

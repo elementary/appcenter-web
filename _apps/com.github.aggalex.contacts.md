@@ -20,8 +20,7 @@ price: false
 releases:
 - version: 1.0.3
   unix-timestamp: 1565740800
-redirect_from:
-  - /com.github.aggalex.contacts.desktop/
+redirect_from: /com.github.aggalex.contacts.desktop/
 ---
 
 <p>A simple contacts manager, tailored for elementary OS. Its features include:</p>

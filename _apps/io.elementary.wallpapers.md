@@ -45,7 +45,6 @@ releases:
       <li>Change default to Sunset by the Pier</li>
 
     </ul>
-redirect_from:
-  - /elementary-wallpapers.desktop/
+redirect_from: /io.elementary.wallpapers.desktop/
 ---
 

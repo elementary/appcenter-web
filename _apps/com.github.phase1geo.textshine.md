@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/TextShine/master/data/screenshots/screenshot-actions.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.textshine.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.textshine.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.textshine.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.textshine.png
 color:
   primary: "#fff394"
   primary-text: "#000000"

@@ -240,8 +240,7 @@ releases:
   unix-timestamp: 1543622400
   description: |-
     <p>Initial pre-release.</p>
-redirect_from:
-  - /com.github.bytepixie.snippetpixie.desktop/
+redirect_from: /com.github.bytepixie.snippetpixie.desktop/
 ---
 
 <p>Save your often used text snippets and then expand them whenever you type their abbreviation.</p>

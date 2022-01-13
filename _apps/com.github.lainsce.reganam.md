@@ -158,8 +158,7 @@ releases:
       <li>First release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.reganam.desktop/
+redirect_from: /com.github.lainsce.reganam.desktop/
 ---
 
 <p>Build up your planet&apos;s buildings and grow yourself a ecumenopolis of native aliens. Get mines of minerals, crystals and even hydrogen to build more structures and synthesizers.</p>

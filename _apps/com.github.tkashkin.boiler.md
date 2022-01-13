@@ -44,8 +44,7 @@ releases:
   unix-timestamp: 1533427200
   description: |-
     <p>Initial release.</p>
-redirect_from:
-  - /com.github.tkashkin.boiler.desktop/
+redirect_from: /com.github.tkashkin.boiler.desktop/
 ---
 
 <p>Simple app to control smart kettles using bluetooth.</p>

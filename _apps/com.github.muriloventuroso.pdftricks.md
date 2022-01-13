@@ -99,8 +99,7 @@ releases:
     <p>Split File</p>
 
     <p>Merge File</p>
-redirect_from:
-  - /com.github.muriloventuroso.pdftricks.desktop/
+redirect_from: /com.github.muriloventuroso.pdftricks.desktop/
 ---
 
 <p>A simple, efficient application for small manipulations in PDF files.</p>

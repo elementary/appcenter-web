@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Minder/master/data/screenshots/screenshot-current-properties.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.minder.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.minder.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.minder.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.minder.png
 color:
   primary: "#603461"
   primary-text: "rgb(255, 255, 255)"

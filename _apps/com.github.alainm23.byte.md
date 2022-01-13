@@ -253,8 +253,7 @@ releases:
   unix-timestamp: 1565049600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.alainm23.byte.desktop/
+redirect_from: /com.github.alainm23.byte.desktop/
 ---
 
 <p>Interact with your music and fall in love with your library all over again.</p>

@@ -1,5 +1,5 @@
 ---
-app_id: com.github.harisvsulaiman.pushy.desktop
+app_id: com.github.harisvsulaiman.pushy
 title: "Pushy"
 summary: "Pushbullet client"
 developer: "Haris Sulaiman"
@@ -20,8 +20,7 @@ color:
 price: false
 releases:
 
-redirect_from:
-  - /com.github.harisvsulaiman.pushy.desktop/
+redirect_from: /com.github.harisvsulaiman.pushy.desktop/
 ---
 
 <p>A Pushbullet client</p>

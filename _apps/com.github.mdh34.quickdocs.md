@@ -245,8 +245,7 @@ releases:
       <li>Fix some AppCenter issues</li>
 
     </ul>
-redirect_from:
-  - /com.github.mdh34.quickdocs.desktop/
+redirect_from: /com.github.mdh34.quickdocs.desktop/
 ---
 
 <p>A fast developer docs reader that supports Valadoc and DevDocs</p>

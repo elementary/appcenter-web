@@ -30,8 +30,7 @@ releases:
       <li>Fixes for Hera</li>
 
     </ul>
-redirect_from:
-  - /com.github.mirkobrombin.bottles.desktop/
+redirect_from: /com.github.mirkobrombin.bottles.desktop/
 ---
 
 <p>Easily manage your Wine bottles (wineprefix)</p>

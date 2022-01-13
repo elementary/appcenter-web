@@ -168,8 +168,7 @@ releases:
       <li>Add South African Rand (ZAR).</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.coin.desktop/
+redirect_from: /com.github.lainsce.coin.desktop/
 ---
 
 <p>Track the virtual currencies in real world currency value with this handy applet</p>

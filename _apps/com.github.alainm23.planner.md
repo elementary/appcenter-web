@@ -645,8 +645,7 @@ releases:
   unix-timestamp: 1546300800
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.alainm23.planner.desktop/
+redirect_from: /com.github.alainm23.planner.desktop/
 ---
 
 <p>🚀️ Planner 2 is here...</p>

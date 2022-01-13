@@ -82,8 +82,7 @@ releases:
   unix-timestamp: 1603324800
   description: |-
     <p>Initial Release</p>
-redirect_from:
-  - /com.github.horaciodrs.tradesim.desktop/
+redirect_from: /com.github.horaciodrs.tradesim.desktop/
 ---
 
 <p>Test your strategies on the Linux Trading Simulator, create reports, learn, try or develop new strategies for your trading.</p>

@@ -197,7 +197,6 @@ releases:
     <p>Performance improvements</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /slingshot-launcher.desktop/
+redirect_from: /io.elementary.wingpanel.applications-menu.desktop/
 ---
 

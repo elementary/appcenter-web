@@ -446,8 +446,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.snaptastic.desktop/
+redirect_from: /com.github.bartzaalberg.snaptastic.desktop/
 ---
 
 <p>Install your snaps, both downloaded and from online stores like snapcraft.io (right from the browser!). Update with one click in the app, and more! Do everything you need to do without the necessity of opening the terminal.</p>

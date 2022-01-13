@@ -156,8 +156,7 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.timetable.desktop/
+redirect_from: /com.github.lainsce.timetable.desktop/
 ---
 
 <p>Start organizing each day with the columns and export your timetable away in an easy way</p>

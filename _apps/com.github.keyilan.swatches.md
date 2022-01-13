@@ -19,8 +19,7 @@ color:
 price: 0
 releases:
 
-redirect_from:
-  - /com.github.keyilan.swatches.desktop/
+redirect_from: /com.github.keyilan.swatches.desktop/
 ---
 
 <p>Swatches lets you quickly grab variations of any hexadecimal or RGB colour you enter, and then quickly copy any shade to the clipboard with the click of a button.</p>

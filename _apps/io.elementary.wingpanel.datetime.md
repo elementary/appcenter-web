@@ -3,7 +3,7 @@ app_id: io.elementary.wingpanel.datetime
 type: addon
 extends: io.elementary.wingpanel
 compulsory: false
-title: "Date & Time Indicator"
+title: "Date &amp; Time Indicator"
 summary: "The date and time indicator"
 developer: "elementary, Inc."
 homepage: https://elementary.io/
@@ -125,7 +125,6 @@ releases:
     <p>Display an error dialog if Calendar fails to open</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-datetime.desktop/
+redirect_from: /io.elementary.wingpanel.datetime.desktop/
 ---
 

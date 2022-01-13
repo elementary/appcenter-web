@@ -67,8 +67,7 @@ releases:
       <li>Initial Release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.jeremyvaartjes.subminder.desktop/
+redirect_from: /com.github.jeremyvaartjes.subminder.desktop/
 ---
 
 <p>SubMinder can help you track what subscriptions are due when. You can create a list of your subscriptions and when a payment is upcoming you can get a notification with what subscription payment is coming up and how much it will cost.</p>

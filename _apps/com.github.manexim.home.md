@@ -277,8 +277,7 @@ releases:
   unix-timestamp: 1560211200
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.manexim.home.desktop/
+redirect_from: /com.github.manexim.home.desktop/
 ---
 
 <p>A smart home application to control your gadgets.</p>

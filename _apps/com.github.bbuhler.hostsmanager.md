@@ -42,8 +42,7 @@ releases:
   unix-timestamp: 1545350400
   description: |-
     <p>Input validation and bugfixes</p>
-redirect_from:
-  - /com.github.bbuhler.hostsmanager.desktop/
+redirect_from: /com.github.bbuhler.hostsmanager.desktop/
 ---
 
 <p>With HostsManager you can toggle and modify entries in your /etc/hosts file.</p>

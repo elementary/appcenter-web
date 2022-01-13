@@ -1,5 +1,5 @@
 ---
-app_id: com.github.brandonlujan.exchange.desktop
+app_id: com.github.brandonlujan.exchange
 title: "Exchange"
 summary: "Convert currencies with no hassle"
 developer: "Brandon Luján"
@@ -19,8 +19,7 @@ color:
 price: 1
 releases:
 
-redirect_from:
-  - /com.github.brandonlujan.exchange.desktop/
+redirect_from: /com.github.brandonlujan.exchange.desktop/
 ---
 
 <p>Application that uses Fixer.io API to download daily rates of currency exchange.</p>

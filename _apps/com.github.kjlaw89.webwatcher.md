@@ -1,5 +1,5 @@
 ---
-app_id: com.github.kjlaw89.webwatcher.desktop
+app_id: com.github.kjlaw89.webwatcher
 title: "Web Watcher"
 summary: "Know when your websites are misbehaving!"
 developer: "KJ Lawrence"
@@ -40,8 +40,7 @@ releases:
   unix-timestamp: 1525392000
   description: |-
     <p>Initial 1.0.0 release!</p>
-redirect_from:
-  - /com.github.kjlaw89.webwatcher.desktop/
+redirect_from: /com.github.kjlaw89.webwatcher.desktop/
 ---
 
 <p>A simple way to monitor your favorite sites uptime and their performance.</p>

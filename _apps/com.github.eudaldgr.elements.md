@@ -49,8 +49,7 @@ releases:
   unix-timestamp: 1524268800
   description: |-
     <p>First release</p>
-redirect_from:
-  - /com.github.eudaldgr.elements.desktop/
+redirect_from: /com.github.eudaldgr.elements.desktop/
 ---
 
 <p>⚗️ A viewer of the elements</p>

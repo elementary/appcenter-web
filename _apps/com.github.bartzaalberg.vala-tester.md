@@ -55,8 +55,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.vala-tester.desktop/
+redirect_from: /com.github.bartzaalberg.vala-tester.desktop/
 ---
 
 <p>A simple tool to test your Vala code.</p>

@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/small-tech/comet-screenshots/main/nl/comet-basic-usage.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.small_tech.comet.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/org.small_tech.comet.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.small_tech.comet.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/org.small_tech.comet.png
 color:
   primary: "#0d52bf"
   primary-text: "#fafafa"

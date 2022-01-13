@@ -70,8 +70,7 @@ releases:
   unix-timestamp: 1528329600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.mdh34.hackup.desktop/
+redirect_from: /com.github.mdh34.hackup.desktop/
 ---
 
 <p>Read Hacker News stories and comments distraction-free from the desktop</p>

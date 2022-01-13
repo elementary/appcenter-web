@@ -34,8 +34,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.padjis.ghistory.desktop/
+redirect_from: /com.github.padjis.ghistory.desktop/
 ---
 
 <p>If you are tired to recall the command you did input in your terminal sometime ago</p>

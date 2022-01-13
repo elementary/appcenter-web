@@ -68,8 +68,7 @@ releases:
       <li>Simplified searching via Google News; added Ctrl+F shortcut</li>
 
     </ul>
-redirect_from:
-  - /com.github.allen-b1.news.desktop/
+redirect_from: /com.github.allen-b1.news.desktop/
 ---
 
 <p>News lets you read and aggregate Atom and RSS feeds.</p>

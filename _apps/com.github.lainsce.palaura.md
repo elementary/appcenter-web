@@ -1,7 +1,7 @@
 ---
 app_id: com.github.lainsce.palaura
 title: "Palaura"
-summary: "Find any word's definition with this handy dictionary"
+summary: "Find any word&#39;s definition with this handy dictionary"
 developer: "Lains"
 homepage: https://github.com/lainsce/palaura/
 help_page: false
@@ -142,8 +142,7 @@ releases:
       <li>Some AppCenter fixes</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.palaura.desktop/
+redirect_from: /com.github.lainsce.palaura.desktop/
 ---
 
 <p>Find any word&apos;s definition, and details about it, with this handy dictionary by your side</p>

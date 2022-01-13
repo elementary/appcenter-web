@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/bernardodsanderson/vido/master/data/images/VIDO-normal.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bernardodsanderson.vido.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bernardodsanderson.vido.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bernardodsanderson.vido.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bernardodsanderson.vido.png
 color:
   primary: "#F2C94C"
   primary-text: "#333"

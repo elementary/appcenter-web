@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/matthiasjg/trimirjournal/master/data/screenshots/de/light-and-dark.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matthiasjg.trimirjournal.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matthiasjg.trimirjournal.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matthiasjg.trimirjournal.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matthiasjg.trimirjournal.png
 color:
   primary: "#7a36b1"
   primary-text: "rgb(244, 233, 110)"

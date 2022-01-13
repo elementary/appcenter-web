@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://github.com/hezral/quickword/blob/master/data/screenshot-01.png?raw=true
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.hezral.quickword.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.hezral.quickword.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.hezral.quickword.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.hezral.quickword.png
 color:
   primary: "#D9262C"
   primary-text: "#FFFFFF"

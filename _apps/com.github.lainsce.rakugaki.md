@@ -77,8 +77,7 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.rakugaki.desktop/
+redirect_from: /com.github.lainsce.rakugaki.desktop/
 ---
 
 <p>Draw to your heart&apos;s content with this simple, no-friction, no excessive chrome, pad.</p>

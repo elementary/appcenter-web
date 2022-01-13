@@ -29,8 +29,7 @@ releases:
   unix-timestamp: 1627430400
 - version: 1.0.0
   unix-timestamp: 1626307200
-redirect_from:
-  - /io.elementary.installer.desktop/
+redirect_from: /io.elementary.installer.desktop/
 ---
 
 <p>Step by step installer for elementary OS itself.</p>

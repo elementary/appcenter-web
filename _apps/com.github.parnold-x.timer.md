@@ -34,8 +34,7 @@ releases:
   unix-timestamp: 1512086400
   description: |-
     <p>This release adds float parsing. So now you can also enter e.g. 3.5 for 3 minutes and 30 seconds</p>
-redirect_from:
-  - /com.github.parnold-x.timer.desktop/
+redirect_from: /com.github.parnold-x.timer.desktop/
 ---
 
 <p>The ultimate tea timer you searched for.</p>

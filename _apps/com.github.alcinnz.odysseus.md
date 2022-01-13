@@ -227,8 +227,7 @@ releases:
     <p>Offers a very smooth browsing and downloads experience.</p>
 
     <p>First AppCenter release, so Merry Christmas!</p>
-redirect_from:
-  - /com.github.alcinnz.odysseus.desktop/
+redirect_from: /com.github.alcinnz.odysseus.desktop/
 ---
 
 <p>Odysseus is a simple yet powerful web browser focusing on new ways to discover the webpages you need and want, without relying on central webservices invading your privacy.</p>

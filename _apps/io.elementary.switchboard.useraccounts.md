@@ -115,7 +115,6 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard-plug-useraccounts.desktop/
+redirect_from: /io.elementary.switchboard.useraccounts.desktop/
 ---
 

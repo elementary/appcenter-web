@@ -103,8 +103,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.ronnydo.wammer.desktop/
+redirect_from: /com.github.ronnydo.wammer.desktop/
 ---
 
 <p>Wammer lets you kick out all clients in your WiFi network, so you can enjoy its full bandwidth. Best part of the story: everything works fully automatically!</p>

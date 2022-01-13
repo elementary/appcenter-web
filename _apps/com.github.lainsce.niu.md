@@ -82,8 +82,7 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.niu.desktop/
+redirect_from: /com.github.lainsce.niu.desktop/
 ---
 
 <p>See time and the current date like never before, using a compact and decimal way to show date and time in this applet or on the panel</p>

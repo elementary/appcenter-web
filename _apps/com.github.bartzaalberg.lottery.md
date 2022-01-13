@@ -275,8 +275,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.lottery.desktop/
+redirect_from: /com.github.bartzaalberg.lottery.desktop/
 ---
 
 <p>A tool to determine who will be the winner.</p>

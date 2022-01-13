@@ -111,8 +111,7 @@ releases:
   unix-timestamp: 1546992000
   description: |-
     <p>Show lyrics</p>
-redirect_from:
-  - /com.github.muriloventuroso.givemelyrics.desktop/
+redirect_from: /com.github.muriloventuroso.givemelyrics.desktop/
 ---
 
 <p>See the lyrics of the song that is playing, from any application. Sing along with the option to sync lyrics.</p>

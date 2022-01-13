@@ -1,5 +1,5 @@
 ---
-app_id: com.github.nick92.tranqil.desktop
+app_id: com.github.nick92.tranqil
 title: "Tranqil"
 summary: "Relax to soothing sounds of nature"
 developer: "Nick Wilkins"
@@ -19,8 +19,7 @@ color:
 price: 1
 releases:
 
-redirect_from:
-  - /com.github.nick92.tranqil.desktop/
+redirect_from: /com.github.nick92.tranqil.desktop/
 ---
 
 <p>Relieve stress or help concentration with Tranqil</p>

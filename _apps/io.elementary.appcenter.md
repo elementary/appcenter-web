@@ -769,8 +769,7 @@ releases:
     </ul>
 - version: 0.1.0
   unix-timestamp: 1471219200
-redirect_from:
-  - /appcenter.desktop/
+redirect_from: /io.elementary.appcenter.desktop/
 ---
 
 <p>The open source, pay-what-you-want app store from elementary. Reviewed and curated by elementary to ensure a native, privacy-respecting, and secure experience. Browse by categories or search and discover new apps. AppCenter is also used for updating your system to the latest and greatest version for new features and fixes.</p>

@@ -32,8 +32,7 @@ releases:
     </ul>
 - version: 0.3.0
   unix-timestamp: 1532390400
-redirect_from:
-  - /com.github.artemanufrij.metronome.desktop/
+redirect_from: /com.github.artemanufrij.metronome.desktop/
 ---
 
 <p>A simple metronome for all musicians that helps to practice several rythms at many speeds</p>

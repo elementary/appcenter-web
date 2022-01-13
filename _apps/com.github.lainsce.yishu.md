@@ -182,8 +182,7 @@ releases:
       <li>First release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.yishu.desktop/
+redirect_from: /com.github.lainsce.yishu.desktop/
 ---
 
 <p>Write a to-do list that will be easy to sync with most known Todo.txt clients</p>

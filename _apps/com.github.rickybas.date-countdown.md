@@ -54,8 +54,7 @@ releases:
   unix-timestamp: 1501027200
   description: |-
     <p>Initial Release.</p>
-redirect_from:
-  - /com.github.rickybas.date-countdown.desktop/
+redirect_from: /com.github.rickybas.date-countdown.desktop/
 ---
 
 <p>Add countdown timers for specific future dates</p>

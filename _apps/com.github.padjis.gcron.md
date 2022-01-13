@@ -70,8 +70,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.padjis.gcron.desktop/
+redirect_from: /com.github.padjis.gcron.desktop/
 ---
 
 <p>If you are tired to open your terminal in order to edit your cron jobs, or even better are interested in figuring out what does one of your current cron job do</p>

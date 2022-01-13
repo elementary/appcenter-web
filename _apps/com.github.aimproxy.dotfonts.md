@@ -61,8 +61,7 @@ releases:
   unix-timestamp: 1563235200
   description: |-
     <p>Launch BETA Release</p>
-redirect_from:
-  - /com.github.aimproxy.dotfonts.desktop/
+redirect_from: /com.github.aimproxy.dotfonts.desktop/
 ---
 
 <p>The simplest way to try, install, and manage fonts.</p>

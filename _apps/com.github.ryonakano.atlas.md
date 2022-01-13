@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/atlas/master/data/Screenshot.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.atlas.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.atlas.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.atlas.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.atlas.png
 color:
   primary: "#fe9ab8"
   primary-text: "#1a1a1a"

@@ -89,7 +89,6 @@ releases:
     <p>Prevent panel icon from showing in the dock</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-network.desktop/
+redirect_from: /io.elementary.wingpanel.network.desktop/
 ---
 

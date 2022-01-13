@@ -82,8 +82,7 @@ releases:
   unix-timestamp: 1515974400
   description: |-
     <p>Appdata and minor language fixes</p>
-redirect_from:
-  - /com.github.arshubham.cipher.desktop/
+redirect_from: /com.github.arshubham.cipher.desktop/
 ---
 
 <p>A simple application for encoding and decoding text. Hide your text from prying eyes!</p>

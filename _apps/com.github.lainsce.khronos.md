@@ -1,7 +1,7 @@
 ---
 app_id: com.github.lainsce.khronos
 title: "Khronos"
-summary: "Track each task's time in a simple inobtrusive way"
+summary: "Track each task&#39;s time in a simple inobtrusive way"
 developer: "Lains"
 homepage: https://github.com/lainsce/khronos/
 help_page: false
@@ -42,8 +42,7 @@ releases:
       <li>First stable release</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.khronos.desktop/
+redirect_from: /com.github.lainsce.khronos.desktop/
 ---
 
 <p>Start tracking any task&apos;s &quot;during&quot; time and start &amp; stop as you go, with notifications.</p>

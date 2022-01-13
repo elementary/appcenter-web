@@ -85,8 +85,7 @@ releases:
       <li>First release!</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.beemy.desktop/
+redirect_from: /com.github.lainsce.beemy.desktop/
 ---
 
 <p>A cute little Body Mass Index calculator for health tracking purposes</p>

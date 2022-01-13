@@ -118,8 +118,7 @@ releases:
   unix-timestamp: 1541548800
   description: |-
     <p>Hello Juno!</p>
-redirect_from:
-  - /com.github.torikulhabib.mindi.desktop/
+redirect_from: /com.github.torikulhabib.mindi.desktop/
 ---
 
 <p>Option to quickly convert to audio.</p>

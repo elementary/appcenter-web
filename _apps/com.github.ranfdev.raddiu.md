@@ -23,8 +23,7 @@ releases:
   unix-timestamp: 1556409600
 - version: 1.0.8
   unix-timestamp: 1554508800
-redirect_from:
-  - /com.github.ranfdev.raddiu.desktop/
+redirect_from: /com.github.ranfdev.raddiu.desktop/
 ---
 
 <p>Listen to web radios from all around the world.

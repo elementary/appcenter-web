@@ -1,7 +1,8 @@
 require 'zlib'
 require 'yaml'
-require "uri"
-require "open-uri"
+require 'uri'
+require 'open-uri'
+require 'cgi'
 
 ########
 # ODIN #
@@ -31,8 +32,7 @@ color:
 price: ((price))
 releases:
 ((releases))
-redirect_from:
-  - /((package)).desktop/
+redirect_from: ((redirect))
 ---
 
 ((description))'
@@ -44,13 +44,13 @@ YAML.load_stream(componentsData) do |doc|
 
   appFile = template.dup
 
-  title = doc['Name']['C']
+  title = CGI.escapeHTML(doc['Name']['C'])
   appFile.sub!('((title))', title)
 
-  appFile.sub!('((summary))', doc['Summary']['C'])
+  appFile.sub!('((summary))', CGI.escapeHTML(doc['Summary']['C']))
 
   if not doc['DeveloperName'].nil?
-    dev = doc['DeveloperName']['C']
+    dev = CGI.escapeHTML(doc['DeveloperName']['C'])
   else
     dev = title + " Developers"
   end
@@ -62,8 +62,10 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((description))', description)
 
-  appFile.sub!('((package))', doc['Package'])
-  appFile.sub!('((id))', doc['ID'])
+  id = doc['ID'].sub(/\.desktop$/, '')
+  puts "  id: #{id}"
+  appFile.sub!('((id))', id)
+  appFile.sub!('((redirect))', "/" + id + ".desktop/")
 
   extends = "false"
   if not doc['Extends'].nil?
@@ -157,7 +159,7 @@ YAML.load_stream(componentsData) do |doc|
   end
   appFile.sub!('((releases))', releases.rstrip)
 
-  File.open("_apps/#{doc['ID']}.md", "w+") do |file|
+  File.open("_apps/#{id}.md", "w+") do |file|
     file.write(appFile)
   end
 end

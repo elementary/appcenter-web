@@ -21,7 +21,6 @@ releases:
   unix-timestamp: 1626393600
   description: |-
     <p>Initial Release</p>
-redirect_from:
-  - /wingpanel-indicator-a11y.desktop/
+redirect_from: /io.elementary.wingpanel.a11y.desktop/
 ---
 

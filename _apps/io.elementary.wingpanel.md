@@ -133,8 +133,7 @@ releases:
     <p>Fix focus on dialogs launched from the panel</p>
 
     <p>Updated translations</p>
-redirect_from:
-  - /io.elementary.wingpanel.desktop/
+redirect_from: /io.elementary.wingpanel.desktop/
 ---
 
 <p>The extensible top panel for Pantheon. Wingpanel is an empty container that accepts indicators as extensions, including the applications menu.</p>

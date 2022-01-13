@@ -85,7 +85,6 @@ releases:
   unix-timestamp: 1585267200
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /wingpanel-indicator-power.desktop/
+redirect_from: /io.elementary.wingpanel.power.desktop/
 ---
 

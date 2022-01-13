@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/pinit/main/data/screenshots/pantheon/screenshot-welcome-view.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.pinit.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.pinit.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.pinit.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.pinit.png
 color:
   primary: "#28bca3"
   primary-text: "#1a1a1a"

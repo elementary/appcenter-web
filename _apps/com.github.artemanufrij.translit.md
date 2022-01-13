@@ -78,8 +78,7 @@ releases:
       <li>Set default language after installing app</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.translit.desktop/
+redirect_from: /com.github.artemanufrij.translit.desktop/
 ---
 
 <p>The term is derived from transliteration, the system of replacing letters of one alphabet with letters of another</p>

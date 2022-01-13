@@ -673,8 +673,7 @@ releases:
   unix-timestamp: 1546905600
   description: |-
     <p>Initial release for AppCenter</p>
-redirect_from:
-  - /com.github.cassidyjames.ephemeral.desktop/
+redirect_from: /com.github.cassidyjames.ephemeral.desktop/
 ---
 
 <p>Browse the Internet in private without leaving a trace of history on your computer. Ephemeral is a stripped down private browser that&apos;s perfect for avoiding persistent cookies or web trackers. Close the window and all traces of your browsing are removed from your device.</p>

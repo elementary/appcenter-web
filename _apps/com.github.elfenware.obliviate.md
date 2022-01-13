@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/obliviate/main/data/window-screenshot.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.elfenware.obliviate.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.elfenware.obliviate.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.elfenware.obliviate.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.elfenware.obliviate.png
 color:
   primary: "#fff"
   primary-text: "#333"

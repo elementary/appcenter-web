@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ztefn/haguichi/elementary/data/screenshots/1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ztefn.haguichi.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ztefn.haguichi.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ztefn.haguichi.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ztefn.haguichi.png
 color:
   primary: "#FFE6D6"
   primary-text: "#D60000"

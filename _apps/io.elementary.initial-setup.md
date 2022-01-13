@@ -65,8 +65,7 @@ releases:
   unix-timestamp: 1569456000
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /io.elementary.initial-setup.desktop/
+redirect_from: /io.elementary.initial-setup.desktop/
 ---
 
 <p>Assists with essential tasks before a fresh install is usable, like choosing a language and creating a user account.</p>

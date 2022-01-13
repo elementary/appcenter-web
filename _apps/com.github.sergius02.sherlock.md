@@ -37,8 +37,7 @@ releases:
   unix-timestamp: 1601942400
 - version: 1.0.0
   unix-timestamp: 1577836800
-redirect_from:
-  - /com.github.sergius02.sherlock.desktop/
+redirect_from: /com.github.sergius02.sherlock.desktop/
 ---
 
 <p>With Sherlock you can find information about your current IP or search for public IP addresses information , elementary!</p>

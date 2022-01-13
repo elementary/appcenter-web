@@ -22,8 +22,7 @@ releases:
   unix-timestamp: 1562889600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.ryanafrish7.satellite.desktop/
+redirect_from: /com.github.ryanafrish7.satellite.desktop/
 ---
 
 <p>Satellite is a system monitor which will allow you to monitor your system resources like 

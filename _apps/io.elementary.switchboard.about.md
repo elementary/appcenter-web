@@ -93,7 +93,6 @@ releases:
   unix-timestamp: 1573776000
   description: |-
     <p>Updated translations</p>
-redirect_from:
-  - /switchboard-plug-about.desktop/
+redirect_from: /io.elementary.switchboard.about.desktop/
 ---
 

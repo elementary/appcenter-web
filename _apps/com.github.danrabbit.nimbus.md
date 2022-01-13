@@ -32,8 +32,7 @@ releases:
       <li>Bug fixes and stability improvements</li>
 
     </ul>
-redirect_from:
-  - /com.github.danrabbit.nimbus.desktop/
+redirect_from: /com.github.danrabbit.nimbus.desktop/
 ---
 
 <p>See the current temperature and weather conditions for your location with this minimal color-changing applet.</p>

@@ -37,8 +37,7 @@ releases:
     homepage for details)</p>
 - version: 0.9
   unix-timestamp: 1495843200
-redirect_from:
-  - /com.github.babluboy.nutty.desktop/
+redirect_from: /com.github.babluboy.nutty.desktop/
 ---
 
 <p>Nutty provides an intuitive user interface for some commonly used network related command line tools.</p>

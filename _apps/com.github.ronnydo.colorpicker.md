@@ -199,8 +199,7 @@ releases:
     </ul>
 - version: 1.0
   unix-timestamp: 1345939200
-redirect_from:
-  - /com.github.ronnydo.colorpicker.desktop/
+redirect_from: /com.github.ronnydo.colorpicker.desktop/
 ---
 
 <p>One Color Picker to rule them all! No overhelming menus or settings. An easy tool with the features you need.</p>

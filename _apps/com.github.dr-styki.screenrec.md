@@ -99,8 +99,7 @@ releases:
   unix-timestamp: 1586390400
   description: |-
     <p>First release after the fork of the screenrecorder app by Mohammed ALMadhoun</p>
-redirect_from:
-  - /com.github.dr-styki.screenrec.desktop/
+redirect_from: /com.github.dr-styki.screenrec.desktop/
 ---
 
 <p>A simple screen recording tool which was make to work like the elementary OS Screenshot tool.</p>

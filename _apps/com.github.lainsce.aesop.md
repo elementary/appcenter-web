@@ -154,8 +154,7 @@ releases:
       <li>First stable release.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.aesop.desktop/
+redirect_from: /com.github.lainsce.aesop.desktop/
 ---
 
 <p>Open up any of your PDF files and enjoy reading it from the comfort of this application</p>

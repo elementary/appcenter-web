@@ -1,5 +1,5 @@
 ---
-app_id: com.github.georgekap1an.chores.desktop
+app_id: com.github.georgekap1an.chores
 title: "Chores"
 summary: "Keep track of recurring chores"
 developer: "Jonathan Hebert"
@@ -21,8 +21,7 @@ color:
 price: 1
 releases:
 
-redirect_from:
-  - /com.github.georgekap1an.chores.desktop/
+redirect_from: /com.github.georgekap1an.chores.desktop/
 ---
 
 <p>Chores is a simple utility to help track progress on recurring chores.  While it has some overlap with calendars and to-do lists, it is focused on tasks which are required periodically, but aren&apos;t tied to a specific time on a calendar.</p>

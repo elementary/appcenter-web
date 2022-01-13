@@ -255,8 +255,7 @@ releases:
       <li>Fix POTFILES</li>
 
     </ul>
-redirect_from:
-  - /com.github.stsdc.monitor.desktop/
+redirect_from: /com.github.stsdc.monitor.desktop/
 ---
 
 <p>Display usage of system resources, filter and manage processes.</p>

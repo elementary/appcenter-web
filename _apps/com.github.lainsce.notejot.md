@@ -434,8 +434,7 @@ releases:
       <li>The icon now follows the elementary OS icon guidelines.</li>
 
     </ul>
-redirect_from:
-  - /com.github.lainsce.notejot.desktop/
+redirect_from: /com.github.lainsce.notejot.desktop/
 ---
 
 <p>A stupidly-simple sticky notes application for any type of short term notes or ideas.</p>

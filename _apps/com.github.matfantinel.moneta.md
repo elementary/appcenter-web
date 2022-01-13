@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/matfantinel/moneta/master/data/screenshots/Main.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matfantinel.moneta.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matfantinel.moneta.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matfantinel.moneta.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matfantinel.moneta.png
 color:
   primary: "#EAF5D8"
   primary-text: "#206b00"

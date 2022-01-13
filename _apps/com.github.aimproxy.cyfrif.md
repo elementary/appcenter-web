@@ -50,8 +50,7 @@ releases:
   unix-timestamp: 1561593600
   description: |-
     <p>First Stable Release start at `0.1.5`, the others releases are just drafts!</p>
-redirect_from:
-  - /com.github.aimproxy.cyfrif.desktop/
+redirect_from: /com.github.aimproxy.cyfrif.desktop/
 ---
 
 <p>Control your time, set custom work times and pause times to your rhythm!</p>

@@ -260,8 +260,7 @@ releases:
       <li>Minor bug fixes</li>
 
     </ul>
-redirect_from:
-  - /pantheon-photos.desktop/
+redirect_from: /io.elementary.photos.desktop/
 ---
 
 <p>

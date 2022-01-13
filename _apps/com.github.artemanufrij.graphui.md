@@ -178,8 +178,7 @@ releases:
     </ul>
 - version: 0.1.0
   unix-timestamp: 1518652800
-redirect_from:
-  - /com.github.artemanufrij.graphui.desktop/
+redirect_from: /com.github.artemanufrij.graphui.desktop/
 ---
 
 <p>Graph visualization based on graphviz with included a text editor and a preview area</p>

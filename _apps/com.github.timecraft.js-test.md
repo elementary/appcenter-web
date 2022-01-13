@@ -38,8 +38,7 @@ releases:
     </ul>
 - version: 0.1.1
   unix-timestamp: 1573603200
-redirect_from:
-  - /com.github.timecraft.js-test.desktop/
+redirect_from: /com.github.timecraft.js-test.desktop/
 ---
 
 <p>A tool to run some JavaScript.</p>

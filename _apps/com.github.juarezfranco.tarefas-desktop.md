@@ -22,8 +22,7 @@ releases:
   unix-timestamp: 1567468800
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.juarezfranco.tarefas-desktop.desktop/
+redirect_from: /com.github.juarezfranco.tarefas-desktop.desktop/
 ---
 
 <p>Ideal for managing daily tasks, simple and objective.</p>

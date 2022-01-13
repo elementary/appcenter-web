@@ -112,8 +112,7 @@ releases:
       <li>Format devices to ext4, FAT32 or NTFS</li>
 
     </ul>
-redirect_from:
-  - /com.github.djaler.formatter.desktop/
+redirect_from: /com.github.djaler.formatter.desktop/
 ---
 
 <p>Format your removable devices like usb disk or sd card</p>

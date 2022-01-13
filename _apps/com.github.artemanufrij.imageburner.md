@@ -1,7 +1,7 @@
 ---
 app_id: com.github.artemanufrij.imageburner
 title: "Image Burner"
-summary: "Inspired by Etcher's UI"
+summary: "Inspired by Etcher&#39;s UI"
 developer: "Artem Anufrij"
 homepage: https://artemanufrij.github.io
 help_page: https://github.com/artemanufrij/imageburner/issues
@@ -186,8 +186,7 @@ releases:
       <li>French (by nvivant)</li>
 
     </ul>
-redirect_from:
-  - /com.github.artemanufrij.imageburner.desktop/
+redirect_from: /com.github.artemanufrij.imageburner.desktop/
 ---
 
 <p>Burn images (as example: .iso or .img) to removable devices like usb disk or sd card</p>

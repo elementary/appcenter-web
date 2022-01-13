@@ -1,7 +1,7 @@
 ---
 app_id: com.github.bcedu.shutdownscheduler
 title: "Shutdown Scheduler"
-summary: "Schedule your computer's shutdown easily"
+summary: "Schedule your computer&#39;s shutdown easily"
 developer: "Eduard Berloso Clarà"
 homepage: https://github.com/bcedu/ShutdownScheduler
 help_page: https://github.com/bcedu/ShutdownScheduler/issues
@@ -124,8 +124,7 @@ releases:
       <li>Cancel the scheduled shutdown with just a button</li>
 
     </ul>
-redirect_from:
-  - /com.github.bcedu.shutdownscheduler.desktop/
+redirect_from: /com.github.bcedu.shutdownscheduler.desktop/
 ---
 
 <p>ShutdownSheduler is an extremely simple program used to shutdown the computer in a specific date time. It provides a simple and clear interface to shedule the shutdown.</p>

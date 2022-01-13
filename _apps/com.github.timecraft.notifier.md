@@ -51,8 +51,7 @@ releases:
       <li>Please note that this will require a restart</li>
 
     </ul>
-redirect_from:
-  - /com.github.timecraft.notifier.desktop/
+redirect_from: /com.github.timecraft.notifier.desktop/
 ---
 
 <p>Get notified of what to do and when to do it. Reminders as you expect them, where you expect them.</p>

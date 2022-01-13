@@ -171,8 +171,7 @@ releases:
   unix-timestamp: 1543881600
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.naaando.lyrics.desktop/
+redirect_from: /com.github.naaando.lyrics.desktop/
 ---
 
 <p>Lyrics is an application that displays lyrics for songs you are listening

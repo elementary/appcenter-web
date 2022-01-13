@@ -1,5 +1,5 @@
 ---
-app_id: com.github.thejambi.psnotes.desktop
+app_id: com.github.thejambi.psnotes
 title: "P.S. Notes."
 summary: "Notes, plain and simple."
 developer: "Zach Burnham"
@@ -19,8 +19,7 @@ color:
 price: 1
 releases:
 
-redirect_from:
-  - /com.github.thejambi.psnotes.desktop/
+redirect_from: /com.github.thejambi.psnotes.desktop/
 ---
 
 <p>Note-taking and writing app designed to work with minimal plain-text mobile apps.</p>

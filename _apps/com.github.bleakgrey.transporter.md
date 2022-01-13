@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bleakgrey.transporter.desktop
+app_id: com.github.bleakgrey.transporter
 title: "Transporter"
 summary: "Hassle-free file sharing"
 developer: "bleak_grey"
@@ -112,8 +112,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bleakgrey.transporter.desktop/
+redirect_from: /com.github.bleakgrey.transporter.desktop/
 ---
 
 <p>Share your files between computers, fast and safe.</p>

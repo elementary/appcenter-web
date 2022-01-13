@@ -39,8 +39,7 @@ releases:
       <li>First release</li>
 
     </ul>
-redirect_from:
-  - /com.github.bartzaalberg.python-tester.desktop/
+redirect_from: /com.github.bartzaalberg.python-tester.desktop/
 ---
 
 <p>A simple tool to test your Python code.</p>

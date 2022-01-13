@@ -19,8 +19,7 @@ color:
 price: false
 releases:
 
-redirect_from:
-  - /com.github.mirkobrombin.football.desktop/
+redirect_from: /com.github.mirkobrombin.football.desktop/
 ---
 
 <p>An application for tracking Football scores.</p>

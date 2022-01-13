@@ -101,7 +101,6 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard-plug-sound.desktop/
+redirect_from: /io.elementary.switchboard.sound.desktop/
 ---
 

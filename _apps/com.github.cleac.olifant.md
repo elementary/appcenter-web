@@ -107,8 +107,7 @@ releases:
       <li>Initial release</li>
 
     </ul>
-redirect_from:
-  - /com.github.cleac.olifant.desktop/
+redirect_from: /com.github.cleac.olifant.desktop/
 ---
 
 <p>Olifant is a client for the world’s largest free, open-source, decentralized microblogging network with real-time notifications and support for multiple accounts.</p>

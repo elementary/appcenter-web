@@ -1,5 +1,5 @@
 ---
-app_id: com.github.bitseater.weather.desktop
+app_id: com.github.bitseater.weather
 title: "Meteo"
 summary: "Know the forecast of the next hours and days with data and maps"
 developer: "Carlos Suárez"
@@ -41,8 +41,7 @@ releases:
                         Change wind speed units</p>
 
     <p>Fixed issues: #72 #74 #80 #81 #82 #83 #84 #85 #86 #87 #88</p>
-redirect_from:
-  - /com.github.bitseater.weather.desktop/
+redirect_from: /com.github.bitseater.weather.desktop/
 ---
 
 <p>Current weather, with information about temperature, pressure,

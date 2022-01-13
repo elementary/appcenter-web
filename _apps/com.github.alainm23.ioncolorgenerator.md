@@ -24,8 +24,7 @@ releases:
   unix-timestamp: 1565308800
   description: |-
     <p>Initial release</p>
-redirect_from:
-  - /com.github.alainm23.ioncolorgenerator.desktop/
+redirect_from: /com.github.alainm23.ioncolorgenerator.desktop/
 ---
 
 <p>Fast and easy. Just enter a color, copy and paste into your Ionic project</p>

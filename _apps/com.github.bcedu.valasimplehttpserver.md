@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/bcedu/ValaSimpleHTTPServer/master/data/imgs/init.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bcedu.valasimplehttpserver.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bcedu.valasimplehttpserver.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.bcedu.valasimplehttpserver.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.bcedu.valasimplehttpserver.png
 color:
   primary: "#56A9E3"
   primary-text: "rgb(0,0,0)"

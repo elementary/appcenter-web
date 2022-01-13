@@ -66,8 +66,7 @@ releases:
       <li>The close button was removed</li>
 
     </ul>
-redirect_from:
-  - /com.github.kmal-kenneth.monilet.desktop/
+redirect_from: /com.github.kmal-kenneth.monilet.desktop/
 ---
 
 <p>See percentage of use your CPU and number of cores. Also percentage used memory, amount of memory used and total memory.</p>

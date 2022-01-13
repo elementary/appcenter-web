@@ -270,8 +270,7 @@ releases:
       <li>The presentations you make will appear on the welcome screen for easy access to them!</li>
 
     </ul>
-redirect_from:
-  - /com.github.philip-scott.spice-up.desktop/
+redirect_from: /com.github.philip-scott.spice-up.desktop/
 ---
 
 <p>Create presentations that stand out! Spice-Up has everything you need to create simple and beautiful presentations. Get your ideas across with beautiful designed templates, or start from scratch with a blank canvas. Either way, you will add some spice to your presentations with a wide variety of background patterns and a beautiful color palette.</p>

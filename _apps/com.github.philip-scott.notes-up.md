@@ -156,8 +156,7 @@ releases:
       <li>Make sure to load all plugins</li>
 
     </ul>
-redirect_from:
-  - /com.github.philip-scott.notes-up.desktop/
+redirect_from: /com.github.philip-scott.notes-up.desktop/
 ---
 
 <p>The intuitive writing app for everyone, from students to developers!</p>

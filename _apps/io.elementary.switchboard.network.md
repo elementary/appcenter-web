@@ -123,7 +123,6 @@ releases:
       <li>Updated translations</li>
 
     </ul>
-redirect_from:
-  - /switchboard-plug-networking.desktop/
+redirect_from: /io.elementary.switchboard.network.desktop/
 ---
 
