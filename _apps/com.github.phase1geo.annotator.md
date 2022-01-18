@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#007367"
   primary-text: "#ffffff"
-price: false
+price: 10
 releases:
 
 redirect_from: /com.github.phase1geo.annotator.desktop/
