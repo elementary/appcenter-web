@@ -24,7 +24,7 @@ redirect_from: /com.github.peteruithoven.resizer.desktop/
 <p>A simple image resizer that resizes one or more images.</p>
 <p>Features:</p>
 <ul>
-<li>Open images with Resizer or open Reizer and Drag and drop images</li>
+<li>Open images with Resizer or open Resizer and Drag and drop images</li>
 <li>Maintains aspect ratio.</li>
 <li>Keyboard control: Change the sizes using the up and down keys, press enter to resize.</li>
 <li>Settings are stored for next time.</li>
