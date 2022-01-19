@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/skarva/lockbox/master/data/screenshot1.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.skarva.lockbox.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.skarva.lockbox.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.skarva.lockbox.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.skarva.lockbox.png
 color:
   primary: "#667885"
   primary-text: "rgb(255, 255, 255)"
