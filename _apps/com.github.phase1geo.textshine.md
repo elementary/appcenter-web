@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#fff394"
   primary-text: "#000000"
-price: false
+price: 5
 releases:
 
 redirect_from: /com.github.phase1geo.textshine.desktop/
@@ -32,8 +32,9 @@ redirect_from: /com.github.phase1geo.textshine.desktop/
 <li>Support for action favoriting.</li>
 <li>Support for creating and testing custom actions.</li>
 <li>Quickly search available text actions.</li>
-<li>Character, word, line and match statistics.</li>
+<li>Character, word, line, match and spelling error statistics.</li>
 <li>Support for font size changes.</li>
+<li>Built-in spell checker.</li>
 <li>Categorized text actions which include:</li>
 <li>Action: Changing case</li>
 <li>Action: Inserting text, line numbers, lorem ipsum and file contents</li>
@@ -45,5 +46,6 @@ redirect_from: /com.github.phase1geo.textshine.desktop/
 <li>Action: Search and replace (includes regular expression support)</li>
 <li>Action: Automatic text repair</li>
 <li>Action: Text conversion</li>
+<li>Action: MD5, SHA-1/256/384/512 encoding and Base64 encoding/decoding</li>
 <li>Action: Markdown utilities</li>
 </ul>
