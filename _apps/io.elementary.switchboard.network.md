@@ -19,6 +19,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.2
+  unix-timestamp: 1642982400
+  description: |-
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Fix an issue with wired connections repeatedly reconnecting</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.1
   unix-timestamp: 1631059200
   description: |-
