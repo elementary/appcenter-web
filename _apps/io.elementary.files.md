@@ -19,6 +19,36 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.2
+  unix-timestamp: 1642982400
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Show New Tab and New Window shortcuts in context menus</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Double click selects instead of exiting while renaming in list view</li>
+
+      <li>Show public share icon in breadcrumbs</li>
+
+      <li>Prevent a crash when dragging to re-arrange bookmarks</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.1
   unix-timestamp: 1639008000
   description: |-
@@ -172,7 +202,7 @@ releases:
 
       <li>Fix renaming bookmarks in the sidebar</li>
 
-      <li>FIx an issue with showing color tags when thumbnails are hidden</li>
+      <li>Fix an issue with showing color tags when thumbnails are hidden</li>
 
     </ul>
 
@@ -240,7 +270,7 @@ releases:
 
       <li>Do not restore locations that have become inaccessible</li>
 
-      <li>Clicking between thumbnail and text now activates/selects in Icon view</li>
+      <li>Clicking between thumbnail and text now activates/selects in Grid view</li>
 
       <li>AFC protocol support</li>
 
@@ -530,7 +560,7 @@ releases:
   description: |-
     <ul>
 
-      <li>Keyboard navigation fix for cherry picking select files in icon view</li>
+      <li>Keyboard navigation fix for cherry picking select files in Grid view</li>
 
       <li>Don't hardcode search placeholder text style, fixes dark theme issue</li>
 
