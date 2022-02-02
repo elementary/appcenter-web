@@ -19,6 +19,28 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.7.4
+  unix-timestamp: 1643587200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Photos taken on the same day show under the same event</li>
+
+      <li>Replace all instances of "Shotwell" with "Photos"</li>
+
+      <li>Avoid a crash when importing videos</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 2.7.3
   unix-timestamp: 1635206400
   description: |-
