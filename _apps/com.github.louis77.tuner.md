@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#FE9AB8"
   primary-text: "#000"
-price: 0
+price: 5
 releases:
 
 redirect_from: /com.github.louis77.tuner.desktop/

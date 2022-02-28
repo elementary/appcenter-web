@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/matthiasjg/trimirjournal/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/matthiasjg/trimirjournal/master/data/screenshots/welcome.png
+  - https://raw.githubusercontent.com/matthiasjg/trimirjournal/master/data/screenshots/de/light-and-dark.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.matthiasjg.trimirjournal.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.matthiasjg.trimirjournal.png
