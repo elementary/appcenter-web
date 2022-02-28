@@ -2,13 +2,13 @@
 app_id: com.github.tenderowl.norka
 title: "Norka"
 summary: "Continuous text editor"
-developer: "Andrey Maksimov"
-homepage: https://tenderowl.com/work/norka
+developer: "Tender Owl"
+homepage: https://norka.app/
 help_page: false
 bugtracker: https://github.com/tenderowl/norka/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/tenderowl/norka/master/data/screenshots/app_screenshot_1.png
+  - https://raw.githubusercontent.com/tenderowl/norka/master/data/screenshots/norka-editor.png
 icons:
   '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.tenderowl.norka.png
   '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.tenderowl.norka.png
