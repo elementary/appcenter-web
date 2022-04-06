@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phoneybadger/trimmer/main/data/screenshots/screenshot-trim.png
 icons:
-  '64': https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phoneybadger.trimmer.png
-  '128': https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phoneybadger.trimmer.png
+  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phoneybadger.trimmer.png
+  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phoneybadger.trimmer.png
 color:
   primary: "#3689e6"
   primary-text: "#1a1a1a"
