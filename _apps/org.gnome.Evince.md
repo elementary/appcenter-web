@@ -1,14 +1,14 @@
 ---
 app_id: org.gnome.Evince
-title: "Evince"
+title: "Document Viewer"
 summary: "Document viewer for popular document formats"
-developer: "Evince Developers"
+developer: "Document Viewer Developers"
 homepage: https://wiki.gnome.org/Apps/Evince
 help_page: false
 bugtracker: https://wiki.gnome.org/Apps/Evince/ReportingBugs
 dist: flatpak
 screenshots:
-  - https://gitlab.gnome.org/GNOME/evince/raw/gnome-41/data/screenshots/evince-1.png
+  - https://gitlab.gnome.org/GNOME/evince/raw/main/data/screenshots/evince-1.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/org.gnome.Evince.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/org.gnome.Evince.png
