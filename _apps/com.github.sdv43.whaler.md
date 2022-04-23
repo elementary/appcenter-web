@@ -3,9 +3,9 @@ app_id: com.github.sdv43.whaler
 title: "Whaler"
 summary: "Docker Container Management"
 developer: "Selivestrov Dmitriy"
-homepage: false
+homepage: https://github.com/sdv43/whaler
 help_page: false
-bugtracker: false
+bugtracker: https://github.com/sdv43/whaler/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/sdv43/whaler/master/data/images/screenshots/screenshot-1.png
