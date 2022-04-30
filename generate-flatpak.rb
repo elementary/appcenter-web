@@ -21,6 +21,7 @@ summary: "((summary))"
 developer: "((dev))"
 homepage: ((site))
 help_page: ((help))
+source_code: ((vcs))
 bugtracker: ((bugtracker))
 dist: flatpak
 screenshots:
@@ -81,6 +82,13 @@ componentsData.css("components component").each do | component |
     help = url_help.content
   end
   appFile.sub!('((help))', help)
+
+  vcs = "false"
+  vcs_url = component.at_css('url[type="vcs-browser]')
+  if not vcs_url.nil?
+    vcs = vcs_url.content
+  end
+  appFile.sub!('((vcs))', vcs)
 
   bugtracker = "false"
   url_bugtracker = component.at_css('url[type="bugtracker"]')
