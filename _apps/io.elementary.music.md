@@ -1,7 +1,7 @@
 ---
 app_id: io.elementary.music
 title: "Music"
-summary: "The official elementary music player"
+summary: "Queue and play local audio files"
 developer: "elementary, Inc."
 homepage: https://elementary.io/
 help_page: https://github.com/elementary/music/discussions
@@ -21,4 +21,4 @@ releases:
 redirect_from: /io.elementary.music.desktop/
 ---
 
-<p>Music is a fast and beautiful audio player with a focus on music and libraries. It handles external devices and album art.</p>
+<p>Quickly queue up and listen to your local music files without any extra frills. See embedded album artwork. Control playback with media keys or in the system audio indicator.</p>
