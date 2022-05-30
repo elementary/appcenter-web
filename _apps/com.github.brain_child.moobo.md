@@ -21,5 +21,5 @@ releases:
 redirect_from: /com.github.brain_child.moobo.desktop/
 ---
 
-<p>Visualize your ideas on moodboards. Use different widgets which you can and drag, stack, scale or color.</p>
-<p>⚠ NOTE: The potential of this app has not yet been reached. At the moment, the program is considered as proof of concept. Unexpected behavior may occur.</p>
+<p>Use different widgets to visualize your thoughts.</p>
+<p>⚠ NOTE: The app is not finished. At this point, consider Moobo as proof of concept.</p>
