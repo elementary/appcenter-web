@@ -15,7 +15,7 @@ icons:
 color:
   primary: "#FAFAFA"
   primary-text: "#333333"
-price: false
+price: 2
 releases:
 
 redirect_from: /com.github.phoneybadger.picker.desktop/
