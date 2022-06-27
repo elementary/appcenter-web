@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/antolius/sage/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/antolius/sage/1.0.1/data/screenshots/classic.png
+  - https://raw.githubusercontent.com/antolius/sage/1.0.2/data/screenshots/classic.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/hr.from.josipantolis.sage.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/hr.from.josipantolis.sage.png
