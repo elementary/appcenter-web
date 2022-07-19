@@ -19,6 +19,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.3
+  unix-timestamp: 1656720000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Show correct info for WPA3 networks</li>
+
+    </ul>
+
+    <p>Minor updates</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.2
   unix-timestamp: 1642982400
   description: |-

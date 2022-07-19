@@ -19,8 +19,36 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.2
+  unix-timestamp: 1652659200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Switch tabs with Alt + 1-9</li>
+
+      <li>Quit with Ctrl + Shift + Q</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix build on OS 7</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Translation updates</li>
+
+    </ul>
 - version: 6.0.1
-  unix-timestamp: 1607817600
+  unix-timestamp: 1639353600
   description: |-
     <p>Fixes:</p>
 

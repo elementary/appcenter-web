@@ -7,18 +7,36 @@ title: "System Settings"
 summary: "Change system and user settings"
 developer: "elementary, Inc."
 homepage: https://elementary.io/
-help_page: https://elementaryos.stackexchange.com/questions/tagged/settings
+help_page: https://github.com/elementary/switchboard/discussions/categories/q-a
 bugtracker: false
 dist: odin
 icons:
-  "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard_preferences-desktop.png
-  "128": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/128x128/switchboard_preferences-desktop.png
-  "64@2": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64@2/switchboard_preferences-desktop.png
+  "64": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64/switchboard_io.elementary.switchboard.png
+  "128": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/128x128/switchboard_io.elementary.switchboard.png
+  "64@2": https://github.com/elementary/appstream-data/raw/master/pantheon-data/main/icons/64x64@2/switchboard_io.elementary.switchboard.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.0.2
+  unix-timestamp: 1654732800
+  description: |-
+    <ul>
+
+      <li>Bundle app icon</li>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 6.0.1
+  unix-timestamp: 1651536000
+  description: |-
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.0
   unix-timestamp: 1626134400
   description: |-
@@ -28,7 +46,7 @@ releases:
 
       <li>Better support smaller displays</li>
 
-      <li>Remove old GNOME Control Center compatability layer</li>
+      <li>Remove old GNOME Control Center compatibility layer</li>
 
       <li>Stability and performance improvements</li>
 

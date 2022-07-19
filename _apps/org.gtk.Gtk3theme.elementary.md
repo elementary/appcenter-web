@@ -17,6 +17,28 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 7.0.0
+  unix-timestamp: 1650412800
+  description: |-
+    <p>New Features:</p>
+
+    <ul>
+
+      <li>Support for Gtk4</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Fix titlebar in GNOME Web 42</li>
+
+      <li>Fix font style for bold labels in some languages</li>
+
+      <li>ModelButtons: add margin between checks, radios, and labels</li>
+
+    </ul>
 - version: 6.1.1
   unix-timestamp: 1637625600
   description: |-

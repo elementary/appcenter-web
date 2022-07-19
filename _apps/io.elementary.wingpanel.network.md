@@ -19,6 +19,28 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.3
+  unix-timestamp: 1656547200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Ensure correct tooltip on system start</li>
+
+      <li>Prevent connecting to invalid VPNs</li>
+
+      <li>Show correct info for WPA3 networks</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.2
   unix-timestamp: 1637625600
   description: |-
@@ -44,7 +66,7 @@ releases:
 
     <ul>
 
-      <li>Don't launch Captive Network Assistent with full connectivity</li>
+      <li>Don't launch Captive Network Assistant with full connectivity</li>
 
     </ul>
 

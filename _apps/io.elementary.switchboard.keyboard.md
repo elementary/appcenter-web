@@ -17,6 +17,24 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.7.0
+  unix-timestamp: 1649203200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Open Multitasking View with Super</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.6.0
   unix-timestamp: 1637625600
   description: |-

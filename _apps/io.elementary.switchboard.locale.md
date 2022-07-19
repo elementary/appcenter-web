@@ -17,6 +17,34 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.5.8
+  unix-timestamp: 1652313600
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Translate authentication dialog description text</li>
+
+    </ul>
+- version: 2.5.7
+  unix-timestamp: 1649721600
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Central Kurdish is now available as an installable language</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Support installation and removal of languages with 3-letter codes</li>
+
+    </ul>
 - version: 2.5.6
   unix-timestamp: 1637193600
   description: |-

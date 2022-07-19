@@ -19,6 +19,64 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.4
+  unix-timestamp: 1655424000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>A regression in zooming out using Ctrl + ScrollDown is fixed</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
+- version: 6.1.3
+  unix-timestamp: 1655424000
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Renaming with the same name no longer shows an error dialog</li>
+
+      <li>Ctrl + A when renaming now selects all the text in the entry</li>
+
+      <li>Selecting multiple items with Shift + Arrow keys now works properly</li>
+
+      <li>The appearance of the cursor now matches the action</li>
+
+      <li>The Trash sidebar item can no longer be removed</li>
+
+      <li>Network sidebar plugins such as NextCloud are now added correctly</li>
+
+      <li>Duplication of subfolders in ListView under some circumstances is fixed</li>
+
+      <li>Bookmarks are now highlighted when a file they can accept is dragged onto them</li>
+
+      <li>Folders not being restored properly under some circumstances is fixed</li>
+
+      <li>Show confirmation dialog in file chooser before overwriting an existing file</li>
+
+      <li>Ctrl + V now always pastes into background folder</li>
+
+      <li>Shift + Ctrl + V now pastes into selected folder if there is one</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.2
   unix-timestamp: 1642982400
   description: |-

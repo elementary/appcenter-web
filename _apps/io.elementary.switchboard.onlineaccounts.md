@@ -19,6 +19,34 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.5.0
+  unix-timestamp: 1652659200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Added offline support for CalDAV accounts</li>
+
+    </ul>
+- version: 6.4.0
+  unix-timestamp: 1649203200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Choose refresh rate for IMAP</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.3.0
   unix-timestamp: 1639353600
   description: |-

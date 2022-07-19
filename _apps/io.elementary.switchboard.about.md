@@ -19,6 +19,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1649203200
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Added support for dark style manufacturer logos</li>
+
+      <li>Added support for offline firmware updates</li>
+
+    </ul>
+
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.0.1
   unix-timestamp: 1629676800
   description: |-

@@ -17,6 +17,36 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.3.1
+  unix-timestamp: 1649203200
+  description: |-
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Properly update accent color in the window switcher</li>
+
+      <li>Fix selecting windows underneath the window switcher</li>
+
+      <li>Prevent potential crashes</li>
+
+      <li>Resize workspaces when displays change</li>
+
+      <li>Handle windows with no title</li>
+
+    </ul>
+
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Use access portal for display settings confirmation and force quit</li>
+
+      <li>Allow closing multitasking view with Super</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.3.0
   unix-timestamp: 1637625600
   description: |-

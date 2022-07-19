@@ -17,6 +17,26 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.2.0
+  unix-timestamp: 1656720000
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Set custom Terminal commands for each hotcorner</li>
+
+      <li>Redesigned Appearance and Multitasking views</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.1.0
   unix-timestamp: 1637625600
   description: |-

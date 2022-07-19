@@ -17,6 +17,20 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.1
+  unix-timestamp: 1649203200
+  description: |-
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Provide a fallback device icon in case none is available</li>
+
+      <li>More helpful placeholder text when no input devices are found</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.0
   unix-timestamp: 1637625600
   description: |-
