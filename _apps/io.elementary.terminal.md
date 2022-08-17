@@ -19,6 +19,36 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.1.0
+  unix-timestamp: 1660176000
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>Option to follow system dark style preference</li>
+
+      <li>Create a custom color palette</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Default styles are fully opaque and updated to the latest upstream values from Solarized for improved legibility</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Translation updates</li>
+
+      <li>Performance improvements</li>
+
+    </ul>
 - version: 6.0.2
   unix-timestamp: 1652659200
   description: |-
