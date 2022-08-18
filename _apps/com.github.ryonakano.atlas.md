@@ -2,7 +2,7 @@
 app_id: com.github.ryonakano.atlas
 title: "Atlas"
 summary: "View where to go"
-developer: "Atlas Developers"
+developer: "Ryo Nakano"
 homepage: https://github.com/ryonakano/atlas
 help_page: https://github.com/ryonakano/atlas/issues
 bugtracker: https://github.com/ryonakano/atlas/issues
