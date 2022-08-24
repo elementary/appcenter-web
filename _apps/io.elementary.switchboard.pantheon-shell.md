@@ -17,6 +17,42 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 6.3.0
+  unix-timestamp: 1660521600
+  description: |-
+    <p>New features:</p>
+
+    <ul>
+
+      <li>There is now an undo option after removing a wallpaper</li>
+
+      <li>Wallpapers are now sorted with custom wallpapers first</li>
+
+    </ul>
+
+    <p>Fixes:</p>
+
+    <ul>
+
+      <li>Wallpaper accent color follows system setting</li>
+
+      <li>Set-wallpaper contract fails gracefully when run as sudo</li>
+
+      <li>Wallpapers with the same name are distinguished</li>
+
+      <li>Switching styles with the keyboard cancels dark style scheduling</li>
+
+      <li>Style dyslexia-friendly switch properly</li>
+
+    </ul>
+
+    <p>Other updates:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 6.2.0
   unix-timestamp: 1656720000
   description: |-
