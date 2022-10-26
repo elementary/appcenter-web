@@ -17,6 +17,16 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.4.3
+  unix-timestamp: 1666224000
+  description: |-
+    <p>Improvements:</p>
+
+    <ul>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.4.2
   unix-timestamp: 1637625600
   description: |-
