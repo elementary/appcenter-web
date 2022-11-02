@@ -17,6 +17,18 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 2.3.2
+  unix-timestamp: 1666742400
+  description: |-
+    <p>Minor updates:</p>
+
+    <ul>
+
+      <li>Use device form factor when available to assign more accurate icons</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 2.3.1
   unix-timestamp: 1649203200
   description: |-

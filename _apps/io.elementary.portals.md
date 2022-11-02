@@ -17,6 +17,17 @@ color:
   primary-text: "#fff"
 price: false
 releases:
+- version: 1.2.0
+  description: |-
+    <p>New Features:</p>
+
+    <ul>
+
+      <li>Support dialog parenting on wayland</li>
+
+      <li>Updated translations</li>
+
+    </ul>
 - version: 1.1.0
   unix-timestamp: 1642982400
   description: |-
