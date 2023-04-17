@@ -19,11 +19,11 @@ color:
       <img width="64" height="64"
         {% for icon in app.icons %}
           {% if icon[0] == "64@2" %}
-            srcset="{{icon[1]}} 2x"
+            srcset="{{ icon[1] | prepend: site.baseurl }} 2x"
           {% elsif icon[0] == "128" %}
-            srcset="{{icon[1]}}"
+            srcset="{{ icon[1] | prepend: site.baseurl }}"
           {% elsif icon[0] == "64" %}
-            srcset="{{icon[1]}}"
+            srcset="{{ icon[1] | prepend: site.baseurl }}"
           {% endif %}
         {% endfor %}
         src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg"
@@ -58,9 +58,9 @@ color:
 <img
 {% for icon in app.icons %}
 {% if icon[0] == "64@2" %}
-srcset="{{icon[1]}} 2x"
+srcset="{{ icon[1] | prepend: site.baseurl }} 2x"
 {% elsif icon[0] == "64" %}
-src="{{icon[1]}}"
+src="{{ icon[1] | prepend: site.baseurl }}"
 {% endif %}
 {% endfor %}
 alt="{{app.title}} icon" />
