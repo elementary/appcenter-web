@@ -9,7 +9,7 @@ require 'cgi'
 ########
 
 # HTTPS doesn't work
-componentsDataGz = open("http://packages.elementary.io/appcenter/dists/bionic/main/dep11/Components-amd64.yml.gz")
+componentsDataGz = URI.open("http://packages.elementary.io/appcenter/dists/bionic/main/dep11/Components-amd64.yml.gz")
 componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
@@ -106,7 +106,7 @@ YAML.load_stream(componentsData) do |doc|
   releaseHash = ""
   unless doc['Screenshots'].nil?
     doc['Screenshots'].each do |screenshot|
-      screenshots += "  - " + URI::encode("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
+      screenshots += "  - " + URI::DEFAULT_PARSER.escape("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
       releaseHash = screenshot['source-image']['url'].split("/")[0..3].join("/") if releaseHash.empty?
     end
   end
@@ -120,7 +120,7 @@ YAML.load_stream(componentsData) do |doc|
       else
         key = icon['height'].to_s
       end
-      icons += "  \"#{key}\": " + URI::encode("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
+      icons += "  \"#{key}\": " + URI::DEFAULT_PARSER.escape("#{mediaBase}/#{releaseHash}/icons/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
     end
   end
   appFile.sub!('((icons))', icons.rstrip)

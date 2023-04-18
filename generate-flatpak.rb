@@ -10,7 +10,7 @@ require 'cgi'
 ###########
 
 # HTTPS doesn't work
-componentsDataGz = open('http://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz')
+componentsDataGz = URI.open('http://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz')
 xmlData = Zlib::GzipReader.new( componentsDataGz ).read
 componentsData = Nokogiri::XML(xmlData)
 

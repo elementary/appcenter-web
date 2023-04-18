@@ -9,7 +9,7 @@ require 'cgi'
 ########
 
 # HTTPS doesn't work
-componentsDataGz = open("http://raw.githubusercontent.com/elementary/appstream-data/master/pantheon-data/main/pantheon_focal-main_amd64.yml.gz")
+componentsDataGz = URI.open("http://raw.githubusercontent.com/elementary/appstream-data/focal/pantheon-data/main/pantheon_focal-main_amd64.yml.gz")
 componentsData = Zlib::GzipReader.new( componentsDataGz ).read
 
 template = '---
@@ -135,7 +135,7 @@ YAML.load_stream(componentsData) do |doc|
       else
         key = icon['height'].to_s
       end
-      icons += "  \"#{key}\": " + URI::encode("#{iconBase}/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
+      icons += "  \"#{key}\": " + URI::DEFAULT_PARSER.escape("#{iconBase}/#{icon['height']}x#{key}/#{icon['name']}") + "\n"
     end
   end
   appFile.sub!('((icons))', icons.rstrip)
