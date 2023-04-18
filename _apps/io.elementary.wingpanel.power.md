@@ -19,28 +19,8 @@ color:
   primary-text: "#fff"
 price: false
 releases:
-- version: 6.2.0
-  unix-timestamp: 1666137600
-  description: |-
-    <p>New features:</p>
-
-    <ul>
-
-      <li>Scroll horizontally on the panel icon to change display brightness</li>
-
-    </ul>
-
-    <p>Minor updates:</p>
-
-    <ul>
-
-      <li>Do a better job hiding the brightness slider on unsupported displays</li>
-
-      <li>Updated translations</li>
-
-    </ul>
 - version: 6.1.0
-  unix-timestamp: 1629676800
+  unix-timestamp: 1598140800
   description: |-
     <p>New features:</p>
 

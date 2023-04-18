@@ -8,13 +8,13 @@ help_page: https://github.com/ryonakano/konbucase/discussions
 bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/konbucase/main/data/screenshots/pantheon/screenshot-light.png
+  - https://raw.githubusercontent.com/ryonakano/konbucase/4.1.0/data/screenshots/pantheon/screenshot-light.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.konbucase.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.konbucase.png
 color:
-  primary: "#fafafa"
-  primary-text: "#000000"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 

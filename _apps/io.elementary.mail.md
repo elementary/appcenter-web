@@ -8,13 +8,13 @@ help_page: https://github.com/elementary/mail/discussions/categories/q-a
 bugtracker: https://github.com/elementary/mail/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/mail/master/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/mail/7.0.1/data/screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.mail.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.mail.png
 color:
-  primary: "#ffe16b"
-  primary-text: "#000"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 

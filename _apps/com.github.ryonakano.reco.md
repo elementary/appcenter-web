@@ -8,13 +8,13 @@ help_page: https://github.com/ryonakano/reco/discussions
 bugtracker: https://github.com/ryonakano/reco/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/reco/main/data/screenshots/pantheon/welcome-init-light.png
+  - https://raw.githubusercontent.com/ryonakano/reco/4.0.1/data/screenshots/pantheon/welcome-init-light.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.reco.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.reco.png
 color:
-  primary: "#a10705"
-  primary-text: "#ffffff"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 

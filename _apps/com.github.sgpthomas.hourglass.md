@@ -8,12 +8,12 @@ help_page: https://github.com/sgpthomas/hourglass/issues
 bugtracker: https://github.com/sgpthomas/hourglass/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/sgpthomas/hourglass/master/data/screenshots/alarm.png
+  - https://raw.githubusercontent.com/sgpthomas/hourglass/3.0.0/data/screenshots/alarm.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.sgpthomas.hourglass.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.sgpthomas.hourglass.png
 color:
-  primary: "#3a9104"
+  primary: "#485a6c"
   primary-text: "#fff"
 price: false
 releases:

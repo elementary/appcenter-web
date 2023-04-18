@@ -1,7 +1,7 @@
 ---
 app_id: org.gnome.Epiphany
 title: "Web"
-summary: "Web browser for GNOME"
+summary: "Browse the web"
 developer: "The GNOME Project"
 homepage: https://wiki.gnome.org/Apps/Web
 help_page: https://help.gnome.org/users/epiphany/stable/
