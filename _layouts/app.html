@@ -22,7 +22,8 @@ layout: default
 
     {% if page.dist == "flatpak" %}
       {% unless page.price %}
-        <a class="button suggested" href="https://flatpak.elementary.io/repo/appstream/{{ page.app_id }}.flatpakref" download="{{ page.title }}.flatpakref">Download as Flatpak</a>
+      <a class="button" href="https://flatpak.elementary.io/repo/appstream/{{ page.app_id }}.flatpakref" download="{{ page.title }}.flatpakref">Download as Flatpak</a>
+      <a class="button suggested" href="appstream://{{ page.app_id }}">Open in AppCenter</a>
       {% endunless %}
     {% endif %}
   </div>
