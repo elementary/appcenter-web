@@ -19,6 +19,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Build
         run: |
@@ -35,10 +37,5 @@ jobs:
             git config --local user.name "GitHub Action"
             git add -A
             git commit -m "Automatic update of data" -a
+            git push
           fi
-
-      - name: Push
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
