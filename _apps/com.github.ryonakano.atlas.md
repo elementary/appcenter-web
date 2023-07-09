@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/atlas/issues
 bugtracker: https://github.com/ryonakano/atlas/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/atlas/2.0.0/data/screenshots/pantheon/screenshot-light.png
+  - https://raw.githubusercontent.com/ryonakano/atlas/3.0.0/data/screenshots/pantheon/screenshot-light.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.atlas.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.atlas.png
