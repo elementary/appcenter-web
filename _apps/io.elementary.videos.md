@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/videos/discussions
 bugtracker: https://github.com/elementary/videos/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/videos/2.9.1/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/videos/3.0.0/data/screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.videos.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.videos.png
