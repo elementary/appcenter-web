@@ -40,7 +40,7 @@ redirect_from: /com.github.phase1geo.minder.desktop/
 <li>Open multiple mindmaps with the use of tabs.</li>
 <li>Built-in and customizable theming.</li>
 <li>Gorgeous animations.</li>
-<li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Outliner, PlantUML, Portable Minder, filesystem, and XMind formats.</li>
+<li>Import from OPML, FreeMind, Freeplane, PlainText (formatted), Markdown, Outliner, PlantUML, Portable Minder, filesystem, and XMind formats.</li>
 <li>Export to CSV, FreeMind, Freeplane, JPEG, BMP, SVG, Markdown, Mermaid, OPML, Org-Mode, Outliner, PDF, PNG, PlainText, PlantUML, Portable Minder, filesystem, XMind and yEd formats.</li>
 <li>Printer support.</li>
 </ul>
