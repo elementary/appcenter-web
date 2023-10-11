@@ -29,5 +29,5 @@ redirect_from: /com.github.rkoesters.xkcd-gtk.desktop/
 <li>Cache comics for later offline viewing</li>
 <li>Dark mode for late night reading</li>
 <li>View comic metadata</li>
-<li>Quickly access comic explainations via the explain xkcd wiki</li>
+<li>Quickly access comic explainations via explainxkcd.com</li>
 </ul>
