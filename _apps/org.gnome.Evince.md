@@ -5,7 +5,7 @@ summary: "Document viewer for popular document formats"
 developer: "Document Viewer Developers"
 homepage: https://wiki.gnome.org/Apps/Evince
 help_page: false
-bugtracker: https://wiki.gnome.org/Apps/Evince/ReportingBugs
+bugtracker: https://gitlab.gnome.org/GNOME/evince/-/issues/new
 dist: flatpak
 screenshots:
   - https://gitlab.gnome.org/GNOME/evince/raw/main/data/screenshots/evince-1.png
