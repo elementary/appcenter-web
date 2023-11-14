@@ -24,9 +24,6 @@ jobs:
 
       - name: Build
         run: |
-          ruby ./generate-loki.rb
-          ruby ./generate-hera.rb
-          ruby ./generate-odin.rb
           ruby ./generate-flatpak.rb
 
       - name: Commit
