@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/louper/discussions
 bugtracker: https://github.com/ryonakano/louper/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/louper/2.0.2/data/Screenshot.png
+  - https://raw.githubusercontent.com/ryonakano/louper/2.0.3/data/Screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.louper.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.louper.png
