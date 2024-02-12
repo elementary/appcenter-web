@@ -29,7 +29,7 @@ redirect_from: /com.github.phase1geo.journaler.desktop/
 <li>Markdown writing support.</li>
 <li>Add images to each journal entry.</li>
 <li>Tagging support.</li>
-<li>Expressive and robust journal entry review features.</li>
+<li>Expressive and robust journal entry review features, including image review mode.</li>
 <li>Fullscreen distraction-free writing and review mode.</li>
 <li>Template support.</li>
 <li>Motivation support with entry length goals, awards, inspirational quotes, and customizations.</li>
