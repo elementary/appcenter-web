@@ -37,15 +37,18 @@ redirect_from: /com.github.phase1geo.textshine.desktop/
 <li>Built-in spell checker.</li>
 <li>Categorized text actions which include:</li>
 <li>Action: Changing case</li>
-<li>Action: Inserting text, line numbers, lorem ipsum and file contents</li>
-<li>Action: Removing line numbers, blank lines/spaces and matched text</li>
+<li>Action: Inserting text, line numbers, lorem ipsum and file/URL contents</li>
+<li>Action: Removing line numbers, duplicate lines, blank lines/spaces and matched text</li>
 <li>Action: Replacement of text</li>
 <li>Action: Quotation conversion</li>
 <li>Action: Line sorting</li>
+<li>Action: Character, word, line, sentence and paragraph randomization</li>
 <li>Action: Indentation handling</li>
 <li>Action: Search and replace (includes regular expression support)</li>
 <li>Action: Automatic text repair</li>
 <li>Action: Text conversion</li>
 <li>Action: MD5, SHA-1/256/384/512 encoding and Base64 encoding/decoding</li>
+<li>Action: URL encoding/decoding</li>
+<li>Action: Hard wrapping</li>
 <li>Action: Markdown utilities</li>
 </ul>
