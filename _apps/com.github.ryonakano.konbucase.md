@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/konbucase/discussions
 bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/konbucase/4.1.1/data/screenshots/pantheon/screenshot-light.png
+  - https://raw.githubusercontent.com/ryonakano/konbucase/4.1.2/data/screenshots/pantheon/screenshot-light.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.konbucase.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.konbucase.png
