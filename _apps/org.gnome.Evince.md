@@ -2,8 +2,8 @@
 app_id: org.gnome.Evince
 title: "Document Viewer"
 summary: "Document viewer for popular document formats"
-developer: "Document Viewer Developers"
-homepage: https://wiki.gnome.org/Apps/Evince
+developer: "The GNOME Project"
+homepage: https://apps.gnome.org/Evince
 help_page: false
 bugtracker: https://gitlab.gnome.org/GNOME/evince/-/issues/new
 dist: flatpak
