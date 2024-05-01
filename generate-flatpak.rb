@@ -52,7 +52,10 @@ componentsData.css("components component").each do | component |
   summary = component.at_css('summary')
   appFile.sub!('((summary))', CGI.escapeHTML(summary.content))
 
-  dev_name = component.at_css('developer_name')
+  new_dev_tag = component.at_css('developer > name')
+  deprecated_dev_tag = component.at_css('developer_name')
+  dev_name = new_dev_tag.nil? ? deprecated_dev_tag : new_dev_tag
+
   if not dev_name.nil?
     developer = CGI.escapeHTML(dev_name.content)
   else
