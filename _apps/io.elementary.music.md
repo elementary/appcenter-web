@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/music/discussions
 bugtracker: https://github.com/elementary/music/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/music/7.1.0/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/music/7.0.0/data/screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.music.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.music.png
