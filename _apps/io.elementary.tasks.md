@@ -2,13 +2,13 @@
 app_id: io.elementary.tasks
 title: "Tasks"
 summary: "Synced tasks and reminders"
-developer: "elementary, Inc."
-homepage: http://elementary.io
-help_page: false
+developer: "Tasks Developers"
+homepage: https://elementary.io/
+help_page: https://github.com/elementary/tasks/discussions/categories/q-a
 bugtracker: https://github.com/elementary/tasks/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/tasks/master/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/tasks/6.3.3/data/screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.tasks.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.tasks.png
