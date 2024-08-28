@@ -7,7 +7,7 @@ require 'cgi'
 
 componentsDataGz = URI.open('https://flatpak.elementary.io/repo/appstream/x86_64/appstream.xml.gz')
 xmlData = Zlib::GzipReader.new( componentsDataGz ).read
-componentsData = Nokogiri::XML(xmlData)
+componentsData = Nokogiri::XML(xmlData,&:noblanks)
 
 template = '---
 app_id: ((id))
@@ -33,11 +33,22 @@ redirect_from: ((redirect))
 
 ((description))'
 
-puts 'about to iterate thru components...'
-componentsData.css("components component").each do | component |
-  next if component.get_attribute("type") != "desktop"
+componentsData.css("components component").each do |component|
+  next unless (component.get_attribute("type") == "desktop" || component.get_attribute("type") == "desktop-application")
 
-  puts "Generating #{component.at_css('name').content}"
+  component.xpath('name[@xml:lang]').each do |name|
+    name.remove
+  end
+
+  component.xpath('summary[@xml:lang]').each do |summary|
+    summary.remove
+  end
+
+  component.xpath('description[@xml:lang]').each do |description|
+    description.remove
+  end
+
+  puts "\nGenerating #{component.at_css('name').content}"
 
   appFile = template.dup
 
@@ -164,3 +175,4 @@ componentsData.css("components component").each do | component |
     file.write(appFile)
   end
 end
+
