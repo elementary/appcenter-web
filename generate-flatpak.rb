@@ -20,8 +20,6 @@ bugtracker: ((bugtracker))
 dist: flatpak
 screenshots:
 ((screenshots))
-icons:
-((icons))
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
@@ -36,7 +34,7 @@ redirect_from: ((redirect))
 componentsData.css("components component").each do |component|
   next unless (component.get_attribute("type") == "desktop" || component.get_attribute("type") == "desktop-application")
 
-  component.xpath('name[@xml:lang]').each do |name|
+component.xpath('name[@xml:lang]').each do |name|
     name.remove
   end
 
@@ -46,6 +44,14 @@ componentsData.css("components component").each do |component|
 
   component.xpath('description[@xml:lang]').each do |description|
     description.remove
+  end
+
+  component.xpath('keyword[@xml:lang]').each do |keyword|
+    keyword.remove
+  end
+
+  component.xpath('caption[@xml:lang]').each do |caption|
+    caption.remove
   end
 
   puts "\nGenerating #{component.at_css('name').content}"
@@ -124,32 +130,9 @@ componentsData.css("components component").each do |component|
   image = component.at_css('image')
   if not image.nil?
     screenshots += '  - ' + image.content + "\n"
-
   end
   # TODO: multiple screenshots
-  # releaseHash = ""
-  # unless doc['Screenshots'].nil?
-  #   doc['Screenshots'].each do |screenshot|
-  #     screenshots += "  - " + URI::encode("#{mediaBase}/#{screenshot['source-image']['url']}") + "\n"
-  #     releaseHash = screenshot['source-image']['url'].split("/")[0..3].join("/") if releaseHash.empty?
-  #   end
-  # end
   appFile.sub!('((screenshots))', screenshots.rstrip)
-
-  icons = ""
-  icon_prefix = "https://flatpak.elementary.io/repo/appstream/x86_64/icons/"
-
-  icon64 = component.at_css('icon[width="64"]')
-  if not icon64.nil?
-    icons += '  "64": ' + icon_prefix + '64x64/' + icon64.content + "\n"
-  end
-
-  icon128 = component.at_css('icon[width="128"]')
-  if not icon128.nil?
-    icons += '  "128": ' + icon_prefix + '128x128/' + icon128.content + "\n"
-  end
-
-  appFile.sub!('((icons))', icons.rstrip)
 
   releases = ""
   # TODO: Releases
