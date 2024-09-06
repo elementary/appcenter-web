@@ -16,18 +16,11 @@ color:
   {% for app in flatpak_apps %}
     {% assign id = app.id | remove: '/' %}
     <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}" tabindex="0">
-      <img width="64" height="64"
-        {% for icon in app.icons %}
-          {% if icon[0] == "64@2" %}
-            srcset="{{icon[1]}} 2x"
-          {% elsif icon[0] == "128" %}
-            srcset="{{icon[1]}}"
-          {% elsif icon[0] == "64" %}
-            srcset="{{icon[1]}}"
-          {% endif %}
-        {% endfor %}
-        src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg"
-      alt="{{app.title}} icon" />
+      <img class="icon" width="64" height="64" loading="lazy"
+        srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ id }}.png"
+        src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/application-default-icon.svg"
+        alt="{{ app.title }} icon"
+      />
 
       <span class="title">{{ app.title }}</span>
       <span class="summary">{{ app.summary }}</span>
