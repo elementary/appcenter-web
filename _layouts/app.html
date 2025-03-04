@@ -5,17 +5,10 @@ layout: default
 <header>
   <div class="constrain">
     <img class="icon" width="64" height="64"
-      {% for icon in page.icons %}
-        {% if icon[0] == "64@2" %}
-          srcset="{{ icon[1] }} 2x"
-        {% elsif icon[0] == "128" %}
-          srcset="{{ icon[1] }}"
-        {% elsif icon[0] == "64" %}
-          srcset="{{ icon[1] }}"
-        {% endif %}
-      {% endfor %}
-      src="https://cdn.rawgit.com/elementary/icons/c048cf1bdf9d7735638c1cfe1eea64831e46c83f/apps/64/application-default-icon.svg"
-    alt="{{ page.title }} icon" />
+      srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ page.app_id }}.png"
+      src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/application-default-icon.svg"
+      alt="{{ page.title }} icon"
+    />
 
     <h1>{{ page.title }}</h1>
     <p>{{ page.developer }}</p>

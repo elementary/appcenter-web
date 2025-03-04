@@ -24,6 +24,7 @@ jobs:
 
       - name: Build
         run: |
+          rm _apps/*
           ruby ./generate-flatpak.rb
 
       - name: Commit
