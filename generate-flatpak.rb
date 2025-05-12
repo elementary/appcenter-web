@@ -54,6 +54,10 @@ componentsData.css("components component").each do |component|
     caption.remove
   end
 
+  component.xpath('//developer/name[@xml:lang]').each do |developer|
+    developer.remove
+  end
+
   puts "\nGenerating #{component.at_css('name').content}"
 
   appFile = template.dup
