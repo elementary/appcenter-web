@@ -9,9 +9,6 @@ bugtracker: http://github.com/eksanos/eksanos/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/eksanos/eksanos/main/data/screenshots/eksanos_banana_v1-2-0.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.eksanos.eksanos.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.eksanos.eksanos.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

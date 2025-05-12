@@ -9,9 +9,6 @@ bugtracker: https://github.com/Philip-Scott/Spice-up/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Philip-Scott/Spice-up/master/Screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.philip_scott.spice-up.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.philip_scott.spice-up.png
 color:
   primary: "#C2D5FF"
   primary-text: "#223b69"

@@ -8,10 +8,7 @@ help_page: https://github.com/sgpthomas/hourglass/issues
 bugtracker: https://github.com/sgpthomas/hourglass/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/sgpthomas/hourglass/3.0.0/data/screenshots/alarm.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.sgpthomas.hourglass.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.sgpthomas.hourglass.png
+  - https://raw.githubusercontent.com/sgpthomas/hourglass/3.1.0/data/screenshots/alarm.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
@@ -21,4 +18,6 @@ releases:
 redirect_from: /com.github.sgpthomas.hourglass.desktop/
 ---
 
-<p>Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.</p>
+<p>
+      Hourglass is a simple time keeping application that helps you easily set stopwatches, repeating alarms, and timers.
+    </p>

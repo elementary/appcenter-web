@@ -1,30 +1,30 @@
 ---
 app_id: com.github.ryonakano.pinit
 title: "Pin It!"
-summary: "Pin any apps into the launcher"
+summary: "Pin portable apps to the launcher"
 developer: "Ryo Nakano"
 homepage: https://github.com/ryonakano/pinit
 help_page: https://github.com/ryonakano/pinit/discussions
 bugtracker: https://github.com/ryonakano/pinit/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/pinit/main/data/screenshots/pantheon/screenshot-welcome-view.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.pinit.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.pinit.png
+  - https://raw.githubusercontent.com/ryonakano/pinit/2.1.1/data/screenshots/pantheon/screenshot-light.png
 color:
-  primary: "#28bca3"
-  primary-text: "#1a1a1a"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 
 redirect_from: /com.github.ryonakano.pinit.desktop/
 ---
 
-<p>Add portable apps like raw executable files, AppImage files, etc. into the app launcher of your desktop environment.</p>
-<p>Other features include:</p>
+<p>
+      Pin shortcuts for portable apps like raw executable files, AppImage files, etc. to the app launcher on your desktop.
+    </p>
+<p>
+      Other features include:
+    </p>
 <ul>
 <li>Edit or delete created app entries without opening the file manager</li>
-<li>Syntax error detection</li>
-<li>Automatically save everything―your data in editing, last open view, and preferences</li>
+<li>Automatically add the execute permission to the file you select</li>
 </ul>

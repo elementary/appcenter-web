@@ -9,9 +9,6 @@ bugtracker: https://github.com/rkoesters/xkcd-gtk/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/rkoesters/xkcd-gtk/main/screenshots/screenshot-1@2x.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rkoesters.xkcd-gtk.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.rkoesters.xkcd-gtk.png
 color:
   primary: "#96a8c8"
   primary-text: "#1a1a1a"

@@ -4,14 +4,11 @@ title: "Videos"
 summary: "Watch videos and movies"
 developer: "elementary, Inc."
 homepage: https://elementary.io/
-help_page: https://elementaryos.stackexchange.com/questions/tagged/videos
+help_page: https://github.com/elementary/videos/discussions
 bugtracker: https://github.com/elementary/videos/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/videos/master/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.videos.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.videos.png
+  - https://raw.githubusercontent.com/elementary/videos/8.0.0/data/screenshot.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

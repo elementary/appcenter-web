@@ -9,9 +9,6 @@ bugtracker: https://github.com/JeysonFlores/hasher/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/JeysonFlores/hasher/main/data/assets/screenshots/screenshot-1.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.jeysonflores.hasher.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.jeysonflores.hasher.png
 color:
   primary: "#efefef"
   primary-text: "#508ff3"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/donadigo/appeditor/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/donadigo/appeditor/master/Screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.donadigo.appeditor.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.donadigo.appeditor.png
 color:
   primary: "#32e3ca"
   primary-text: "#0A332D"

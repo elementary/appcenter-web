@@ -9,9 +9,6 @@ bugtracker: https://github.com/SubhadeepJasu/ensembles/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/SubhadeepJasu/Ensembles/master/screenshots/Screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.subhadeepjasu.ensembles.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.subhadeepjasu.ensembles.png
 color:
   primary: "#CD5F20"
   primary-text: "#FFFFFF"

@@ -8,10 +8,7 @@ help_page: https://github.com/ryonakano/reco/discussions
 bugtracker: https://github.com/ryonakano/reco/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/reco/5.0.1/data/screenshots/pantheon/welcome-init-light.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.reco.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.reco.png
+  - https://raw.githubusercontent.com/ryonakano/reco/5.1.0/data/screenshots/pantheon/welcome-light.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
@@ -21,7 +18,9 @@ releases:
 redirect_from: /com.github.ryonakano.reco.desktop/
 ---
 
-<p>Reco is an audio recorder focused on being concise and simple to use.</p>
+<p>
+      Reco is an audio recorder focused on being concise and simple to use.
+    </p>
 <p>You can use it to record and remember spoken words, system audio, improvized melodies, and anything else you can do with a microphone, speaker, or both.</p>
 <p>Features include:</p>
 <ul>

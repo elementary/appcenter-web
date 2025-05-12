@@ -9,9 +9,6 @@ bugtracker: https://github.com/manexim/home/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/manexim/home/master/data/screenshots/000.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.manexim.home.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.manexim.home.png
 color:
   primary: "#802392"
   primary-text: "#fafafa"

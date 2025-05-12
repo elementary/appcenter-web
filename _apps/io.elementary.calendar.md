@@ -8,13 +8,10 @@ help_page: https://github.com/elementary/calendar/discussions/categories/q-a
 bugtracker: https://github.com/elementary/calendar/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/calendar/master/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.calendar.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.calendar.png
+  - https://raw.githubusercontent.com/elementary/calendar/8.0.0/data/screenshot.png
 color:
-  primary: "#fff"
-  primary-text: "#206b00"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 

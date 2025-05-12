@@ -9,9 +9,6 @@ bugtracker: https://github.com/sergius02/QRit/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/sergius02/QRit/master/screenshots/QRit.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.sergius02.qrit.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.sergius02.qrit.png
 color:
   primary: "#C1FFA5"
   primary-text: "rgb(0,60,210)"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/avojak/paint-spill/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/avojak/paint-spill/master/data/assets/screenshots/paint-spill-screenshot-01.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.paint-spill.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.paint-spill.png
 color:
   primary: "#fff"
   primary-text: "#333"

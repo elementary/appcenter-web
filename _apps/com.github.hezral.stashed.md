@@ -9,9 +9,6 @@ bugtracker: https://github.com/hezral/stashed/issues/labels/bug
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/hezral/stashed/main/data/screenshot-01.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.hezral.stashed.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.hezral.stashed.png
 color:
   primary: "#FF7E07"
   primary-text: "#662200"

@@ -8,10 +8,7 @@ help_page: https://github.com/elementary/iconbrowser/discussions
 bugtracker: https://github.com/elementary/iconbrowser/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/iconbrowser/main/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.iconbrowser.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.iconbrowser.png
+  - https://raw.githubusercontent.com/elementary/iconbrowser/8.0.0/data/screenshot.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

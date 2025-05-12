@@ -9,9 +9,6 @@ bugtracker: https://github.com/torikulhabib/niki/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/torikulhabib/niki/master/0.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.torikulhabib.niki.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.torikulhabib.niki.png
 color:
   primary: "#525"
   primary-text: "#d1ff82"

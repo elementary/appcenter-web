@@ -9,9 +9,6 @@ bugtracker: https://github.com/Alecaddd/sequeler/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Alecaddd/sequeler/master/data/assets/screenshots/sequeler-screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.alecaddd.sequeler.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.alecaddd.sequeler.png
 color:
   primary: "#3f3f3f"
   primary-text: "#ffffff"

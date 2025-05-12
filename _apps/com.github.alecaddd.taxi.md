@@ -9,9 +9,6 @@ bugtracker: https://github.com/Alecaddd/taxi/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/Alecaddd/taxi/master/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.alecaddd.taxi.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.alecaddd.taxi.png
 color:
   primary: "#fff"
   primary-text: "#333"

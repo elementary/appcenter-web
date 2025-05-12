@@ -9,9 +9,6 @@ bugtracker: https://github.com/donadigo/eddy/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/donadigo/eddy/master/Screenshot_1.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.donadigo.eddy.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.donadigo.eddy.png
 color:
   primary: "#b30033"
   primary-text: "#f2f2f2"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/avojak/iridium/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/avojak/iridium/master/data/assets/screenshots/iridium-screenshot-01.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.avojak.iridium.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.avojak.iridium.png
 color:
   primary: "#fff"
   primary-text: "#333"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/Lafydev/Animage/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/lafydev/animage/master/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.lafydev.animage.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.lafydev.animage.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

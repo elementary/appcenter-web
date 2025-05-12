@@ -9,9 +9,6 @@ bugtracker: https://github.com/phoneybadger/picker/issues
 dist: flatpak
 screenshots:
   - https://github.com/phoneybadger/picker/blob/main/data/screenshots/window-dark.png?raw=true
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phoneybadger.picker.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phoneybadger.picker.png
 color:
   primary: "#FAFAFA"
   primary-text: "#333333"

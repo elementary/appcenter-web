@@ -9,9 +9,6 @@ bugtracker: https://github.com/antolius/life/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/antolius/life/1.0.0/data/screenshots/default.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/hr.from.josipantolis.life.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/hr.from.josipantolis.life.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

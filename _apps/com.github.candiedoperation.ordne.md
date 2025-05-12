@@ -9,9 +9,6 @@ bugtracker: https://github.com/candiedoperation/ordne/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/candiedoperation/ordne/master/data/screenshots/ordne-light-1.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.candiedoperation.ordne.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.candiedoperation.ordne.png
 color:
   primary: "#e4c6fa"
   primary-text: "rgb(0, 0, 0)"

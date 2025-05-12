@@ -4,14 +4,11 @@ title: "Calculator"
 summary: "Solve simple equations"
 developer: "elementary, Inc."
 homepage: https://elementary.io/
-help_page: https://elementaryos.stackexchange.com/questions/tagged/calculator
+help_page: https://github.com/elementary/calculator/discussions
 bugtracker: https://github.com/elementary/calculator/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/calculator/master/data/screenshot@2x.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.elementary.calculator.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.elementary.calculator.png
+  - https://raw.githubusercontent.com/elementary/calculator/8.0.0/data/screenshot@2x.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

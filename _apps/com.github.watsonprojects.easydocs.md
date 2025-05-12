@@ -9,9 +9,6 @@ bugtracker: https://github.com/watsonprojects/easydocs/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/watsonprojects/docs/main/data/images/screenshot-1.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.watsonprojects.easydocs.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.watsonprojects.easydocs.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/dahenson/agenda/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/dahenson/agenda/master/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.dahenson.agenda.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.dahenson.agenda.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

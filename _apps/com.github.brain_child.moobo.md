@@ -9,9 +9,6 @@ bugtracker: http://github.com/brain-child/moobo/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/brain-child/moobo/main/preview/moobo_light.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.brain_child.moobo.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.brain_child.moobo.png
 color:
   primary: "#3689E6"
   primary-text: "#FFFFFF"

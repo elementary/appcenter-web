@@ -8,10 +8,7 @@ help_page: https://github.com/danirabbit/nimbus/discussions
 bugtracker: https://github.com/danirabbit/nimbus/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/danirabbit/nimbus/1.1.0/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.github.danirabbit.nimbus.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.github.danirabbit.nimbus.png
+  - https://raw.githubusercontent.com/danirabbit/nimbus/1.1.2/data/screenshot.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

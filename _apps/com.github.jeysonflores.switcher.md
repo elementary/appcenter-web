@@ -9,9 +9,6 @@ bugtracker: https://github.com/JeysonFlores/switcher/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/JeysonFlores/switcher/main/data/screenshots/screenshot-1.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.jeysonflores.switcher.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.jeysonflores.switcher.png
 color:
   primary: "#e3e3e3"
   primary-text: "#333333"

@@ -8,10 +8,7 @@ help_page: https://github.com/ryonakano/konbucase/discussions
 bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/konbucase/4.1.2/data/screenshots/pantheon/screenshot-light.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.ryonakano.konbucase.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.ryonakano.konbucase.png
+  - https://raw.githubusercontent.com/ryonakano/konbucase/4.4.0/data/screenshots/pantheon/screenshot-light.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
@@ -21,7 +18,9 @@ releases:
 redirect_from: /com.github.ryonakano.konbucase.desktop/
 ---
 
-<p>A small text tool app that allows you convert case in your text.</p>
+<p>
+      A small text tool app that allows you convert case in your text.
+    </p>
 <p>Features include:</p>
 <ul>
 <li>Click "Copy to Clipboard" button to copy the all texts in the text view without selecting them</li>

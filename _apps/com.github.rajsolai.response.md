@@ -9,9 +9,6 @@ bugtracker: http://github.com/RajSolai/Response/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/RajSolai/Response/master/data/screenshots/app_normal_mobile.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.rajsolai.response.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.rajsolai.response.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"

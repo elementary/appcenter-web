@@ -9,9 +9,6 @@ bugtracker: https://github.com/phase1geo/journaler/issues/
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/phase1geo/Journaler/master/data/screenshots/screenshot-entry-solarized.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.phase1geo.journaler.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.phase1geo.journaler.png
 color:
   primary: "#b15210"
   primary-text: "rgb(255, 255, 255)"

@@ -9,9 +9,6 @@ bugtracker: https://github.com/JMoerman/Go-For-It/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/JMoerman/Go-For-It/master/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.jmoerman.goforit.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.jmoerman.goforit.png
 color:
   primary: "#3689e6"
   primary-text: "rgb(255, 255, 255)"

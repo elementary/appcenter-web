@@ -9,9 +9,6 @@ bugtracker: https://github.com/jeremypw/gnonograms/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/jeremypw/gnonograms/master/data/screenshots/GnonogramsSolvingLight.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.jeremypw.gnonograms.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.jeremypw.gnonograms.png
 color:
   primary: "#d4d4d4"
   primary-text: "#180297"

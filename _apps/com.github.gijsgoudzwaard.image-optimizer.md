@@ -9,13 +9,10 @@ bugtracker: https://github.com/gijsgoudzwaard/image-optimizer/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/GijsGoudzwaard/Image-Optimizer/master/data/screenshots/welcome-screen.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.gijsgoudzwaard.image-optimizer.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.gijsgoudzwaard.image-optimizer.png
 color:
-  primary: "#687ddb"
-  primary-text: "#ffffff"
-price: 2
+  primary: "#485a6c"
+  primary-text: "#fff"
+price: false
 releases:
 
 redirect_from: /com.github.gijsgoudzwaard.image-optimizer.desktop/

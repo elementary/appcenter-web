@@ -9,9 +9,6 @@ bugtracker: https://github.com/jhaygood86/big-purple-remote/issues
 dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/jhaygood86/big-purple-remote/main/data/screenshot.png
-icons:
-  "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/io.github.jhaygood86.big-purple-remote.png
-  "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/io.github.jhaygood86.big-purple-remote.png
 color:
   primary: "#7239b3"
   primary-text: "rgb(255, 255, 255)"
