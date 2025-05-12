@@ -40,7 +40,7 @@ redirect_from: ((redirect))
 
 puts 'about to iterate thru components...'
 componentsData.css("components component").each do | component |
-  next if component.get_attribute("type") != "desktop"
+  next if !component.get_attribute("type").match (/^desktop(-application)?$/)
 
   puts "Generating #{component.at_css('name').content}"
 
