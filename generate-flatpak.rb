@@ -32,9 +32,9 @@ redirect_from: ((redirect))
 ((description))'
 
 componentsData.css("components component").each do |component|
-  next unless (component.get_attribute("type") == "desktop" || component.get_attribute("type") == "desktop-application")
+  next if !component.get_attribute("type").match (/^desktop(-application)?$/)
 
-component.xpath('name[@xml:lang]').each do |name|
+  component.xpath('name[@xml:lang]').each do |name|
     name.remove
   end
 
