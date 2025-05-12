@@ -47,9 +47,10 @@ bundle install
 
 ### Updating Apps
 
-The list of apps is generated with a simple Ruby script. To rebuild the app list, run:
+The list of apps is generated with a simple Ruby script. To rebuild the app list, delete the existing files so any removals (e.g. end-of-life apps) are reflected, then run the script:
 
 ```shell
+rm _apps/*
 ruby generate-flatpak.rb
 ```
 
