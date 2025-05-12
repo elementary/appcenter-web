@@ -3,19 +3,19 @@ app_id: com.github.danrabbit.harvey
 title: "Harvey"
 summary: "The hero that Gotham needs right now"
 developer: "Daniel Foré"
-homepage: https://github.com/danrabbit
+homepage: http://danielfore.com
 help_page: false
 bugtracker: https://github.com/danrabbit/harvey/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/danrabbit/harvey/main/data/screenshot.png
+  - https://raw.githubusercontent.com/danrabbit/harvey/master/data/screenshot.png
 icons:
   "64": https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/com.github.danrabbit.harvey.png
   "128": https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/com.github.danrabbit.harvey.png
 color:
   primary: "#fff"
   primary-text: "#333"
-price: 3
+price: false
 releases:
 
 redirect_from: /com.github.danrabbit.harvey.desktop/
