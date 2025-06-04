@@ -1,7 +1,7 @@
 ---
 app_id: io.github.ellie_commons.jorts
 title: "Jorts"
-summary: "Colourful little sticky notes! :)"
+summary: "Write on colourful little squares"
 developer: "Stella - Teamcons"
 homepage: https://github.com/ellie-commons/jorts
 help_page: https://github.com/ellie-commons/jorts/issues
