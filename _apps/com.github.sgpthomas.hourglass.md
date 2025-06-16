@@ -8,7 +8,7 @@ help_page: https://github.com/sgpthomas/hourglass/issues
 bugtracker: https://github.com/sgpthomas/hourglass/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/sgpthomas/hourglass/3.1.0/data/screenshots/alarm.png
+  - https://raw.githubusercontent.com/sgpthomas/hourglass/3.1.1/data/screenshots/alarm.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
