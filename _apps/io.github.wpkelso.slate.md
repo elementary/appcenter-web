@@ -1,7 +1,7 @@
 ---
 app_id: io.github.wpkelso.slate
 title: "Slate"
-summary: "A &quot;dumb as rocks&quot; text editor"
+summary: "The text editor that&#39;s dumb as rocks!"
 developer: "William Kelso"
 homepage: https://github.com/wpkelso/slate
 help_page: false
@@ -19,7 +19,7 @@ redirect_from: /io.github.wpkelso.slate.desktop/
 ---
 
 <p>
-        Slate is a lightweight plain text editor that edits text files and nothing more.
+        Slate is a simple, lightweight plain text editor.
     </p>
 <ul>
 <li>Make new files!</li>
