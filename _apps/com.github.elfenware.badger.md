@@ -2,7 +2,7 @@
 app_id: com.github.elfenware.badger
 title: "Badger"
 summary: "Remind yourself to not sit and stare at the screen for too long"
-developer: "Elfenware"
+developer: "Darshak Parikh"
 homepage: https://github.com/elfenware/badger
 help_page: https://github.com/elfenware/badger/issues
 bugtracker: https://github.com/elfenware/badger/issues
@@ -10,8 +10,8 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/badger/master/data/window-screenshot.png
 color:
-  primary: "#fff"
-  primary-text: "#333"
+  primary: "#485a6c"
+  primary-text: "#fff"
 price: false
 releases:
 
