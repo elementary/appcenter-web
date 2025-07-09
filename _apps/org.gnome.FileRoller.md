@@ -3,7 +3,7 @@ app_id: org.gnome.FileRoller
 title: "File Roller"
 summary: "Open, modify and create compressed archive files"
 developer: "Paolo Bacchilega"
-homepage: https://wiki.gnome.org/Apps/FileRoller
+homepage: https://gitlab.gnome.org/GNOME/file-roller/
 help_page: false
 bugtracker: https://gitlab.gnome.org/GNOME/file-roller/-/issues
 dist: flatpak
