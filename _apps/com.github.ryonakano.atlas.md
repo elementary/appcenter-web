@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/atlas/issues
 bugtracker: https://github.com/ryonakano/atlas/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/atlas/3.1.0/data/screenshots/screenshot-light.png
+  - https://raw.githubusercontent.com/ryonakano/atlas/3.1.1/data/screenshots/screenshot-light.png
 color:
   primary: "#485a6c"
   primary-text: "#fff"
