@@ -159,7 +159,7 @@ componentsData.css("components component").each do |component|
                        component.at_css('color[type="primary"]') ||
                        component.at_css('value[key="x-appcenter-color-primary"]')
 
-  if not custom_color_light.nil? and not custom_color_dark.nil?
+  if custom_color_light&.content&.start_with?('#') && custom_color_dark&.content&.start_with?('#')
     color_primary = custom_color_light.content
     color_primary_dark = custom_color_dark.content
     color_text = optimal_contrast(color_primary)
