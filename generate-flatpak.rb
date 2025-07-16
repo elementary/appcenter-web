@@ -151,8 +151,13 @@ componentsData.css("components component").each do |component|
   color_text = "#333"
   color_text_dark = "#fff"
 
-  custom_color_light = component.at_css('color[type="primary"][scheme_preference="light"]') || component.at_css('color[type="primary"]') || component.at_css('value[key="x-appcenter-color-primary"]')
-  custom_color_dark  = component.at_css('color[type="primary"][scheme_preference="dark"]')  || component.at_css('color[type="primary"]') || component.at_css('value[key="x-appcenter-color-primary"]')
+  custom_color_light = component.at_css('color[type="primary"][scheme_preference="light"]') ||
+                       component.at_css('color[type="primary"]') ||
+                       component.at_css('value[key="x-appcenter-color-primary"]')
+
+  custom_color_dark  = component.at_css('color[type="primary"][scheme_preference="dark"]') ||
+                       component.at_css('color[type="primary"]') ||
+                       component.at_css('value[key="x-appcenter-color-primary"]')
 
   if not custom_color_light.nil? and not custom_color_dark.nil?
     color_primary = custom_color_light.content
