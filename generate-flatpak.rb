@@ -64,7 +64,9 @@ def optimal_contrast(bg_hex)
   white = '#fff'
   contrast_black = contrast_ratio(bg_hex, black)
   contrast_white = contrast_ratio(bg_hex, white)
-  contrast_black > contrast_white ? black : white
+  # NOTE: We cheat and add 3 to contrast when checking against black,
+  # because white generally looks better on a colored background
+  contrast_black > contrast_white + 3 ? black : white
 end
 
 componentsData.css("components component").each do |component|
