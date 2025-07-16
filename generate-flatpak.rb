@@ -23,6 +23,8 @@ screenshots:
 color:
   primary: "((color_primary))"
   primary-text: "((color_text))"
+  primary-dark: "((color_primary_dark))"
+  primary-text-dark: "((color_text_dark))"
 price: ((price))
 releases:
 ((releases))
@@ -30,6 +32,40 @@ redirect_from: ((redirect))
 ---
 
 ((description))'
+
+# Convert hex to RGB
+def hex_to_rgb(hex)
+  hex = hex.delete('#')
+  hex = hex.chars.map { |c| c * 2 }.join if hex.length == 3
+  [hex[0..1], hex[2..3], hex[4..5]].map { |c| c.to_i(16) }
+end
+
+# Relative luminance for RGB per WCAG
+def luminance(hex)
+  r, g, b = hex_to_rgb(hex).map do |channel|
+    c = channel / 255.0
+    c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055)**2.4
+  end
+  0.2126 * r + 0.7152 * g + 0.0722 * b
+end
+
+# Contrast ratio between two colors
+def contrast_ratio(hex1, hex2)
+  l1 = luminance(hex1)
+  l2 = luminance(hex2)
+  lighter = [l1, l2].max
+  darker = [l1, l2].min
+  (lighter + 0.05) / (darker + 0.05)
+end
+
+# Choose text color (black or white) with higher contrast
+def optimal_contrast(bg_hex)
+  black = '#000'
+  white = '#fff'
+  contrast_black = contrast_ratio(bg_hex, black)
+  contrast_white = contrast_ratio(bg_hex, white)
+  contrast_black > contrast_white ? black : white
+end
 
 componentsData.css("components component").each do |component|
   next if !component.get_attribute("type").match (/^desktop(-application)?$/)
@@ -108,15 +144,19 @@ componentsData.css("components component").each do |component|
   end
   appFile.sub!('((bugtracker))', bugtracker)
 
-  color_primary = "#485a6c"
-  color_text = "#fff"
+  color_primary = "#d1e6f9"
+  color_primary_dark = "#485a6c"
+  color_text = "#333"
+  color_text_dark = "#fff"
 
-  custom_color = component.at_css('value[key="x-appcenter-color-primary"]')
-  custom_text = component.at_css('value[key="x-appcenter-color-primary-text"]')
+  custom_color_light = component.at_css('color[type="primary"][scheme_preference="light"]') || component.at_css('color[type="primary"]') || component.at_css('value[key="x-appcenter-color-primary"]')
+  custom_color_dark  = component.at_css('color[type="primary"][scheme_preference="dark"]')  || component.at_css('color[type="primary"]') || component.at_css('value[key="x-appcenter-color-primary"]')
 
-  if not custom_color.nil? and not custom_text.nil?
-    color_primary = custom_color.content
-    color_text = custom_text.content
+  if not custom_color_light.nil? and not custom_color_dark.nil?
+    color_primary = custom_color_light.content
+    color_primary_dark = custom_color_dark.content
+    color_text = optimal_contrast(color_primary)
+    color_text_dark = optimal_contrast(color_primary_dark)
   end
 
   price = "false"
@@ -127,7 +167,9 @@ componentsData.css("components component").each do |component|
   end
 
   appFile.sub!('((color_primary))', color_primary)
+  appFile.sub!('((color_primary_dark))', color_primary_dark)
   appFile.sub!('((color_text))', color_text)
+  appFile.sub!('((color_text_dark))', color_text_dark)
   appFile.sub!('((price))', price)
 
   screenshots = ''
