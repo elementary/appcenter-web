@@ -13,7 +13,7 @@
   <link rel="apple-touch-icon" href="https://elementary.io/images/launcher-icons/apple-touch-icon.png">
   <link rel="icon" type="image/png" href="https://elementary.io/images/favicon.png" sizes="256x256">
 
-  <meta name="theme-color" content="{% if page.color.primary != "((color_primary))" %}{{page.color.primary}}{% else %}{{site.color.primary}}{% endif %}">
+  <meta name="theme-color" content="{% if page.color.primary %}{{page.color.primary}}{% else %}{{site.color.primary}}{% endif %}">
 
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@elementary">
