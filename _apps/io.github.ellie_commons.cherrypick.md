@@ -25,4 +25,5 @@ redirect_from: /io.github.ellie_commons.cherrypick.desktop/
 <li>Remembers your preferred format</li>
 <li>Color history remembers your last picked colors (hover to check their code)</li>
 <li>Curious about a color? Copy paste it from your clipboard to preview it</li>
+<li>You can set a keybind to immediately pick and copy to clipboard!</li>
 </ul>
