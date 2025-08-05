@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/mail/7.0.1/data/screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#ffe16b"
+  primary-text: "#000"
+  primary-dark: "#ffe16b"
+  primary-text-dark: "#000"
 price: false
 releases:
 

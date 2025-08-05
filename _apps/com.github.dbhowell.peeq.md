@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/dbhowell/peeq/master/data/screenshot_001.png
 color:
   primary: "#603461"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#603461"
+  primary-text-dark: "#fff"
 price: 10
 releases:
 

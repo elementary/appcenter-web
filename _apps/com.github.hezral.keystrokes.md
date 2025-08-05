@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/hezral/keystrokes/blob/master/data/screenshot-02.png?raw=true
 color:
   primary: "#212121"
-  primary-text: "#FFFFFF"
+  primary-text: "#fff"
+  primary-dark: "#212121"
+  primary-text-dark: "#fff"
 price: 0.00
 releases:
 

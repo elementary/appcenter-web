@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ellie-commons/rollit/main/data/screenshots/window-light.png
 color:
-  primary: "#485a6c"
+  primary: "#a56de2"
   primary-text: "#fff"
+  primary-dark: "#634187"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

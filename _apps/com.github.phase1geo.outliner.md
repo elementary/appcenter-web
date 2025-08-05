@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/phase1geo/Outliner/master/data/screenshots/screenshot-solarized-light.png
 color:
   primary: "#D48E15"
-  primary-text: "#000000"
+  primary-text: "#000"
+  primary-dark: "#D48E15"
+  primary-text-dark: "#000"
 price: 10
 releases:
 

@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/jhaygood86/mauborgne/main/data/screenshot.png
 color:
   primary: "#0e9a83"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#0e9a83"
+  primary-text-dark: "#fff"
 price: 10
 releases:
 

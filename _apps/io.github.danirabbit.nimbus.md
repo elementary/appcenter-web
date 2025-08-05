@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/danirabbit/nimbus/1.1.2/data/screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#e9f4fc"
+  primary-text: "#000"
+  primary-dark: "#e9f4fc"
+  primary-text-dark: "#000"
 price: false
 releases:
 

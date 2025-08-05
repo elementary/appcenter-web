@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ellie-commons/app-generator/refs/heads/main/data/io.github.ellie_commons.app-generator.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#d1e6f9"
+  primary-text: "#333"
+  primary-dark: "#485a6c"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

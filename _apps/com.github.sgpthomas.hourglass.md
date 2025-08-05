@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/sgpthomas/hourglass/3.1.1/data/screenshots/alarm.png
 color:
-  primary: "#485a6c"
+  primary: "#467826"
   primary-text: "#fff"
+  primary-dark: "#89d15c"
+  primary-text-dark: "#000"
 price: false
 releases:
 

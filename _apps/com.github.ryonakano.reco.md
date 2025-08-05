@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/reco/5.1.0/data/screenshots/pantheon/welcome-light.png
 color:
-  primary: "#485a6c"
+  primary: "#c6262e"
   primary-text: "#fff"
+  primary-dark: "#ff8c82"
+  primary-text-dark: "#000"
 price: false
 releases:
 

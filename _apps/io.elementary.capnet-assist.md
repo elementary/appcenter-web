@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/capnet-assist/8.0.0/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#6c508a"
   primary-text: "#fff"
+  primary-dark: "#6c508a"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

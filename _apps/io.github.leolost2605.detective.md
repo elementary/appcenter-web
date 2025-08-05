@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/leolost2605/detective/d7511080d724dd81fdb430c0bde9d7748654dec5/data/screenshots/Main.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#d1e6f9"
+  primary-text: "#333"
+  primary-dark: "#485a6c"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

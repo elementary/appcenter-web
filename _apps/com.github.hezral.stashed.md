@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/hezral/stashed/main/data/screenshot-01.png
 color:
   primary: "#FF7E07"
-  primary-text: "#662200"
+  primary-text: "#000"
+  primary-dark: "#FF7E07"
+  primary-text-dark: "#000"
 price: 0.00
 releases:
 

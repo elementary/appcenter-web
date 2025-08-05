@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/Philip-Scott/Notes-up/master/Screenshot1.png
 color:
   primary: "#BEDAFF"
-  primary-text: "#274771"
+  primary-text: "#000"
+  primary-dark: "#BEDAFF"
+  primary-text-dark: "#000"
 price: false
 releases:
 

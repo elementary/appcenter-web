@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ellie-commons/Jorts/main/data/screenshots/default.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#64baff"
+  primary-text: "#000"
+  primary-dark: "#002e99"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

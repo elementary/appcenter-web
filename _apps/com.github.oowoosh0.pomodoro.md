@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/Oowoosh0/pomodoro/main/data/media/screenshot-1.png
 color:
   primary: "#0d52bf"
-  primary-text: "#ffffff"
+  primary-text: "#fff"
+  primary-dark: "#0d52bf"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

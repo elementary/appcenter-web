@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/torikulhabib/niki/master/0.png
 color:
   primary: "#525"
-  primary-text: "#d1ff82"
+  primary-text: "#fff"
+  primary-dark: "#525"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

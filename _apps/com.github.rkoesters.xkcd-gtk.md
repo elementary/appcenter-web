@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/rkoesters/xkcd-gtk/main/screenshots/screenshot-1@2x.png
 color:
   primary: "#96a8c8"
-  primary-text: "#1a1a1a"
+  primary-text: "#000"
+  primary-dark: "#96a8c8"
+  primary-text-dark: "#000"
 price: false
 releases:
 

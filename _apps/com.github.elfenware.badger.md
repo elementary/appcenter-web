@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/badger/master/data/window-screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#fafafa"
+  primary-text: "#000"
+  primary-dark: "#1a1a1a"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

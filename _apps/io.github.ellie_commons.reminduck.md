@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ellie-commons/reminduck/master/data/screenshots/Welcome.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#fff394"
+  primary-text: "#000"
+  primary-dark: "#ad5f00"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

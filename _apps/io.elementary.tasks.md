@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/tasks/6.3.3/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#de3e80"
   primary-text: "#fff"
+  primary-dark: "#de3e80"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

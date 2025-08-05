@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/calo001/fondo/master/data/images/screenshot_1.png
 color:
   primary: "#82ffc4"
-  primary-text: "#000000"
+  primary-text: "#000"
+  primary-dark: "#82ffc4"
+  primary-text-dark: "#000"
 price: false
 releases:
 

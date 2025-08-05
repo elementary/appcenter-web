@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/phoneybadger/trimmer/main/data/screenshots/screenshot-trim.png
 color:
   primary: "#3689e6"
-  primary-text: "#1a1a1a"
+  primary-text: "#fff"
+  primary-dark: "#3689e6"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

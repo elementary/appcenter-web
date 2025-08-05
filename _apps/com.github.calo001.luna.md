@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/calo001/luna/master/data/images/screenshot_1.png
 color:
   primary: "#fafafa"
-  primary-text: "#485a6c"
+  primary-text: "#000"
+  primary-dark: "#fafafa"
+  primary-text-dark: "#000"
 price: false
 releases:
 

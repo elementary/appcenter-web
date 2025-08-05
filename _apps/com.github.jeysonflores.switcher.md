@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/JeysonFlores/switcher/main/data/screenshots/screenshot-1.png
 color:
   primary: "#e3e3e3"
-  primary-text: "#333333"
+  primary-text: "#000"
+  primary-dark: "#e3e3e3"
+  primary-text-dark: "#000"
 price: false
 releases:
 

@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/libredeb/hash-it/main/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#36642c"
   primary-text: "#fff"
+  primary-dark: "#36642c"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

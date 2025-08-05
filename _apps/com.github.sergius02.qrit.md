@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/sergius02/QRit/master/screenshots/QRit.png
 color:
   primary: "#C1FFA5"
-  primary-text: "rgb(0,60,210)"
+  primary-text: "#000"
+  primary-dark: "#C1FFA5"
+  primary-text-dark: "#000"
 price: false
 releases:
 

@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/antolius/sage/1.1.0/data/screenshots/classic.png
 color:
   primary: "#452981"
-  primary-text: "#D4D4D4"
+  primary-text: "#fff"
+  primary-dark: "#452981"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

@@ -12,6 +12,8 @@ screenshots:
 color:
   primary: "#485a6c"
   primary-text: "#fff"
+  primary-dark: "#485a6c"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

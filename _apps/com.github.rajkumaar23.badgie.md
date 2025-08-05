@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/rajkumaar23/badgie/master/data/screenshots/1.png
 color:
   primary: "#EAF5D8"
-  primary-text: "#206b00"
+  primary-text: "#000"
+  primary-dark: "#EAF5D8"
+  primary-text-dark: "#000"
 price: false
 releases:
 

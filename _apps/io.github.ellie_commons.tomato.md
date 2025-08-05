@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://github.com/ellie-commons/tomato/blob/main/data/screenshots/pomodoro.png?raw=true
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#ff8c82"
+  primary-text: "#000"
+  primary-dark: "#7a0000"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/marbetschar/time-limit/master/data/screenshots/Dark-Light-Accent-Variants-Background.png
 color:
   primary: "#318AF4"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#318AF4"
+  primary-text-dark: "#fff"
 price: 2
 releases:
 

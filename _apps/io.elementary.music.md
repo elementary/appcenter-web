@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/music/8.0.0/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#cc3b02"
   primary-text: "#fff"
+  primary-dark: "#ffa154"
+  primary-text-dark: "#000"
 price: false
 releases:
 

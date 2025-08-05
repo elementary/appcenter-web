@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/candiedoperation/ordne/master/data/screenshots/ordne-light-1.png
 color:
   primary: "#e4c6fa"
-  primary-text: "rgb(0, 0, 0)"
+  primary-text: "#000"
+  primary-dark: "#e4c6fa"
+  primary-text-dark: "#000"
 price: false
 releases:
 

@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/pinit/2.1.1/data/screenshots/pantheon/screenshot-light.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#89ffdd"
+  primary-text: "#000"
+  primary-dark: "#007367"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

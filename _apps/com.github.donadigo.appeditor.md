@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/donadigo/appeditor/master/Screenshot.png
 color:
   primary: "#32e3ca"
-  primary-text: "#0A332D"
+  primary-text: "#000"
+  primary-dark: "#32e3ca"
+  primary-text-dark: "#000"
 price: 5
 releases:
 

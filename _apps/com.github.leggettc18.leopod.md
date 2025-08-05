@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/leggettc18/leopod/blob/main/screenshots/screenshot1.png?raw=true
 color:
   primary: "#7239b3"
-  primary-text: "#ffffff"
+  primary-text: "#fff"
+  primary-dark: "#7239b3"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

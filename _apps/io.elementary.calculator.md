@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/calculator/8.0.0/data/screenshot@2x.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#28bca3"
+  primary-text: "#000"
+  primary-dark: "#28bca3"
+  primary-text-dark: "#000"
 price: false
 releases:
 

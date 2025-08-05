@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/malothebault/trivia/blob/main/data/assets/screenshot_question.png
 color:
   primary: "#FFBA49"
-  primary-text: "#550527"
+  primary-text: "#000"
+  primary-dark: "#FFBA49"
+  primary-text-dark: "#000"
 price: false
 releases:
 

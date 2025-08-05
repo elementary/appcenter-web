@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/fleury08/prettifier/raw/main/data/images/PrettifierJSON.png
 color:
   primary: "#64BAFF"
-  primary-text: "#000000"
+  primary-text: "#000"
+  primary-dark: "#64BAFF"
+  primary-text-dark: "#000"
 price: false
 releases:
 

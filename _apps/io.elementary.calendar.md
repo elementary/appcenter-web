@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/calendar/8.0.0/data/screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#68b723"
+  primary-text: "#000"
+  primary-dark: "#68b723"
+  primary-text-dark: "#000"
 price: false
 releases:
 

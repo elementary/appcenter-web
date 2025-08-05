@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/peteruithoven/resizer/master/screenshot-6-image.png
 color:
   primary: "#60caee"
-  primary-text: "#ffffff"
+  primary-text: "#000"
+  primary-dark: "#60caee"
+  primary-text-dark: "#000"
 price: false
 releases:
 

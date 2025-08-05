@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/Alecaddd/sequeler/master/data/assets/screenshots/sequeler-screenshot.png
 color:
   primary: "#3f3f3f"
-  primary-text: "#ffffff"
+  primary-text: "#fff"
+  primary-dark: "#3f3f3f"
+  primary-text-dark: "#fff"
 price: 25
 releases:
 

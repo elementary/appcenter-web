@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/manexim/home/master/data/screenshots/000.png
 color:
   primary: "#802392"
-  primary-text: "#fafafa"
+  primary-text: "#fff"
+  primary-dark: "#802392"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

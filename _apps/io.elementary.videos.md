@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elementary/videos/8.0.0/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#2b63a0"
   primary-text: "#fff"
+  primary-dark: "#2b63a0"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

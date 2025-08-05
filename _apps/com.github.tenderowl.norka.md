@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/tenderowl/norka/master/data/screenshots/norka-editor.png
 color:
   primary: "#b5c3cb"
-  primary-text: "#273445"
+  primary-text: "#000"
+  primary-dark: "#b5c3cb"
+  primary-text-dark: "#000"
 price: false
 releases:
 

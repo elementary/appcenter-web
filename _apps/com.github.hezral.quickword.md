@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/hezral/quickword/blob/master/data/screenshot-01.png?raw=true
 color:
   primary: "#D9262C"
-  primary-text: "#FFFFFF"
+  primary-text: "#fff"
+  primary-dark: "#D9262C"
+  primary-text-dark: "#fff"
 price: 2.00
 releases:
 

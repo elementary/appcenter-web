@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/hezral/clips/blob/master/data/screenshot-01.png?raw=true
 color:
   primary: "#7D30E8"
-  primary-text: "#FFFFFF"
+  primary-text: "#fff"
+  primary-dark: "#7D30E8"
+  primary-text-dark: "#fff"
 price: 10.00
 releases:
 

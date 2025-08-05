@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/louper/2.0.5/data/Screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#fafafa"
+  primary-text: "#000"
+  primary-dark: "#d4d4d4"
+  primary-text-dark: "#000"
 price: false
 releases:
 

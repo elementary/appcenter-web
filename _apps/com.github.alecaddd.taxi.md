@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/Alecaddd/taxi/master/data/screenshot.png
 color:
   primary: "#fff"
-  primary-text: "#333"
+  primary-text: "#000"
+  primary-dark: "#fff"
+  primary-text-dark: "#000"
 price: 10
 releases:
 

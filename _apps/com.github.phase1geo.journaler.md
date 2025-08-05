@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/phase1geo/Journaler/master/data/screenshots/screenshot-entry-solarized.png
 color:
   primary: "#b15210"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#b15210"
+  primary-text-dark: "#fff"
 price: 10
 releases:
 

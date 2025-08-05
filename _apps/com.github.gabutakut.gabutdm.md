@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/gabutakut/gabutdm/master/Screenshot0.png
 color:
   primary: "#2A7D00"
-  primary-text: "#d1ff82"
+  primary-text: "#fff"
+  primary-dark: "#2A7D00"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

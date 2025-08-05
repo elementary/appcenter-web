@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/matthiasjg/trimirjournal/master/data/screenshots/de/light-and-dark.png
 color:
   primary: "#7a36b1"
-  primary-text: "rgb(244, 233, 110)"
+  primary-text: "#fff"
+  primary-dark: "#7a36b1"
+  primary-text-dark: "#fff"
 price: 12
 releases:
 

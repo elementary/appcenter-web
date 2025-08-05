@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/JMoerman/Go-For-It/master/screenshot.png
 color:
   primary: "#3689e6"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#3689e6"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

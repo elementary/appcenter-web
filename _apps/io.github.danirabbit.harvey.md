@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/danirabbit/harvey/2.0.0/data/screenshot.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#aedede"
+  primary-text: "#000"
+  primary-dark: "#aedede"
+  primary-text-dark: "#000"
 price: false
 releases:
 

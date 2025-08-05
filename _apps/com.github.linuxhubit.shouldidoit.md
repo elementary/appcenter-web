@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/linuxhubit/shouldidoit/master/data/screenshot-1.png
 color:
   primary: "#aa5fb0"
-  primary-text: "#ffffff"
+  primary-text: "#fff"
+  primary-dark: "#aa5fb0"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

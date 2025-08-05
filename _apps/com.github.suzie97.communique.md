@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/suzie97/communique/master/data/communique-light-screenshot.png
 color:
   primary: "#FAFAFA"
-  primary-text: "#1A1A1A"
+  primary-text: "#000"
+  primary-dark: "#FAFAFA"
+  primary-text-dark: "#000"
 price: 10
 releases:
 

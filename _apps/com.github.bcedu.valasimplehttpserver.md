@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/bcedu/ValaSimpleHTTPServer/master/data/imgs/init.png
 color:
   primary: "#56A9E3"
-  primary-text: "rgb(0,0,0)"
+  primary-text: "#000"
+  primary-dark: "#56A9E3"
+  primary-text-dark: "#000"
 price: false
 releases:
 

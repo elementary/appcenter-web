@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/bluesabre/darkbar/main/data/screenshots/1x.png
 color:
   primary: "#2a2a2a"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#2a2a2a"
+  primary-text-dark: "#fff"
 price: 2
 releases:
 

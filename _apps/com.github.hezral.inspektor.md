@@ -11,7 +11,9 @@ screenshots:
   - https://github.com/hezral/inspektor/blob/master/data/screenshot-01.png?raw=true
 color:
   primary: "#B7E1E5"
-  primary-text: "#29484F"
+  primary-text: "#000"
+  primary-dark: "#B7E1E5"
+  primary-text-dark: "#000"
 price: 2.00
 releases:
 

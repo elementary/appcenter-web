@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/jeremypw/gnonograms/master/data/screenshots/GnonogramsSolvingLight.png
 color:
   primary: "#d4d4d4"
-  primary-text: "#180297"
+  primary-text: "#000"
+  primary-dark: "#d4d4d4"
+  primary-text-dark: "#000"
 price: false
 releases:
 

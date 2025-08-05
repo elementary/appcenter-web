@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/small-tech/comet-screenshots/main/nl/comet-basic-usage.png
 color:
   primary: "#0d52bf"
-  primary-text: "#fafafa"
+  primary-text: "#fff"
+  primary-dark: "#0d52bf"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

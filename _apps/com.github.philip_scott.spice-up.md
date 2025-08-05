@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/Philip-Scott/Spice-up/master/Screenshot.png
 color:
   primary: "#C2D5FF"
-  primary-text: "#223b69"
+  primary-text: "#000"
+  primary-dark: "#C2D5FF"
+  primary-text-dark: "#000"
 price: false
 releases:
 

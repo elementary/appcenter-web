@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/raibtoffoletto/litteris/master/data/com.github.raibtoffoletto.litteris.screenshot.png
 color:
   primary: "#ffa154"
-  primary-text: "#0e141f"
+  primary-text: "#000"
+  primary-dark: "#ffa154"
+  primary-text-dark: "#000"
 price: 0
 releases:
 

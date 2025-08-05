@@ -12,6 +12,8 @@ screenshots:
 color:
   primary: "#FE9AB8"
   primary-text: "#000"
+  primary-dark: "#FE9AB8"
+  primary-text-dark: "#000"
 price: 5
 releases:
 

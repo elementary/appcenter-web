@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/akiraux/akira/master/data/screenshots/screenshot-1.png
 color:
   primary: "#3f3f3f"
-  primary-text: "#ffffff"
+  primary-text: "#fff"
+  primary-dark: "#3f3f3f"
+  primary-text-dark: "#fff"
 price: 15
 releases:
 

@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/JeysonFlores/hasher/main/data/assets/screenshots/screenshot-1.png
 color:
   primary: "#efefef"
-  primary-text: "#508ff3"
+  primary-text: "#000"
+  primary-dark: "#efefef"
+  primary-text-dark: "#000"
 price: false
 releases:
 

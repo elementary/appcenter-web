@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/stsdc/gadget_clock/0.5.1/data/screenshot.png
 color:
-  primary: "#485a6c"
+  primary: "#000000"
   primary-text: "#fff"
+  primary-dark: "#000000"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

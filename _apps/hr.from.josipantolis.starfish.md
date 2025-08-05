@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/starfish-app/starfish/1.3.1/data/screenshots/styling.png
 color:
   primary: "#FFBC8F"
-  primary-text: "#1D3963"
+  primary-text: "#000"
+  primary-dark: "#FFBC8F"
+  primary-text-dark: "#000"
 price: false
 releases:
 

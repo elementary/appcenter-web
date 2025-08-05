@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/subhadeepjasu/enigma/main/screenshots/screenshot_home.png
 color:
   primary: "#57392D"
-  primary-text: "#FFFFFF"
+  primary-text: "#fff"
+  primary-dark: "#57392D"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

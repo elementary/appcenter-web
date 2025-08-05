@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ryonakano/konbucase/4.4.0/data/screenshots/pantheon/screenshot-light.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#fff394"
+  primary-text: "#000"
+  primary-dark: "#ffe16b"
+  primary-text-dark: "#000"
 price: false
 releases:
 

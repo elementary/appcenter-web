@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/skarva/lockbox/master/data/screenshot1.png
 color:
   primary: "#667885"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#667885"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

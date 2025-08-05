@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/SubhadeepJasu/pebbles/master/screenshots/Screenshot-Scientific.png
 color:
   primary: "#84AEAA"
-  primary-text: "rgb(39,40,99)"
+  primary-text: "#000"
+  primary-dark: "#84AEAA"
+  primary-text-dark: "#000"
 price: false
 releases:
 

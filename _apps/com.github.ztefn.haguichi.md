@@ -10,8 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/ztefn/haguichi/elementary/data/screenshots/1.png
 color:
-  primary: "#485a6c"
-  primary-text: "#fff"
+  primary: "#ffdbbc"
+  primary-text: "#000"
+  primary-dark: "#910e08"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

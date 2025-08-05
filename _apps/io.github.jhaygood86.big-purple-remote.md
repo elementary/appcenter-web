@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/jhaygood86/big-purple-remote/main/data/screenshot.png
 color:
   primary: "#7239b3"
-  primary-text: "rgb(255, 255, 255)"
+  primary-text: "#fff"
+  primary-dark: "#7239b3"
+  primary-text-dark: "#fff"
 price: 8
 releases:
 

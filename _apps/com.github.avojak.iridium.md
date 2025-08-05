@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/avojak/iridium/master/data/assets/screenshots/iridium-screenshot-01.png
 color:
   primary: "#fff"
-  primary-text: "#333"
+  primary-text: "#000"
+  primary-dark: "#fff"
+  primary-text-dark: "#000"
 price: 5
 releases:
 

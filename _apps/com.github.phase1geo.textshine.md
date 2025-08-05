@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/phase1geo/TextShine/master/data/screenshots/screenshot-actions.png
 color:
   primary: "#fff394"
-  primary-text: "#000000"
+  primary-text: "#000"
+  primary-dark: "#fff394"
+  primary-text-dark: "#000"
 price: 5
 releases:
 

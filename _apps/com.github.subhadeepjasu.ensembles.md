@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/SubhadeepJasu/Ensembles/master/screenshots/Screenshot.png
 color:
   primary: "#CD5F20"
-  primary-text: "#FFFFFF"
+  primary-text: "#fff"
+  primary-dark: "#CD5F20"
+  primary-text-dark: "#fff"
 price: false
 releases:
 

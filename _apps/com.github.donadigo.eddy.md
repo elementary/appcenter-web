@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/donadigo/eddy/master/Screenshot_1.png
 color:
   primary: "#b30033"
-  primary-text: "#f2f2f2"
+  primary-text: "#fff"
+  primary-dark: "#b30033"
+  primary-text-dark: "#fff"
 price: 5
 releases:
 

@@ -11,7 +11,9 @@ screenshots:
   - https://raw.githubusercontent.com/bernardodsanderson/vido/master/data/images/VIDO-normal.png
 color:
   primary: "#F2C94C"
-  primary-text: "#333"
+  primary-text: "#000"
+  primary-dark: "#F2C94C"
+  primary-text-dark: "#000"
 price: 1
 releases:
 
