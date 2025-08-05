@@ -5,8 +5,9 @@ layout: default
 <header>
   <div class="constrain">
     <img class="icon" width="64" height="64"
-      srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ page.app_id }}.png"
+      srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ page.app_id }}.png, https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/{{ page.app_id }}.png 2x"
       src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/application-default-icon.svg"
+      onerror="this.srcset=this.src"
       alt="{{ page.title }} icon"
     />
 
@@ -77,7 +78,15 @@ layout: default
 
 <style>
   header {
-    background-color: {% if page.color.primary != "((color_primary))" %}{{ page.color.primary }}{% else %}{{ site.color.primary }}{% endif %};
-    color: {% if page.color.primary-text != "((color_text))" %}{{ page.color.primary-text }}{% else %}{{ site.color.primary-text }}{% endif %}
+    background-color: {{ page.color.primary }};
+    color: {{ page.color.primary-text }};
   }
+  {% if page.color.primary-dark %}
+    @media (prefers-color-scheme: dark) {
+      header {
+        background-color: {{ page.color.primary-dark }};
+        color: {{ page.color.primary-text-dark }};
+      }
+    }
+  {% endif %}
 </style>

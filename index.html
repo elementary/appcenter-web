@@ -17,8 +17,9 @@ color:
     {% assign id = app.id | remove: '/' %}
     <a class="app button {{app.dist}}" href="{{site.baseurl}}/{{app.slug}}" title="{{app.summary}}" id="{{id}}" tabindex="0">
       <img class="icon" width="64" height="64" loading="lazy"
-        srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ id }}.png"
+        srcset="https://flatpak.elementary.io/repo/appstream/x86_64/icons/64x64/{{ id }}.png, https://flatpak.elementary.io/repo/appstream/x86_64/icons/128x128/{{ id }}.png 2x"
         src="https://raw.githubusercontent.com/elementary/icons/main/apps/64/application-default-icon.svg"
+        onerror="this.srcset=this.src"
         alt="{{ app.title }} icon"
       />
 
@@ -28,9 +29,17 @@ color:
 
     <style>
       .app[id="{{id}}"]:hover,.app[id="{{id}}"]:focus {
-        background-color: {% if app.color.primary != "((color_primary))" %}{{app.color.primary}}{% else %}{{site.color.primary}}{% endif %};
-        color: {% if app.color.primary-text != "((color_text))" %}{{app.color.primary-text}}{% else %}{{site.color.primary-text}}{% endif %};
+        background-color: {{app.color.primary}};
+        color: {{app.color.primary-text}};
       }
+      {% if app.color.primary-dark %}
+        @media (prefers-color-scheme: dark) {
+          .app[id="{{id}}"]:hover,.app[id="{{id}}"]:focus {
+            background-color: {{app.color.primary-dark}};
+            color: {{app.color.primary-text-dark}};
+          }
+        }
+      {% endif %}
     </style>
   {% endfor %}
 </div>
