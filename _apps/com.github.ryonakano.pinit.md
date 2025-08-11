@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/pinit/discussions
 bugtracker: https://github.com/ryonakano/pinit/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/pinit/2.1.1/data/screenshots/pantheon/screenshot-light.png
+  - https://raw.githubusercontent.com/ryonakano/pinit/2.2.0/data/screenshots/pantheon/screenshot-light.png
 color:
   primary: "#89ffdd"
   primary-text: "#000"
