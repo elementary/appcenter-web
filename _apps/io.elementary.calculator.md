@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/calculator/discussions
 bugtracker: https://github.com/elementary/calculator/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/calculator/8.0.0/data/screenshot@2x.png
+  - https://raw.githubusercontent.com/elementary/calculator/8.0.1/data/screenshot@2x.png
 color:
   primary: "#28bca3"
   primary-text: "#000"
