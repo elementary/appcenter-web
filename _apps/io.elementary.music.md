@@ -8,12 +8,12 @@ help_page: https://github.com/elementary/music/discussions
 bugtracker: https://github.com/elementary/music/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/music/8.0.0/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/music/8.1.0/data/screenshot.png
 color:
-  primary: "#cc3b02"
-  primary-text: "#fff"
-  primary-dark: "#ffa154"
-  primary-text-dark: "#000"
+  primary: "#ffa154"
+  primary-text: "#000"
+  primary-dark: "#cc3b02"
+  primary-text-dark: "#fff"
 price: false
 releases:
 
