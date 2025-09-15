@@ -10,9 +10,9 @@ dist: flatpak
 screenshots:
   - https://static.gnome.org/appdata/gnome-46/fonts/fonts-main.png
 color:
-  primary: "#d1e6f9"
-  primary-text: "#333"
-  primary-dark: "#485a6c"
+  primary: "#dc8add"
+  primary-text: "#000"
+  primary-dark: "#613583"
   primary-text-dark: "#fff"
 price: false
 releases:
