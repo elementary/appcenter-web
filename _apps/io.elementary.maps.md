@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/maps/issues
 bugtracker: https://github.com/elementary/maps/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/maps/3.1.1/data/screenshots/screenshot-light.png
+  - https://raw.githubusercontent.com/elementary/maps/8.1.0/data/screenshots/screenshot-light.png
 color:
   primary: "#bc245d"
   primary-text: "#fff"
