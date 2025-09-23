@@ -10,10 +10,10 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/rkoesters/xkcd-gtk/main/screenshots/screenshot-1@2x.png
 color:
-  primary: "#96a8c8"
-  primary-text: "#000"
-  primary-dark: "#96a8c8"
-  primary-text-dark: "#000"
+  primary: "#d1e6f9"
+  primary-text: "#333"
+  primary-dark: "#485a6c"
+  primary-text-dark: "#fff"
 price: false
 releases:
 
