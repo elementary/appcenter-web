@@ -2,7 +2,7 @@
 app_id: io.github.ellie_commons.jorts
 title: "Jorts"
 summary: "Write on colourful little squares"
-developer: "Stella - Teamcons"
+developer: "Lainsce + Stella"
 homepage: https://github.com/ellie-commons/jorts
 help_page: https://github.com/ellie-commons/jorts/issues
 bugtracker: https://github.com/ellie-commons/jorts/issues
