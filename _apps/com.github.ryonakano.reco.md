@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/reco/discussions
 bugtracker: https://github.com/ryonakano/reco/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/reco/5.1.0/data/screenshots/pantheon/welcome-light.png
+  - https://raw.githubusercontent.com/ryonakano/reco/5.1.1/data/screenshots/pantheon/welcome-light.png
 color:
   primary: "#c6262e"
   primary-text: "#fff"
