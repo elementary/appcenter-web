@@ -4,7 +4,7 @@ title: "Jorts"
 summary: "Write on colourful little squares"
 developer: "Lainsce + Stella"
 homepage: https://github.com/ellie-commons/jorts
-help_page: https://github.com/ellie-commons/jorts/issues
+help_page: https://github.com/ellie-commons/jorts/wiki
 bugtracker: https://github.com/ellie-commons/jorts/issues
 dist: flatpak
 screenshots:
