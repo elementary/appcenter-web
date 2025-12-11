@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/camera/discussions/categories/q-a
 bugtracker: https://github.com/elementary/camera/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/camera/master/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/camera/8.0.0/data/screenshot.png
 color:
   primary: "#d1e6f9"
   primary-text: "#333"
