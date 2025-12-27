@@ -1,7 +1,7 @@
 ---
 app_id: io.github.ellie_commons.cherrypick
 title: "Cherrypick"
-summary: "Cherry pick pixel colors on your screen"
+summary: "Pick colors on your screen"
 developer: "PhoneyBadger + Stella"
 homepage: https://github.com/ellie-commons/cherrypick
 help_page: https://github.com/ellie-commons/cherrypick/issues
@@ -10,9 +10,9 @@ dist: flatpak
 screenshots:
   - https://github.com/ellie-commons/cherrypick/blob/main/data/screenshots/window-light.png?raw=true
 color:
-  primary: "#d1e6f9"
-  primary-text: "#333"
-  primary-dark: "#485a6c"
+  primary: "#c6262e"
+  primary-text: "#fff"
+  primary-dark: "#7a0000"
   primary-text-dark: "#fff"
 price: false
 releases:
