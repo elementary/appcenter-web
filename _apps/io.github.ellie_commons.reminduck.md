@@ -8,7 +8,7 @@ help_page: https://github.com/ellie-commons/reminduck/issues
 bugtracker: https://github.com/ellie-commons/reminduck/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ellie-commons/reminduck/master/data/screenshots/Welcome.png
+
 color:
   primary: "#fff394"
   primary-text: "#000"
