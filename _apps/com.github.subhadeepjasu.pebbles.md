@@ -8,12 +8,12 @@ help_page: https://github.com/SubhadeepJasu/pebbles/issues
 bugtracker: https://github.com/SubhadeepJasu/pebbles/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/SubhadeepJasu/pebbles/master/screenshots/Screenshot-Scientific.png
+  - https://raw.githubusercontent.com/SubhadeepJasu/pebbles/master/screenshots/ScientificMode.png
 color:
   primary: "#84AEAA"
   primary-text: "#000"
-  primary-dark: "#84AEAA"
-  primary-text-dark: "#000"
+  primary-dark: "#272863"
+  primary-text-dark: "#fff"
 price: false
 releases:
 
@@ -27,6 +27,7 @@ redirect_from: /com.github.subhadeepjasu.pebbles.desktop/
 <li>Programmer mode</li>
 <li>Calculus mode</li>
 <li>Statistics mode</li>
+<li>Graphing mode</li>
 <li>Date Calculation mode</li>
 <li>Some common unit converters</li>
 </ul>
