@@ -10,9 +10,9 @@ dist: flatpak
 screenshots:
   - https://raw.githubusercontent.com/elfenware/obliviate/main/data/window-screenshot.png
 color:
-  primary: "#fff"
+  primary: "#ffffff"
   primary-text: "#000"
-  primary-dark: "#fff"
+  primary-dark: "#ffffff"
   primary-text-dark: "#000"
 price: false
 releases:
