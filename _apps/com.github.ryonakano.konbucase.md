@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/konbucase/discussions
 bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/konbucase/4.4.0/data/screenshots/pantheon/screenshot-light.png
+  - https://flatpak.elementary.io/repo/screenshots/com/github/ryonakano.konbucase/9c45e8d40aee856594e7cc66fc39d35f/screenshots/image-1_orig.png
 color:
   primary: "#fff394"
   primary-text: "#000"
@@ -26,5 +26,6 @@ redirect_from: /com.github.ryonakano.konbucase.desktop/
 <p>Features include:</p>
 <ul>
 <li>Click "Copy to Clipboard" button to copy the all texts in the text view without selecting them</li>
+<li>Click "Quick Swap" button to swap case and text of input and output</li>
 <li>Convert your text between camelCase, PascalCase, Sentence case, snake_case, kebab-case, and space-separated</li>
 </ul>
