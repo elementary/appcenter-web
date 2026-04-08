@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/phase1geo/minder/issues/
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/phase1geo/Minder/master/data/screenshots/screenshot-current-properties.png
+  - https://flatpak.elementary.io/repo/screenshots/com/github/phase1geo.minder/69dd94874573d2514fc8a66996c677e1/screenshots/image-1_orig.png
 color:
   primary: "#d1e6f9"
   primary-text: "#333"
