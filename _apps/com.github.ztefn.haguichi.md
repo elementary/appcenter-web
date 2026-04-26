@@ -8,7 +8,7 @@ help_page: https://haguichi.net/tips-and-tricks/
 bugtracker: https://github.com/ztefn/haguichi/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ztefn/haguichi/elementary/data/screenshots/1.png
+  - https://flatpak.elementary.io/repo/screenshots/com/github/ztefn.haguichi/dc0301ece7b10ebde1f823daf12b294e/screenshots/image-1_orig.png
 color:
   primary: "#ffdbbc"
   primary-text: "#000"
