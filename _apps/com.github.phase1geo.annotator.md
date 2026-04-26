@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/phase1geo/Annotator/issues/
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/phase1geo/Annotator/master/data/screenshots/screenshot-welcome.png
+  - https://flatpak.elementary.io/repo/screenshots/com/github/phase1geo.annotator/de5800b641f0918c8a16e50646a80bb9/screenshots/image-1_orig.png
 color:
   primary: "#d1e6f9"
   primary-text: "#333"
