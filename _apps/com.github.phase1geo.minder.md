@@ -8,13 +8,13 @@ help_page: false
 bugtracker: https://github.com/phase1geo/minder/issues/
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/com/github/phase1geo.minder/b35595681a3b2a33100e7deebf948033/screenshots/image-1_orig.png
+  - https://flatpak.elementary.io/repo/screenshots/com/github/phase1geo.minder/88e731db6c68a544059fd5a65282f696/screenshots/image-1_orig.png
 color:
-  primary: "#d1e6f9"
-  primary-text: "#333"
-  primary-dark: "#485a6c"
+  primary: "#603461"
+  primary-text: "#fff"
+  primary-dark: "#603461"
   primary-text-dark: "#fff"
-price: false
+price: 10
 releases:
 
 redirect_from: /com.github.phase1geo.minder.desktop/
