@@ -2,13 +2,13 @@
 app_id: io.github.elly_code.jorts
 title: "Jorts"
 summary: "Write on colourful little squares"
-developer: "Lainsce + Stella + Charlie"
+developer: "Lainsce + Stella and Charlie"
 homepage: https://github.com/elly-code/jorts
 help_page: https://github.com/elly-code/jorts/wiki
 bugtracker: https://github.com/elly-code/jorts/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elly-code/jorts/4.0.0/data/screenshots/default.png
+  - https://flatpak.elementary.io/repo/screenshots/io/github/elly_code.jorts/8c011f5c1d8686f8bb7bb335100ad20d/screenshots/image-1_orig.png
 color:
   primary: "#64baff"
   primary-text: "#000"
