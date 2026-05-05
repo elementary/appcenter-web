@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/reco/discussions
 bugtracker: https://github.com/ryonakano/reco/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/com/github/ryonakano.reco/63edfabb349109fc046046938d8ef4a9/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/com/github/ryonakano.reco/63edfabb349109fc046046938d8ef4a9/screenshots/image-1_orig.png
 color:
   primary: "#c6262e"
   primary-text: "#fff"
