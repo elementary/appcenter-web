@@ -8,7 +8,7 @@ help_page: https://github.com/elly-code/jorts/wiki
 bugtracker: https://github.com/elly-code/jorts/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/io/github/elly_code.jorts/8c011f5c1d8686f8bb7bb335100ad20d/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/io/github/elly_code.jorts/ce5615347e8d38052926f51691ad64b2/screenshots/image-1_orig.png
 color:
   primary: "#64baff"
   primary-text: "#000"
@@ -23,10 +23,9 @@ redirect_from: /io.github.elly_code.jorts.desktop/
 <p>Neither jeans nor shorts, just like jorts!</p>
 <p>Features include:</p>
 <ul>
-<li>Colourful: Ten pretty themes. Any new note gets a random one</li>
-<li>Adaptive: New notes get the zoom you last chose</li>
+<li>Colourful: Eleven pretty pastel themes</li>
+<li>Adaptive: New notes get the zoom and font you last chose, and a random new color</li>
 <li>Cute: Each new note has a funny or cute random (editable) title</li>
 <li>Handy: You can open links and emails with Ctrl+Click</li>
 <li>Private: Try the scribble mode!</li>
 </ul>
-<p>This is a fork of an old version of "Notejot" by lainsce. The community liked it so much, we thought it would be great to revive it!</p>
