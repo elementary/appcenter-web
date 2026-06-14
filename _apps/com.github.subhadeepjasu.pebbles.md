@@ -8,7 +8,7 @@ help_page: https://github.com/SubhadeepJasu/pebbles/issues
 bugtracker: https://github.com/SubhadeepJasu/pebbles/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/SubhadeepJasu/pebbles/master/screenshots/ScientificMode.png
+  - https://flatpak.elementaryos.org/repo/media/com/github/subhadeepjasu.pebbles/abcf78b6cc7e2f117a3b006becbe0f7b/screenshots/image-1_orig.png
 color:
   primary: "#84AEAA"
   primary-text: "#000"
