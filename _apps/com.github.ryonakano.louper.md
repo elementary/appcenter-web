@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/louper/discussions
 bugtracker: https://github.com/ryonakano/louper/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/ryonakano/louper/2.0.5/data/Screenshot.png
+  - https://flatpak.elementaryos.org/repo/media/com/github/ryonakano.louper/a89205686a305ee626fb27a2a4ea0c0b/screenshots/image-1_orig.png
 color:
   primary: "#fafafa"
   primary-text: "#000"
