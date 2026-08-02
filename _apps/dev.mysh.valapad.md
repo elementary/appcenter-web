@@ -8,7 +8,7 @@ help_page: false
 bugtracker: false
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/dev/mysh/valapad/8ffce2da69bc387544719c61c3770c67/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/dev/mysh/valapad/826d48624b34b6cb6a6b46586e984be7/screenshots/image-1_orig.png
 color:
   primary: "#3689e6"
   primary-text: "#fff"
