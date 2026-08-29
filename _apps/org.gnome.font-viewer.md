@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://gitlab.gnome.org/GNOME/gnome-font-viewer/issues/
 dist: flatpak
 screenshots:
-  - https://static.gnome.org/appdata/gnome-46/fonts/fonts-main.png
+  - https://static.gnome.org/appdata/gnome-50/org.gnome.font-viewer/fonts-main.png
 color:
   primary: "#dc8add"
   primary-text: "#000"
