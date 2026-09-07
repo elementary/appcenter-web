@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://github.com/gylangsatria/clipstory/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/com/github/gylangsatria.clipstory/6b01af086c9dc90a76cfc0465cfbcedd/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/com/github/gylangsatria.clipstory/c0ec2af753954d1f142605eab97cca9c/screenshots/image-1_orig.png
 color:
   primary: "#d1e6f9"
   primary-text: "#333"
