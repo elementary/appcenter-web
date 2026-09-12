@@ -1,14 +1,14 @@
 ---
-app_id: io.github.elly_code.cherrypick
+app_id: page.codeberg.elly_code.cherrypick
 title: "Cherrypick"
 summary: "Pick colors on your screen"
 developer: "PhoneyBadger + Stella and Charlie"
-homepage: https://github.com/elly-code/cherrypick
-help_page: https://github.com/elly-code/cherrypick/issues
-bugtracker: https://github.com/elly-code/cherrypick/issues
+homepage: https://elly-code.codeberg.page
+help_page: https://codeberg.org/elly-code/cherrypick/issues
+bugtracker: https://codeberg.org/elly-code/cherrypick/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/io/github/elly_code.cherrypick/459b3fe9a389cbe2d37ee47060d6efc6/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.cherrypick/ea34d9c00aa4da42b16fb46b337d4198/screenshots/image-1_orig.png
 color:
   primary: "#c6262e"
   primary-text: "#fff"
@@ -17,7 +17,7 @@ color:
 price: false
 releases:
 
-redirect_from: /io.github.elly_code.cherrypick.desktop/
+redirect_from: /page.codeberg.elly_code.cherrypick.desktop/
 ---
 
 <p>A modern and trusty color picker</p>
