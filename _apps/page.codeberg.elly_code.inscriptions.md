@@ -1,14 +1,14 @@
 ---
-app_id: io.github.elly_code.inscriptions
+app_id: page.codeberg.elly_code.inscriptions
 title: "Inscriptions"
 summary: "Translate text elegantly"
 developer: "Stella and Charlie!"
-homepage: https://github.com/elly-code/inscriptions
-help_page: https://github.com/elly-code/inscriptions/issues
-bugtracker: https://github.com/elly-code/inscriptions/issues
+homepage: https://elly-code.codeberg.page
+help_page: https://codeberg.org/elly-code/inscriptions/issues
+bugtracker: https://codeberg.org/elly-code/inscriptions/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/io/github/elly_code.inscriptions/c57dba8ea702d488390fbee11d3aca41/screenshots/image-1_orig.png
+
 color:
   primary: "#65869c"
   primary-text: "#fff"
@@ -17,7 +17,7 @@ color:
 price: false
 releases:
 
-redirect_from: /io.github.elly_code.inscriptions.desktop/
+redirect_from: /page.codeberg.elly_code.inscriptions.desktop/
 ---
 
 <p>A fast, pretty, and ready translation app using DeepL free and paid API</p>
