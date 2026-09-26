@@ -5,10 +5,10 @@ summary: "Edit plain-text files with a familiar set of tools"
 developer: "Iaroslav Angliuster"
 homepage: https://github.com/hugmouse/valapad
 help_page: false
-bugtracker: false
+bugtracker: https://github.com/hugmouse/valapad/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/dev/mysh/valapad/826d48624b34b6cb6a6b46586e984be7/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/dev/mysh/valapad/5025ab8b86811c7dfda28063425cc63c/screenshots/image-1_orig.png
 color:
   primary: "#3689e6"
   primary-text: "#fff"
