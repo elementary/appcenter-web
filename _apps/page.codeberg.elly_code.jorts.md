@@ -8,7 +8,7 @@ help_page: https://codeberg.org/elly-code/jorts/wiki
 bugtracker: https://codeberg.org/elly-code/jorts/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/58a222a23da3f99853f17dfc3536535b/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/ea2d04694f6ff684148aa68ecc85df8e/screenshots/image-1_orig.png
 color:
   primary: "#64baff"
   primary-text: "#000"
