@@ -8,7 +8,7 @@ help_page: https://codeberg.org/elly-code/inscriptions/issues
 bugtracker: https://codeberg.org/elly-code/inscriptions/issues
 dist: flatpak
 screenshots:
-
+  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.inscriptions/9bb2ee5f5a16ca416b8d348278c5e5df/screenshots/image-1_orig.png
 color:
   primary: "#65869c"
   primary-text: "#fff"
