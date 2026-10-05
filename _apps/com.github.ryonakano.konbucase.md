@@ -8,7 +8,7 @@ help_page: https://github.com/ryonakano/konbucase/discussions
 bugtracker: https://github.com/ryonakano/konbucase/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementary.io/repo/screenshots/com/github/ryonakano.konbucase/48e30761c4cb5279ef90dc612d06448a/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/com/github/ryonakano.konbucase/80bd16b01eeecfc8c12706a91180f14a/screenshots/image-1_orig.png
 color:
   primary: "#fff394"
   primary-text: "#000"
