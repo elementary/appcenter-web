@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/music/discussions
 bugtracker: https://github.com/elementary/music/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/music/8.1.0/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/music/9.0.0/data/screenshot.png
 color:
   primary: "#ffa154"
   primary-text: "#000"
