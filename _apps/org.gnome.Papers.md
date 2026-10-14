@@ -8,7 +8,7 @@ help_page: false
 bugtracker: https://gitlab.gnome.org/GNOME/papers/-/issues
 dist: flatpak
 screenshots:
-  - https://gitlab.gnome.org/GNOME/papers/raw/main/data/screenshots/papers-2.png
+  - https://gitlab.gnome.org/GNOME/papers/raw/main/data/screenshots/papers-1.png
 color:
   primary: "#f66151"
   primary-text: "#000"
