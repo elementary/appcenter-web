@@ -8,7 +8,7 @@ help_page: https://github.com/elementary/capnet-assist/discussions
 bugtracker: https://github.com/elementary/capnet-assist/issues
 dist: flatpak
 screenshots:
-  - https://raw.githubusercontent.com/elementary/capnet-assist/8.0.0/data/screenshot.png
+  - https://raw.githubusercontent.com/elementary/capnet-assist/9.0.0/data/screenshot.png
 color:
   primary: "#6c508a"
   primary-text: "#fff"
