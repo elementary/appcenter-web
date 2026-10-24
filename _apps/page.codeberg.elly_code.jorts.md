@@ -8,11 +8,11 @@ help_page: https://codeberg.org/elly-code/jorts/wiki
 bugtracker: https://codeberg.org/elly-code/jorts/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/ea2d04694f6ff684148aa68ecc85df8e/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/67ddaa695e3e7e5f4be52e0a151b7a03/screenshots/image-1_orig.png
 color:
-  primary: "#64baff"
+  primary: "#ffa154"
   primary-text: "#000"
-  primary-dark: "#002e99"
+  primary-dark: "#cc3b02"
   primary-text-dark: "#fff"
 price: false
 releases:
@@ -29,4 +29,4 @@ redirect_from: /page.codeberg.elly_code.jorts.desktop/
 <li>Private: Try the scribbles mode!</li>
 </ul>
 <p>Windows installers are also available, and require no admin rights. So you can even use this at work!</p>
-<p>This app is made lovingly and without any LLM intervention. </p>
+<p>This app is made lovingly and without any LLM intervention</p>
