@@ -4,15 +4,15 @@ title: "Jorts"
 summary: "Write on colourful little squares"
 developer: "Lainsce + Stella and Charlie"
 homepage: https://elly-code.codeberg.page
-help_page: https://codeberg.org/elly-code/jorts/wiki
+help_page: https://app.element.io/#/room/#elly-code:matrix.org
 bugtracker: https://codeberg.org/elly-code/jorts/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/67ddaa695e3e7e5f4be52e0a151b7a03/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/page/codeberg/elly_code.jorts/4d1dfdb20bad47f879ab06c4331da522/screenshots/image-1_orig.png
 color:
-  primary: "#ffa154"
+  primary: "#64baff"
   primary-text: "#000"
-  primary-dark: "#cc3b02"
+  primary-dark: "#0d52bf"
   primary-text-dark: "#fff"
 price: false
 releases:
