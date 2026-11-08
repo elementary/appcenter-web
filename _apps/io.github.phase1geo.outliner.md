@@ -4,11 +4,11 @@ title: "Outliner"
 summary: "Organize your words"
 developer: "Trevor Williams"
 homepage: https://github.com/phase1geo/Outliner
-help_page: https://github.com/phase1geo/Outliner/wiki
+help_page: https://phase1geo.github.io/Outliner
 bugtracker: https://github.com/phase1geo/Outliner/issues
 dist: flatpak
 screenshots:
-  - https://flatpak.elementaryos.org/repo/media/io/github/phase1geo.outliner/396a7e740f62a0064847909179897199/screenshots/image-1_orig.png
+  - https://flatpak.elementaryos.org/repo/media/io/github/phase1geo.outliner/e2461d63d5fa64950188e904b1821083/screenshots/image-1_orig.png
 color:
   primary: "#D48E15"
   primary-text: "#000"
